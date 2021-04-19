@@ -3,7 +3,7 @@ main:
     url: /warum
 
   - title: "News"
-    url: /about/
+    url: /news
 
   - title: "Forderungen"
     url: /forderungen
