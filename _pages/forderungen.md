@@ -8,3 +8,7 @@ Unser aktuelles Forderungspapier an die Stadt Landau:
 /assets/images/ForderungenLandauDez2020.pdf
 
 {% include video id="212731897" provider="vimeo" %}
+
+![image here]({{ site.baseurl }}/assets/images/logo_fff.png)
+
+[pdf here]({{ site.baseurl }}/assets/pdf/ForderungenLandauDez2020.pdf)
