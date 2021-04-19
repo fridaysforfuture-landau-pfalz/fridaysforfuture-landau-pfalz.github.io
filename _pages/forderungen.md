@@ -5,7 +5,7 @@ permalink: /forderungen
 ---
 
 Unser aktuelles Forderungspapier an die Stadt Landau:
-[pdf here]({{ site.baseurl }}/assets/pdf/ForderungenLandauDez2020.pdf)
+[klick hier]({{ site.baseurl }}/assets/pdf/ForderungenLandauDez2020.pdf)
 
 {% include video id="212731897" provider="vimeo" %}
 
