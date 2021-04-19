@@ -1,9 +1,9 @@
 main:
   - title: "Warum streiken wir"
-    url: /docs/quick-start-guide/
+    url: /warum/
 
   - title: "News"
     url: /about/
 
   - title: "Forderungen"
-    url: /year-archive/
+    url: /forderungen/
