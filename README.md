@@ -4,3 +4,4 @@
 
 * Jekyll Dokumentation https://jekyllrb.com/docs/
 * Minimal-Mistakes Theme Dokumentation https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+* Markdown Kurzreferenz https://www.markdownguide.org/cheat-sheet
