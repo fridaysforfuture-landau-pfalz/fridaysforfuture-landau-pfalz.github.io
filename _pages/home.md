@@ -1,8 +1,13 @@
 ---
-layout: splash
+layout: single
 permalink: /
 header:
-  overlay_image: FFF-Banner.png
+  image: /assets/images/FFF-Banner.png
+
 ---
 
 # Testseite
+
+* Warum streiken wir
+* News
+* Forderungen
