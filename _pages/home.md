@@ -15,4 +15,5 @@ Im Dezember 2018 fanden sich auch in Landau begeistere KlimaschützerInnen zusam
 <b>Was tun wir?<b>
 
 Unsere Tätigkeit konzentriert sich auf die Planung und Durchführung verschiedenster Aktionen im Stadtkern Landaus. Dabei machen wir auf unterschiedliche Problematiken unseres gesellschaftlichen und alltäglichen Handelns und der Tatenlosigkeit der Politik bzgl. der schon jetzt unabwendbaren Klimakatastrophe aufmerksam.
+
 Falls du auch etwas zu einer nachhaltigen, lebenswerten Zukunft beitragen willst, freuen wir uns über jegliche Art von Unterstützung!
