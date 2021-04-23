@@ -1,4 +1,5 @@
-title	layout	permalink
-Testseite
-single
-/test
+---
+title:  "Testseite"
+layout: single
+permalink: /test
+---
