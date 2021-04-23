@@ -7,11 +7,12 @@ header:
 
 ---
 
-<b>Wer sind wir?<b>
+b>Wer sind wir?<b
 
-FFF ist eine weltweite, unabhängige Organisation, die sich für die sofortige Umsetzung von klima- und umweltpolitischen Maßnahmen einsetzt. Ihren Ursprung hat die Bewegung 2018 in Schweden, wo die damals 15-jährige Greta Thunberg drei Wochen lang den Unterrichtsbesuch verweigerte, um vor dem schwedischen Reichstagsgebäude in Stockholm für die dortige Umsetzung des Pariser Klimaabkommens zu protestieren. Schnell schlossen sich ihr viele junge Menschen rund um den Globus an. Mittlerweile findet die Organisation in allen Altersgruppen Zuspruch. 
+Klimastreik Landau ist eine Ortsgruppe von Fridays for Future. Wir kämpfen durch politisches und gesellschaftliches Engagement für mehr Klimaschutz und Klimagerechtigkeit auch in Landau. Wir organisieren Gespräche mit PolitikerInnen, stellen Forderungen auf und planen Demos und andere Aktionen.
 Im Dezember 2018 fanden sich auch in Landau begeistere KlimaschützerInnen zusammen, um vor Ort für Klimagerechtigkeit zu protestieren. Seitdem gab und gibt es regelmäßige Aktionen, u.a. Demonstrationen mit über 1000 Teilnehmer*innen.
 
-<b>Was tun wir?<b>
+b>Was tun wir?<b
 
 Unsere Tätigkeit konzentriert sich auf die Planung und Durchführung verschiedenster Aktionen im Stadtkern Landaus. Dabei machen wir auf unterschiedliche Problematiken unseres gesellschaftlichen und alltäglichen Handelns und der Tatenlosigkeit der Politik bzgl. der schon jetzt unabwendbaren Klimakatastrophe aufmerksam.
+Falls du auch etwas zu einer nachhaltigen, lebenswerten Zukunft beitragen willst, freuen wir uns über jegliche Art von Unterstützung!
