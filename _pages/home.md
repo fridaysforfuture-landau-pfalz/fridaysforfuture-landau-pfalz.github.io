@@ -3,7 +3,7 @@ title: ""
 layout: single
 permalink: /
 header:
-  image: /assets/images/FFF-Banner.png
+  image: /assets/images/Frontbanner.jpg
 
 ---
 
