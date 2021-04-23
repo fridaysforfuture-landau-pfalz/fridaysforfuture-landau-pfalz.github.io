@@ -1,4 +1,4 @@
 title	layout	permalink
-Testseite
+Warum streiken wir?
 single
 /warum
