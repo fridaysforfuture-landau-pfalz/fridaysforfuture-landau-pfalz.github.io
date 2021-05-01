@@ -1,8 +1,9 @@
 ---
-title:  "Testseite"
 layout: single
 permalink: /test
 ---
+
+#Testseite
 
 ![image here]({{ site.baseurl }}/assets/images/logo_fff.png)
 
