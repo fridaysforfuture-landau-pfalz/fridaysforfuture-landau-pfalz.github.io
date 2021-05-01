@@ -7,3 +7,6 @@ main:
 
   - title: "Forderungen"
     url: /forderungen
+
+  - title: "Testseite"
+    url: /testseite
