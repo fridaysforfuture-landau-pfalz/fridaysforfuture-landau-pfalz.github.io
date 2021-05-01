@@ -4,8 +4,6 @@ layout: single
 permalink: /test
 ---
 
-#Testseite
-
 ![image here]({{ site.baseurl }}/assets/images/logo_fff.png)
 
 {% include video id="212731897" provider="vimeo" %}
