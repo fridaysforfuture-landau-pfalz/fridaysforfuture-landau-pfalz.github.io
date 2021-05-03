@@ -10,6 +10,12 @@ permalink: /kontakt
 <a href="https://www.instagram.com/klimastreiklandau/?hl=de" target=""> <img src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" style="margin-right: 20px;" alt="Instagram Landau" height="150" width="150"> </a>
 </ul>
 
+<a href="https://chat.whatsapp.com/H0HW72PpRQi6URmGK4RgFJ" target=""> <img src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" style="margin-right: 20px;" alt="Whatsapp Landau" height="150" width="150"> </a>
+</ul>
+
+<a href="https://t.me/FFFLDInfo" target=""> <img src="https://camo.githubusercontent.com/f4b401dd7cd9b7840fd31acafd49e151a80e4c9600bf219934461b96dd98e013/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667" style="margin-right: 20px;" alt="Telegramm Kanal" height="150" width="150"> </a>
+</ul>
+
 https://github.com/edent/SuperTinyIcons
 
 Sie können uns gerne über das Kontaktformular eine Email scchreiben und uns ihr Anliegen schildern. 
