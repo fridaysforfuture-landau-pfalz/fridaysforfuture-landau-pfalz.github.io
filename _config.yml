@@ -81,6 +81,7 @@ defaults:
 plugins:
   - jekyll-include-cache
   - jekyll-feed
+  - [jekyll-formspree]
 
 
 # Exclude from processing.
