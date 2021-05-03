@@ -55,13 +55,7 @@ Sie können uns gerne über das Kontaktformular eine Email scchreiben und uns ih
 
 <b> Unsere Sozial Media Kanäle:<b>
 
-</main>
-	</div>
-
-	<div id="secondary" class="widget-area" role="complementary">
-		<aside id="zoom-social-icons-widget-4" class="widget zoom-social-icons-widget"><h1 class="widget-title">Folg&#8216; uns im Internet!</h1>
-        
-        <ul class="zoom-social-icons-list zoom-social-icons-list--with-canvas zoom-social-icons-list--rounded zoom-social-icons-list--no-labels">
+ <ul class="zoom-social-icons-list zoom-social-icons-list--with-canvas zoom-social-icons-list--rounded zoom-social-icons-list--no-labels">
 
             
                                 <li class="zoom-social_icons-list__item">
