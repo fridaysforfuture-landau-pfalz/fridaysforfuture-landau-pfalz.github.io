@@ -74,3 +74,61 @@ Sie können uns gerne über das Kontaktformular eine Email scchreiben und uns ih
 
 <b> Unsere Sozial Media Kanäle:<b>
 
+</main>
+	</div>
+
+	<div id="secondary" class="widget-area" role="complementary">
+		<aside id="zoom-social-icons-widget-4" class="widget zoom-social-icons-widget"><h1 class="widget-title">Folg&#8216; uns im Internet!</h1>
+        
+        <ul class="zoom-social-icons-list zoom-social-icons-list--with-canvas zoom-social-icons-list--rounded zoom-social-icons-list--no-labels">
+
+            
+                                <li class="zoom-social_icons-list__item">
+                    <a class="zoom-social_icons-list__link"
+                       href="https://twitter.com/FridayForFuture" target="_blank" rel=" noopener">
+                                                                        
+                                                    <span class="screen-reader-text">twitter</span>
+                        
+                        <span class="zoom-social_icons-list-span social-icon socicon socicon-twitter" data-hover-rule="background-color" data-hover-color="#1da64a" style="background-color : #1b7340; font-size: 35px; padding:7px" ></span>
+
+                                            </a>
+                </li>
+
+            
+                                <li class="zoom-social_icons-list__item">
+                    <a class="zoom-social_icons-list__link"
+                       href="https://www.instagram.com/fridaysforfuture.de" target="_blank" rel=" noopener">
+                                                                        
+                                                    <span class="screen-reader-text">instagram</span>
+                        
+                        <span class="zoom-social_icons-list-span social-icon socicon socicon-instagram" data-hover-rule="background-color" data-hover-color="#1da64a" style="background-color : #1b7340; font-size: 35px; padding:7px" ></span>
+
+                                            </a>
+                </li>
+
+            
+                                <li class="zoom-social_icons-list__item">
+                    <a class="zoom-social_icons-list__link"
+                       href="https://www.facebook.com/fridaysforfuture.de/" target="_blank" rel=" noopener">
+                                                                        
+                                                    <span class="screen-reader-text">facebook</span>
+                        
+                        <span class="zoom-social_icons-list-span social-icon socicon socicon-facebook" data-hover-rule="background-color" data-hover-color="#1da64a" style="background-color : #1b7340; font-size: 35px; padding:7px" ></span>
+
+                                            </a>
+                </li>
+
+            
+                                <li class="zoom-social_icons-list__item">
+                    <a class="zoom-social_icons-list__link"
+                       href="https://www.youtube.com/channel/UCZwF7J5rbyJXBZMJrE_8XCA" target="_blank" rel=" noopener">
+                                                                        
+                                                    <span class="screen-reader-text">youtube</span>
+                        
+                        <span class="zoom-social_icons-list-span social-icon socicon socicon-youtube" data-hover-rule="background-color" data-hover-color="#1da64a" style="background-color : #1b7340; font-size: 35px; padding:7px" ></span>
+
+                                            </a>
+                </li>
+
+            
+        </ul>
