@@ -4,10 +4,12 @@ layout: single
 permalink: /kontakt
 ---
 
-<b>Kontakt<b> <br>
-  Sie können uns gerne über das Kontaktformular eine Email scchreiben und uns ihr Anliegen schildern. 
+Sie können uns gerne über das Kontaktformular eine Email scchreiben und uns ihr Anliegen schildern. 
   
-  Kontaktformular
+<form action="mailto:deine@e-mail-adresse.de" method="post">
+<input type="text" name="vorname" value="" size="30" maxlength="50">
+<input type="Submit" name="absenden" value="absenden">
+</form>
 
 <b> Unsere Sozial Media Kanäle:<b>
   
