@@ -8,7 +8,7 @@ Sie können uns gerne über das Kontaktformular eine Email scchreiben und uns ih
 
 <style>
   .form-container { max-width: 100%; }
-  .form-container input { position: relative; top: 0; left: 0; width: 100%; height: 20px; padding: 0 ; }
+  .form-container input { position: relative; top: 0; left: 0; width: 100%; height: 50px; padding: 0 ; }
   .form-container textarea { position: relative; top: 0; left: 0; width: 100%; height: 80px; padding: 0; }
 </style>
 <form action="https://formspree.io/f/xgeronze" method="POST" class="form-container">
