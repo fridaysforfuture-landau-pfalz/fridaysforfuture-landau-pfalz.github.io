@@ -49,16 +49,4 @@ Sie können uns gerne über das Kontaktformular eine Email scchreiben und uns ih
 
 <b> Unsere Sozial Media Kanäle:<b>
 
-/* Social Buttons Sidebar */
-#facebook_button {
-    	display:block;
-	margin-left: auto;
-    	margin-right: auto;
-	    	&:hover {
-			color: #3b5998;		
-	}
-}
-<a href="https://www.facebook.com/knopfstadt/" target="_blank" title="Knopfstadt.de auf Facebook!" class="jsTooltip">
-		<span id="facebook_button" class="icon48 fa fa-facebook-square">
-		</span>
-</a>
+{% formspree "MY_FORMSPREE_ID" %}
