@@ -12,10 +12,10 @@ Sie können uns gerne über das Kontaktformular eine Email scchreiben und uns ih
   .form-container textarea { position: relative; top: 0; left: 0; width: 100%; height: 80px; padding: 0; }
 </style>
 <form action="https://formspree.io/f/xgeronze" method="POST" class="form-container">
-  <label>Your email:</label><br />
-  <input type="text" name="_replyto" />
-  <label>Your message:</label><br />
-  <textarea name="message"></textarea>
+  <label>Betreff:</label><br />
+  <input type="text" name="Betreff" />
+  <label>Ihre Nachricht:</label><br />
+  <textarea name="Nachricht"></textarea>
   <button type="submit">Send</button>
 </form>
 
