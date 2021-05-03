@@ -1,6 +1,6 @@
 ---
 title:  "Kontakt"
-layout: content
+layout: single
 permalink: /kontakt
 ---
 <b> Unsere Sozial Media Kanäle:<b>
