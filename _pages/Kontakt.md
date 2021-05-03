@@ -50,7 +50,7 @@ Sie können uns gerne über das Kontaktformular eine Email scchreiben und uns ih
   .form-container input { position: relative; top: 0; left: 0; width: 100%; height: 20px; padding: 0 ; }
   .form-container textarea { position: relative; top: 0; left: 0; width: 100%; height: 80px; padding: 0; }
 </style>
-<form action="https://formspree.io/MY_FORMSPREE_ID" method="POST" class="form-container">
+<form action="https://formspree.io/f/xgeronze" method="POST" class="form-container">
   <label>Your email:</label><br />
   <input type="text" name="_replyto" />
   <label>Your message:</label><br />
