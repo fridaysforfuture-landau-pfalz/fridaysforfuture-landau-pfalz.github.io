@@ -10,48 +10,14 @@ permalink: /kontakt
 <a href="https://www.instagram.com/klimastreiklandau/?hl=de" target=""> <img src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" alt="Instagram Landau" height="150" width="150"> </a>
 </ul>
 
-<style>
-div.gallery {
-  margin: 5px;
-  border: 1px solid #ccc;
-  float: left;
-  width: 180px;
-}
-
-div.gallery:hover {
-  border: 1px solid #777;
-}
-
-div.gallery img {
-  width: 100%;
-  height: auto;
-}
-}
-</style>
-
-<div class="gallery">
-  <a href="https://twitter.com/klimastreikld" target="_blank" href="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667">
-    <img src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" alt="Twitter Landau" width="150" height="150">
-  </a>
-
-<div class="gallery">
-  <a href="https://www.instagram.com/klimastreiklandau/?hl=de" target="_blank" href="img_forest.jpg">
-    <img src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" alt="Instagram Landau" width="150" height="150">
-  </a>
-
-<div class="gallery">
-  <a href="https://www.instagram.com/klimastreiklandau/?hl=de" target="_blank" href="img_forest.jpg">
-    <img src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" alt="Instagram Landau" width="150" height="150">
-    
-<div class="gallery">
- <a href="https://www.instagram.com/klimastreiklandau/?hl=de" target="_blank" href="img_forest.jpg">
-    <img src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" alt="Instagram Landau" width="150" height="150">
-
-<div class="gallery">
-  <a href="https://www.instagram.com/klimastreiklandau/?hl=de" target="_blank" href="img_forest.jpg">
-    <img src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" alt="Instagram Landau" width="150" height="150">
-
-</div>
+<ul id="galerie">
+	<li><button tabindex="1"> href="https://www.instagram.com/klimastreiklandau/?hl=de" <img src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" alt="Spaß in der Sonne"></button></li>
+	<li><button tabindex="1"> href="https://www.instagram.com/klimastreiklandau/?hl=de" <img src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" alt="Berg im Morgennebel"></button></li>
+	<li><button tabindex="1"> href="https://www.instagram.com/klimastreiklandau/?hl=de" <img src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" alt="Spaß in der Sonne"></button></li>
+	<li><button tabindex="1"> href="https://www.instagram.com/klimastreiklandau/?hl=de" <img src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" alt="Korallenriff"></button></li>
+	<li><button tabindex="1"> href="https://www.instagram.com/klimastreiklandau/?hl=de" <img src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" alt="Morgensonne am Gardasee"></button></li>
+	<li><button tabindex="1"> href="https://www.instagram.com/klimastreiklandau/?hl=de" <img src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" alt="Via Appia, Rom"></button></li>    
+</ul>
 
 https://github.com/edent/SuperTinyIcons
 
