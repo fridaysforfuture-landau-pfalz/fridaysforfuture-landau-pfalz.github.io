@@ -1,6 +1,6 @@
 ---
 title: ""
-layout: default
+layout: single
 permalink: /
 header:
   image: /assets/images/Frontbanner.jpg
