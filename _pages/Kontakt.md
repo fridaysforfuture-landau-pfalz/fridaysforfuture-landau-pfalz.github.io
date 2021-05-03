@@ -45,8 +45,12 @@ Sie können uns gerne über das Kontaktformular eine Email scchreiben und uns ih
 <p><input type="submit" value="Senden" class="wpcf7-form-control wpcf7-submit" /></p>
 <div class="wpcf7-response-output" aria-hidden="true"></div></form></div>
 
+{% formspree "MY_FORMSPREE_ID" %}
+
 <p> </p>
 
 <b> Unsere Sozial Media Kanäle:<b>
 
-{% formspree "MY_FORMSPREE_ID" %}
+label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: https://twitter.com/klimastreikld
