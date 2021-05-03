@@ -11,5 +11,7 @@ Sie können uns gerne über das Kontaktformular eine Email scchreiben und uns ih
 <input type="Submit" name="absenden" value="absenden">
 </form>
 
+<p> </p>
+
 <b> Unsere Sozial Media Kanäle:<b>
 
