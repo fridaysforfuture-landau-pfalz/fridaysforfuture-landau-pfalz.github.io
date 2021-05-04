@@ -21,7 +21,7 @@ Unsere Forderungen umfassen die Bereiche:
 
 <p> </p>
 
-Unsere Kernfornderungen sind:
+Unsere Kernfornderungen sind: <br>
  Bei allen städtischen Neubauten, Sanierungen oder sonstigen Vorhaben müssen die
 gesamten Lebenszykluskosten berücksichtigt werden
 o Inklusive Einberechnung der Klimaschäden im Rahmen eines CO2-
