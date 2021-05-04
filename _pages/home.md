@@ -4,8 +4,6 @@ layout: single
 permalink: /
 header:
   image: /assets/images/Frontbanner.jpg
-  <link rel="icon" type="image/png" href="(fridaysforfuture-landau-pfalz.github.io/assets/images//Favicon FfF Landau.png">
-
 
 ---
 
