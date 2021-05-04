@@ -15,8 +15,7 @@ permalink: /forderungen
   <li> Gewerbegebiet
   <li> Stadt allgemein
   <li> Energie
-  <li> Mobilität </p>
-</div>
+  <li> Mobilität 
 
 <p> </p>
 
