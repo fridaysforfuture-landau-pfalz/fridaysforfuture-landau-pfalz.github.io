@@ -12,10 +12,10 @@ Unser aktuelles Forderungspapier an die Stadt Landau:
 
 Unsere Forderungen umfassen die Bereiche: 
   <li> Bau
-  <li> Gewerbegebiet
-  <li> Stadt allgemein
-  <li> Energie
-  <li> Mobilität
+   Gewerbegebiet
+   Stadt allgemein
+   Energie
+   Mobilität</li>
 
 <p> </p>
 
