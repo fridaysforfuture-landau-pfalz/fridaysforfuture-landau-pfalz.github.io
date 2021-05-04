@@ -7,14 +7,21 @@ permalink: /forderungen
 <img src="/assets/images/FFF Landau Logo.png" style="" alt="FfF Landau Logo" height="300" width="300"> 
 Unser aktuelles Forderungspapier an die Stadt Landau:
 [hier]({{ site.baseurl }}/assets/pdf/ForderungenLandauDez2020.pdf){:target="_blank"} 
+
+<p> </p>
+
 Unsere Forderungen umfassen die Bereiche 
-<li>
+<ul>  
+  <li>
   Bau
   Gewerbegebiet
   Stadt allgemein
   Energie
   Mobilität
-</li>
+  </li>
+</ul>
+
+<p> </p>
 
 Unsere Kernfornderungen sind:
  Bei allen städtischen Neubauten, Sanierungen oder sonstigen Vorhaben müssen die
