@@ -8,8 +8,6 @@ permalink: /forderungen
 <p> Unser aktuelles Forderungspapier an die Stadt Landau:
 [hier]({{ site.baseurl }}/assets/pdf/ForderungenLandauDez2020.pdf){:target="_blank"} 
 
-<p> </p>
-
 <b> Unsere Forderungen umfassen die Bereiche: </b> 
   <li> Bau
   <li> Gewerbegebiet
