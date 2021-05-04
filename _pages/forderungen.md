@@ -22,9 +22,9 @@ Unsere Forderungen umfassen die Bereiche:
 <p> </p>
 
 Unsere Kernfornderungen sind: <br>
- Bei allen städtischen Neubauten, Sanierungen oder sonstigen Vorhaben müssen die
+- Bei allen städtischen Neubauten, Sanierungen oder sonstigen Vorhaben müssen die
 gesamten Lebenszykluskosten berücksichtigt werden
-o Inklusive Einberechnung der Klimaschäden im Rahmen eines CO2-
+    o Inklusive Einberechnung der Klimaschäden im Rahmen eines CO2-
 Schattenpreises von etwa 195€ pro Tonne CO2-Äquivalente6,7
 - 100% erneuerbare Energieversorgung der Stadt bis 2035
 - Neubauten unter Passivhaus-Standards
