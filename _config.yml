@@ -30,8 +30,8 @@ github_username:  fridaysforfuture-landau-pfalz
 repository: "fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io"
 
 head:
-  favicon: <link rel="icon" type="image/png" href="(fridaysforfuture-landau-pfalz.github.io/assets/images//Favicon FfF Landau.png">
-
+ site_favicon: Favicon FfF Landau.png
+ 
 footer:
   links:
     - label: "Twitter"
