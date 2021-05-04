@@ -8,12 +8,13 @@ permalink: /forderungen
 Unser <a href="/assets/pdf/ForderungenLandauDez2020.pdf" target="_blank"> aktuelles Forderungspapier </a> an die Stadt Landau
 <a href="/assets/pdf/ForderungenLandauDez2020.pdf" target="_blank"> </a> <br>
 
+<p align="left"
 <b> Unsere Forderungen umfassen die Bereiche: </b> 
   <li> Bau
   <li> Gewerbegebiet
   <li> Stadt allgemein
   <li> Energie
-  <li> Mobilität
+  <li> Mobilität >
 
 <p> </p>
 
