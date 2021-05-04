@@ -37,7 +37,6 @@ entsprechender autarker Energieversorgung, ÖPNV-Anbindung, SharedInfrastructure
 Die Stadt hat offiziell unser Forderungspapier vorgestellt und überreicht bekommen. Die Umsetzung der Forderungen liegt nun bei der Stadt Landau.
 
 ---
-title:  "Unsere Forderungen"
 layout: default
 permalink: /forderungen
 ---
