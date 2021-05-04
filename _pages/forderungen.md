@@ -10,7 +10,7 @@ Unser aktuelles Forderungspapier an die Stadt Landau:
 
 <p> </p>
 
-Unsere Forderungen umfassen die Bereiche 
+Unsere Forderungen umfassen die Bereiche: 
 <ul>  
   <li> Bau
   <li> Gewerbegebiet
