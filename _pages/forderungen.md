@@ -10,7 +10,7 @@ Unser aktuelles Forderungspapier an die Stadt Landau:
 
 <p> </p>
 
-Unsere Forderungen umfassen die Bereiche: 
+<b> Unsere Forderungen umfassen die Bereiche: </b> 
   <li> Bau
   <li> Gewerbegebiet
   <li> Stadt allgemein
@@ -19,7 +19,7 @@ Unsere Forderungen umfassen die Bereiche:
 
 <p> </p>
 
-Unsere Kernfornderungen sind: <br>
+<b> Unsere Kernfornderungen sind: </b> <br>
 <li> Bei allen städtischen Neubauten, Sanierungen oder sonstigen Vorhaben müssen die
 gesamten Lebenszykluskosten berücksichtigt werden <br>
      - Inklusive Einberechnung der Klimaschäden im Rahmen eines CO2-Schattenpreises von etwa 195€ pro Tonne CO2-Äquivalente<sup>6,7</sup>
