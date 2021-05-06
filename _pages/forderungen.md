@@ -25,7 +25,7 @@ permalink: /forderungen
         gesamten Lebenszykluskosten berücksichtigt werden <br>
       <ul>
          <li>- Inklusive Einberechnung der Klimaschäden im Rahmen eines CO2-Schattenpreises von etwa 195€ pro Tonne CO2-Äquivalente<sup>6,7</sup>
-      <ul>
+      </ul>
    </li>
    <li>         
     100% erneuerbare Energieversorgung der Stadt bis 2035
