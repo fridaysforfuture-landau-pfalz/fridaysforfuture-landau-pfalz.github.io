@@ -10,3 +10,6 @@ main:
     
   - title: "Kontakt"
     url: /kontakt
+
+  - title: "Material"
+    url: /material
