@@ -3,6 +3,24 @@ title:  "Unsere Forderungen"
 layout: single
 permalink: /forderungen
 ---
+
+<table>
+  <tr>
+    <td><img src="/assets/images/FFF Landau Logo.png" style="float:left;" alt="FfF Landau Logo" height="300" width="300"></td>
+    <td>Unser <a href="/assets/pdf/ForderungenLandauDez2020.pdf" target="_blank"> aktuelles Forderungspapier </a> an die Stadt Landau
+<a href="/assets/pdf/ForderungenLandauDez2020.pdf" target="_blank"> </a> <br>
+
+<p> </p>
+
+<b> Unsere Forderungen umfassen die Bereiche: </b> 
+  <li> Bau
+  <li> Gewerbegebiet
+  <li> Stadt allgemein
+  <li> Energie
+  <li> Mobilität </td>
+  </tr>
+</table>
+
 <div style="text-align: left">
    <img src="/assets/images/FFF Landau Logo.png" style="float:left;" alt="FfF Landau Logo" height="300" width="300"> 
    Unser <a href="/assets/pdf/ForderungenLandauDez2020.pdf" target="_blank"> aktuelles Forderungspapier </a> an die Stadt Landau
