@@ -24,7 +24,7 @@ permalink: /forderungen
    <li> Bei allen städtischen Neubauten, Sanierungen oder sonstigen Vorhaben müssen die
         gesamten Lebenszykluskosten berücksichtigt werden <br>
       <ul>
-         <li>- Inklusive Einberechnung der Klimaschäden im Rahmen eines CO2-Schattenpreises von etwa 195€ pro Tonne CO2-Äquivalente<sup>6,7</sup>
+         <li> Inklusive Einberechnung der Klimaschäden im Rahmen eines CO2-Schattenpreises von etwa 195€ pro Tonne CO2-Äquivalente<sup>6,7</sup>
       </ul>
    </li>
    <li>         
