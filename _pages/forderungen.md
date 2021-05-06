@@ -20,17 +20,22 @@ permalink: /forderungen
 <p> </p>
 
 <b> Unsere Kernfornderungen sind: </b> <br>
-<li> Bei allen städtischen Neubauten, Sanierungen oder sonstigen Vorhaben müssen die
-gesamten Lebenszykluskosten berücksichtigt werden <br>
-     - Inklusive Einberechnung der Klimaschäden im Rahmen eines CO2-Schattenpreises von etwa 195€ pro Tonne CO2-Äquivalente<sup>6,7</sup>
-<li> 100% erneuerbare Energieversorgung der Stadt bis 2035
-<li> Neubauten unter Passivhaus-Standards
-<li> Breite Aufklärungskampagnen für Hausbesitzer*innen über mögliche
+<ul>
+   <li> Bei allen städtischen Neubauten, Sanierungen oder sonstigen Vorhaben müssen die
+        gesamten Lebenszykluskosten berücksichtigt werden <br>
+      <ul>
+         <li>- Inklusive Einberechnung der Klimaschäden im Rahmen eines CO2-Schattenpreises von etwa 195€ pro Tonne CO2-Äquivalente<sup>6,7</sup>
+      <ul>
+   </li>
+    100% erneuerbare Energieversorgung der Stadt bis 2035
+   <li> Neubauten unter Passivhaus-Standards
+   <li> Breite Aufklärungskampagnen für Hausbesitzer*innen über mögliche
 Verbesserungsmaßnamen am Gebäude mit Ziel der Klimaneutralität und
 entsprechend bestehenden Förderungen
-<li> Umfangreiches Konzept möglichst klimaneutraler Gewerbegebiete unter Einbezug
+   <li> Umfangreiches Konzept möglichst klimaneutraler Gewerbegebiete unter Einbezug
 entsprechender autarker Energieversorgung, ÖPNV-Anbindung, SharedInfrastructure Anlagen und Erbbaupacht.
-<li> Ausbau der Infrastruktur für Wasserstoff- und Elektromobile Fahrzeuge
+   <li> Ausbau der Infrastruktur für Wasserstoff- und Elektromobile Fahrzeuge
+</ul>
 
 <p> </p>
 
