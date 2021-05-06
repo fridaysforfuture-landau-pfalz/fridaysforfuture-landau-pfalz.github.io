@@ -32,7 +32,6 @@ permalink: /forderungen
         <li>Breite Aufklärungskampagnen für Hausbesitzer*innen über mögliche Verbesserungsmaßnamen am Gebäude mit Ziel der Klimaneutralität und entsprechend bestehenden Förderungen</li>
         <li> Umfangreiches Konzept möglichst klimaneutraler Gewerbegebiete unter Einbezug entsprechender autarker Energieversorgung, ÖPNV-Anbindung, SharedInfrastructure Anlagen und Erbbaupacht.</li>
         <li> Ausbau der Infrastruktur für Wasserstoff- und Elektromobile Fahrzeuge</li>
-    </ul>
 
 <p> </p>
 
