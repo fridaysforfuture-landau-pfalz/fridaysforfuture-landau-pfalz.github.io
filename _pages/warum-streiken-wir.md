@@ -7,13 +7,13 @@ sidebar:
   - title: Getting Started
     children:
       - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
+        url: /
       - title: "Structure"
-        url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
+        url: /
+      - title: "- 28.01.2021 Stadtratsvorstellung-Vorstellung Forderungspapier"
+        url: /
       - title: "Upgrading"
-        url: /docs/upgrading/
+        url: /
 ---
 
 
