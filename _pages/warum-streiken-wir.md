@@ -9,20 +9,8 @@ sidebar:
     image: http://placehold.it/350x250
     image_alt: "image"
     text: "Some text here."
-  - title: "Another Title"
-    text: "More text here."
-    nav: sidebar-sample
-
----
-- title: Getting Started
-       
-
-Bisherige Aktionen:
-- 19.03.2021 Globaler Klimastreik Fahrraddemo
-- 25.02.2021 BUND Diskussion B10-Ausbau
-- 28.01.2021 Stadtratsvorstellung-Vorstellung Forderungspapier
-
-Aktionen 2020:
+  - title: "Bisherige Aktionen"
+    text: "
 30.12.2020 Mahnwache 
 10.10.2020 Mahnwache Danni
 25.09.2020 Globaler Klimasteik
@@ -39,7 +27,17 @@ Aktionen 2020:
 14.02.2020 Demo in Karlsruhe gegen Ölbohrung
 31.01.2020 Demo Landau
 17.01.2020 Mitte Süd-West Demo in Mainz
-08.01.2020 #Stop Adani
+08.01.2020 #Stop Adani"
+    nav: sidebar-sample
+
+---
+
+Bisherige Aktionen:
+- 19.03.2021 Globaler Klimastreik Fahrraddemo
+- 25.02.2021 BUND Diskussion B10-Ausbau
+- 28.01.2021 Stadtratsvorstellung-Vorstellung Forderungspapier
+
+Aktionen 2020:
 
 <b>WIR STREIKEN BIS IHR HANDELT!<b>
 
