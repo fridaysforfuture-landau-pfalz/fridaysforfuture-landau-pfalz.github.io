@@ -4,20 +4,38 @@ layout: single
 permalink: /warum
 classes: wide
         
-sidebar:
+# sidebar:
   - title: "Aktionen 2021"
     text: "19.03.2021 Globaler Klimastreik Fahrraddemo"
- - title: ""
-    text: "25.02.2021 BUND Diskussion B10-Ausbau"
- - title: ""
-    text: "28.01.2021 Stadtratsvorstellung-Vorstellung Forderungspapier"
- - title: "Aktionen 2020"
-    text: "Aktion 2"
-  - title: ""
-    text: "Aktion 3"
     
 ---
 
+<table>
+  <thead>
+    <tr>
+      <th>Head</th>
+      <th style="text-align: center">Kopfdaten 1</th>
+      <th style="text-align: right">Kopfdaten 2</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>col 1 / row 1</td>
+      <td style="text-align: center">col 2 / row 1</td>
+      <td style="text-align: right">€43</td>
+    </tr>
+    <tr>
+      <td>c 1 / r 2</td>
+      <td style="text-align: center"><del>c 2 / r 2</del></td>
+      <td style="text-align: right">€250</td>
+    </tr>
+    <tr>
+      <td>1 / 3</td>
+      <td style="text-align: center"><strong>2 / 3</strong></td>
+      <td style="text-align: right">€1</td>
+    </tr>
+  </tbody>
+</table>
 
 <b>WIR STREIKEN BIS IHR HANDELT!<b>
 
