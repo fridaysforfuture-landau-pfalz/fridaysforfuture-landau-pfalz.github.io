@@ -3,11 +3,20 @@ title:  "Warum streiken wir?"
 layout: single
 permalink: /warum
 classes: wide
----
 
-</div></div></aside><aside id="custom_html-4" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><a class="box" href="https://eci.fridaysforfuture.org/de">
-	<p><strong>  EUROPÄISCHE BÜRGERINITIATIVE ECI FOR FUTURE</strong> braucht 1 Million Unterschriften. ECI steht für eine europaweite Bürgerinitiative für Maßnahmen zur Einhaltung des 1.5 Grad Ziels. Sorge dafür, dass die EU, die in Sachen Klimaschutz mächtiger ist als die Nationalstaaten, auf Kurs gebracht wird!
-	</p>
+---
+<div class="sidebar">
+<div>Menu Item 1</div>
+<div>Menu Item 2</div>
+<div>Menu Item 3</div>
+</div>
+
+<div class="body-text">
+<!-- body content -->
+</div>
+
+</body>
+
 
 Bisherige Aktionen:
 - 19.03.2021 Globaler Klimastreik Fahrraddemo
