@@ -6,11 +6,11 @@ classes: wide
         
 sidebar:
   - title: "Aktionen 2020"
-    text1: "Aktion 1"
+    text: "Aktion 1"
   - title: ""
-    text1: "Aktion 2"
+    text: "Aktion 2"
   - title: ""
-    text1: "Aktion 3"
+    text: "Aktion 3"
     
 ---
 
