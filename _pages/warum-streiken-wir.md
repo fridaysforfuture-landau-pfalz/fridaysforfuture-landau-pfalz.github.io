@@ -3,13 +3,10 @@ title:  "Warum streiken wir?"
 layout: single
 permalink: /warum
 classes: wide
----
 
-<b>WIR STREIKEN BIS IHR HANDELT!<b>
-
-Left aligned text
-{: .text-left}
-
+sidebar:
+  - title: "Bisherige Aktionen"
+    text: "
 Bisherige Aktionen:
 - 19.03.2021 Globaler Klimastreik Fahrraddemo
 - 25.02.2021 BUND Diskussion B10-Ausbau
@@ -32,4 +29,8 @@ Aktionen 2020:
 - 14.02.2020 Demo in Karlsruhe gegen Ölbohrung
 - 31.01.2020 Demo Landau
 - 17.01.2020 Mitte Süd-West Demo in Mainz
-- 08.01.2020 #Stop Adani
+- 08.01.2020 #Stop Adani"
+---
+
+<b>WIR STREIKEN BIS IHR HANDELT!<b>
+
