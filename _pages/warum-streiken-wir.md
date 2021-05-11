@@ -5,7 +5,7 @@ permalink: /warum
 classes: wide
         
 # sidebar:
-  - title: "Aktionen 2021"
+#  - title: "Aktionen 2021"
     text: "19.03.2021 Globaler Klimastreik Fahrraddemo"
     
 ---
