@@ -7,8 +7,8 @@ classes: wide
 
 <b>WIR STREIKEN BIS IHR HANDELT!<b>
 
-Center aligned text.
-{: .text-center}
+Left aligned text
+{: .text-left}
 
 Bisherige Aktionen:
 - 19.03.2021 Globaler Klimastreik Fahrraddemo
