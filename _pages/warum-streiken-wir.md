@@ -5,17 +5,22 @@ permalink: /warum
 classes: wide
 
 ---
-<div class="sidebar">
-<div>Menu Item 1</div>
-<div>Menu Item 2</div>
-<div>Menu Item 3</div>
-</div>
-
-<div class="body-text">
-<!-- body content -->
-</div>
-
-</body>
+<nav class="nav__list">
+  <h3 class="nav__title" style="padding-left: 0;">Sample Title</h3>
+  <input id="ac-toc" name="accordion-toc" type="checkbox" />
+  <label for="ac-toc">Toggle Menu</label>
+  <ul class="nav__items">
+      <li>
+          <span class="nav__sub-title">Parent Page A</span>
+        <ul>
+            <li><a href="/minimal-mistakes/">Child Page A1</a></li>
+            <li><a href="/minimal-mistakes/">Child Page A2</a></li>
+            <li><a href="/minimal-mistakes/">Child Page A3</a></li>
+            <li><a href="/minimal-mistakes/">Child Page A4</a></li>
+        </ul>
+      </li>
+      <li>
+          <span class="nav__sub-title">Parent Page B</span>
 
 
 Bisherige Aktionen:
