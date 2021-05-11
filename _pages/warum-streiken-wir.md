@@ -9,7 +9,7 @@ classes: wide
 <b>WIR STREIKEN BIS IHR HANDELT!<b>
     bla,bla,bla 
 
-<div id="main" role="main">
+<div id="sidebar" role="">
   <div class="sidebar sticky">
 <nav class="nav__list">
   <h3 class="nav__title" style="padding-left: 0;">Bisherige Aktionen</h3>
