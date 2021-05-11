@@ -10,6 +10,11 @@ main:
     
   - title: "Material"
     url: /material
+    children:
+      - title: "Demosprüche"
+        url: /child-1-page-url/
+      - title: "Demoplakate"
+        url: /child-2-page-url/
     
   - title: "Kontakt"
     url: /kontakt
