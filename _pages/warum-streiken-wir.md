@@ -5,6 +5,8 @@ permalink: /warum
 classes: wide
 
 ---
+<div id="main" role="main">
+  <div class="sidebar sticky">
 <nav class="nav__list">
   <h3 class="nav__title" style="padding-left: 0;">Sample Title</h3>
   <input id="ac-toc" name="accordion-toc" type="checkbox" />
@@ -20,8 +22,6 @@ classes: wide
         </ul>
       </li>
       <li>
-          <span class="nav__sub-title">Parent Page B</span>
-
 
 Bisherige Aktionen:
 - 19.03.2021 Globaler Klimastreik Fahrraddemo
