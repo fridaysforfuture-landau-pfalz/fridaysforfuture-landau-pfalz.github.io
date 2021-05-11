@@ -7,8 +7,8 @@ classes: wide
 sidebar:
   - title: "Aktionen 2020"
     text1: "Aktion 1"
-    text: "Aktoin 2"
-    text: "Aktion 3"
+    text2: "Aktoin 2"
+    text3: "Aktion 3"
     
 ---
 
