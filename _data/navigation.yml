@@ -12,7 +12,7 @@ main:
     url: /material
     children:
       - title: "Demosprüche"
-        url: /child-1-page-url/
+        url: //material/demosprüche/
       - title: "Demoplakate"
         url: /child-2-page-url/
     
