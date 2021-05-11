@@ -14,6 +14,12 @@ sidebar:
         url: /
       - title: "Upgrading"
         url: /
+        
+sidebar:
+  - title: "Aktionen 2020"
+    text: "Aktion 1"
+    text: "Aktoin 2"
+    
 ---
 
 
