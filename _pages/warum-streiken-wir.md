@@ -7,6 +7,9 @@ classes: wide
 
 <b>WIR STREIKEN BIS IHR HANDELT!<b>
 
+Center aligned text.
+{: .text-center}
+
 Bisherige Aktionen:
 - 19.03.2021 Globaler Klimastreik Fahrraddemo
 - 25.02.2021 BUND Diskussion B10-Ausbau
