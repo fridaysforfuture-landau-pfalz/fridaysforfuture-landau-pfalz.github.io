@@ -5,37 +5,26 @@ permalink: /warum
 classes: wide
 ---
 
-feature_row:
-    title: "Placeholder 1"
-    code: 
+
+<b>WIR STREIKEN BIS IHR HANDELT!<b>
+    bla,bla,bla 
+
 <div id="main" role="main">
   <div class="sidebar sticky">
 <nav class="nav__list">
-  <h3 class="nav__title" style="padding-left: 0;">Sample Title</h3>
+  <h3 class="nav__title" style="padding-left: 0;">Bisherige Aktionen</h3>
   <input id="ac-toc" name="accordion-toc" type="checkbox" />
   <label for="ac-toc">Toggle Menu</label>
   <ul class="nav__items">
       <li>
           <span class="nav__sub-title">Parent Page A</span>
         <ul>
-            <li><a href="/minimal-mistakes/">Child Page A1</a></li>
-            <li><a href="/minimal-mistakes/">Child Page A2</a></li>
-            <li><a href="/minimal-mistakes/">Child Page A3</a></li>
-            <li><a href="/minimal-mistakes/">Child Page A4</a></li>
+            <li>- 19.03.2021 Globaler Klimastreik Fahrraddemo </a></li>
+            <li>- 25.02.2021 BUND Diskussion B10-Ausbau </li>
+            <li>- 28.01.2021 Stadtratsvorstellung-Vorstellung Forderungspapier </li>
         </ul>
       </li>
-      <li>
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    </div>
 
 Bisherige Aktionen:
 - 19.03.2021 Globaler Klimastreik Fahrraddemo
