@@ -7,24 +7,6 @@ classes: wide
 
 
 <b>WIR STREIKEN BIS IHR HANDELT!<b>
-    bla,bla,bla 
-
-<div id="sidebar" role="">
-  <div class="sidebar sticky">
-<nav class="nav__list">
-  <h3 class="nav__title" style="padding-left: 0;">Bisherige Aktionen</h3>
-  <input id="ac-toc" name="accordion-toc" type="checkbox" />
-  <label for="ac-toc">Toggle Menu</label>
-  <ul class="nav__items">
-      <li>
-          <span class="nav__sub-title">Parent Page A</span>
-        <ul>
-            <li>- 19.03.2021 Globaler Klimastreik Fahrraddemo </a></li>
-            <li>- 25.02.2021 BUND Diskussion B10-Ausbau </li>
-            <li>- 28.01.2021 Stadtratsvorstellung-Vorstellung Forderungspapier </li>
-        </ul>
-      </li>
-    </div>
 
 Bisherige Aktionen:
 - 19.03.2021 Globaler Klimastreik Fahrraddemo
@@ -50,6 +32,3 @@ Aktionen 2020:
 31.01.2020 Demo Landau
 17.01.2020 Mitte Süd-West Demo in Mainz
 08.01.2020 #Stop Adani
-
-<b>WIR STREIKEN BIS IHR HANDELT!<b>
-
