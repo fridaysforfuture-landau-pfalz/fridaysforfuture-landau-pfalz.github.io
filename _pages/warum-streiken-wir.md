@@ -3,6 +3,8 @@ title:  "Warum streiken wir?"
 layout: splash
 permalink: /warum
 classes: wide
+sidebar:
+  nav: "docs"
 ---
 
 
