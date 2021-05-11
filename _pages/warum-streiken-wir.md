@@ -6,11 +6,11 @@ classes: wide
         
 sidebar:
   - title: "Aktionen 2021"
-    text: "- 19.03.2021 Globaler Klimastreik Fahrraddemo"
+    text: "19.03.2021 Globaler Klimastreik Fahrraddemo"
  - title: ""
-    text: "- 25.02.2021 BUND Diskussion B10-Ausbau"
+    text: "25.02.2021 BUND Diskussion B10-Ausbau"
  - title: ""
-    text: "- 28.01.2021 Stadtratsvorstellung-Vorstellung Forderungspapier"
+    text: "28.01.2021 Stadtratsvorstellung-Vorstellung Forderungspapier"
  - title: "Aktionen 2020"
     text: "Aktion 2"
   - title: ""
