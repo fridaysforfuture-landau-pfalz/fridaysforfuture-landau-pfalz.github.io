@@ -5,9 +5,16 @@ permalink: /warum
 classes: wide
 
 sidebar:
-  - title: "Bisherige Aktionen"
-    nav: sidebar-sample
-
+  - title: "Unsere Aktionen 2020"
+    children:
+      - title: "14.02.2020 Demo in Karlsruhe gegen Ölbohrung"
+        url: /
+      - title: "31.01.2020 Demo Landau"
+        url: /
+      - title: "17.01.2020 Mitte Süd-West Demo in Mainz"
+        url: /
+      - title: "08.01.2020 #Stop Adani"
+        url: /
 ---
 
 Bisherige Aktionen:
