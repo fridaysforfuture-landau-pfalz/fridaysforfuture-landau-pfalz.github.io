@@ -1,6 +1,6 @@
 ---
 title:  "Warum streiken wir?"
-layout: single
+layout: splash
 permalink: /warum
 classes: wide
 
