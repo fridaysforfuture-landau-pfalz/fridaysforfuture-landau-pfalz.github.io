@@ -2,6 +2,7 @@
 title:  "Unsere Forderungen"
 layout: single
 permalink: /forderungen
+classes: wide
 ---
 
 <div style="text-align: left">
