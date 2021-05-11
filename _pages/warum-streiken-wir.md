@@ -3,17 +3,6 @@ title:  "Warum streiken wir?"
 layout: single
 permalink: /warum
 classes: wide
-sidebar:
-  - title: Getting Started
-    children:
-      - title: "Quick-Start Guide"
-        url: /
-      - title: "Structure"
-        url: /
-      - title: "- 28.01.2021 Stadtratsvorstellung-Vorstellung Forderungspapier"
-        url: /
-      - title: "Upgrading"
-        url: /
         
 sidebar:
   - title: "Aktionen 2020"
