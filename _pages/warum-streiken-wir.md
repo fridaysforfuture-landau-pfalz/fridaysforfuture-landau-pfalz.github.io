@@ -4,7 +4,6 @@ layout: single
 permalink: /warum
 classes: wide
 
----
 <div id="main" role="main">
   <div class="sidebar sticky">
 <nav class="nav__list">
@@ -22,6 +21,9 @@ classes: wide
         </ul>
       </li>
       <li>
+
+---
+
 
 Bisherige Aktionen:
 - 19.03.2021 Globaler Klimastreik Fahrraddemo
