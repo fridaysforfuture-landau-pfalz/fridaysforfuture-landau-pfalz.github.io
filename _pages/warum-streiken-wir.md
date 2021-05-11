@@ -6,13 +6,6 @@ classes: wide
 
 sidebar:
   - title: "Bisherige Aktionen"
-     children:
-      - title: "Quick-Start Guide"
-      - title: "Structure"
-      - title: "Installation"
-      - title: "Upgrading"
-
-    
     text: ""
 
 ---
