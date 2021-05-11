@@ -6,8 +6,7 @@ classes: wide
 
 sidebar:
   - title: "Bisherige Aktionen"
-    text: "
-Aktionen 2020:
+    text: "Aktionen 2020:
 30.12.2020 Mahnwache 
 10.10.2020 Mahnwache Danni
 25.09.2020 Globaler Klimasteik
