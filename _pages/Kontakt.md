@@ -52,6 +52,6 @@ Sie können uns gerne über das Kontaktformular oder direkt an <b>klimastreik-la
 .button1 {background-color: #4CAF50;} /* Green */
 </style>
 
-<button class="button button1" <a href="https://www.w3schools.com/css/tryit.asp?filename=trycss_link_advanced" target="_blank">Impressum</a> /button>
+<a <button class="button button1" href="https://www.w3schools.com/css/tryit.asp?filename=trycss_link_advanced" target="_blank">Impressum /button> </a> 
 
 <p> </p>
