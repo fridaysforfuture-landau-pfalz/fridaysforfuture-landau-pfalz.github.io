@@ -35,4 +35,8 @@ Sie können uns gerne über das Kontaktformular oder direkt an <b>klimastreik-la
   <button type="submit">Absenden</button>
 </form>
 
+<form>
+<input class=“ButtonClass“ type=“button“ value=“Impressum“ onklick=“window.location.href=‘‘ “/>.
+</form>
+
 <p> </p>
