@@ -19,7 +19,7 @@ main:
   - title: "Kontakt"
     url: /kontakt
 
-sidebar-sample:
+sidebar-aktion:
   - title: "Aktionen 2021"
     children:
       - title: "19.03.2021 Globaler Klimastreik Fahrraddemo"
