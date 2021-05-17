@@ -35,16 +35,11 @@ Sie können uns gerne über das Kontaktformular oder direkt an <b>klimastreik-la
   <button type="submit">Absenden</button>
 </form>
 
-
-<form action="http://google.com">
-    <input type="submit" value="Impressum" style="center" alt="Impressum" height="100" width="400"/>
-</form>
-
 <style>
 .button {
   border: none;
   color: white;
-  padding: 15px 32px;
+  padding: 50px 200px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -54,13 +49,8 @@ Sie können uns gerne über das Kontaktformular oder direkt an <b>klimastreik-la
 }
 
 .button1 {background-color: #4CAF50;} /* Green */
-.button2 {background-color: #008CBA;} /* Blue */
 </style>
-</head>
-<body>
 
-<button class="button button1">Green</button>
-<button class="button button2">Blue</button>
-
+<button class="button button1">Impressum</button>
 
 <p> </p>
