@@ -37,7 +37,7 @@ Sie können uns gerne über das Kontaktformular oder direkt an <b>klimastreik-la
 <p> </p>
 
 <style>
-.button {
+.button1 {
   border: none;
   color: white;
   padding: 50px 600px;
@@ -52,6 +52,7 @@ Sie können uns gerne über das Kontaktformular oder direkt an <b>klimastreik-la
 .button1 {background-color: #4CAF50;} /* Green */
 </style>
 
-<a <button class="button button1" href="https://www.w3schools.com/css/tryit.asp?filename=trycss_link_advanced" target="_blank">Impressum /button> </a> 
-
+<a class="button1" href="http://www.go-some-where.com"
+       target="_blank">Impressum</a>
+       
 <p> </p>
