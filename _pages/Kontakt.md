@@ -38,6 +38,7 @@ Sie können uns gerne über das Kontaktformular oder direkt an <b>klimastreik-la
 <p> </p>
 
 <style>
+a:link, a:visited
 .button {
   border: none;
   color: white;
@@ -54,5 +55,6 @@ Sie können uns gerne über das Kontaktformular oder direkt an <b>klimastreik-la
 </style>
 
 <button class="button button1">Impressum</button>
+<a href="https://www.w3schools.com/css/tryit.asp?filename=trycss_link_advanced" target="_blank">This is a link</a>
 
 <p> </p>
