@@ -40,11 +40,11 @@ Sie können uns gerne über das Kontaktformular oder direkt an <b>klimastreik-la
 .button1 {
   border: none;
   color: white;
-  padding: 30px 30px;
+  padding: 15px 15px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 48px;
+  font-size: 24px;
   margin: 4px 2px;
   cursor: pointer;
   width: 100%;
