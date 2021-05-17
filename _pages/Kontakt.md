@@ -35,15 +35,17 @@ Sie können uns gerne über das Kontaktformular oder direkt an <b>klimastreik-la
   <button type="submit">Absenden</button>
 </form>
 
+<p> </p>
+
 <style>
 .button {
   border: none;
   color: white;
-  padding: 50px 200px;
+  padding: 50px 100%;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
+  font-size: 48px;
   margin: 4px 2px;
   cursor: pointer;
 }
