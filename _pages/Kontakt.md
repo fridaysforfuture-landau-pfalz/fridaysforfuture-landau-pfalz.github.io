@@ -53,7 +53,7 @@ Sie können uns gerne über das Kontaktformular oder direkt an <b>klimastreik-la
 .button1 {background-color: #4CAF50;} /* Green */
 </style>
 
-<a class="button1" href="_pages/Impressum.md"
+<a class="button1" href="https://fridaysforfuture-landau.de/impressum"
        target="_blank" style="color: white" >Impressum</a>
        
 <p> </p>
