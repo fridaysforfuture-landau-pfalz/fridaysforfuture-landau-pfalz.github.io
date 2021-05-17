@@ -20,4 +20,44 @@ main:
     url: /kontakt
  
 sidebar-sample:
-  
+  - title: "Aktionen 2021"
+    children:
+      - title: "19.03.2021 Globaler Klimastreik Fahrraddemo"
+        url: /
+  - title: "Aktionen 2020"
+    children:
+      - title: "30.12.2020 Mahnwache"
+        url: /
+      - title: "10.10.2020 Mahnwache Danni"
+        url: /
+      - title: "25.09.2020 Globaler Klimasteik"
+        url: /
+      - title: "19.09.2020 Müllsammelaktion"
+        url: /
+      - title: "15.08.2020 Mahnwache"
+        url: /
+      - title: "25.07.2020 Die In"
+        url: /
+      - title: "10.07.2020 Parking Day"
+        url: /
+      - title: "19.06.2020 Demo Landau"
+        url: /
+      - title: "24.04.2020 Digitaler globaler Klimastreik #netzstreikfürsklima"
+        url: /
+      - title: "20.03.2020 Emails löschen Aktion"
+        url: /
+      - title: "06.03.2020 Kleidertauschparty"
+        url: /
+      - title: "29.02.2020 Die In"
+        url: /
+      - title: "14.02.2020 "One billion Rising" Tanz gegen Gewalt gegen Frauen"
+        url: /
+      - title: "14.02.2020 Demo in Karlsruhe gegen Ölbohrung"
+        url: /
+      - title: "31.01.2020 Demo Landau"
+        url: /
+      - title: "17.01.2020 Mitte Süd-West Demo in Mainz"
+        url: /
+      - title: "08.01.2020 #Stop Adani"
+        url: /
+
