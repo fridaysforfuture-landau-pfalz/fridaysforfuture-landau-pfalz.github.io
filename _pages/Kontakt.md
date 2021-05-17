@@ -40,19 +40,21 @@ Sie können uns gerne über das Kontaktformular oder direkt an <b>klimastreik-la
 .button1 {
   border: none;
   color: white;
-  padding: 50px 100%;
+  padding: 50px 50px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 48px;
   margin: 4px 2px;
   cursor: pointer;
+  height: 30px; 
+  width: 200px;
 }
 
 .button1 {background-color: #4CAF50;} /* Green */
 </style>
 
 <a class="button1" href="https://stackoverflow.com/questions/2906582/how-to-create-an-html-button-that-acts-like-a-link"
-       target="_blank">Impressum</a>
+       target="_blank">Impressum< /a>
        
 <p> </p>
