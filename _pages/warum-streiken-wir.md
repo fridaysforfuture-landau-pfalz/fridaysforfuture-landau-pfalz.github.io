@@ -6,7 +6,7 @@ classes: wide
 
 sidebar:
   title: "Bisherige Aktionen"
-  nav: sidebar-sample
+  nav: sidebar-aktion
 
 ---
 
