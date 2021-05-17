@@ -1,7 +1,7 @@
 ---
 title:  "Impressum"
 layout: single
-permalink: /impressum
+permalink: /kontakt/impressum
 ---
 
 
