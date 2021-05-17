@@ -18,6 +18,9 @@ main:
     
   - title: "Kontakt"
     url: /kontakt
+    
+  - title: "Impressum"
+    url: /impressum
 
 aktion:
   - title: "Aktionen 2021"
