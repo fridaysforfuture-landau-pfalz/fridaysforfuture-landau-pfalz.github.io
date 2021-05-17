@@ -53,7 +53,7 @@ Sie können uns gerne über das Kontaktformular oder direkt an <b>klimastreik-la
 .button1 {background-color: #4CAF50;} /* Green */
 </style>
 
-<a class="button1" href="https://stackoverflow.com/questions/2906582/how-to-create-an-html-button-that-acts-like-a-link"
+<a class="button1" href="fridaysforfuture-landau-pfalz.github.io/_pages/Impressum.mu"
        target="_blank" style="color: white" >Impressum</a>
        
 <p> </p>
