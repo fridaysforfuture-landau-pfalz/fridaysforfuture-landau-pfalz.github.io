@@ -2,7 +2,6 @@
 title:  "Kontakt"
 layout: single
 permalink: /kontakt
-class: wide
 ---
 <b> Unsere Sozial Media Kanäle:<b>
 <ul class="gallery">
