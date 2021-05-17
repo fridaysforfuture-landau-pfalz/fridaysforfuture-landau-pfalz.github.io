@@ -41,7 +41,7 @@ a:link, a:visited
 .button {
   border: none;
   color: white;
-  padding: 50px 100%;
+  padding: 50px 600px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
