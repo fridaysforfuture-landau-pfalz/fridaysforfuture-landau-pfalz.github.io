@@ -11,5 +11,5 @@ sidebar:
 ---
 
 <b>WIR STREIKEN BIS IHR HANDELT!<b> <br>
-Klimawandel und Klimagerechtigkeit du weischt
+
 
