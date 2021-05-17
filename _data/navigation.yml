@@ -29,6 +29,8 @@ aktion:
     children:
       - title: "30.12.2020 Mahnwache"
         url: /
+      - title: ""
+        url: /
       - title: "10.10.2020 Mahnwache Danni"
         url: /
       - title: "25.09.2020 Globaler Klimasteik"
