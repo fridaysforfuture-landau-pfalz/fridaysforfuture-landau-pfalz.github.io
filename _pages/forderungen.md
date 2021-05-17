@@ -3,11 +3,15 @@ title:  "Unsere Forderungen"
 layout: single
 permalink: /forderungen
 classes: wide
+
+sidebar:
+  - title: ""
+    image: /assets/images/FFF Landau Logo.png
+    image_alt: "FfF Logo Landau"
+    
 ---
 
-<div style="text-align: left">
-   <img src="/assets/images/FFF Landau Logo.png" style="float:right;" alt="FfF Landau Logo" height="300" width="300"> 
-   Unser <a href="/assets/pdf/ForderungenLandauDez2020.pdf" target="_blank"> aktuelles Forderungspapier </a> an die Stadt Landau
+Unser <a href="/assets/pdf/ForderungenLandauDez2020.pdf" target="_blank"> aktuelles Forderungspapier </a> an die Stadt Landau
 <a href="/assets/pdf/ForderungenLandauDez2020.pdf" target="_blank"> </a> <br>
 
 <p> </p>
