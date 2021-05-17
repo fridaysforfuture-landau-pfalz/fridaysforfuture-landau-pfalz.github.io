@@ -37,7 +37,6 @@ Sie können uns gerne über das Kontaktformular oder direkt an <b>klimastreik-la
 <p> </p>
 
 <style>
-a:link, a:visited
 .button {
   border: none;
   color: white;
