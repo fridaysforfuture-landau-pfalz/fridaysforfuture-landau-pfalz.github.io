@@ -26,7 +26,7 @@ presse:
   - title: "Downloads"
     children:
       - title: "Logo FfF Landau"
-        url: "/images/FfF Logo Landau.png"
+        url: "/assets/images/FFF Landau Logo.png"
       - title: "Statement zur Erweiterung der Hühnerfarm Lauterbourg"
         url: "/images/myw3schoolsimage.jpg" 
 
