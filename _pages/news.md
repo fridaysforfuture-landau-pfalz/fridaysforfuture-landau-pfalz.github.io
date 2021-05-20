@@ -1,5 +1,5 @@
 ---
-title:  "News"
+title:  "News & Presse"
 layout: single
 permalink: /news
 ---
