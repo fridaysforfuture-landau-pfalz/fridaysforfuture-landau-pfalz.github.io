@@ -8,7 +8,7 @@ permalink: /kontakt/impressum
 <b>Angaben gemäß § 5 TMG, verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:</b> <br>
 
 Fridays for Future Landau <br>
-Teil der for Future Bewegung
+Teil der for Future Bewegung <br>
 Name: <br>
 Anschrift: <br>
 klimastreik-landau@gmx.de <br>
