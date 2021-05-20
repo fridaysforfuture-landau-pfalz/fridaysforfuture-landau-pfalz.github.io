@@ -28,7 +28,9 @@ presse:
       - title: "Logo FfF Landau"
         url: "/assets/images/FFF Landau Logo.png"
       - title: "Statement zur Erweiterung der Hühnerfarm Lauterbourg"
-        url: "/images/myw3schoolsimage.jpg" 
+        url: ""
+      - titel: "Forderungspapier"
+        url: "/assets/pdf/ForderungenLandauDez2020.pdf"
 
 aktion:
   - title: "Aktionen 2021"
