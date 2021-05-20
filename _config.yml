@@ -49,6 +49,10 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+    - label: "Impressum"
+      url: "https://fridaysforfuture-landau.de/kontakt/impressum"
+    - label: "Kontakt"
+      url: "https://fridaysforfuture-landau.de/kontakt"
 
 include: ["_pages", "_posts"]
 
