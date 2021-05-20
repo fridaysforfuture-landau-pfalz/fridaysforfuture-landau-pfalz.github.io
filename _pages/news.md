@@ -2,6 +2,11 @@
 title:  "News & Presse"
 layout: single
 permalink: /news
+
+sidebar:
+  title: "Presse"
+  nav: "presse"
+
 ---
 
 {% for post in site.posts %}
