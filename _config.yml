@@ -31,7 +31,7 @@ github_username:  fridaysforfuture-landau-pfalz
 repository: "fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io"
 
 footer:
-  <img src="/assets/images/FFF Landau Logo.png" alt="Logo FfF Landau">
+  img: <img src="/assets/images/FFF Landau Logo.png" alt="Logo FfF Landau">
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
