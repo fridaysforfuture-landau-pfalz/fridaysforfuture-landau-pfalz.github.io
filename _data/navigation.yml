@@ -1,15 +1,15 @@
 main:
   - title: "Warum streiken wir"
     url: /warum
+    
+  - title: "Forderungen"
+    url: /forderungen
 
   - title: "News"
     url: /news
     
   - title: "Termine"
     url: /termine
-
-  - title: "Forderungen"
-    url: /forderungen
     
   - title: "Material"
     url: /material
