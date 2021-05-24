@@ -1,6 +1,6 @@
 ---
 title:  "Termine"
-layout: single
+layout: splash
 permalink: /termine
 class: wide
 ---
