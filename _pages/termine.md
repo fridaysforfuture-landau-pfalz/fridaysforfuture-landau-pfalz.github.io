@@ -6,7 +6,7 @@ class: wide
 ---
 <p> </p>
 
-<iframe src="https://wechange.de/project/klimastreik-landau/event/feed/?user=49123&token=937435758722355163650545494848879304 width=880;height=600;frameborder=2"</iframe>
+<iframe src="https://wechange.de/project/klimastreik-landau/event/calendar/# width=880;height=600;frameborder=2"</iframe>
 
 <p> </p>
 
