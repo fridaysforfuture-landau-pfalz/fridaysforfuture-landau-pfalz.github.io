@@ -26,13 +26,17 @@ Hier findest du Ideen für Demosprüche, Vorschläge für dein nächstes Demopla
 <ul>
   
 <b> Lieder:  </b> <br>
-• Wehrt euch, leistet Widerstand gegen die Braunkohle hier im Land! Alle auf die Straßen, alle auf die Straßen! (Melodie: Hejo, Spann den Wagen an)
-• Hey du, wir leisten Widerstand, für eine echte Energiewende im Land, kommt, geht auf die Straßen, kommt, geht auf die Straßen! (Melodie: Hejo, Spann den Wagen an)
-• Yesterday, climate troubles seemed so far away, but today, we have to act and say: coal mining has to fade away, Yesterday we did still believe and pray, that your deals would work and lead the way, but now the years have passed away (Melodie: Yesterday-Beatles)
-
+<ul>
+<li> Wehrt euch, leistet Widerstand gegen die Braunkohle hier im Land! Alle auf die Straßen, alle auf die Straßen! (Melodie: Hejo, Spann den Wagen an)
+<li> Hey du, wir leisten Widerstand, für eine echte Energiewende im Land, kommt, geht auf die Straßen, kommt, geht auf die Straßen! (Melodie: Hejo, Spann den Wagen an)
+<li> Yesterday, climate troubles seemed so far away, but today, we have to act and say: coal mining has to fade away, Yesterday we did still believe and pray, that your deals would work and lead the way, but now the years have passed away (Melodie: Yesterday-Beatles)
+<ul>
+  
 <b> Ruf und Antwort:  </b>  <br>
-• What do we want?! CLIMATE JUSTICE! When do we want it?! NOW!
-• Wie lautet die Parole?! WIR BRAUCHEN KEINE KOHLE!
-• Solid as a rock – SOLID AS A ROCK – rooted as a tree – ROOTED AS A TREE – we are here – WE ARE HERE – standing strong – STANDING STRONG – in our rightful place – IN OUR RIGHTFUL PLACE
-• Power to the people – POWER TO THE PEOPLE – people get the power – PEOPLE GET THE POWER – tell me can you feel it – TELL ME CAN YOU FEEL IT – getting stronger by the hour – GETTING STRONGER BY THE HOUR – power – POWER
-• Whose streets?! OUR STREETS!
+<ul>
+<li> What do we want?! CLIMATE JUSTICE! When do we want it?! NOW!
+<li> Wie lautet die Parole?! WIR BRAUCHEN KEINE KOHLE!
+<li> Solid as a rock – SOLID AS A ROCK – rooted as a tree – ROOTED AS A TREE – we are here – WE ARE HERE – standing strong – STANDING STRONG – in our rightful place – IN OUR RIGHTFUL PLACE
+<li> Power to the people – POWER TO THE PEOPLE – people get the power – PEOPLE GET THE POWER – tell me can you feel it – TELL ME CAN YOU FEEL IT – getting stronger by the hour – GETTING STRONGER BY THE HOUR – power – POWER
+<li> Whose streets?! OUR STREETS!
+<ul>
