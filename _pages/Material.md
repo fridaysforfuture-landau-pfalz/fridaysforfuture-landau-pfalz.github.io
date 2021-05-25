@@ -19,7 +19,7 @@ Hier findest du Ideen für Demosprüche, Vorschläge für dein nächstes Demopla
   font-size: 24px;
   margin: 4px 2px;
   cursor: pointer;
-  width: 100%;
+  width: 40%;
 }
 .button2 {
   border: none;
