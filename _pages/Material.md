@@ -4,7 +4,7 @@ layout: single
 permalink: /material
 ---
 
-Hier findest du Ideen für Demosprüche, Vorschläge für dein nächstes Demoplakat, ...
+Hier findest du Ideen für Demosprüche, Vorschläge für dein nächstes Demoplakat und vieles mehr. 
 
 <p> </p>
 
