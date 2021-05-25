@@ -6,6 +6,43 @@ permalink: /material
 
 Hier findest du Ideen für Demosprüche, Vorschläge für dein nächstes Demoplakat, ...
 
+<style>
+.button1 {
+  border: none;
+  color: white;
+  padding: 15px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 24px;
+  margin: 4px 2px;
+  cursor: pointer;
+  width: 100%;
+}
+.button2 {
+  border: none;
+  color: white;
+  padding: 15px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 24px;
+  margin: 4px 2px;
+  cursor: pointer;
+  width: 40%;
+}  
+  
+.button1 {background-color: #4CAF50;} /* Green */
+.button2 {background-color: #4CAF50;} /* Green */
+</style>
+
+<a class="button1" href="https://fridaysforfuture-landau.de/kontakt/impressum"
+       target="" style="color: white" >Sprüche</a>
+<a class="button2" href="https://fridaysforfuture-landau.de/kontakt/impressum"
+       target="" style="color: white" >Demoschilder</a>
+       
+
+
 <b> Rufe: </b> <br>
 <li> Wir sind hier! Wir sind laut, weil ihr uns die Zukunft klaut!
 <li> Streik in der Schule! Streik im Betrieb! Das ist unsre Antwort auf eure Politik!
