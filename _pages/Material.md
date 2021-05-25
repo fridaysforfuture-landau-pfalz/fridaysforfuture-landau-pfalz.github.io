@@ -38,12 +38,14 @@ Hier findest du Ideen für Demosprüche, Vorschläge für dein nächstes Demopla
 .button2 {background-color: #4CAF50;} /* Green */
 </style>
 
-<a class="button1" href="https://fridaysforfuture-landau.de/kontakt/impressum"
+<a class="button1" href="#Sprüche"
        target="" style="color: white" >Sprüche</a>
-<a class="button2" href="https://fridaysforfuture-landau.de/kontakt/impressum"
+<a class="button2" href="#Demoschilder"
        target="" style="color: white" >Demoschilder</a>
        
   <p> </p>
+
+<a name="Sprüche"> </a>
 
 <b> Rufe: </b> <br>
 <li> Wir sind hier! Wir sind laut, weil ihr uns die Zukunft klaut!
@@ -79,3 +81,9 @@ Hier findest du Ideen für Demosprüche, Vorschläge für dein nächstes Demopla
 <li> Whose streets?! OUR STREETS! <br>
 
   <p> </p>
+
+<a name="Demoschilder"> </a>
+  
+  <p> </p>
+  <p> </p>
+  
