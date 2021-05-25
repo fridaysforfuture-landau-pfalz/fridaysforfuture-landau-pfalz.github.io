@@ -45,6 +45,8 @@ Hier findest du Ideen für Demosprüche, Vorschläge für dein nächstes Demopla
        
   <p> </p>
 
+<hr>
+
 <a name="Sprüche"> </a>
 
 <b> Rufe: </b> <br>
