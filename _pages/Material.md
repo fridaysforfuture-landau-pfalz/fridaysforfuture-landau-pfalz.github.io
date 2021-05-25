@@ -5,3 +5,34 @@ permalink: /material
 ---
 
 Hier findest du Ideen für Demosprüche, Vorschläge für dein nächstes Demoplakat, ...
+
+<b> Rufe: </b> <br>
+<ul>
+<li> Wir sind hier! Wir sind laut, weil ihr uns die Zukunft klaut!
+<li> Streik in der Schule! Streik im Betrieb! Das ist unsre Antwort auf eure Politik!
+<li> Wer nicht hüpft der ist für Kohle, hey, hey!
+<li> Es gibt kein Recht auf Kohlebagger fahren!
+<li> Solidarität und Widerstand, Klimastreik in jedem Land!
+<li> We are unstoppable, another world is possible!
+<li> Change the system, not the climate!
+<li> Keep it in the ground! - - Keep it in the ground!
+<li> Hopp Hopp Hopp, Kohle stopp!
+<li> We have the solution, stop the pollution!
+<li> Say it loud, say it clear: Klimaschutz, jetzt und hier!
+<li> Keine Kohle für die Kohle!
+<li> Ist doch klar, die Zukunft ist solar!
+<li> Braunkohle killt das Klima-Aber Firmen finden’s prima!
+<li> Wasser, Wind und Sonne: Kohle in die Tonne!
+<ul>
+  
+<b> Lieder:  </b> <br>
+• Wehrt euch, leistet Widerstand gegen die Braunkohle hier im Land! Alle auf die Straßen, alle auf die Straßen! (Melodie: Hejo, Spann den Wagen an)
+• Hey du, wir leisten Widerstand, für eine echte Energiewende im Land, kommt, geht auf die Straßen, kommt, geht auf die Straßen! (Melodie: Hejo, Spann den Wagen an)
+• Yesterday, climate troubles seemed so far away, but today, we have to act and say: coal mining has to fade away, Yesterday we did still believe and pray, that your deals would work and lead the way, but now the years have passed away (Melodie: Yesterday-Beatles)
+
+<b> Ruf und Antwort:  </b>  <br>
+• What do we want?! CLIMATE JUSTICE! When do we want it?! NOW!
+• Wie lautet die Parole?! WIR BRAUCHEN KEINE KOHLE!
+• Solid as a rock – SOLID AS A ROCK – rooted as a tree – ROOTED AS A TREE – we are here – WE ARE HERE – standing strong – STANDING STRONG – in our rightful place – IN OUR RIGHTFUL PLACE
+• Power to the people – POWER TO THE PEOPLE – people get the power – PEOPLE GET THE POWER – tell me can you feel it – TELL ME CAN YOU FEEL IT – getting stronger by the hour – GETTING STRONGER BY THE HOUR – power – POWER
+• Whose streets?! OUR STREETS!
