@@ -4,9 +4,6 @@ layout: splash
 permalink: /termine
 class: wide
 ---
-
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23baeec1&amp;ctz=Europe%2FBerlin&amp;src=bXIzNmRiOGMydmhkbm43a2I0NTA5bTB0ZzRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23EF6C00&amp;showNav=1&amp;showPrint=0&amp;showTabs=1&amp;showCalendars=0" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
 <p> </p>
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23d7f2e0&amp;ctz=Europe%2FLondon&amp;src=bXIzNmRiOGMydmhkbm43a2I0NTA5bTB0ZzRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23EF6C00&amp;showNav=1&amp;showTabs=1&amp;title=FfF%20Landau%20Termine&amp;showTz=0&amp;showPrint=0&amp;showTitle=0&amp;showDate=1&amp;showCalendars=0" style="border-width:0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23ccf3d3&amp;ctz=Europe%2FBerlin&amp;src=ZnJpZGF5c2ZvcmZ1dHVyZS5sYW5kYXVAZ21haWwuY29t&amp;src=cXY4Z3EzZmZncm0xY3Rpbmw4MnNwNXI5cnRjZnFycXZAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23039BE5&amp;color=%23039BE5&amp;showPrint=0&amp;showTabs=1&amp;showCalendars=0&amp;showTz=0" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
