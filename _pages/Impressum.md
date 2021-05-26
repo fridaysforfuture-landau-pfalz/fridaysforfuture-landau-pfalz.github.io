@@ -9,8 +9,12 @@ permalink: /kontakt/impressum
 
 Klimastreik Landau <br>
 Teil der for Future Bewegung <br>
-Name: Kaycee Hesse<br>
-Anschrift: <br>
+Name: Tim-Martin Melchert <br>
+Anschrift: 
+  Lina Kössler Straße 1 <br>
+  Haus C <br>
+  76829, Landau in der Pfalz <br>
+
 klimastreik-landau@gmx.de <br>
 
 <b>Haftung für Inhalte</b> <br>
