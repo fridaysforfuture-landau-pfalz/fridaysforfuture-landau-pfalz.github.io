@@ -11,9 +11,11 @@ Klimastreik Landau <br>
 Teil der for Future Bewegung <br>
 Name: Tim-Martin Melchert <br>
 Anschrift: <br>
-<p style="text-indent:10px;">Lina Kössler Straße 1</p> <br>
-<p style="text-indent:10px;">Haus C </p> <br>
-<p style="text-indent:10px;">76829, Landau in der Pfalz</p> <br>
+<p style="text-indent:20px;">
+  Lina Kössler Straße 1 <br>
+  Haus C <br>
+  76829, Landau in der Pfalz <br>
+</p> 
 
 klimastreik-landau@gmx.de <br>
 
