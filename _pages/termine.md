@@ -5,7 +5,7 @@ permalink: /termine
 class: wide
 ---
 
-<b> Veranstaltungen und Aktionen </b>
+<b> Veranstaltungen und Aktionen </b> <br>
 Hier finden Sie unsere Termine und Termine zu Umwelt- und Klimaschutzthemen, die interessant sein könnten.
 
 <p> </p>
