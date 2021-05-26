@@ -30,9 +30,9 @@ presse:
     children:
       - title: "- Logo FfF Landau"
         url: "/assets/images/FFF Landau Logo.png"
-      - title: "- Statement zur Erweiterung der Hühnerfarm Lauterbourg"
+      - title: "- Statement zur Erweiterung der Hühnerfarm Lauterbourg 27.04.21"
         url: "/assets/pdf/Statement_zum_Antrag_der_PEARL_OEUFS_MODERY_Fridays_for_Future_Landau.pdf"
-      - title: "- Forderungspapier"
+      - title: "- Forderungspapier Dez. 2020"
         url: "/assets/pdf/ForderungenLandauDez2020.pdf"
 
 aktion:
@@ -43,16 +43,12 @@ aktion:
 
   - title: "Aktionen 2020"
     children:
-      - title: "- 30.12.2020 Mahnwache"
-        url: /
-      - title: "- 10.10.2020 Mahnwache Danni"
-        url: /
+      - title: "- 10.10.2020 Mahnwache Dannenröder Wald"
+
       - title: "- 25.09.2020 Globaler Klimasteik"
-        url: /
+
       - title: "- 19.09.2020 Müllsammelaktion"
-        url: /
-      - title: "- 15.08.2020 Mahnwache"
-        url: /
+
       - title: "- 25.07.2020 Die In"
         url: /
       - title: "- 10.07.2020 Parking Day"
