@@ -4,6 +4,7 @@ layout: splash
 permalink: /termine
 class: wide
 ---
+<p> </p>
 
 <b> Veranstaltungen und Aktionen </b> <br>
 Hier finden Sie unsere Termine und Termine zu Umwelt- und Klimaschutzthemen, die interessant sein könnten.
