@@ -1,5 +1,6 @@
 ---
 layout: single
+class: width
 title:  "Denzentraler Aktionstag #MobilitätswendeJetzt"
 date:   2021-06-05 12:00:00 +0200
 categories: Demos
