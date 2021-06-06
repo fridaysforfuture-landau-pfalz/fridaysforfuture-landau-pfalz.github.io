@@ -11,7 +11,7 @@ Zum bundesweiten denzentralen Aktionstag "Sozial-und klimagerechte Mobilitätswe
 
 in Landau verschiedene Aktions gegen den Ausbau der B10 gestartet. 
 
-<h2> Was wurde gemacht? <h2> 
+<h2> Was wurde gemacht? </h2> 
 <li> <a href="https://extinctionrebellion.de/og/landau/" target="" >XR Landau:</a> hat den Zugang zur Königsstraße über eine Stunde blockiert und hat im ehemaligen LGS Gelände ein Bannerdrop veranstaltet <br>
   <details>  
   <summary>
