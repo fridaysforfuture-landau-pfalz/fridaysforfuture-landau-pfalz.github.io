@@ -5,6 +5,7 @@ title:  "Denzentraler Aktionstag #MobilitätswendeJetzt"
 date:   2021-06-05 12:00:00 +0200
 categories: Demos
 ---
+<h1> Denzentraler Aktionstag #MobilitätswendeJetzt </h1>
 
 Zum bundesweiten denzentralen Aktionstag "Sozial-und klimagerechte Mobilitätswende jetzt" von <a href="https://wald-statt-asphalt.net/mobilitaetswendejetzt/" target="" >Wald statt Asphalt </a> hat ein Bündnis 
 
