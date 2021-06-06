@@ -71,8 +71,11 @@ in Landau verschiedene Aktions gegen den Ausbau der B10 gestartet.
   </summary>
   <p>
 <ul class="gallery">
-<a href="https://www.instagram.com/klimastreiklandau/?hl=de" target=""> <img src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" style="margin-right: 20px; margin-top: 20px" alt="Instagram Landau" height="100" width="100"> </a>
-</ul>
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/B%C3%BCndnis%205.06.21/2VC31UI0.jpeg?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Fahrraddemo" height="" width=""> 
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/B%C3%BCndnis%205.06.21/QjmBqSiw.jpeg?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Fahrraddemo" height="" width=""> 
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/B%C3%BCndnis%205.06.21/f3ltWRPU.jpeg?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Fahrraddemo" height="" width="">   
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/B%C3%BCndnis%205.06.21/20210605_174242.jpg?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Fahrraddemo" height="" width="">
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/B%C3%BCndnis%205.06.21/20210605_165059.jpg?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Fahrraddemo" height="" width="">     
   </p>
 </details>
 
