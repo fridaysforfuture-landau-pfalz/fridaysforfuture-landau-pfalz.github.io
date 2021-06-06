@@ -99,3 +99,5 @@ in Landau verschiedene Aktions gegen den Ausbau der B10 gestartet.
 4. Neubewertung der Einzelprojekte statt Gesamtbeurteilung Bei der 2022 geplanten Bedarfsplanüberprüfung im Rahmen des Bundesverkehrsministeriums eine grundsätzliche Neubewertung kritischer Projekte ab, d.h.  ein ständiges „weiter so wie bisher“ ! Nur eine Neubewertung jedes einzelnen Projekts kann klären, auf welche einzelnen Projekte verzichtet werden kann und muss. <br>
     <p> </p>
 5. Reale Bürgerbeteiligung Der BVWP 2030 wurde 2016 mit dem Versprechen einer umfassenden Bürgerbeteiligung gestartet.  Die ist nach europäischem Recht zwingend erforderlich und wurde hintergangen.  Die Beteiligungsphase war zu knapp, Einwände wurden mit Textbausteinen bearbeitet, kein einziges Projekt wurde deshalb geändert und Alternativen wurden allgemein nicht beachtet.  This Vorgehen bedeutete einen Schlag ins Gesicht vieler betroffener Bürgerinnen und Bürger.  Wir fordern daher rechtzeitige und echte Bürgerbeteiligung. <br>
+    
+Mehr Infos finden Sie auch beim <a href="https://suedpfalz.bund-rlp.de/themen/mensch-umwelt/mobilitaet/strassenbau/b10-durch-den-pfaelzerwald-1/" target="" >BUND</a>    
