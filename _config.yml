@@ -55,6 +55,8 @@ footer:
       url: "https://fridaysforfuture-landau.de/kontakt/impressum"
     - label: "Kontakt"
       url: "https://fridaysforfuture-landau.de/kontakt"
+    - label: "Fridays for Future DE"
+      url: "https://fridaysforfuture.de"
 
 include: ["_pages", "_posts"]
 
