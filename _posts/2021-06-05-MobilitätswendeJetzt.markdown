@@ -19,6 +19,12 @@ in Landau verschiedene Aktions gegen den Ausbau der B10 gestartet.
    <FONT SIZE="4"><b>Bilder</b></FONT>
   </summary>
   <p>
+    
+ <div id="zoom">
+    <a href="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/B%C3%BCndnis%205.06.21/20210605_113236.jpg?raw=true">Bild zoomen...</a>
+</div>
+
+    
 <ul class="gallery">
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/B%C3%BCndnis%205.06.21/20210605_113236.jpg?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Blockade Königsstraße" height="50%" width="50%">
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/B%C3%BCndnis%205.06.21/20210605_113456.jpg?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Blockade Königsstraße" height="50%" width="50%">
