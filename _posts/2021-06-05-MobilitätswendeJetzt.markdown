@@ -78,7 +78,7 @@ in Landau verschiedene Aktions gegen den Ausbau der B10 gestartet.
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/B%C3%BCndnis%205.06.21/20210605_165059.jpg?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Fahrraddemo" height="" width="">     
   </p>
 </details>
-
+  
 <h2> Warum sind wir gegen den Ausbau der B10? </h2>
   <li> Extreme Verlärmung durch zunehmenden induzierten europäischen Schwerlastverkehr
   <li> Extremer Landschafts- und Ressourcenverbrauch
