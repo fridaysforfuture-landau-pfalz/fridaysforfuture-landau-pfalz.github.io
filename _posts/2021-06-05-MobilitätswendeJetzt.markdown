@@ -20,7 +20,12 @@ in Landau verschiedene Aktions gegen den Ausbau der B10 gestartet.
   </summary>
   <p>
 <ul class="gallery">
-<a href="https://www.instagram.com/klimastreiklandau/?hl=de" target=""> <img src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" style="margin-right: 20px; margin-top: 20px" alt="Instagram Landau" height="100" width="100"> </a>
+<img src="assets/Bündnis 5.06.21/20210605_113236.jpg" style="margin-right: 20px; margin-top: 20px" alt="Blockade Königsstraße" height="200" width="200">
+<img src="assets/Bündnis 5.06.21/20210605_113456.jpg" style="margin-right: 20px; margin-top: 20px" alt="Blockade Königsstraße" height="200" width="200">
+<img src="assets/Bündnis 5.06.21/20210605_120922.jpg" style="margin-right: 20px; margin-top: 20px" alt="Blockade Königsstraße" height="200" width="200">
+<img src="assets/Bündnis 5.06.21/20210605_121239.jpg" style="margin-right: 20px; margin-top: 20px" alt="Blockade Königsstraße" height="200" width="200">
+<img src="assets/Bündnis 5.06.21/m6Yqngt8.jpeg" style="margin-right: 20px; margin-top: 20px" alt="Blockade Königsstraße" height="200" width="200">
+<img src="assets/Bündnis 5.06.21/xd035Pok.jpeg" style="margin-right: 20px; margin-top: 20px" alt="Blockade Königsstraße" height="200" width="200">  
 </ul>
   </p>
 </details>
