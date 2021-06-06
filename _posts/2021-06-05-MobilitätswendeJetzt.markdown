@@ -65,19 +65,12 @@ in Landau verschiedene Aktions gegen den Ausbau der B10 gestartet.
 <p> </p>
 
 <li> Das Bündnis: hat eine gemeinsame Fahrraddemo vom alten Messplatz über die B10 nach Anweiler am Trifels gemacht.  
-   <details>  
-  <summary>
-   <FONT SIZE="4"><b>Bilder</b></FONT>
-  </summary>
-  <p>
-<ul class="gallery">
+
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/B%C3%BCndnis%205.06.21/2VC31UI0.jpeg?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Fahrraddemo" height="" width=""> 
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/B%C3%BCndnis%205.06.21/QjmBqSiw.jpeg?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Fahrraddemo" height="" width=""> 
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/B%C3%BCndnis%205.06.21/f3ltWRPU.jpeg?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Fahrraddemo" height="" width="">   
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/B%C3%BCndnis%205.06.21/20210605_174242.jpg?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Fahrraddemo" height="" width="">
-<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/B%C3%BCndnis%205.06.21/20210605_165059.jpg?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Fahrraddemo" height="" width="">     
-  </p>
-  </details>
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/B%C3%BCndnis%205.06.21/20210605_165059.jpg?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Fahrraddemo" height="" width="">
 
 <h2> Warum sind wir gegen den Ausbau der B10? </h2>
   <li> Extreme Verlärmung durch zunehmenden induzierten europäischen Schwerlastverkehr
