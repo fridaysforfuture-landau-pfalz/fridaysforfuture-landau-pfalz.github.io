@@ -55,7 +55,7 @@ in Landau verschiedene Aktions gegen den Ausbau der B10 gestartet.
   </summary>
   <p>
 <ul class="gallery">
-<img src="" style="margin-right: 20px; margin-top: 20px" alt="Instagram Landau" height="100" width="100">
+<img src="" style="margin-right: 20px; margin-top: 20px" alt="Aktion FfF Landau" height="100" width="100">
 </ul>
   </p>
 </details>
