@@ -39,7 +39,8 @@ in Landau verschiedene Aktions gegen den Ausbau der B10 gestartet.
   </summary>
   <p>
 <ul class="gallery">
-<a href="https://www.instagram.com/klimastreiklandau/?hl=de" target=""> <img src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" style="margin-right: 20px; margin-top: 20px" alt="Instagram Landau" height="100" width="100"> </a>
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/B%C3%BCndnis%205.06.21/signal-2021-06-05-122409.jpg?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Greenpeace Banner" height="" width="">
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/B%C3%BCndnis%205.06.21/20210605_171803.jpg?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Greenpeace Fahrradfähnchen" height="" width="">  
 </ul>
   </p>
 </details>
@@ -53,7 +54,7 @@ in Landau verschiedene Aktions gegen den Ausbau der B10 gestartet.
   </summary>
   <p>
 <ul class="gallery">
-<a href="https://www.instagram.com/klimastreiklandau/?hl=de" target=""> <img src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" style="margin-right: 20px; margin-top: 20px" alt="Instagram Landau" height="100" width="100"> </a>
+<img src="" style="margin-right: 20px; margin-top: 20px" alt="Instagram Landau" height="100" width="100">
 </ul>
   </p>
 </details>
@@ -84,11 +85,11 @@ in Landau verschiedene Aktions gegen den Ausbau der B10 gestartet.
   
 <h2> Das Problem mit dem BVWP 2030 </h2>
 1. Klimawandel und Naturschutz: Der Klimawandel sowie der Naturschutz und bei der Bedarfsplanüberprüfung Eine zentrale Rolle spielen.  Das vergoldete u.  ein.  für die Prognose der künftigen Verkehrszahlen, die CO2-Emissionen beim Bau und Betrieb und den enormen Ressourceneinsatz beim Neu- und Ausbau, die Zerstörung natürlicher Lebensräume und Biodiversität, die |Versiegelung von Land- bzw.  forstwirtschaftlich genutzten Flächen sowie die Rodung von Bäumen im Vergleich zu neu angepflanzten Jungbäumen. <br>
-    
+    <p> </p>
 2. Verkehrsverlagerung von der Straße auf Schiene und Wasserwege Eine konsequent umgesetzte Verkehrswende braucht weniger motorisierten Individualverkehr und mehr öffentlichen Nah- und Fernverkehr, mehrtransport auf der Schiene sowie eine bessere Fahrradinfrastruktur.  Denn KFZ und LKW-Verkehr belasten das Klima wesentlich mehr.  Der in vielerlei Gestalten geplante Straßenbauprojekte erzeugt zusätzlichen motorisierten Verkehr (sog. „induzierter“ Verkehr).  Dies ist völlig widersinnig. <br>
-
+    <p> </p>
 3. Realistische Schätzung von Nutzen und Kosten Das Nutzen-Kosten-Verhältnis spielt beim BVWP eine zentrale Rolle für die Bewertung der Projekte.  Die 2016 im BVWP geplant und die wesentlichen Kosten weisen oft enormer Steigerungsraten auf.  Viele Straßenbauprojekte wurden bisher außerdem schön gerechnet, wie auf der Kostenseite z.  B. sterben als Freisetzung von CO, beim Bau nicht berücksichtigt und auf der Nutzenseite fälschlicherweise zusätzliche Fahrten bewertet wurden.  Die Kosten der Naturzerstörung werden bisher nicht monetarisiert, sondern bestenfalls angemerkt.  <br>
-
+    <p> </p>
 4. Neubewertung der Einzelprojekte statt Gesamtbeurteilung Bei der 2022 geplanten Bedarfsplanüberprüfung im Rahmen des Bundesverkehrsministeriums eine grundsätzliche Neubewertung kritischer Projekte ab, d.h.  ein ständiges „weiter so wie bisher“ ! Nur eine Neubewertung jedes einzelnen Projekts kann klären, auf welche einzelnen Projekte verzichtet werden kann und muss. <br>
-    
+    <p> </p>
 5. Reale Bürgerbeteiligung Der BVWP 2030 wurde 2016 mit dem Versprechen einer umfassenden Bürgerbeteiligung gestartet.  Die ist nach europäischem Recht zwingend erforderlich und wurde hintergangen.  Die Beteiligungsphase war zu knapp, Einwände wurden mit Textbausteinen bearbeitet, kein einziges Projekt wurde deshalb geändert und Alternativen wurden allgemein nicht beachtet.  This Vorgehen bedeutete einen Schlag ins Gesicht vieler betroffener Bürgerinnen und Bürger.  Wir fordern daher rechtzeitige und echte Bürgerbeteiligung. <br>
