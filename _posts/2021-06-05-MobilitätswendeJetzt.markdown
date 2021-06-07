@@ -11,11 +11,11 @@ categories: Demos
 
 Zum bundesweiten denzentralen Aktionstag "Sozial-und klimagerechte Mobilitätswende jetzt" von <a href="https://wald-statt-asphalt.net/mobilitaetswendejetzt/" target="" >Wald statt Asphalt </a> hat ein Bündnis 
 
-<img src="" style="margin-right: 20px; margin-top: 20px" alt="Logos Bündnis" height="100" width="100">
+<img src="assets/Bündnis 5.06.21/Logos Bündnis.png" alt="Logos Bündnis" height="100%" width="100%">
 
 in Landau verschiedene Aktions gegen den Ausbau der B10 gestartet. 
 
-> Pressemitteilung
+> <a href="assets/Bündnis 5.06.21/Neu2_Wald_statt_Asphalt Einladung_Presse.pdf" target="_blank" >Pressemitteilung</a>
 
 <h2> Was wurde gemacht? </h2> 
 <li> <a href="https://extinctionrebellion.de/og/landau/" target="" >XR Landau:</a> hat den Zugang zur Königsstraße über eine Stunde blockiert und hat im ehemaligen LGS Gelände ein Bannerdrop veranstaltet <br>
