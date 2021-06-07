@@ -1,6 +1,7 @@
 ---
 title:  "News & Presse"
 layout: single
+classes: wide
 permalink: /news
 
 sidebar:
