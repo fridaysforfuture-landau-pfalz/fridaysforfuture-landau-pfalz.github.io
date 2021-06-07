@@ -7,9 +7,9 @@ sidebar:
   title: "Presse"
   nav: "presse"
 
-toc: true
+<!--toc: true
 toc_label: "Übersicht News"
-toc_icon: "align-justify"  
+toc_icon: "align-justify"  -->
 ---
 
 {% for post in site.posts %}
