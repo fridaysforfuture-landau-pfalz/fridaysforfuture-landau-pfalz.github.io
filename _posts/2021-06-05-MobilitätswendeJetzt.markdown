@@ -109,3 +109,5 @@ Bei der 2022 geplanten Bedarfsplanüberprüfung lehnte das Bundesverkehrsministe
 Der BVWP 2030 wurde 2016 mit dem Versprechen einer umfassenden Bürgerbeteiligung gestartet.  Die ist nach europäischem Recht zwingend erforderlich und wurde hintergangen.  Die Beteiligungsphase war zu knapp, Einwände wurden mit Textbausteinen bearbeitet, kein einziges Projekt wurde deshalb wesentlich geändert und Alternativen wurden allgemein nicht beachtet.  Dieses Vorgehen bedeutete einen Schlag ins Gesicht vieler betroffener Bürgerinnen und Bürger.  Wir fordern daher rechtzeitige und echte Bürgerbeteiligung. <br>
     <p> </p>
 Mehr Infos finden Sie auch beim <a href="https://suedpfalz.bund-rlp.de/themen/mensch-umwelt/mobilitaet/strassenbau/b10-durch-den-pfaelzerwald-1/" target="" >BUND</a>    
+<p> </p>
+<p> </p>
