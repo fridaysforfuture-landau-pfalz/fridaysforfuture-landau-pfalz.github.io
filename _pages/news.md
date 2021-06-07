@@ -7,6 +7,7 @@ sidebar:
   title: "Presse"
   nav: "presse"
 
+toc: true
 ---
 
 {% for post in site.posts %}
