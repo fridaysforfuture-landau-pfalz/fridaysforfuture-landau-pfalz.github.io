@@ -15,7 +15,7 @@ Zum bundesweiten denzentralen Aktionstag "Sozial-und klimagerechte Mobilitätswe
 
 in Landau verschiedene Aktions gegen den Ausbau der B10 gestartet. 
 
-> <a href="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/6d445ae57cb341074f244e71b1a9ee7ad685905d/assets/pdf/Neu2_Wald_statt_Asphalt%20Einladung_Presse.pdf" target="_blank" >Pressemitteilung</a>
+> <a href="assets/Bündnis 5.06.21/Neu2_Wald_statt_Asphalt Einladung_Presse.pdf" target="_blank" >Pressemitteilung</a>
 
 <h2> Was wurde gemacht? </h2> 
 <li> <a href="https://extinctionrebellion.de/og/landau/" target="" >XR Landau:</a> hat den Zugang zur Königsstraße über eine Stunde blockiert und hat im ehemaligen LGS Gelände ein Bannerdrop veranstaltet <br>
