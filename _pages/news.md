@@ -15,7 +15,3 @@ sidebar:
     {{ post.content }}
   </article>
 {% endfor %} 
-
-<!--toc: true
-toc_label: "Übersicht News"
-toc_icon: "align-justify" -->
