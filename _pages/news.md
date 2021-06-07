@@ -6,10 +6,6 @@ permalink: /news
 sidebar:
   title: "Presse"
   nav: "presse"
-
-<!--toc: true
-toc_label: "Übersicht News"
-toc_icon: "align-justify" -->
 ---
 
 {% for post in site.posts %}
@@ -19,3 +15,7 @@ toc_icon: "align-justify" -->
     {{ post.content }}
   </article>
 {% endfor %} 
+
+<!--toc: true
+toc_label: "Übersicht News"
+toc_icon: "align-justify" -->
