@@ -8,8 +8,8 @@ sidebar:
   nav: "presse"
 
 toc: true
-toc_label: "Unique Title"
-toc_icon: "cog"  
+toc_label: "Übersicht News"
+toc_icon: "align-justify"  
 ---
 
 {% for post in site.posts %}
