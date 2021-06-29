@@ -6,15 +6,11 @@ date:   2021-06-27 11:00:00 +0200
 categories: Aktion
 
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: /assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Image 1 title caption"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Image 2 title caption"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
+  - url: assets/images/Müllsammelaktion 27.06.21/00bf43bb-058a-4d6a-a203-e6a060419a31.jpg
+    image_path: assets/images/Müllsammelaktion 27.06.21/00bf43bb-058a-4d6a-a203-e6a060419a31.jpg
+  - url: assets/images/Müllsammelaktion 27.06.21/04f3a6d4-13b1-4753-a8dc-af6c3b6b47ea.jpg
+    image_path: /assets/images/Müllsammelaktion 27.06.21/04f3a6d4-13b1-4753-a8dc-af6c3b6b47ea.jpg
+  - url: /assets/images/unslash-gallery-image-3.jpg
     image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     alt: "placeholder image 3"
     title: "Image 3 title caption"
