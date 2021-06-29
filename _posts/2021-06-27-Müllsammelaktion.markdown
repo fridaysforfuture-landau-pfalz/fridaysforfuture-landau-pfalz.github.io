@@ -11,9 +11,13 @@ gallery:
   - url: assets/images/Müllsammelaktion 27.06.21/04f3a6d4-13b1-4753-a8dc-af6c3b6b47ea.jpg
     image_path: /assets/images/Müllsammelaktion 27.06.21/04f3a6d4-13b1-4753-a8dc-af6c3b6b47ea.jpg
   - url: assets/images/Müllsammelaktion 27.06.21/06c3483d-5c59-4dcf-b0a5-ba7a9ac0c947.jpg
-    image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+    image_path: assets/images/Müllsammelaktion 27.06.21/06c3483d-5c59-4dcf-b0a5-ba7a9ac0c947.jpg
   - url: assets/images/Müllsammelaktion 27.06.21/8d071985-6234-4ac2-99e0-c126442a2ca8.jpg
-    image_path: /assets/images/unsplash-gallery-image-3-th.jpg   
+    image_path: assets/images/Müllsammelaktion 27.06.21/8d071985-6234-4ac2-99e0-c126442a2ca8.jpg
+  - url: assets/images/Müllsammelaktion 27.06.21/9b5dddaf-cb44-44b1-8b14-d74da46a90b8.jpg
+    image_path: assets/images/Müllsammelaktion 27.06.21/9b5dddaf-cb44-44b1-8b14-d74da46a90b8.jpg
+  - url: assets/images/Müllsammelaktion 27.06.21/ad523dfa-0c0e-4219-b834-012d873d8065.jpg
+    image_path: assets/images/Müllsammelaktion 27.06.21/ad523dfa-0c0e-4219-b834-012d873d8065.jpg
 ---
 <p> </p>
 
