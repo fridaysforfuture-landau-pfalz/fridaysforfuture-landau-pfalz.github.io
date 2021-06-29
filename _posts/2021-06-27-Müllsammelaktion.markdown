@@ -1,3 +1,10 @@
+---
+layout: splash
+classes: wide
+title:  "Müllsammelaktion 27.06.21"
+date:   2021-06-27 11:00:00 +0200
+categories: Aktion
+
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: /assets/images/unsplash-gallery-image-1-th.jpg
@@ -11,6 +18,8 @@ gallery:
     image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     alt: "placeholder image 3"
     title: "Image 3 title caption"
+---
+<p> </p>
 
 Am Sonntag dem 27.06.2021 fand in Landau, organisiert vom Jugendbeirat, eine Müllsammelaktion statt. Das Ziel war Landau freiwillig wieder ein bisschen sauberer zumachen und Abfalleintrag in die Umwelt, - wie Wiesen, Gebüsche und Gewässer zu minimieren.  
 
