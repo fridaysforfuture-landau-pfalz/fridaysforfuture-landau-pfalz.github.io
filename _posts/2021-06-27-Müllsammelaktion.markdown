@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 classes: wide
 title:  "Müllsammelaktion 27.06.21"
 date:   2021-06-27 11:00:00 +0200
