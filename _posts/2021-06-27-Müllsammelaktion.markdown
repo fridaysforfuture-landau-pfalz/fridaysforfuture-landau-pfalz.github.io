@@ -26,3 +26,4 @@ Ein bemerkenswert großer Teil waren Masken jeglicher Art aber auch Verpackungsm
 Allgemein gilt aber natürlich immer - Müll in der Umwelt kann immer aufgesammlt und ordnungsgrmäß entsorgt werden und nicht nur während einer Müllsammelaktion. Fühl dich verantwortlich und schick uns gerne Bilder von eingesammeltem Müll. 
 
 Hier noch ein paar Bilder als Impression der Aktion.
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
