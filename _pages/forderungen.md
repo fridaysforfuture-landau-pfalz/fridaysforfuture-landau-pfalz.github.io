@@ -61,4 +61,4 @@ Entscheidend für die Einhaltung des 1,5°C-Ziels ist, die Treibhausgasemissione
   
   <p> </p>
 
-<a href="https://fridaysforfuture.de/forderungen/" target="_blank">
+<a href="https://fridaysforfuture.de/forderungen/" target="_blank"</a>
