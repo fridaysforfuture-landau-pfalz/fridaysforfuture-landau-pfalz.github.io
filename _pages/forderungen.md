@@ -43,7 +43,7 @@ Unser <a href="/assets/pdf/ForderungenLandauDez2020.pdf" target="_blank"> aktuel
 
 Die Stadt hat offiziell unser Forderungspapier vorgestellt und überreicht bekommen. Die Umsetzung der Forderungen liegt nun bei der Stadt Landau.
   
-<h1> Forderungen Fridays for Future <h1>
+<h1> Forderungen Fridays for Future </h1>
 Fridays For Future fordert die Einhaltung der Ziele des Pariser Abkommens und des 1,5°C-Ziels. Explizit fordern wir für Deutschland: <br> 
 
 <li> Nettonull 2035 erreichen
