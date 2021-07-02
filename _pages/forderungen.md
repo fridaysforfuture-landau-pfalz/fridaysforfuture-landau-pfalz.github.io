@@ -54,3 +54,5 @@ Entscheidend für die Einhaltung des 1,5°C-Ziels ist, die Treibhausgasemissione
 <li> Das Ende der Subventionen für fossile Energieträger
 <li> 1/4 der Kohlekraft abschalten
 <li> Eine CO2-Steuer auf alle Treibhausgasemissionen. Der Preis für den Ausstoß von Treibhausgasen muss schnell so hoch werden wie die Kosten, die dadurch uns und zukünftigen Generationen entstehen. Laut UBA sind das 180€ pro Tonne CO2
+
+https://fridaysforfuture.de/forderungen/
