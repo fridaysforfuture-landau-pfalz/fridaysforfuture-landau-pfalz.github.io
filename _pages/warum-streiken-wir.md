@@ -16,7 +16,7 @@ sidebar:
 
   <p> </p>
   
-Fridays For Future Deutschland fordert die Regierungen auf Kommunal- Landes- und Bundesebene auf, die Klimakrise als solche zu benennen und sofortige Handlungsinitiative auf allen Ebenen zu ergreifen. Noch haben wir die Chance und damit die Verantwortung, eine Klimakatastrophe abzuwenden. Für den notwendigen Wandel müssen sektorübergreifend grundlegende Veränderungen stattfinden. Vor allem in den Sektoren Energieerzeugung, Wohnen und Bauen, Industrie, Transport und Verkehr sowie Landwirtschaft sind enorme Anstrengungen nötig. Das wirtschaftliche Handeln darf nicht weiterhin planetare Grenzen überschreiten.
+Fridays For Future fordert die Regierungen auf Kommunal- Landes- und Bundesebene auf, die Klimakrise als solche zu benennen und sofortige Handlungsinitiative auf allen Ebenen zu ergreifen. Noch haben wir die Chance und damit die Verantwortung, eine Klimakatastrophe abzuwenden. Für den notwendigen Wandel müssen sektorübergreifend grundlegende Veränderungen stattfinden. Vor allem in den Sektoren Energieerzeugung, Wohnen und Bauen, Industrie, Transport und Verkehr sowie Landwirtschaft sind enorme Anstrengungen nötig. Das wirtschaftliche Handeln darf nicht weiterhin planetare Grenzen überschreiten.
 
   <p> </p>
   
