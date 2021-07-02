@@ -47,7 +47,7 @@ Die Stadt hat offiziell unser Forderungspapier vorgestellt und überreicht bekom
   
 <h1> Forderungen Fridays for Future Deutschland </h1>
 Fridays For Future fordert die Einhaltung der Ziele des Pariser Abkommens und des 1,5°C-Ziels. Explizit fordern wir für Deutschland: <br> 
-
+<p> </p>
 <li> Nettonull 2035 erreichen
 <li> Kohleausstieg bis 2030
 <li> 100% erneuerbare Energieversorgung bis 2035 <br>
@@ -55,6 +55,7 @@ Fridays For Future fordert die Einhaltung der Ziele des Pariser Abkommens und de
 <p> </p>  
   
 Entscheidend für die Einhaltung des 1,5°C-Ziels ist, die Treibhausgasemissionen so schnell wie möglich stark zu reduzieren. Deshalb fordern wir ab sofort: <br>
+<p> </p>
 <li> Das Ende der Subventionen für fossile Energieträger
 <li> 1/4 der Kohlekraft abschalten
 <li> Eine CO2-Steuer auf alle Treibhausgasemissionen. Der Preis für den Ausstoß von Treibhausgasen muss schnell so hoch werden wie die Kosten, die dadurch uns und zukünftigen Generationen entstehen. Laut UBA sind das 180€ pro Tonne CO2 <br>
