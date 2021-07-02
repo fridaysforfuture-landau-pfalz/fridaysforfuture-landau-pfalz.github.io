@@ -42,3 +42,15 @@ Unser <a href="/assets/pdf/ForderungenLandauDez2020.pdf" target="_blank"> aktuel
 <p> </p>
 
 Die Stadt hat offiziell unser Forderungspapier vorgestellt und überreicht bekommen. Die Umsetzung der Forderungen liegt nun bei der Stadt Landau.
+  
+<h1> Forderungen Fridays for Future <h1>
+Fridays For Future fordert die Einhaltung der Ziele des Pariser Abkommens und des 1,5°C-Ziels. Explizit fordern wir für Deutschland: <br> 
+
+<li> Nettonull 2035 erreichen
+<li> Kohleausstieg bis 2030
+<li> 100% erneuerbare Energieversorgung bis 2035
+
+Entscheidend für die Einhaltung des 1,5°C-Ziels ist, die Treibhausgasemissionen so schnell wie möglich stark zu reduzieren. Deshalb fordern wir ab sofort: <br>
+<li> Das Ende der Subventionen für fossile Energieträger
+<li> 1/4 der Kohlekraft abschalten
+<li> Eine CO2-Steuer auf alle Treibhausgasemissionen. Der Preis für den Ausstoß von Treibhausgasen muss schnell so hoch werden wie die Kosten, die dadurch uns und zukünftigen Generationen entstehen. Laut UBA sind das 180€ pro Tonne CO2
