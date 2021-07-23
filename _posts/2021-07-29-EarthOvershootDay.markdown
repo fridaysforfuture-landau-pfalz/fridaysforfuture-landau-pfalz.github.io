@@ -13,3 +13,5 @@ Share Pic <img src=“Link/Pfad hier einfügen“>
 *Wenn es regnen sollte komm trotzdem gerne dazu und unterstützt uns laut zu sein
 <p></p>
 Wenn du noch mehr zum Earth Overshoot Day erfahren möchtest dann besuch doch mal die Seite vom <a href="https://www.overshootday.org/">Overshoot Day</a>.
+
+image: /assets/images/EOD-Plakat.png
