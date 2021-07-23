@@ -8,10 +8,8 @@ Dadurch würden wir auf ein Jahr gerechnet nur noch das 1,1-fache dessen verbrau
 <p></p>
 Um auf diesen Tag aufmerksam zu machen rufen wir als Fridays for Future Landau zu einer aktiven Mahnwache <b>am Stiftsplatz am 29.07 um 10 Uhr</b> auf. Wir werden eine kleines Kunstaktion machen, Reden hören und Musik am Infostand hören. <b>Komm also gerne vorbei </b> und zeig der Regierung zusammen mit uns, dass diese Ressourcenverschwendung wirksam reguliert wrden muss. Wir freuen uns auf dich.
 <p></p>
-Share Pic <img src=“Link/Pfad hier einfügen“>
+Share Pic <img src=“/assets/images/EOD-Plakat.png“>
 <p></p>
 *Wenn es regnen sollte komm trotzdem gerne dazu und unterstützt uns laut zu sein
 <p></p>
 Wenn du noch mehr zum Earth Overshoot Day erfahren möchtest dann besuch doch mal die Seite vom <a href="https://www.overshootday.org/">Overshoot Day</a>.
-
-image: /assets/images/EOD-Plakat.png
