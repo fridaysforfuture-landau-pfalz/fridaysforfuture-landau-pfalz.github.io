@@ -85,7 +85,7 @@ defaults:
       comments: true
       share: false
       related: true
-      toc: true
+      toc: false
 
 plugins:
   - jekyll-include-cache
