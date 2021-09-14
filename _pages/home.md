@@ -4,7 +4,7 @@ layout: splash
 permalink: /
 header:
   image: assets/images/24.9 Globaler Streik/Frontbanner.png
-  
+  <! -- /assets/images/Frontbanner.jpg -->
 ---
 
 <b>Wer sind wir?<b>
@@ -18,4 +18,4 @@ Unsere Tätigkeit konzentriert sich auf die Planung und Durchführung verschiede
 
 Falls du auch etwas zu einer nachhaltigen, lebenswerten Zukunft beitragen willst, freuen wir uns über jegliche Art von Unterstützung!
 
-  /assets/images/Frontbanner.jpg
+  
