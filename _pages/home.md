@@ -3,8 +3,8 @@ title: ""
 layout: splash
 permalink: /
 header:
-  image: /assets/images/Frontbanner.jpg
-
+  image: assets/images/24.9 Globaler Streik/Frontbanner.png
+  
 ---
 
 <b>Wer sind wir?<b>
@@ -17,3 +17,5 @@ Im Dezember 2018 fanden sich auch in Landau begeistere KlimaschützerInnen zusam
 Unsere Tätigkeit konzentriert sich auf die Planung und Durchführung verschiedenster Aktionen im Stadtkern Landaus. Dabei machen wir auf unterschiedliche Problematiken unseres gesellschaftlichen und alltäglichen Handelns und der Tatenlosigkeit der Politik bzgl. der schon jetzt unabwendbaren Klimakatastrophe aufmerksam.
 
 Falls du auch etwas zu einer nachhaltigen, lebenswerten Zukunft beitragen willst, freuen wir uns über jegliche Art von Unterstützung!
+
+  /assets/images/Frontbanner.jpg
