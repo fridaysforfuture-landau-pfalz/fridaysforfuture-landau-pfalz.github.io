@@ -7,8 +7,6 @@ categories: Demos
 ---
 <p> </p>
 
-<h1> Denzentraler Aktionstag #MobilitätswendeJetzt </h1>
-
 Zum bundesweiten denzentralen Aktionstag "Sozial-und klimagerechte Mobilitätswende jetzt" von <a href="https://wald-statt-asphalt.net/mobilitaetswendejetzt/" target="" >Wald statt Asphalt </a> hat ein Bündnis 
 
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/B%C3%BCndnis%205.06.21/Logos%20B%C3%BCndnis.png?raw=true" alt="Logos Bündnis" height="100%" width="100%">
