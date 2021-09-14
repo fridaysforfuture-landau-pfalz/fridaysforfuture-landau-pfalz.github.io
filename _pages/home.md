@@ -18,4 +18,4 @@ Unsere Tätigkeit konzentriert sich auf die Planung und Durchführung verschiede
 
 Falls du auch etwas zu einer nachhaltigen, lebenswerten Zukunft beitragen willst, freuen wir uns über jegliche Art von Unterstützung!
 
-<! -- /assets/images/Frontbanner.jpg -->  
+<!--/assets/images/Frontbanner.jpg -->  
