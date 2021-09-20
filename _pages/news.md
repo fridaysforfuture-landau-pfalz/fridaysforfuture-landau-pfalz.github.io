@@ -2,6 +2,7 @@
 title:  "News & Presse"
 layout: single
 permalink: /news
+classes: wide
 
 sidebar:
   title: "Presse"
