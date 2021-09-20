@@ -10,14 +10,8 @@ gallery:
     image_path: assets/images/Plakataktion 18.9.21/IMG_20210919_131024_349.jpg
   - url: assets/images/Plakataktion 18.9.21/Screenshot_20210919-131107_Gallery (2).jpg
     image_path: assets/images/Plakataktion 18.9.21/Screenshot_20210919-131107_Gallery (2).jpg
-  - url: assets/images/Plakataktion 18.9.21/signal-2021-09-19-100552 (1).jpg
-    image_path: assets/images/Plakataktion 18.9.21/signal-2021-09-19-100552 (1).jpg
   - url: assets/images/Plakataktion 18.9.21/signal-2021-09-19-100552 (3).jpg
     image_path: assets/images/Plakataktion 18.9.21/signal-2021-09-19-100552 (3).jpg
-  - url: assets/images/Plakataktion 18.9.21/signal-2021-09-19-100552 (4).jpg
-    image_path: assets/images/Plakataktion 18.9.21/signal-2021-09-19-100552 (4).jpg
-  - url: assets/images/Plakataktion 18.9.21/signal-2021-09-19-100552.jpg
-    image_path: assets/images/Plakataktion 18.9.21/signal-2021-09-19-100552.jpg
   - url: assets/images/Plakataktion 18.9.21/Plakataktion 1.png
     image_path: assets/images/Plakataktion 18.9.21/Plakataktion 1.png 
   - url: assets/images/Plakataktion 18.9.21/Plakataktion 2.png
