@@ -18,7 +18,7 @@ permalink: /kontakt
 </ul>
 <!--https://github.com/edent/SuperTinyIcons-->
 
-Sie können uns gerne über das Kontaktformular oder direkt an <b>klimastreik-landau@gmx.de</b> schreiben.
+Sie können uns gerne über das Kontaktformular oder direkt an <b>klimastreik-landau@gmx.de</b> schreiben. <br>
 Wenn Sie das Kontaktformular nutzen, geben Sie bitte eine Kontaktmöglichkeit an, damit wir Ihnen antworten können.
 
 <style>
