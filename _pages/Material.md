@@ -119,7 +119,7 @@ Hier findest du Ideen für Demosprüche, Vorschläge für dein nächstes Demopla
   <p> </p> 
   
 <a name="Demoschilder"> </a>
-  
+  <b> Demoschilder: </b> <br>
   {% include gallery layout="half" %}
   
   <p> </p>
