@@ -7,6 +7,9 @@ categories: Demos
 ---
 
 <b> Am 24.9 ist der nächste globale Klimastreik von FridaysforFuture </b> <br>
+
+<img src="assets/images/24.9 Globaler Streik/SharePic.PNG" alt="Logos Bündnis" height="100%" width="100%">
+
 Im ganzen Land und auf der ganzen Welt gehen wir am 24. September auf die Straßen – für ein Wandel in der Politik, für Klimagerechtigkeit.
 Auch in Landau werden wir an diesem Tag wieder eine Demo vom Uniparkplatz bis zum Marktplatz machen. 
 Das Datum ist nicht zufällig gewählt, denn zwei Tage später ist die Bundestagswahl. Und diese ist entscheidend - diese Wahl werden nicht nur die üblichen Parteien gewählt 
