@@ -28,6 +28,8 @@ Wenn Sie das Kontaktformular nutzen, geben Sie bitte eine Kontaktmöglichkeit an
   .background-color: green;
 </style>
 <form action="https://formspree.io/f/xgeronze" method="POST" class="form-container">
+  <label>Emailadresse:</label><br />
+  <input type="text" name="Emailadresse" />
   <label>Betreff:</label><br />
   <input type="text" name="Betreff" />
   <label>Ihre Nachricht:</label><br />
