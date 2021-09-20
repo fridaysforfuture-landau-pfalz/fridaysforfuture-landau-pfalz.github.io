@@ -20,7 +20,7 @@ gallery:
     image_path: assets/images/Plakataktion 18.9.21/Plakataktion 3.png
   - url: assets/images/Plakataktion 18.9.21/Plakataktion 4.png
     image_path: assets/images/Plakataktion 18.9.21/Plakataktion 4.png
- - url: assets/images/Plakataktion 18.9.21/Plakataktion 5.png
+  - url: assets/images/Plakataktion 18.9.21/Plakataktion 5.png
     image_path: assets/images/Plakataktion 18.9.21/Plakataktion 5.png
 ---
 
