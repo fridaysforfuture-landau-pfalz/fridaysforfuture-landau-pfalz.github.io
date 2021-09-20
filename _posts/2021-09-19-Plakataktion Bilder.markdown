@@ -8,8 +8,6 @@ categories: Aktion
 gallery:
   - url: assets/images/Plakataktion 18.9.21/IMG_20210919_131024_349.jpg
     image_path: assets/images/Plakataktion 18.9.21/IMG_20210919_131024_349.jpg
-
-gallery2:
   - url: assets/images/Plakataktion 18.9.21/Screenshot_20210919-131107_Gallery (2).jpg
     image_path: assets/images/Plakataktion 18.9.21/Screenshot_20210919-131107_Gallery (2).jpg
   - url: assets/images/Plakataktion 18.9.21/signal-2021-09-19-100552 (3).jpg
@@ -31,5 +29,4 @@ Am 18. September standen und saßen wir mit 15 Aktivisten in der Landauer Innens
 <p></p>
 
 Hier noch ein paar Bilder als Einblick in die Aktion. <br>
-{% include gallery %} <br>
-{% include gallery2 layout="half" %}
+{% include gallery layout="half" %}
