@@ -31,5 +31,5 @@ Am 18. September standen und saßen wir mit 15 Aktivisten in der Landauer Innens
 <p></p>
 
 Hier noch ein paar Bilder als Einblick in die Aktion. <br>
-{% include gallery2 %}
-{% include gallery layout="half" %}
+{% include gallery %}
+{% include gallery2 layout="half" %}
