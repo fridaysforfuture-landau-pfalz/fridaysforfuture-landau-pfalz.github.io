@@ -18,6 +18,17 @@ gallery:
     image_path: assets/images/Plakataktion 18.9.21/signal-2021-09-19-100552 (4).jpg
   - url: assets/images/Plakataktion 18.9.21/signal-2021-09-19-100552.jpg
     image_path: assets/images/Plakataktion 18.9.21/signal-2021-09-19-100552.jpg
+  - url: assets/images/Plakataktion 18.9.21/Plakataktion 1.png
+    image_path: assets/images/Plakataktion 18.9.21/Plakataktion 1.png 
+  - url: assets/images/Plakataktion 18.9.21/Plakataktion 2.png
+    image_path: assets/images/Plakataktion 18.9.21/Plakataktion 2.png
+  - url: assets/images/Plakataktion 18.9.21/Plakataktion 3.png
+    image_path: assets/images/Plakataktion 18.9.21/Plakataktion 3.png
+  - url: assets/images/Plakataktion 18.9.21/Plakataktion 4.png
+    image_path: assets/images/Plakataktion 18.9.21/Plakataktion 4.png
+ - url: assets/images/Plakataktion 18.9.21/Plakataktion 5.png
+    image_path: assets/images/Plakataktion 18.9.21/Plakataktion 5.png
+    
 ---
 
 Am 18. September standen und saßen wir mit 15 Aktivisten in der Landauer Innenstadt verteilt. Zwischen den vielen Wahlständen der verschiedenen Partein und den vielen bummelden Menschen, haben wir ganz leise mit Plakaten auf die Dringlichkeit einer effektiven Klimapolitik und die davon absurd abweichenden Parteiprogramme aufmerksam gemacht. Neben viel passiver Zustimmmung von Passanten, haben wir uns auch sehr über die wohlwollenden Gespräche und die Diskussionen mit Interessierten und Menschen, die eine andere persönliche Sicht auf die Welt haben, gefreut. <br>
