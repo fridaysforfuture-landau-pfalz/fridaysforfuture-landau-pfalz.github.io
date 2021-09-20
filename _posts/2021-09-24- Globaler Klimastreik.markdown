@@ -8,7 +8,7 @@ categories: Demos
 
 <b> Am 24.9 ist der nächste globale Klimastreik von FridaysforFuture </b> <br>
 
-<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/24.9%20Globaler%20Streik/SharePic.PNG?raw=true" alt="Logos Bündnis" height="100%" width="100%">
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/24.9%20Globaler%20Streik/SharePic.PNG?raw=true" alt="SharePic 24.9" height="50%" width="50%">
 
 Im ganzen Land und auf der ganzen Welt gehen wir am 24. September auf die Straßen – für ein Wandel in der Politik, für Klimagerechtigkeit.
 Auch in Landau werden wir an diesem Tag wieder eine Demo vom Uniparkplatz bis zum Marktplatz machen. 
