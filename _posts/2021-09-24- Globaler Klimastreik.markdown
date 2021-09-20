@@ -12,5 +12,6 @@ categories: Demos
 
 Im ganzen Land und auf der ganzen Welt gehen wir am 24. September auf die Straßen – für ein Wandel in der Politik, für Klimagerechtigkeit. <br>
 Auch in Landau werden wir an diesem Tag wieder eine Demo vom Alten Messplatz, einmal im Kreis, zurück zum Alten Messplatz machen. Start ist um 12:05 Uhr auf dem Alten Messplatz mit Musik. Nach dem Demozug dürfen wir einige Reden hören und noch für ca. 1 Stunde Live-Musik genießen. - es lohnt sich also bis zum Ende zu bleiben. <br>
+<p></p>
 Das Datum ist nicht zufällig gewählt, denn zwei Tage später ist die Bundestagswahl. Und diese ist entscheidend - diese Wahl werden nicht nur die üblichen Parteien gewählt 
 sondern auch einer der Kanzlerkandidaten*innen. Das Wahlergebiniss und die dann in zukunft regierenden Parteien sind die letzten, die durch strikte Klimaschutzmaßen und Regelungen die Klimawandelfolgen abschwächen können. Deshalb wollen wir auf euch zählen - geht fürs Klima wählen und kommt am 24. zur Demo! Lasst uns gemeinsam für eine gerechte und konsequente Klimapolitik aufstehen.
