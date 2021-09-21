@@ -42,6 +42,7 @@ presse:
 aktion:
   - title: "Aktionen 2021"
     children:
+      - title: "- 19.09.2021 Plakataktion" 
       - title: "- 29.07.2021 Earth Overshoot Day"
       - title: "- 27.06.2021 Müllsammelaktion"
       - title: "- 19.03.2021 Globaler Klimastreik Fahrraddemo"
