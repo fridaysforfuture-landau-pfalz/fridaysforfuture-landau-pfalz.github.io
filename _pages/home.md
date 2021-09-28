@@ -69,14 +69,9 @@ header:
 <a class="button1" href="https://fridaysforfuture-landau.de/kontakt/impressum"
        target="" style="color: white" >Termine</a>       
        
-[Default Button Text](#link){: .btn}
-[Primary Button Text](#link){: .btn .btn--primary}
-[Success Button Text](#link){: .btn .btn--success}
-[Warning Button Text](#link){: .btn .btn--warning}
-[Danger Button Text](#link){: .btn .btn--danger}
-[Info Button Text](#link){: .btn .btn--info}
-[Inverse Button](#link){: .btn .btn--inverse}
-[Light Outline Button](#link){: .btn .btn--light-outline}
+[News](#link){: .btn .btn--success}
+[Termine](#link){: .btn .btn--success}
+[Kontakt](#link){: .btn .btn--success}
 
 <p> </p>
 
