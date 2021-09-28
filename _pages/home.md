@@ -63,7 +63,6 @@ header:
   display: inline-block;
   font-size: 24px;
   margin: 0px 10px;
-  float: left !important;
   cursor: pointer;
   width: 30%;
 }
@@ -73,7 +72,8 @@ header:
 
 <a class="button3" href="https://fridaysforfuture-landau.de/kontakt"
        target="" style="color: white" >Kontakt</a>       
-       
+
+<br>
 <p> </p>
 
 <b>Wer sind wir?<b>
