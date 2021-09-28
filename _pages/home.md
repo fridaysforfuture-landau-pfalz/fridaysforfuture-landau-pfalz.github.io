@@ -18,18 +18,17 @@ header:
   text-decoration: none;
   display: inline-block;
   font-size: 24px;
-  margin: ;
+  margin: 4px 2px;
   cursor: pointer;
   width: 30%;
 }
 
 .button1 {background-color: #4CAF50;} /* Green */
-</style>
 
 <a class="button1" href="https://fridaysforfuture-landau.de/kontakt/impressum"
        target="" style="color: white" >Kontakt</a>
        
-.button1 {
+.button2 {
   border: none;
   color: white;
   padding: 15px 15px;
