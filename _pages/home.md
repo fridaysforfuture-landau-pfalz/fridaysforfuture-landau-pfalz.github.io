@@ -7,6 +7,70 @@ header:
   
 ---
 
+<p> </p>
+
+<style>
+.button1 {
+  border: none;
+  color: white;
+  padding: 15px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 24px;
+  margin: 4px 2px;
+  cursor: pointer;
+  width: 30%;
+}
+
+.button1 {background-color: #4CAF50;} /* Green */
+</style>
+
+<a class="button1" href="https://fridaysforfuture-landau.de/kontakt/impressum"
+       target="" style="color: white" >Kontakt</a>
+       
+<style>
+.button1 {
+  border: none;
+  color: white;
+  padding: 15px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 24px;
+  margin: 4px 2px;
+  cursor: pointer;
+  width: 30%;
+}
+
+.button1 {background-color: #4CAF50;} /* Green */
+</style>
+
+<a class="button1" href="https://fridaysforfuture-landau.de/kontakt/impressum"
+       target="" style="color: white" >News</a>
+       
+<style>
+.button1 {
+  border: none;
+  color: white;
+  padding: 15px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 24px;
+  margin: 4px 2px;
+  cursor: pointer;
+  width: 30%;
+}
+
+.button1 {background-color: #4CAF50;} /* Green */
+</style>
+
+<a class="button1" href="https://fridaysforfuture-landau.de/kontakt/impressum"
+       target="" style="color: white" >Termine</a>       
+       
+<p> </p>
+
 <b>Wer sind wir?<b>
 
 Klimastreik Landau ist eine Ortsgruppe von Fridays for Future. Wir kämpfen durch politisches und gesellschaftliches Engagement für mehr Klimaschutz und Klimagerechtigkeit auch in Landau. Wir organisieren Gespräche mit PolitikerInnen, stellen Forderungen auf und planen Demos und andere Aktionen.
