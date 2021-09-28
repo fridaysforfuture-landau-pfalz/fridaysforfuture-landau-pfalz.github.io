@@ -25,9 +25,12 @@ header:
 
 .button1 {background-color: #4CAF50;} /* Green */
 
+</style>  
+  
 <a class="button1" href="https://fridaysforfuture-landau.de/kontakt/impressum"
        target="" style="color: white" >Kontakt</a>
-       
+
+<style>
 .button2 {
   border: none;
   color: white;
@@ -43,9 +46,12 @@ header:
 
 .button2 {background-color: #4CAF50;} /* Green */
 
+</style>    
+  
 <a class="button2" href="https://fridaysforfuture-landau.de/kontakt/impressum"
        target="" style="color: white" >News</a>
-       
+
+<style>
 .button3 {
   border: none;
   color: white;
@@ -61,6 +67,8 @@ header:
 
 .button3 {background-color: #4CAF50;} /* Green */
 </style>
+
+</style>  
 
 <a class="button3" href="https://fridaysforfuture-landau.de/kontakt/impressum"
        target="" style="color: white" >Termine</a>       
