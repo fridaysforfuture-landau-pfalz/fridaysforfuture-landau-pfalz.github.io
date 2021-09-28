@@ -18,7 +18,7 @@ header:
   text-decoration: none;
   display: inline-block;
   font-size: 24px;
-  margin: 4px 2px;
+  margin: auto;
   cursor: pointer;
   width: 30%;
 }
@@ -39,7 +39,7 @@ header:
   text-decoration: none;
   display: inline-block;
   font-size: 24px;
-  margin: 4px 2px;
+  margin: auto;
   cursor: pointer;
   width: 30%;
 }
@@ -60,7 +60,7 @@ header:
   text-decoration: none;
   display: inline-block;
   font-size: 24px;
-  margin: 4px 2px;
+  margin: auto;
   cursor: pointer;
   width: 30%;
 }
@@ -75,6 +75,7 @@ header:
 [Termine](#link){: .btn .btn--success}
 [Kontakt](#link){: .btn .btn--success}
 
+2px 4px
 <p> </p>
 
 <b>Wer sind wir?<b>
