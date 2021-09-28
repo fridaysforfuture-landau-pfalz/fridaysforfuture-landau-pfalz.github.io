@@ -28,8 +28,8 @@ header:
 
 </style>  
   
-<a class="button1" href="https://fridaysforfuture-landau.de/kontakt/impressum"
-       target="" style="color: white" >Kontakt</a>
+<a class="button1" href="https://fridaysforfuture-landau.de/news"
+       target="" style="color: white" >News</a>
 
 <style>
 .button2 {
@@ -50,8 +50,8 @@ header:
 
 </style>    
   
-<a class="button2" href="https://fridaysforfuture-landau.de/kontakt/impressum"
-       target="" style="color: white" >News</a>
+<a class="button2" href="https://fridaysforfuture-landau.de/termine"
+       target="" style="color: white" >Termine</a>
 
 <style>
 .button3 {
@@ -71,13 +71,9 @@ header:
 .button3 {background-color: #4CAF50;} /* Green */
 </style> 
 
-<a class="button3" href="https://fridaysforfuture-landau.de/kontakt/impressum"
-       target="" style="color: white" >Termine</a>       
+<a class="button3" href="https://fridaysforfuture-landau.de/kontakt"
+       target="" style="color: white" >Kontakt</a>       
        
-[News](#link){: .btn .btn--success}
-[Termine](#link){: .btn .btn--success}
-[Kontakt](#link){: .btn .btn--success}
-
 <p> </p>
 
 <b>Wer sind wir?<b>
