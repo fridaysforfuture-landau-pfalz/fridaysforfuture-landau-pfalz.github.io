@@ -18,7 +18,7 @@ header:
   text-decoration: none;
   display: inline-block;
   font-size: 24px;
-  margin: auto;
+  margin: 2px 4px;
   float: left !important;
   cursor: pointer;
   width: 30%;
@@ -40,7 +40,7 @@ header:
   text-decoration: none;
   display: inline-block;
   font-size: 24px;
-  margin: auto;
+  margin: 2px 4px;
   float: left !important;
   cursor: pointer;
   width: 30%;
@@ -62,7 +62,7 @@ header:
   text-decoration: none;
   display: inline-block;
   font-size: 24px;
-  margin: auto;
+  margin: 2px 4px;
   cursor: pointer;
   width: 30%;
 }
