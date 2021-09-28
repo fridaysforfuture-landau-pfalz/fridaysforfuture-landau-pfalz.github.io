@@ -66,9 +66,7 @@ header:
 }
 
 .button3 {background-color: #4CAF50;} /* Green */
-</style>
-
-</style>  
+</style> 
 
 <a class="button3" href="https://fridaysforfuture-landau.de/kontakt/impressum"
        target="" style="color: white" >Termine</a>       
