@@ -3,7 +3,7 @@ title: ""
 layout: splash
 permalink: /
 header:
-  image: /assets/images/Frontbanner.jpg
+  image: /assets/images/Website-Banner-neu.png
   
 ---
 
