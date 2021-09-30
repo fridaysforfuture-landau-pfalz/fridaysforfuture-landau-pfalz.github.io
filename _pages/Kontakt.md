@@ -3,7 +3,7 @@ title:  "Kontakt"
 layout: single
 permalink: /kontakt
 ---
-<b> Unsere Sozial Media Kanäle:<b>
+<b> Unsere Social Media Kanäle:<b>
 <ul class="gallery">
   
 <a href="https://www.instagram.com/klimastreiklandau/?hl=de" target=""> <img src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" style="margin-right: 20px; margin-top: 20px" alt="Instagram Landau" height="100" width="100"> </a>
