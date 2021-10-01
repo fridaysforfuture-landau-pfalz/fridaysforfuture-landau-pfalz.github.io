@@ -6,22 +6,45 @@ date:   2021-09-24 12:05:00 +0200
 categories: Demo
 
 gallery:
-  - url: assets/images/Plakataktion 18.9.21/IMG_20210919_131024_349.jpg
-    image_path: assets/images/Plakataktion 18.9.21/IMG_20210919_131024_349.jpg
-  - url: assets/images/Plakataktion 18.9.21/Screenshot_20210919-131107_Gallery (2).jpg
-    image_path: assets/images/Plakataktion 18.9.21/Screenshot_20210919-131107_Gallery (2).jpg
-  - url: assets/images/Plakataktion 18.9.21/signal-2021-09-19-100552 (3).jpg
-    image_path: assets/images/Plakataktion 18.9.21/signal-2021-09-19-100552 (3).jpg
-  - url: assets/images/Plakataktion 18.9.21/Plakataktion 1.png
-    image_path: assets/images/Plakataktion 18.9.21/Plakataktion 1.png 
-  - url: assets/images/Plakataktion 18.9.21/Plakataktion 2.png
-    image_path: assets/images/Plakataktion 18.9.21/Plakataktion 2.png
-  - url: assets/images/Plakataktion 18.9.21/Plakataktion 3.png
-    image_path: assets/images/Plakataktion 18.9.21/Plakataktion 3.png
-  - url: assets/images/Plakataktion 18.9.21/Plakataktion 4.png
-    image_path: assets/images/Plakataktion 18.9.21/Plakataktion 4.png
-  - url: assets/images/Plakataktion 18.9.21/Plakataktion 5.png
-    image_path: assets/images/Plakataktion 18.9.21/Plakataktion 5.png
+  - url: assets/images/24.9 Globaler Streik/20210924_120806.jpg
+    image_path: assets/images/24.9 Globaler Streik/20210924_120806.jpg
+    
+  - url: assets/images/24.9 Globaler Streik/20210924_132520 - Kopie.jpg
+    image_path: assets/images/24.9 Globaler Streik/20210924_132520 - Kopie.jpg
+    
+  - url: assets/images/24.9 Globaler Streik/20210924_132615.jpg
+    image_path: assets/images/24.9 Globaler Streik/20210924_132615.jpg
+    
+  - url: assets/images/24.9 Globaler Streik/DSC02182.JPG
+    image_path: assets/images/24.9 Globaler Streik/DSC02182.JPG
+    
+  - url: assets/images/24.9 Globaler Streik/DSC02379.JPG
+    image_path: assets/images/24.9 Globaler Streik/DSC02379.JPG
+    
+  - url: assets/images/24.9 Globaler Streik/DSC02289.JPG
+    image_path: assets/images/24.9 Globaler Streik/DSC02289.JPG
+    
+  - url: assets/images/24.9 Globaler Streik/DSC02210.JPG
+    image_path: assets/images/24.9 Globaler Streik/DSC02210.JPG
+    
+  - url: assets/images/24.9 Globaler Streik/DSC02404.JPG
+    image_path: assets/images/24.9 Globaler Streik/DSC02404.JPG
+    
+  - url: assets/images/24.9 Globaler Streik/DSC02577.JPG
+    image_path: assets/images/24.9 Globaler Streik/DSC02577.JPG
+    
+  - url: assets/images/24.9 Globaler Streik/DSC02210.JPG
+    image_path: assets/images/24.9 Globaler Streik/DSC02210.JPG
+    
+  - url: assets/images/24.9 Globaler Streik/DSC02544.JPG
+    image_path: assets/images/24.9 Globaler Streik/DSC02544.JPG
+  
+  - url:  assets/images/24.9 Globaler Streik/DSC02525.JPG
+    image_path:  assets/images/24.9 Globaler Streik/DSC02525.JPG
+       
+    hochkant
+  - url: assets/images/24.9 Globaler Streik/DSC02205.jpg
+    image_path: assets/images/24.9 Globaler Streik/DSC02205.jpg
 
 ---
 Am 24. September waren wir als Fridays for Future mit dem 8ten globalen Klimastreik auf den Straßen, um zwei Tage vor der Bundestagswahl die Bevölkerung noch mal an die Dringlichkeit, Klima zu wählen, zu erinnern. <br>
