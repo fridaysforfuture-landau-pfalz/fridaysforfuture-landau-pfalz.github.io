@@ -31,4 +31,5 @@ Neben dem Demozug gab es bei uns in Landau auch Live-Musik und Reden auf einer g
 Danke dass ihr alle da wart. 
 <p></p>
 Hier sind noch einige schöne Einblicke in die Demo:
-Gallerie
+{% include gallery layout="half" %}
+
