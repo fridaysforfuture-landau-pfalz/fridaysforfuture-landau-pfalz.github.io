@@ -30,6 +30,6 @@ Auch dieses Mal war der Klimastreik wieder ein großer Erfolg für sich. In Deut
 Neben dem Demozug gab es bei uns in Landau auch Live-Musik und Reden auf einer großen Bühne direkt auf dem Alten Messplatz. Es gab Musik, die Sonne schien, viele schöne Schilder und Banner waren da und es wurde gelacht und getanzt. Und es waren bei weitem nicht nur Studenten*innen da, sondern es waren alle Altersgruppen vertreten – von Rentner*innen über Arbeitnehmer*innen bis zu sehr lauten Grundschulschüler*innen. – den der Klimawandel und Klimagerechtigkeit betrifft uns alle und umso besser ist es, dass alle mit auf die Straße kommen. <br>
 Danke dass ihr alle da wart. 
 <p></p>
-Hier sind noch einige schöne Einblicke in die Demo:
+Hier sind noch einige schöne Einblicke in die Demo: <br>
 {% include gallery layout="half" %}
 
