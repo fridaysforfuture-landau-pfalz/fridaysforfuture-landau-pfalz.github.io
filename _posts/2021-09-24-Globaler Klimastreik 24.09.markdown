@@ -7,42 +7,29 @@ categories: Demo
 
 gallery:
   - url: assets/images/24.9 Globaler Streik/20210924_120806.jpg
-    image_path: assets/images/24.9 Globaler Streik/20210924_120806.jpg
-    
+    image_path: assets/images/24.9 Globaler Streik/20210924_120806.jpg    
   - url: assets/images/24.9 Globaler Streik/20210924_132520 - Kopie.jpg
-    image_path: assets/images/24.9 Globaler Streik/20210924_132520 - Kopie.jpg
-    
+    image_path: assets/images/24.9 Globaler Streik/20210924_132520 - Kopie.jpg    
   - url: assets/images/24.9 Globaler Streik/20210924_132615.jpg
-    image_path: assets/images/24.9 Globaler Streik/20210924_132615.jpg
-    
+    image_path: assets/images/24.9 Globaler Streik/20210924_132615.jpg    
   - url: assets/images/24.9 Globaler Streik/DSC02182.JPG
-    image_path: assets/images/24.9 Globaler Streik/DSC02182.JPG
-    
+    image_path: assets/images/24.9 Globaler Streik/DSC02182.JPG    
   - url: assets/images/24.9 Globaler Streik/DSC02379.JPG
-    image_path: assets/images/24.9 Globaler Streik/DSC02379.JPG
-    
+    image_path: assets/images/24.9 Globaler Streik/DSC02379.JPG    
   - url: assets/images/24.9 Globaler Streik/DSC02289.JPG
-    image_path: assets/images/24.9 Globaler Streik/DSC02289.JPG
-    
+    image_path: assets/images/24.9 Globaler Streik/DSC02289.JPG    
   - url: assets/images/24.9 Globaler Streik/DSC02210.JPG
-    image_path: assets/images/24.9 Globaler Streik/DSC02210.JPG
-    
+    image_path: assets/images/24.9 Globaler Streik/DSC02210.JPG    
   - url: assets/images/24.9 Globaler Streik/DSC02404.JPG
-    image_path: assets/images/24.9 Globaler Streik/DSC02404.JPG
-    
+    image_path: assets/images/24.9 Globaler Streik/DSC02404.JPG    
   - url: assets/images/24.9 Globaler Streik/DSC02577.JPG
-    image_path: assets/images/24.9 Globaler Streik/DSC02577.JPG
-    
+    image_path: assets/images/24.9 Globaler Streik/DSC02577.JPG    
   - url: assets/images/24.9 Globaler Streik/DSC02210.JPG
     image_path: assets/images/24.9 Globaler Streik/DSC02210.JPG
-    
   - url: assets/images/24.9 Globaler Streik/DSC02544.JPG
     image_path: assets/images/24.9 Globaler Streik/DSC02544.JPG
-  
   - url:  assets/images/24.9 Globaler Streik/DSC02525.JPG
     image_path:  assets/images/24.9 Globaler Streik/DSC02525.JPG
-       
-    hochkant
   - url: assets/images/24.9 Globaler Streik/DSC02205.jpg
     image_path: assets/images/24.9 Globaler Streik/DSC02205.jpg
 
