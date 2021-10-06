@@ -12,7 +12,7 @@ festgenommene Akivistin, die durch Falschaussagen von Polizisten, gerichtliche F
 zahlreicher Beweise für Ellas Unschuld weiterhin in Untersuchungshaft sitzen muss. <br>
 <p></p>
 Die Doku kann kostenlos auf Youtube angeguckt werden. 
-{% include video id="XzO9vIUHCHM&t=1s" provider="youtube" %}
+{% include video id="XzO9vIUHCHM" provider="youtube" %} https://youtu.be/XzO9vIUHCHM
 https://www.youtube.com/watch?v=XzO9vIUHCHM&t=1s
 <p></p>
 <p></p>
