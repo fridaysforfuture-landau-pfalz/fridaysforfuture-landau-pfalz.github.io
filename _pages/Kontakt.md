@@ -19,7 +19,14 @@ permalink: /kontakt
 <!--https://github.com/edent/SuperTinyIcons-->
 
 Sie können uns gerne über das Kontaktformular oder direkt an <b>klimastreik-landau@gmx.de</b> schreiben. <br>
-
+  
+<p> </p>    
+  
+<b>Newsletter:</b> <br>
+Du hast Interesse an Veranstaltungen und Aktionen mit und um Fridays for Future Landau? Dann melde dich gerne über das Kontaktformula um in den Email Verteiler zu kommen.
+  
+<p> </p>    
+  
 <style>
   .form-container { max-width: 100%; }
   .form-container input { position: relative; top: 0; left: 0; width: 100%; height: 50px; padding: 0 ; }
@@ -59,8 +66,3 @@ Sie können uns gerne über das Kontaktformular oder direkt an <b>klimastreik-la
        target="" style="color: white" >Impressum</a>
        
 <p> </p>
-
-<b>Newsletter:</b> <br>
-Du hast Interesse an Veranstaltungen und Aktionen mit und um Fridays for Future Landau? Dann melde dich gerne über das Kontaktformula um in den Email Verteiler zu kommen.
-  
-<p> </p>  
