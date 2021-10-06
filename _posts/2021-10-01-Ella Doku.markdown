@@ -1,0 +1,26 @@
+---
+layout: single
+classes: 
+title:  "Ella Doku"
+date:   2021-10-01 12:00:00 +0200
+categories: Veranstaltungen
+---
+
+Am 01.10 wurde die Doku "Ella - von den Lügen einer Staatsmacht, die einschüchtern und verschleiern will" veröffentlicht und an über 100 Orten zeitgleich uraufgeführt. Die Doku 
+behandelt die Festnahme und Verurteilung von der "Unbekannte Weibliche Person Eins" aka. "Ella" - eine bei der Räumung des Dannröderwaldes
+festgenommene Akivistin, die durch Falschaussagen von Polizisten, gerichtliche Fehlentscheiungen und politischen Druck als Abschreckung gegen Waldblockaden dienen soll und trotz 
+zahlreicher Beweise für Ellas Unschuld weiterhin in Untersuchungshaft sitzen muss. <br>
+<p></p>
+Die Doku kann kostenlos auf Youtube angeguckt werden. 
+{% include video id="watch?v=XzO9vIUHCHM&t=1s" provider="youtube" %}
+https://www.youtube.com/watch?v=XzO9vIUHCHM&t=1s
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+Quelle:
+https://wald-statt-asphalt.net/free-ella/
