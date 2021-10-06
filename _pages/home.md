@@ -86,3 +86,12 @@ Im Dezember 2018 fanden sich auch in Landau begeistere KlimaschützerInnen zusam
 Unsere Tätigkeit konzentriert sich auf die Planung und Durchführung verschiedenster Aktionen im Stadtkern Landaus. Dabei machen wir auf unterschiedliche Problematiken unseres gesellschaftlichen und alltäglichen Handelns und der Tatenlosigkeit der Politik bzgl. der schon jetzt unabwendbaren Klimakatastrophe aufmerksam.
 
 Falls du auch etwas zu einer nachhaltigen, lebenswerten Zukunft beitragen willst, freuen wir uns über jegliche Art von Unterstützung!
+
+<p> </p>
+  
+  <h2> Awareness </h2>
+Egal ob bei Demos, Diskussionen oder Orgaarbeit, Awareness (Wohlbefinden) und sich gegenseitig zu akzeptieren ist immer wichtig. Deshalb findest du bei jeder Demo von FFF 
+  in Landau eine/n Ordner:in ganz hinten am Demozug für Awarenessthemen. Aber auch alle anderen Ordner:innen sind immer bei Problemen gerne bereit zu helfen. <br>
+  Für beinträchtigte Menschen, die gerne an Aktionen oder Plena von uns teilnehmen würden, aber durch ihre Beeinträchtigung daran gehindert werden - wendet euch gerne rechtzeitig über <a href="klimastreik-landau@gmx.de" target="_blank" >Email</a> an uns und wir finden eine Lösung, damit alle mitmachen können. 
+  
+  
