@@ -50,6 +50,10 @@ in Landau verschiedene Aktions gegen den Ausbau der B10 gestartet.
 
 <p> </p>
 
+<li> FridaysforFuture Landau: wir haben unsere Aktion kurzfristig abgebrochen, da das Ergebnis nicht die erhoffte Reaktion und Zustimmung bekommen hätte.  <br>
+
+<p> </p>
+
 <li> Das Bündnis: hat eine gemeinsame Fahrraddemo vom alten Messplatz über die B10 nach Anweiler am Trifels gemacht.  
 <details>  
   <summary>
