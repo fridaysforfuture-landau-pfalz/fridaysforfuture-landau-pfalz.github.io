@@ -87,6 +87,11 @@ Unsere Tätigkeit konzentriert sich auf die Planung und Durchführung verschiede
 
 Falls du auch etwas zu einer nachhaltigen, lebenswerten Zukunft beitragen willst, freuen wir uns über jegliche Art von Unterstützung!
 
+<p> </p>  
+  
+<b>Mitmachen<b>  
+Du möchtest dich ander Organisation von Demos oder Aktionen beteiligen, wissenschaftlichen Input in die Ortsgruppe tragen oder dich anders bei uns einbringen? Dann bist du herzlich eingeladen zu uns ins Plenum zu kommen. Aktuell machen wir unser Plenum jeden Montag um 19 Uhr in der KHG Landau. Hab keine Angst, du muss nicht (an Wissen) mitbringen und kann einfach mal vorbei gucken. Auf Grund der Coronalange würden wir uns über eine Nachricht im vorhinein über Whatsapp, Insta oder Email freuen.  
+  
 <p> </p>
   
   <h2> Awareness </h2>
