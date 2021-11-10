@@ -33,7 +33,9 @@ presse:
       - title: "- Forderungspapier Dez. 2020"
         url: "/assets/pdf/ForderungenLandauDez2020.pdf"
   - title: "Pressemitteilungen"
-    children:
+    children: 
+      - title: "- Pressemitteilung Globaler Klimastreik 22.10"
+        url: "assets/pdf/Pressemitteilung_Global_Strike_Karlsruhe_221021_211110_185556.pdf"
       - title: "- Pressemitteilung Globaler Klimastreik 24.09"
         url: "assets/pdf/Pressemitteilung Global Strike Festival 24.09.21.docx.pdf"    
       - title: "- Pressemitteilung #MobilitätswendeJetzt!"
