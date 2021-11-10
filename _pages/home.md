@@ -76,12 +76,12 @@ header:
 <br>
 <p> </p>
 
-<b>Wer sind wir?<b>
+<h2>Wer sind wir?<h2>
 
 Klimastreik Landau ist eine Ortsgruppe von Fridays for Future. Wir kämpfen durch politisches und gesellschaftliches Engagement für mehr Klimaschutz und Klimagerechtigkeit auch in Landau. Wir organisieren Gespräche mit PolitikerInnen, stellen Forderungen auf und planen Demos und andere Aktionen.
 Im Dezember 2018 fanden sich auch in Landau begeistere KlimaschützerInnen zusammen, um vor Ort für Klimagerechtigkeit zu protestieren. Seitdem gab und gibt es regelmäßige Aktionen, u.a. Demonstrationen mit bis zu 2000 Teilnehmer*innen.
 
-<b>Was tun wir?<b>
+<h2>Was tun wir?<h2>
 
 Unsere Tätigkeit konzentriert sich auf die Planung und Durchführung verschiedenster Aktionen im Stadtkern Landaus. Dabei machen wir auf unterschiedliche Problematiken unseres gesellschaftlichen und alltäglichen Handelns und der Tatenlosigkeit der Politik bzgl. der schon jetzt unabwendbaren Klimakatastrophe aufmerksam.
 
@@ -89,7 +89,7 @@ Falls du auch etwas zu einer nachhaltigen, lebenswerten Zukunft beitragen willst
 
 <p> </p>  
   
-<b>Mitmachen<b>  
+<h2>Mitmachen<h2>  
 Du möchtest dich ander Organisation von Demos oder Aktionen beteiligen, wissenschaftlichen Input in die Ortsgruppe tragen oder dich anders bei uns einbringen? Dann bist du herzlich eingeladen zu uns ins Plenum zu kommen. Aktuell machen wir unser Plenum jeden Montag um 19 Uhr in der KHG Landau. Hab keine Angst, du muss nicht (an Wissen) mitbringen und kann einfach mal vorbei gucken. Auf Grund der Coronalange würden wir uns über eine Nachricht im vorhinein über Whatsapp, Insta oder Email freuen.  
   
 <p> </p>
