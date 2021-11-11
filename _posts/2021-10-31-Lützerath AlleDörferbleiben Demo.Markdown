@@ -15,4 +15,5 @@ In Lützerath ist deswegen seid langem eine Mahnwache und auf einem Hof wird sei
 Am 31.10 war eine große Demo durch Lützerath und Imerath und eine Ende Gelände Aktion, um der Forderung, dass alle Dörfer bleiben Nachdruck zu verleihen. Wir waren auch da und waren mit den 5.000 Menschen vorort und den vielen solidarischen Demos im Land laut. 
 <br>
 <p> </p>
-Impressionen von Lützerath seht ihr hier:
+Impressionen von Lützerath seht ihr hier: <br>
+
