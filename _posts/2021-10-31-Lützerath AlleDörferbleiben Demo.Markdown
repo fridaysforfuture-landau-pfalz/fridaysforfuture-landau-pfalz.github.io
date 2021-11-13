@@ -43,4 +43,4 @@ Am 31.10 war eine große Demo durch Lützerath und Imerath und eine Ende Geländ
 <br>
 <p> </p>
 Impressionen von Lützerath seht ihr hier: <br>
-
+{% include gallery layout="half" %}
