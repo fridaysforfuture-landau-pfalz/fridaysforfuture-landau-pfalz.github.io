@@ -20,3 +20,8 @@ Wir als Fridays for Future konnten ein Platz auf dem Adventskalender ergattern. 
 Stattdessen haben wir uns in die Küche begeben und Rezepte zusammen gesucht, dass das kommende Weihnachten bisschen tier- und klimafreudlicher werden kann. Denn warum sollte für einen solch schönen Tag ein Tier leiden müssen, wenn es auch ganz einfach ohne geht und genauso gut schmeckt. In unserm Türchen 12 findest du 3 Menü Vorschläge für ein veganes Weihnachten oder ein geiles Abendessen. <br>
   
 Ab dem 12. Dezember kannst du <a href="https://fridaysforfuture-landau.de/vorfreude" target="_blank" >hier</a> unsere Menüvorschläge angucken, runterladen und nachkochen. Wir freuen uns über Fotos von leckeren veganen Weihnachtsessen. 
+
+<p></p>
+<p></p>
+<p></p>
+<p></p>
