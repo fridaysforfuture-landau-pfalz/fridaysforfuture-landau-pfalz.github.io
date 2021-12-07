@@ -5,11 +5,10 @@ permalink: /news
 classes: wide
 
 <aside class="sidebar__right ">
-            <nav class="toc">
-              <header><h4 class="nav__title"><i class="fas fa-heart"></i> Unique Title</h4></header>
-              <ul class="toc__menu"><li><a href="#html-elements">HTML Elements</a></li><li><a href="#body-text">Body text</a><ul><li><a href="#blockquotes">Blockquotes</a></li></ul></li><li><a href="#list-types">List Types</a><ul><li><a href="#ordered-lists">Ordered Lists</a></li><li><a href="#unordered-lists">Unordered Lists</a></li></ul></li><li><a href="#tables">Tables</a></li><li><a href="#code-snippets">Code Snippets</a></li><li><a href="#buttons">Buttons</a></li><li><a href="#notices">Notices</a></li></ul>
-            </nav>
-          </aside>
+<nav class="toc">
+<header><h4 class="nav__title"><i class="fas fa-heart"></i> Unique Title</h4></header> <ul class="toc__menu"><li><a href="#html-elements">HTML Elements</a></li><li><a href="#body-text">Body text</a><ul><li><a href="#blockquotes">Blockquotes</a></li></ul></li><li><a href="#list-types">List Types</a><ul><li><a href="#ordered-lists">Ordered Lists</a></li><li><a href="#unordered-lists">Unordered Lists</a></li></ul></li><li><a href="#tables">Tables</a></li><li><a href="#code-snippets">Code Snippets</a></li><li><a href="#buttons">Buttons</a></li><li><a href="#notices">Notices</a></li></ul>
+</nav>
+</aside>
 
 toc: true
 toc_label: "News"
