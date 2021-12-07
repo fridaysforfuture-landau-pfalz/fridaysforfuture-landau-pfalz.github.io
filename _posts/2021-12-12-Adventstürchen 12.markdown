@@ -13,5 +13,5 @@ Auch 2021 macht das Haus der Jugend Landau wieder die Aktion der Adventstürchen
 Wir als Fridays for Future konnten ein Platz auf dem Adventskalender ergattern. Ursprünglich wollten wir zu unserem Türchen 12 eine Kleidertauschparty und Siebdruck anbieten. - wie so vieles auch in diesem Jahr haben wir dies allerdings aus Pandemiegründen auf einen unbestimmten Termin verschoben. <br>
 Stattdessen haben wir uns in die Küche begeben und Rezepte zusammen gesucht, dass das kommende Weihnachten bisschen tier- und klimafreudlicher werden kann. Denn warum sollte für einen solch schönen Tag ein Tier leiden müssen, wenn es auch ganz einfach ohne geht und genauso gut schmeckt. In unserm Türchen 12 findest du 3 Menu Vorschläge für ein veganes Weihnachten oder ein geiles Abendessen. <br>
 
-<a href="" target=""> <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/12.-fensterplakat.png?raw=true" style="margin-center: 20px;" alt="Adventstürchen 12" height="50%" width="50%"> </a>
+<a href="" target=""> <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/12.-fensterplakat.png?raw=true" align="middle" alt="Adventstürchen 12" height="50%" width="50%"> </a>
 
