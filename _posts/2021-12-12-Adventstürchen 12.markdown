@@ -15,4 +15,11 @@ Stattdessen haben wir uns in die Küche begeben und Rezepte zusammen gesucht, da
 
 <a href="https://fridaysforfuture-landau.de/vorfreude" target=""> <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/12.-fensterplakat.png?raw=true" alt="Adventstürchen 12" class="center" height="50%" width="50%"> </a> <br>
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 Ab dem 12. Dezember kannst du <a href="https://fridaysforfuture-landau.de/vorfreude" target="_blank" >hier</a> unsere Menüvorschläge angucken, runterladen und nachkochen. Wir freuen uns über Fotos von leckeren veganen Weihnachtsessen. 
