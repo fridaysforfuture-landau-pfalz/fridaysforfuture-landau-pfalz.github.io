@@ -5,8 +5,8 @@ permalink: /news
 classes: wide
 
 toc: true
-toc_label: "Unique Title"
-toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
+toc_label: "News"
+toc_icon: "heart"  
 
 sidebar:
   title: "Presse"
