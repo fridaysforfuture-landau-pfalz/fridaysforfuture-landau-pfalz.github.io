@@ -4,6 +4,10 @@ layout: single
 permalink: /news
 classes: wide
 
+toc: true
+toc_label: "Unique Title"
+toc_icon: "heart"  # corresponding Font Awesome icon name (without fa prefix)
+
 sidebar:
   title: "Presse"
   nav: "presse"
