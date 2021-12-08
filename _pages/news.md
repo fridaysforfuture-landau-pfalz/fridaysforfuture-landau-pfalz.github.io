@@ -4,7 +4,7 @@ layout: single
 permalink: /news
 classes:
 
-sidebar:
+sidebar_right:
   title: "News"
   nav: "news"
   float: right;
