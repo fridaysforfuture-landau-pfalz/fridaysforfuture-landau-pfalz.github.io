@@ -12,7 +12,7 @@ sidebar:
   title: "Presse"
   nav: "presse"
   
----
+--- 
 
 {% for post in site.posts %}
   <article>
