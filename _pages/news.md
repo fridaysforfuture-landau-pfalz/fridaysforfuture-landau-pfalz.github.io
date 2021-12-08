@@ -2,21 +2,17 @@
 title:  "News & Presse"
 layout: single
 permalink: /news
-classes: wide
+classes:
 
-toc: true
-toc_label: "News"
-toc_icon: "heart"  
+sidebar_right:
+  title: "News"
+  nav: "news"
 
 sidebar:
   title: "Presse"
   nav: "presse"
   
 ---
-
-<h1> Überschrift 1 </h1>
-<h1> Überschrift 2 </h1>
-
 
 {% for post in site.posts %}
   <article>
