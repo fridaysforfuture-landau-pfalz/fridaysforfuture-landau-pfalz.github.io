@@ -7,6 +7,7 @@ classes:
 .sidebar_right:
   title: "News"
   nav: "news"
+  float: right;
 
 sidebar:
   title: "Presse"
