@@ -2,12 +2,7 @@
 title:  "News & Presse"
 layout: single
 permalink: /news
-classes:
-
-sidebar_right:
-  title: "News"
-  nav: "news"
-  float: right
+classes: wide
 
 sidebar:
   title: "Presse"
