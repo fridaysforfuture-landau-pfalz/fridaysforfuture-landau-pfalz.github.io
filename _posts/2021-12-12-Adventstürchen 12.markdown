@@ -11,7 +11,7 @@ Auch 2021 macht das Haus der Jugend Landau wieder die Aktion der Adventstürchen
 <p></p>
 
 <center>
-<a href="https://fridaysforfuture-landau.de/assets/pdf/Koch%20mit%20mir%20-%20veganes%20Weihnachten.pdf" target=""> <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/12.-fensterplakat.png?raw=true" alt="Adventstürchen 12" class="center" height="50%" width="50%"> </a> <br>
+<a href="https://fridaysforfuture-landau.de/assets/pdf/Koch%20mit%20mir%20-%20veganes%20Weihnachten.pdf" target=""> <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/12.%20Adventst%C3%BCrchen.png?raw=true" alt="Adventstürchen 12" class="center" height="50%" width="50%"> </a> <br>
 </center>
 
 <p></p>
