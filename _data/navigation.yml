@@ -34,6 +34,8 @@ presse:
         url: "/assets/pdf/ForderungenLandauDez2020.pdf"
   - title: "Pressemitteilungen"
     children: 
+      - title: "-Pressemitteilung FFF Landau Jahresabschluss" 
+        url: ""
       - title: "- Pressemitteilung Globaler Klimastreik 22.10"
         url: "assets/pdf/Pressemitteilung_Global_Strike_Karlsruhe_221021_211110_185556.pdf"
       - title: "- Pressemitteilung Globaler Klimastreik 24.09"
