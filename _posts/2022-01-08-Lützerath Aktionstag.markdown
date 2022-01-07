@@ -6,7 +6,7 @@ date:   2022-01-08 13:00:00 +0200
 categories: Demo
 ---
 
-<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/B%C3%BCndnis%205.06.21/Logos%20B%C3%BCndnis.png?raw=true" alt="Lützerath Aktionstag" height="100%" width="100%">
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/L%C3%BCtzerath/L%C3%BCtzerath%20Aktionstag.png?raw=true" alt="Lützerath Aktionstag" height="100%" width="100%">
 
 Was ist Lützerath? Lützerath ist ein kleines Dorf in NWR am Braunkohletagebau Garzweiler. 
 Durch den jahrzehntelangen Druck der Straße sollen die fünf Dörfer Keyenberg, Kuckum, Berverath, Ober- und Unterwestrich am Tagebau Garzweiler II gerettet werden. Ein großer Sieg der Klimagerechtigkeitsbewegung! Doch die Ampelkoalition ist nicht bereit, die Zerstörungen für den Klimakiller Kohle endlich zu beenden und überlässt das Schicksal von Lützerath den Gerichten. Das Oberverwaltungsgericht Münster soll entscheiden: Darf RWE Eckardt Heukamp, den letzten Landwirt von Lützerath, im Eilverfahren enteignen und mit den Abrissbaggern anrücken? 
