@@ -16,4 +16,4 @@ Wir sind aus diesem Grund auch als Fridays for Future am <b>08.01</b> auf dem <b
 <p></p>
 Wie für alle Demos von uns gilt die Einhaltung der aktuellen Coronahygieneregeln mit Abstand und Masken. <br>
 <p></p>
-Mehr Informationen gibt es unter: <a href="http://luetzerathlebt.info/" target="_blank" >Lützi lebt</a>
+Mehr Informationen gibt es unter: <a href="http://luetzerathlebt.info/" target="_blank" >Lützi lebt</a> und <a href="https://www.alle-doerfer-bleiben.de/demo/" target="_blank" >AlleDörferbleiben</a>
