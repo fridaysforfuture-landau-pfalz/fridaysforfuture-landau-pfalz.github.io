@@ -79,7 +79,7 @@ header:
 <h2>Wer sind wir?</h2>
 
 Klimastreik Landau ist eine Ortsgruppe von Fridays for Future. Wir kämpfen durch politisches und gesellschaftliches Engagement für mehr Klimaschutz und Klimagerechtigkeit auch in Landau. Wir organisieren Gespräche mit PolitikerInnen, stellen Forderungen auf und planen Demos und andere Aktionen.
-Im Dezember 2018 fanden sich auch in Landau begeistere KlimaschützerInnen zusammen, um vor Ort für Klimagerechtigkeit zu protestieren. Seitdem gab und gibt es regelmäßige Aktionen, u.a. Demonstrationen mit bis zu 2000 Teilnehmer*innen.
+Im Dezember 2018 fanden sich auch in Landau begeistere KlimaschützerInnen zusammen, um vor Ort für Klimagerechtigkeit zu protestieren. Seitdem gab und gibt es regelmäßige Aktionen, u.a. Demonstrationen mit über 2000 Teilnehmer:innen.
 
 <h2>Was tun wir?</h2>
 
@@ -90,13 +90,12 @@ Falls du auch etwas zu einer nachhaltigen, lebenswerten Zukunft beitragen willst
 <p> </p>  
   
 <h2>Mitmachen</h2>  
-Du möchtest dich ander Organisation von Demos oder Aktionen beteiligen, wissenschaftlichen Input in die Ortsgruppe tragen oder dich anders bei uns einbringen? Dann bist du herzlich eingeladen zu uns ins Plenum zu kommen. Aktuell machen wir unser Plenum jeden Montag um 19 Uhr coronabedingt online. Hab keine Angst, du muss nichts (an Wissen) mitbringen und kann einfach mal vorbei gucken. Auf Grund der Coronalange / und Onlinesituation würden wir uns über eine Nachricht im vorhinein über Whatsapp, Instagram oder Email freuen.  
+Du möchtest dich ander Organisation von Demos oder Aktionen beteiligen, wissenschaftlichen Input in die Ortsgruppe tragen oder dich anders bei uns einbringen? Dann bist du herzlich eingeladen zu uns ins Plenum zu kommen. Aktuell machen wir unser Plenum jeden Montag um 19 Uhr coronabedingt online. Hab keine Angst, du musst nichts (an Wissen) mitbringen und kannst einfach mal vorbei gucken. Aufgrund der Coronalage / und Onlinesituation würden wir uns über eine Nachricht im vorhinein über Whatsapp, Instagram oder per E-Mail freuen.  
   
 <p> </p>
   
   <h2> Awareness </h2>
-Egal ob bei Demos, Diskussionen oder Orgaarbeit, Awareness (Wohlbefinden) und sich gegenseitig zu akzeptieren ist immer wichtig. Deshalb findest du bei jeder Demo von FFF 
-  in Landau eine/n Ordner:in ganz hinten am Demozug für Awarenessthemen. Aber auch alle anderen Ordner:innen sind immer bei Problemen gerne bereit zu helfen. <br>
-  Für beinträchtigte Menschen, die gerne an Aktionen oder Plena von uns teilnehmen würden, aber durch ihre Beeinträchtigung daran gehindert werden - wendet euch gerne rechtzeitig über <a href="mailto:klimastreik-landau@gmx.de" target="_blank" >Email</a> an uns und wir finden eine Lösung, damit alle mitmachen können. 
+Egal ob bei Demos, Diskussionen oder Orgaarbeit, Awareness (Wohlbefinden) und sich gegenseitig zu akzeptieren ist für uns essentiell wichtig. Deshalb findest du bei jeder Demo von FFF in Landau eine:n Ordner:in ganz hinten am Demozug für Awarenessthemen. Aber auch alle anderen Ordner:innen sind bei Problemen immer gerne bereit zu helfen. <br>
+  Für beinträchtigte Menschen, die gerne an Aktionen oder Plena von uns teilnehmen würden, aber durch ihre Beeinträchtigung daran gehindert werden - wendet euch gerne rechtzeitig über <a href="mailto:klimastreik-landau@gmx.de" target="_blank" >E-Mail</a> an uns und wir finden eine Lösung, damit alle mitmachen können. 
   
   
