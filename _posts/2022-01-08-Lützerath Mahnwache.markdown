@@ -25,7 +25,9 @@ gallery:
 
 ---
 
-Lützerath muss bleiben! Deshalb waren wir heute am 08.01 deutschlandweit auf der Straße, um RWE zu zeigen, dass wir nicht einfach nur dastehen und zusehen, wie sie unsere Zukunft wegbaggern! Wir müssen raus aus der Kohle! - und das bevor Lützerath abgebaggert wird. 
+Lützerath muss bleiben! Deshalb waren wir heute am 08.01 deutschlandweit auf der Straße, um RWE zu zeigen, dass wir nicht einfach nur dastehen und zusehen, wie sie unsere Zukunft wegbaggern! Wir müssen raus aus der Kohle! - und das bevor Lützerath abgebaggert wird. <br>
+
+Hier in Landau haben wir eine kleine Mahnwache, mit Rede, Musik und Fotoaktion, abgehalten. In Lützerath gab es ebenfall eine Demo und das letzte leere Haus vorort wurde besetzt. Nun sind in Lützerath alle Häuser wieder bewohnt.  <br>
 
 {% include gallery layout="half" %}
 
