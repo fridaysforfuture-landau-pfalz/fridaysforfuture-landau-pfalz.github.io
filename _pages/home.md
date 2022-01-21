@@ -78,8 +78,8 @@ header:
 
 <h2>Wer sind wir?</h2>
 
-Klimastreik Landau ist eine Ortsgruppe von Fridays for Future. Wir kämpfen durch politisches und gesellschaftliches Engagement für mehr Klimaschutz und Klimagerechtigkeit auch in Landau. Wir organisieren Gespräche mit PolitikerInnen, stellen Forderungen auf und planen Demos und andere Aktionen.
-Im Dezember 2018 fanden sich auch in Landau begeistere KlimaschützerInnen zusammen, um vor Ort für Klimagerechtigkeit zu protestieren. Seitdem gab und gibt es regelmäßige Aktionen, u.a. Demonstrationen mit über 2000 Teilnehmer:innen.
+Klimastreik Landau ist eine Ortsgruppe von Fridays for Future. Wir kämpfen durch politisches und gesellschaftliches Engagement für mehr Klimaschutz und Klimagerechtigkeit auch in Landau. Wir organisieren Gespräche mit Politiker:Innen, stellen Forderungen auf und planen Demos und andere Aktionen.
+Im Dezember 2018 fanden sich auch in Landau begeistere Klimaschützer:innen zusammen, um vor Ort für Klimagerechtigkeit zu protestieren. Seitdem gab und gibt es regelmäßige Aktionen, u.a. Demonstrationen mit über 2000 Teilnehmer:innen.
 
 <h2>Was tun wir?</h2>
 
@@ -90,7 +90,7 @@ Falls du auch etwas zu einer nachhaltigen, lebenswerten Zukunft beitragen willst
 <p> </p>  
   
 <h2>Mitmachen</h2>  
-Du möchtest dich ander Organisation von Demos oder Aktionen beteiligen, wissenschaftlichen Input in die Ortsgruppe tragen oder dich anders bei uns einbringen? Dann bist du herzlich eingeladen zu uns ins Plenum zu kommen. Aktuell machen wir unser Plenum jeden Montag um 19 Uhr coronabedingt online. Hab keine Angst, du musst nichts (an Wissen) mitbringen und kannst einfach mal vorbei gucken. Aufgrund der Coronalage / und Onlinesituation würden wir uns über eine Nachricht im vorhinein über Whatsapp, Instagram oder per E-Mail freuen.  
+Du möchtest dich an der Organisation von Demos oder Aktionen beteiligen, wissenschaftlichen Input in die Ortsgruppe tragen oder dich anders bei uns einbringen? Dann bist du herzlich eingeladen zu uns ins Plenum zu kommen. Aktuell machen wir unser Plenum jeden Donnerstag um 18 Uhr coronabedingt online. Hab keine Angst, du musst nichts (an Wissen) mitbringen und kannst einfach mal vorbei gucken. Aufgrund der Coronalage / und Onlinesituation würden wir uns über eine Nachricht im vorhinein über Whatsapp, Instagram oder per E-Mail freuen.  
   
 <p> </p>
   
