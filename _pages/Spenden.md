@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: spenden 
-title:  " 2022"
+title:  "Unterstützen - Spenden "
 ---
 
 hier kannst du spenden :)
