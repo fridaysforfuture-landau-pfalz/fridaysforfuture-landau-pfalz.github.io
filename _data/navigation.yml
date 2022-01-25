@@ -34,6 +34,8 @@ presse:
         url: "/assets/pdf/ForderungenLandauDez2020.pdf"
   - title: "Pressemitteilungen"
     children: 
+      - title: "-Pressemitteilung globaler Klimastreik 25.03.22" 
+        url: "assets/pdf/Pressemitteilung Globaler Klimastreik 250322_220125_135220.pdf"
       - title: "-Pressemitteilung FFF Landau Jahresabschluss" 
         url: "fridaysforfuture-landau-pfalz.github.io/assets/pdf/Pressemitteilung FfF Jahresabschluss 171221_211214_192021.pdf"
       - title: "- Pressemitteilung Globaler Klimastreik 22.10"
@@ -44,6 +46,8 @@ presse:
         url: "assets/Bündnis 5.06.21/Neu2_Wald_statt_Asphalt Einladung_Presse.pdf"
       - title: "- Statement zur Erweiterung der Hühnerfarm Lauterbourg 27.04.21"
         url: "/assets/pdf/Statement_zum_Antrag_der_PEARL_OEUFS_MODERY_Fridays_for_Future_Landau.pdf"
+
+
 
 aktion:
   - title: "Aktionen 2022"
