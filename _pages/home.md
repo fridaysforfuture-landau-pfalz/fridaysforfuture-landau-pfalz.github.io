@@ -104,7 +104,7 @@ Du möchtest dich an der Organisation von Demos oder Aktionen beteiligen, wissen
   display: inline-block;
   font-size: 24px;
   margin: 2px 4px;
-  float: left !important;
+  float: center !important;
   cursor: pointer;
   width: 30%;
 }
