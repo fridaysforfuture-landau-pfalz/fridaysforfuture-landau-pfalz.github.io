@@ -109,12 +109,12 @@ Du möchtest dich an der Organisation von Demos oder Aktionen beteiligen, wissen
   width: 30%;
 }
 
-.button1 {background-color: #4CAF50;} /* Green */
+.button4 {background-color: #4CAF50;} /* Green */
 
 </style>  
   
-<a class="button4" href="https://fridaysforfuture-landau.de/news"
-       target="" style="color: white" >Spenden</a>
+<a class="button4" href="https://fridaysforfuture-landau.de/spenden"
+       target="" style="color: white" >Spenden</a> <br>
   
 <p> </p>
   
