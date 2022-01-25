@@ -71,7 +71,7 @@ header:
 </style> 
 
 <a class="button3" href="https://fridaysforfuture-landau.de/kontakt"
-       target="" style="color: white" >Kontakt</a>       
+       target="" style="color: white" >Kontakt</a>
 
 <br>
 <p> </p>
@@ -89,8 +89,32 @@ Falls du auch etwas zu einer nachhaltigen, lebenswerten Zukunft beitragen willst
 
 <p> </p>  
   
-<h2>Mitmachen</h2>  
+<h2>Unterstützen</h2>  
 Du möchtest dich an der Organisation von Demos oder Aktionen beteiligen, wissenschaftlichen Input in die Ortsgruppe tragen oder dich anders bei uns einbringen? Dann bist du herzlich eingeladen zu uns ins Plenum zu kommen. Aktuell machen wir unser Plenum jeden Donnerstag um 18 Uhr coronabedingt online. Hab keine Angst, du musst nichts (an Wissen) mitbringen und kannst einfach mal vorbei gucken. Aufgrund der Coronalage / und Onlinesituation würden wir uns über eine Nachricht im vorhinein über Whatsapp, Instagram oder per E-Mail freuen.  
+
+<p> </p>
+
+<style>
+.button4 {
+  border: none;
+  color: white;
+  padding: 15px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 24px;
+  margin: 2px 4px;
+  float: left !important;
+  cursor: pointer;
+  width: 30%;
+}
+
+.button1 {background-color: #4CAF50;} /* Green */
+
+</style>  
+  
+<a class="button4" href="https://fridaysforfuture-landau.de/news"
+       target="" style="color: white" >Spenden</a>
   
 <p> </p>
   
