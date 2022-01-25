@@ -113,7 +113,7 @@ Du möchtest dich an der Organisation von Demos oder Aktionen beteiligen, wissen
 
 </style>  
   
-<a class="button4" href="https://fridaysforfuture-landau.de/spenden"
+<a class="button4" href="https://opencollective.com/klimastreik-landau"
        target="" style="color: white" >Spenden</a> <br>
 
 <p> </p>  
