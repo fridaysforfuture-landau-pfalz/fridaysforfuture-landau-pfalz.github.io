@@ -46,8 +46,18 @@ presse:
         url: "/assets/pdf/Statement_zum_Antrag_der_PEARL_OEUFS_MODERY_Fridays_for_Future_Landau.pdf"
 
 aktion:
+  - title: "Aktionen 2022"
+    children:
+      - title: "- 08.01.2022 Lützerath Aktionstag"
+        url: "https://fridaysforfuture-landau.de/demo/2022/01/08/L%C3%BCtzerath-Mahnwache.html"
+
+aktion:
   - title: "Aktionen 2021"
     children:
+      - title: "- 17.12.2021 Dezember Aktion"
+        url: ""
+      - title: "- 12.12.2021 Adventstürchen 12"
+        url: "https://fridaysforfuture-landau.de/aktion/2021/12/12/Adventst%C3%BCrchen-12.html"
       - title: "- 31.10.2021 Lützerath AlleDörferbleiben Demo"
         url: "https://fridaysforfuture-landau.de/demo/2021/10/31/L%C3%BCtzerath-AlleD%C3%B6rferbleiben-Demo.html"
       - title: "- 22.10.2021 Globaler Klimastreik"
