@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 permalink: spenden 
 title:  " 2022"
 ---
