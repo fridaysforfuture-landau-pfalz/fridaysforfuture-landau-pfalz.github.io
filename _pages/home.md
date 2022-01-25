@@ -115,9 +115,11 @@ Du möchtest dich an der Organisation von Demos oder Aktionen beteiligen, wissen
   
 <a class="button4" href="https://fridaysforfuture-landau.de/spenden"
        target="" style="color: white" >Spenden</a> <br>
-  
+
+<p> </p>  
 <p> </p>
-  
+<p> </p>
+   
   <h2> Awareness </h2>
 Egal ob bei Demos, Diskussionen oder Orgaarbeit, Awareness (Wohlbefinden) und sich gegenseitig zu akzeptieren ist für uns essentiell wichtig. Deshalb findest du bei jeder Demo von FFF in Landau eine:n Ordner:in ganz hinten am Demozug für Awarenessthemen. Aber auch alle anderen Ordner:innen sind bei Problemen immer gerne bereit zu helfen. <br>
   Für beinträchtigte Menschen, die gerne an Aktionen oder Plena von uns teilnehmen würden, aber durch ihre Beeinträchtigung daran gehindert werden - wendet euch gerne rechtzeitig über <a href="mailto:klimastreik-landau@gmx.de" target="_blank" >E-Mail</a> an uns und wir finden eine Lösung, damit alle mitmachen können. 
