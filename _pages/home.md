@@ -94,6 +94,10 @@ Du möchtest dich an der Organisation von Demos oder Aktionen beteiligen, wissen
 
 <p> </p>
 
+Keine Kapazitäten oder Zeit zum mitorganisieren, aber trotzdem Lust uns zu unterstützen? Wir haben jetzt seit kurzem die Möglichkeit über ein Konto Spenden entgegen nehmen zu können. Hier sammeln wir Geld für anstehende Aktionen und Klimastreiks mit kostenflichtigem Material, für Künstlerauftritte bei unseren Aktionen und notwendige Anschaffungen. Wir würden uns über eine Spende freuen :) <br>  
+
+<p> </p>
+
 <style>
 .button4 {
   border: none;
