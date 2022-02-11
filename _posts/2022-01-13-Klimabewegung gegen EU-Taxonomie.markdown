@@ -6,7 +6,7 @@ date:   2022-01-13 12:00:00 +0200
 categories: Demo
 ---
 
-<img src="" alt="Aktivisten vor gebastelten Kühltürmen" height="100%" width="100%">
+<img src="" alt="Aktivisten vor gebastelten Kühltürmen" height="100%" width="100%"> <br>
 *Aktivist:innen protestieren vor der EU-Kommission in Brüssel Foto: Kaycee Hesse*
 
 Ein kleiner Platz vor dem Gebäude der europäischen Kommission in Brüssel. Einige
