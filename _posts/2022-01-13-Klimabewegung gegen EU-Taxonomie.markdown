@@ -7,7 +7,7 @@ categories: Demo
 ---
 
 <img src="" alt="Aktivisten vor gebastelten Kühltürmen" height="100%" width="100%">
-Aktivist:innen protestieren vor der EU-Kommission in Brüssel Foto: Kaycee Hesse
+*Aktivist:innen protestieren vor der EU-Kommission in Brüssel Foto: Kaycee Hesse*
 
 Ein kleiner Platz vor dem Gebäude der europäischen Kommission in Brüssel. Einige
 Aktivist:innen sind dabei zwei kleine, selbstgebaute Kühltürme aus Metall und Stoff von
