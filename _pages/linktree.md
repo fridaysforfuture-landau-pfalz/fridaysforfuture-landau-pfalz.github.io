@@ -56,7 +56,27 @@ permalink: /linktree
 <a class="button2" href=""
        target="" style="color: white" >KlimaFFFestival</a> 
 <br>
- 
+
+<style>
+.button7 {
+  border: none;
+  color: white;
+  padding: 15px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 24px;
+  margin: 2px 4px;
+  cursor: pointer;
+  width: 100%;
+}
+  
+</style>  
+  
+<a class="button7" href="https://fridaysforfuture-landau.de/news"
+       target="" style="color: white" >News</a> 
+<br>   
+  
 <style>
 .button3 {
   border: none;
