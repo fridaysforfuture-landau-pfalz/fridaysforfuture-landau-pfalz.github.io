@@ -39,7 +39,7 @@ permalink: /linktree
   font-size: 24px;
   margin: 2px 4px;
   cursor: pointer;
-  width: 30%;
+  width: 100%;
 }
 
 .button2 {background-color: #4CAF50;} /* Green */
@@ -61,7 +61,7 @@ permalink: /linktree
   font-size: 24px;
   margin: 2px 4px;
   cursor: pointer;
-  width: 30%;
+  width: 100%;
 }
 
 .button3 {background-color: #4CAF50;} /* Green */
@@ -83,7 +83,7 @@ permalink: /linktree
   font-size: 24px;
   margin: 2px 4px;
   cursor: pointer;
-  width: 30%;
+  width: 100%;
 }
 
 .button4 {background-color: #4CAF50;} /* Green */
@@ -105,7 +105,7 @@ permalink: /linktree
   font-size: 24px;
   margin: 2px 4px;
   cursor: pointer;
-  width: 30%;
+  width: 100%;
 }
 
 .button5 {background-color: #4CAF50;} /* Green */
@@ -127,7 +127,7 @@ permalink: /linktree
   font-size: 24px;
   margin: 2px 4px;
   cursor: pointer;
-  width: 30%;
+  width: 100%;
 }
 
 .button6 {background-color: #4CAF50;} /* Green */
@@ -138,5 +138,3 @@ permalink: /linktree
        target="" style="color: white" >Kontakt</a> <br>
  
 </div>
-
-  float: left !important;
