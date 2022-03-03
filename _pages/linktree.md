@@ -21,8 +21,12 @@ permalink: /linktree
   width: 100%;
 }
 
-.button1 {background-color: #4CAF50;} /* Green */
-
+.button1 {background-color: #4CAF50;} {border-radius: 4px;} /* Green */
+.button1:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+  
 </style>  
   
 <a class="button1" href="https://fridaysforfuture-landau.de/ank%C3%BCndigung/2022/01/25/Klimastreik-25.03.22.html"
