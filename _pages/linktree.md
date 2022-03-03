@@ -77,7 +77,7 @@ permalink: /linktree
   width: 100%;
 }
 
-.button3 {background-color: #4CAF50; border-radius: 8px;} /* Green */  
+.button7 {background-color: #4CAF50; border-radius: 8px;} /* Green */  
   
 </style>  
   
