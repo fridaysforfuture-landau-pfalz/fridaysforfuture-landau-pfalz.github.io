@@ -30,7 +30,7 @@ permalink: /linktree
 .button1:hover {
   background-color: white;
   color: black;
-  border: 2px solid #4CAF50;
+  border: 6px solid #4CAF50;
 }
   
 </style>  
