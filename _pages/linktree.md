@@ -28,7 +28,7 @@ permalink: /linktree
 }
 
 .button1:hover {
-  background-color: #4CAF50;
+  background-color: white;
   color: white;
   border: 2px solid #4CAF50;
 }
