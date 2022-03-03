@@ -21,7 +21,7 @@ permalink: /linktree
   width: 100%;
 }
 
-.button1 {background-color: #4CAF50; border-radius: 4px;} /* Green */
+.button1 {background-color: #4CAF50; border-radius: 8px;} /* Green */
 .button1:hover {
   background-color: #4CAF50;
   color: white;
@@ -46,7 +46,7 @@ permalink: /linktree
   width: 100%;
 }
 
-.button2 {background-color: #4CAF50;} /* Green */
+.button2 {background-color: #4CAF50; border-radius: 8px;} /* Green */
 .disabled {
   opacity: 0.6;
   cursor: not-allowed;
@@ -71,7 +71,7 @@ permalink: /linktree
   width: 100%;
 }
 
-.button3 {background-color: #4CAF50;} /* Green */  
+.button3 {background-color: #4CAF50; border-radius: 8px;} /* Green */  
   
 </style>  
   
@@ -93,7 +93,7 @@ permalink: /linktree
   width: 100%;
 }
 
-.button3 {background-color: #4CAF50;} /* Green */
+.button3 {background-color: #4CAF50; border-radius: 8px;} /* Green */
 
 </style>  
   
@@ -115,7 +115,7 @@ permalink: /linktree
   width: 100%;
 }
 
-.button4 {background-color: #4CAF50;} /* Green */
+.button4 {background-color: #4CAF50; border-radius: 8px;} /* Green */
 
 </style>  
   
@@ -137,7 +137,7 @@ permalink: /linktree
   width: 100%;
 }
 
-.button5 {background-color: #4CAF50;} /* Green */
+.button5 {background-color: #4CAF50; border-radius: 8px;} /* Green */
 
 </style>  
   
@@ -159,7 +159,7 @@ permalink: /linktree
   width: 100%;
 }
 
-.button6 {background-color: #4CAF50;} /* Green */
+.button6 {background-color: #4CAF50; border-radius: 8px;} /* Green */
 
 </style>  
   
