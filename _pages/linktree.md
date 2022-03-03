@@ -52,11 +52,12 @@ permalink: /linktree
   width: 100%;
 }
 
-.button2 {background-color: #4CAF50; border-radius: 8px;} /* Green */
 .disabled {
+  border-radius: 8px;
+  background-color: #4CAF50;
   opacity: 0.6;
   cursor: not-allowed;
-  
+}  
 </style>  
   
 <a class="button2" href=""
