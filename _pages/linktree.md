@@ -18,7 +18,7 @@ permalink: /linktree
   font-size: 24px;
   margin: 2px 4px;
   cursor: pointer;
-  width: 30%;
+  width: 100%;
 }
 
 .button1 {background-color: #4CAF50;} /* Green */
@@ -42,12 +42,13 @@ permalink: /linktree
   width: 30%;
 }
 
-.button1 {background-color: #4CAF50;} /* Green */
+.button2 {background-color: #4CAF50;} /* Green */
 
 </style>  
   
 <a class="button2" href=""
-       target="" style="color: white" >KlimaFFFestival</a>  <br>
+       target="" style="color: white" >KlimaFFFestival</a> 
+<br>
  
 <style>
 .button3 {
@@ -63,12 +64,13 @@ permalink: /linktree
   width: 30%;
 }
 
-.button1 {background-color: #4CAF50;} /* Green */
+.button3 {background-color: #4CAF50;} /* Green */
 
 </style>  
   
 <a class="button3" href="https://fridaysforfuture-landau.de/forderungen"
-       target="" style="color: white" >Forderungen</a>  <br>
+       target="" style="color: white" >Forderungen</a>  
+<br>
 
 <style>
 .button4 {
@@ -84,12 +86,13 @@ permalink: /linktree
   width: 30%;
 }
 
-.button1 {background-color: #4CAF50;} /* Green */
+.button4 {background-color: #4CAF50;} /* Green */
 
 </style>  
   
 <a class="button4" href="https://opencollective.com/klimastreik-landau"
-       target="" style="color: white" >Spenden</a>  <br>
+       target="" style="color: white" >Spenden</a>  
+<br>
 
 <style>
 .button5 {
@@ -105,12 +108,13 @@ permalink: /linktree
   width: 30%;
 }
 
-.button1 {background-color: #4CAF50;} /* Green */
+.button5 {background-color: #4CAF50;} /* Green */
 
 </style>  
   
 <a class="button5" href=""
-       target="" style="color: white" >Mitmachen</a>  <br>
+       target="" style="color: white" >Mitmachen</a>  
+<br>
 
 <style>
 .button6 {
@@ -126,7 +130,7 @@ permalink: /linktree
   width: 30%;
 }
 
-.button1 {background-color: #4CAF50;} /* Green */
+.button6 {background-color: #4CAF50;} /* Green */
 
 </style>  
   
