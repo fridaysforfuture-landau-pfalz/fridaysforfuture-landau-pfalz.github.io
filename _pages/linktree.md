@@ -24,12 +24,12 @@ permalink: /linktree
 .button1 {
   background-color: #4CAF50;
   border-radius: 8px;
-  color: black; 
+  color: white; 
 }
 
 .button1:hover {
   background-color: white;
-  color: white;
+  color: black;
   border: 2px solid #4CAF50;
 }
   
