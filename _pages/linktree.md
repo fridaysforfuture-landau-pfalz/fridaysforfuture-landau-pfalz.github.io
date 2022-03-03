@@ -17,7 +17,6 @@ permalink: /linktree
   display: inline-block;
   font-size: 24px;
   margin: 2px 4px;
-  float: left !important;
   cursor: pointer;
   width: 30%;
 }
@@ -27,7 +26,7 @@ permalink: /linktree
 </style>  
   
 <a class="button1" href="https://fridaysforfuture-landau.de/ank%C3%BCndigung/2022/01/25/Klimastreik-25.03.22.html"
-       target="" style="color: white" >25.03 globaler Klimastreik </a>
+       target="" style="color: white" >25.03 globaler Klimastreik </a> <br>
 
 <style>
 .button2 {
@@ -39,7 +38,6 @@ permalink: /linktree
   display: inline-block;
   font-size: 24px;
   margin: 2px 4px;
-  float: left !important;
   cursor: pointer;
   width: 30%;
 }
@@ -49,7 +47,7 @@ permalink: /linktree
 </style>  
   
 <a class="button2" href=""
-       target="" style="color: white" >KlimaFFFestival</a>  
+       target="" style="color: white" >KlimaFFFestival</a>  <br>
  
 <style>
 .button3 {
@@ -61,7 +59,6 @@ permalink: /linktree
   display: inline-block;
   font-size: 24px;
   margin: 2px 4px;
-  float: left !important;
   cursor: pointer;
   width: 30%;
 }
@@ -71,7 +68,7 @@ permalink: /linktree
 </style>  
   
 <a class="button3" href="https://fridaysforfuture-landau.de/forderungen"
-       target="" style="color: white" >Forderungen</a>  
+       target="" style="color: white" >Forderungen</a>  <br>
 
 <style>
 .button4 {
@@ -83,7 +80,6 @@ permalink: /linktree
   display: inline-block;
   font-size: 24px;
   margin: 2px 4px;
-  float: left !important;
   cursor: pointer;
   width: 30%;
 }
@@ -93,7 +89,7 @@ permalink: /linktree
 </style>  
   
 <a class="button4" href="https://opencollective.com/klimastreik-landau"
-       target="" style="color: white" >Spenden</a>  
+       target="" style="color: white" >Spenden</a>  <br>
 
 <style>
 .button5 {
@@ -105,7 +101,6 @@ permalink: /linktree
   display: inline-block;
   font-size: 24px;
   margin: 2px 4px;
-  float: left !important;
   cursor: pointer;
   width: 30%;
 }
@@ -115,7 +110,7 @@ permalink: /linktree
 </style>  
   
 <a class="button5" href=""
-       target="" style="color: white" >Mitmachen</a>  
+       target="" style="color: white" >Mitmachen</a>  <br>
 
 <style>
 .button6 {
@@ -127,7 +122,6 @@ permalink: /linktree
   display: inline-block;
   font-size: 24px;
   margin: 2px 4px;
-  float: left !important;
   cursor: pointer;
   width: 30%;
 }
@@ -137,7 +131,8 @@ permalink: /linktree
 </style>  
   
 <a class="button6" href="https://fridaysforfuture-landau.de/kontakt"
-       target="" style="color: white" >Kontakt</a>    
+       target="" style="color: white" >Kontakt</a> <br>
  
 </div>
 
+  float: left !important;
