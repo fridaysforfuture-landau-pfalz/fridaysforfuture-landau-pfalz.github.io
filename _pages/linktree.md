@@ -22,7 +22,7 @@ permalink: /linktree
 }
 
 .button1 {
-  background-color: #4CAF50;
+  background-color: #4CAF50; /* Green */
   border-radius: 8px;
   color: white; 
 }
