@@ -21,10 +21,16 @@ permalink: /linktree
   width: 100%;
 }
 
-.button1 {background-color: #4CAF50; border-radius: 8px;} /* Green */
+.button1 {
+  background-color: #4CAF50;
+  border-radius: 8px;
+  color: black; 
+}
+
 .button1:hover {
   background-color: #4CAF50;
   color: white;
+  border: 2px solid #4CAF50;
 }
   
 </style>  
