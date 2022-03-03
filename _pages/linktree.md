@@ -5,7 +5,7 @@ permalink: /linktree
 ---
 <div align='center'>
   
-<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/logo_fff.png?raw=true" alt="Logo" style="float:center;" height="20%" width="20%"> <br>
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/FFF%20Landau%20Logo.png?raw=true" alt="Logo" style="float:center;" height="20%" width="20%"> <br>
   <p></p>
 <a href="https://opencollective.com/klimastreik-landau" class="btn btn--success">Spenden</a>
   <p></p>
