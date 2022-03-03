@@ -47,7 +47,10 @@ permalink: /linktree
 }
 
 .button2 {background-color: #4CAF50;} /* Green */
-
+.disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+  
 </style>  
   
 <a class="button2" href=""
