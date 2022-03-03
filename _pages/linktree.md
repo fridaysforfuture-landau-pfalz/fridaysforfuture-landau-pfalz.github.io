@@ -70,6 +70,8 @@ permalink: /linktree
   cursor: pointer;
   width: 100%;
 }
+
+.button3 {background-color: #4CAF50;} /* Green */  
   
 </style>  
   
