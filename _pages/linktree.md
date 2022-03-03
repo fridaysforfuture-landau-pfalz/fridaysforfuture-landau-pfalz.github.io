@@ -21,7 +21,7 @@ permalink: /linktree
   width: 100%;
 }
 
-.button1 {background-color: #4CAF50;} {border-radius: 4px;} /* Green */
+.button1 {background-color: #4CAF50; border-radius: 4px;} /* Green */
 .button1:hover {
   background-color: #4CAF50;
   color: white;
