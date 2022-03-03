@@ -1,6 +1,7 @@
 ---
 title:  " "
 layout: single
+classes: wide
 permalink: /linktree
 ---
 <div align='center'>
