@@ -26,12 +26,6 @@ permalink: /linktree
   border-radius: 8px;
   color: white; 
 }
-
-.button1:hover {
-  background-color: white;
-  color: black;
-  border: 6px solid #4CAF50;
-}
   
 </style>  
   
