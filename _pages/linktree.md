@@ -162,5 +162,4 @@ permalink: /linktree
   
 <a class="button6" href="https://fridaysforfuture-landau.de/kontakt"
        target="" style="color: white" >Kontakt</a> <br>
- 
-</div>
+
