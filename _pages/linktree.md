@@ -5,7 +5,7 @@ permalink: /linktree
 ---
 <div align='center'>
   
-<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/FFF%20Landau%20Logo.png?raw=true" href="https://fridaysforfuture-landau.de/" alt="Logo" style="float:center;" height="50%" width="50%"> <br>
+< a a href="https://fridaysforfuture-landau.de/"> img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/FFF%20Landau%20Logo.png?raw=true"  alt="Logo" style="float:center;" height="50%" width="50%"> <br>
 
 <style>
 .button1 {
