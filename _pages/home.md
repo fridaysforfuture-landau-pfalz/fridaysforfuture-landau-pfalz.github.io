@@ -21,7 +21,7 @@ header:
   margin: 2px 4px;
   float: left !important;
   cursor: pointer;
-  width: 30%;
+  width: 25%;
 }
 
 .button1 {background-color: #4CAF50;} /* Green */
@@ -43,7 +43,7 @@ header:
   margin: 2px 4px;
   float: left !important;
   cursor: pointer;
-  width: 30%;
+  width: 25%;
 }
 
 .button2 {background-color: #4CAF50;} /* Green */
@@ -64,7 +64,7 @@ header:
   font-size: 24px;
   margin: 2px 4px;
   cursor: pointer;
-  width: 30%;
+  width: 25%;
 }
 
 .button3 {background-color: #4CAF50;} /* Green */
@@ -72,6 +72,28 @@ header:
 
 <a class="button3" href="https://fridaysforfuture-landau.de/kontakt"
        target="" style="color: white" >Kontakt</a>
+
+<style>
+.button4 {
+  border: none;
+  color: white;
+  padding: 15px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 24px;
+  margin: 2px 4px;
+  float: left !important;
+  cursor: pointer;
+  width: 25%;
+}
+
+.button4 {background-color: #4CAF50;} /* Green */
+
+</style>  
+  
+<a class="button4" href="https://opencollective.com/klimastreik-landau"
+       target="" style="color: white" >Spenden</a>
 
 <br>
 <p> </p>
