@@ -121,7 +121,7 @@ Keine Kapazitäten oder Zeit zum mitorganisieren, aber trotzdem Lust uns zu unte
 <p> </p>
 
 <style>
-.button4 {
+.button5 {
   border: none;
   color: white;
   padding: 15px 15px;
@@ -135,11 +135,11 @@ Keine Kapazitäten oder Zeit zum mitorganisieren, aber trotzdem Lust uns zu unte
   width: 30%;
 }
 
-.button4 {background-color: #4CAF50;} /* Green */
+.button5 {background-color: #4CAF50;} /* Green */
 
 </style>  
   
-<a class="button4" href="https://opencollective.com/klimastreik-landau"
+<a class="button5" href="https://opencollective.com/klimastreik-landau"
        target="" style="color: white" >Spenden</a> <br>
 
 <p> </p>  
