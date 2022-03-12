@@ -8,7 +8,7 @@ categories: Ankündigung
 
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/GK%2025.03.22/SharePic%20GK%2025.3..png?raw=true" alt="SharePic Klimastreik 25.3" style="float:right;" height="50%" width="50%">
 
-❗❗❗ Nicht mal mehr 2 Wochen ❗❗❗ 
+❗ Nicht mal mehr 2 Wochen ❗ 
 
 📢 Am 25.3 ist es wieder soweit - der nächste globale Klimastreik von Fridays for Future findet statt. Hunderte Ortsgruppen und tausende Menschen werden wieder auf die Straße gehen um für mehr Klimaschutz und Klimagerechtigkeit einzustehen ✊. Auch die Ortsgruppe Landau ist wieder dabei und ruft zum Streik auf.  
  
