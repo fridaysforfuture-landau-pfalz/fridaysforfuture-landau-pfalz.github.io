@@ -1,6 +1,6 @@
 ---
-title:  " "
+title:  "Mitmachen"
 layout: single
-permalink: /linktree
+permalink: /mitmachen
 ---
 
