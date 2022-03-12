@@ -10,4 +10,26 @@ Wir planen eine Hochschulgruppe "Students for Future" zu gründen. Wenn du Inter
 
 Keine Kapazitäten oder Zeit zum mitorganisieren, aber trotzdem Lust uns zu unterstützen? Wir haben jetzt seit kurzem die Möglichkeit über ein Konto Spenden entgegen nehmen zu können. Hier sammeln wir Geld für anstehende Aktionen und Klimastreiks für die wir Materialkosten haben, für Künstlerauftritte bei unseren Aktionen und notwendige Anschaffungen. Wir würden uns über eine Spende freuen :) <br>
 
+<style>
+.button5 {
+  border: none;
+  color: white;
+  padding: 15px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 24px;
+  margin: 2px 4px;
+  float: center !important;
+  cursor: pointer;
+  width: 30%;
+}
+
+.button5 {background-color: #4CAF50;} /* Green */
+
+</style>  
+  
+<a class="button5" href="https://opencollective.com/klimastreik-landau"
+       target="" style="color: white" >Spenden</a> <br>
+
 Wir freuen uns auf dich!
