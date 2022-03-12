@@ -1,5 +1,6 @@
 ---
 title:  "Mitmachen"
+classes: wide
 layout: single
 permalink: /mitmachen
 ---
