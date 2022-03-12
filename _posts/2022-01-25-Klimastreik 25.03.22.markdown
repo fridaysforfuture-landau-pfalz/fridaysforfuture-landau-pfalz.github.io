@@ -1,6 +1,6 @@
 ---
 layout: single
-classes: 
+classes: wide
 title:  "Klimastreik 25.03.22"
 date:   2022-01-25 12:00:00 +0200
 categories: Ankündigung
