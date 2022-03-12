@@ -138,7 +138,7 @@ permalink: /linktree
 
 </style>  
   
-<a class="button5" href=""
+<a class="button5" href="https://fridaysforfuture-landau.de/mitmachen"
        target="" style="color: white" >Mitmachen</a>  
 <br>
 
