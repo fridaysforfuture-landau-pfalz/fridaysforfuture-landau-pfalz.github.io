@@ -34,10 +34,10 @@ presse:
         url: "/assets/pdf/ForderungenLandauDez2020.pdf"
   - title: "Pressemitteilungen"
     children: 
-      - title: "-Pressemitteilung Solidarität Ukraine"
-        url: "assets/pdf/Pressemitteilung Ukraine.pdf"
       - title: "-Pressemitteilung globaler Klimastreik 25.03.22" 
         url: "assets/pdf/Pressemitteilung Globaler Klimastreik 250322_220125_135220.pdf"
+      - title: "-Pressemitteilung Solidarität Ukraine"
+        url: "assets/pdf/Pressemitteilung Ukraine.pdf"
       - title: "-Pressemitteilung FFF Landau Jahresabschluss" 
         url: "fridaysforfuture-landau-pfalz.github.io/assets/pdf/Pressemitteilung FfF Jahresabschluss 171221_211214_192021.pdf"
       - title: "- Pressemitteilung Globaler Klimastreik 22.10"
