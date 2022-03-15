@@ -21,7 +21,7 @@ header:
   margin: 2px 4px;
   float: left !important;
   cursor: pointer;
-  width: 25%;
+  width: 50%;
 }
 
 .button1 {background-color: #4CAF50;} /* Green */
@@ -43,7 +43,7 @@ header:
   margin: 2px 4px;
   float: left !important;
   cursor: pointer;
-  width: 25%;
+  width: 50%;
 }
 
 .button2 {background-color: #4CAF50;} /* Green */
@@ -51,7 +51,7 @@ header:
 </style>    
   
 <a class="button2" href="https://fridaysforfuture-landau.de/termine"
-       target="" style="color: white" >Termine</a>
+       target="" style="color: white" >Termine</a> <br>
 
 <style>
 .button3 {
@@ -63,8 +63,9 @@ header:
   display: inline-block;
   font-size: 24px;
   margin: 2px 4px;
+  float: left !important;
   cursor: pointer;
-  width: 25%;
+  width: 50%;
 }
 
 .button3 {background-color: #4CAF50;} /* Green */
@@ -85,7 +86,7 @@ header:
   margin: 2px 4px;
   float: left !important;
   cursor: pointer;
-  width: 25%;
+  width: 50%;
 }
 
 .button4 {background-color: #4CAF50;} /* Green */
