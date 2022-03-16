@@ -51,7 +51,7 @@ header:
 </style>    
   
 <a class="button2" href="https://fridaysforfuture-landau.de/termine"
-       target="" style="color: white" >Termine</a> <br>
+       target="" style="color: white" >Termine</a>
 
 <style>
 .button3 {
@@ -97,6 +97,8 @@ header:
        target="" style="color: white" >Spenden</a>
 
 <br>
+<p> </p>
+<p> </p>
 <p> </p>
 
 <h2>Wer sind wir?</h2>
