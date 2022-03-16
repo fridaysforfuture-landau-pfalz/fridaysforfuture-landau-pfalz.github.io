@@ -21,7 +21,7 @@ header:
   margin: 2px 4px;
   float: left !important;
   cursor: pointer;
-  width: 49%;
+  width: 47%;
 }
 
 .button1 {background-color: #4CAF50;} /* Green */
@@ -43,7 +43,7 @@ header:
   margin: 2px 4px;
   float: right !important;
   cursor: pointer;
-  width: 49%;
+  width: 47%;
 }
 
 .button2 {background-color: #4CAF50;} /* Green */
@@ -65,7 +65,7 @@ header:
   margin: 2px 4px;
   float: left !important;
   cursor: pointer;
-  width: 49%;
+  width: 47%;
 }
 
 .button3 {background-color: #4CAF50;} /* Green */
@@ -86,7 +86,7 @@ header:
   margin: 2px 4px;
   float: right !important;
   cursor: pointer;
-  width: 49%;
+  width: 47%;
 }
 
 .button4 {background-color: #4CAF50;} /* Green */
