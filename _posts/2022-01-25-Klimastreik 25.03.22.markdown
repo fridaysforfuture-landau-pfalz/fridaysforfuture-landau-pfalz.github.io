@@ -14,7 +14,7 @@ categories: Ankündigung
  
 🔥 Die Klimakrise ist jetzt. Dennoch passiert politisch zu wenig. Auch die Ampelkoalition versagt bisher. Unser Urteil ist deutlich: das #ReichtHaltNicht! Dabei leben wir in Deutschland auf Kosten der Menschen, die schon seit Jahren von den Folgen der Klimakrise betroffen sind und es in Zukunft noch stärker sein werden. Wir sagen solidarisch mit den am stärksten Betroffenen dieser Krise: #PeopleNotProfit.  
  
-🕛📌 Wir starten am 25.3 um 12:05 auf dem Marktplatz. Hier wird es zum Anfang eine Rede geben bevor wir uns lautstark auf unsere Route durch die Stadt begeben. Sobald der Demozug wieder am Zielort (Marktplatz) angekommen ist, sind weitere Aktionen wie: eine Menschenkette, ein Menschenbild, und weitere Reden geplant.  
+🕛📌 Wir starten am 25.3 um 12:05 auf dem Rathhausplatz. Hier wird es zum Anfang eine Rede geben bevor wir uns lautstark auf unsere Route durch die Stadt begeben. Sobald der Demozug wieder am Zielort (Rathausplatz) angekommen ist, sind weitere Aktionen wie: eine Menschenkette, ein Menschenbild, und weitere Reden geplant.  
 
 👨‍👩‍👧‍👦👨‍👩‍👧‍👦 Für eine Veränderung brauchen wir die breite Gesellschaft auf der Straße. Komm also am 25.3 zum Klimastreik und bring deine Freunde, Familie, Klassenkamerad*innen, Komiliton*innen und Mitbewohner mit, damit solche Orte wie Lützerath nicht der Profitgier der Konzerne zum Opfer fallen und wir wenigstens unter 2 Grad bleiben. <br>
 
