@@ -20,4 +20,4 @@ categories: Ankündigung
 
 <p></p>
 
-Pressemitteilung: <a href="assets/images/GK 25.03.22/Pressemitteilung Globaler Klimastreik 250322_220125_135220.pdf" target="_blank" >globaler Klimastreik 25.03.22</a>
+Pressemitteilung: <a href="assets/pdf/Pressemitteilung Ankündigung Globaler Klimastreik 25.3.pdf" target="_blank" >globaler Klimastreik 25.03.22</a>
