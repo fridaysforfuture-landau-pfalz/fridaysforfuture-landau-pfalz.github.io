@@ -19,7 +19,7 @@ gallery:
 
 Am Freitag dem 25.03 war der erste globale Klimastreik des Jahres. In Landau waren 400 und deutschlandweit 220.000 Menschen auf der Straße um ein starkes Zeichen zusetzen, dass Menschenleben, Menschenrechte, Frieden, das Klima und Klimagerechtigkeit nicht über Profit und Machtinteressen gestellt werden sollten. Um dies klar zu machen waren auch in Landau alle Altersklassen auf der Straße um lautstark dafür einzutretten. <br>
 Neben einem lautstarkem Demozug durch die Stadt und verschiedenen Reden wurde auch ein großes Peace-Zeichen als Menschenbild vorm Rathaus gestellt. <br>
-Nach der Demo war ein offener Austausch, über verschiedene Themen, im Cafe Cossmo noch möglich. 
+Nach der Demo war ein offener Austausch, über verschiedene Themen, im Cafe Cosmo noch möglich. 
 
 Nachfolgene Bilder sind von verschiedenen Menschen aufgenommen worden. <br>
 {% include gallery layout="half" %}
