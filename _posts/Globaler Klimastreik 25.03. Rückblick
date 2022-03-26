@@ -1,0 +1,35 @@
+---
+layout: single
+classes: 
+title:  "Rückblick GK 25.03.22"
+date:   2022-03-25 12:05:00 +0200
+categories: Demo
+
+gallery:
+  - url: assets/images/Lützerath/Mahnwache 08.01/4096-2731-max.jpg
+    image_path: assets/images/Lützerath/Mahnwache 08.01/4096-2731-max.jpg
+  - url: assets/images/Lützerath/Mahnwache 08.01/4096-2731-max (2).jpg
+    image_path: assets/images/Lützerath/Mahnwache 08.01/4096-2731-max (2).jpg
+  - url: assets/images/Lützerath/Mahnwache 08.01/4096-2731-max (1).jpg
+    image_path: assets/images/Lützerath/Mahnwache 08.01/4096-2731-max (1).jpg
+  - url: assets/images/Lützerath/Mahnwache 08.01/4096-2731-max (3).jpg
+    image_path: assets/images/Lützerath/Mahnwache 08.01/4096-2731-max (3).jpg  
+  - url: assets/images/Lützerath/Mahnwache 08.01/20220108_134739.jpg
+    image_path: assets/images/Lützerath/Mahnwache 08.01/20220108_134739.jpg
+  - url: assets/images/Lützerath/Mahnwache 08.01/1024-1536.jpg
+    image_path: assets/images/Lützerath/Mahnwache 08.01/1024-1536.jpg
+  - url: assets/images/Lützerath/Mahnwache 08.01/1024-1536 (2).jpg
+    image_path: assets/images/Lützerath/Mahnwache 08.01/1024-1536 (2).jpg
+  - url: assets/images/Lützerath/Mahnwache 08.01/1024-1365.jpg
+    image_path: assets/images/Lützerath/Mahnwache 08.01/1024-1365.jpg
+
+--- 
+
+Am Freitag dem 25.03 war der erste globale Klimastreik des Jahres. In Landau waren 400 und deutschlandweit 220.000 Menschen auf der Straße um ein starkes Zeichen zusetzen, dass Menschenleben, Menschenrechte, Frieden, das Klima und Klimagerechtigkeit nicht über Profit und Machtinteressen gestellt werden sollten. Um dies klar zu machen waren auch in Landau alle Altersklassen auf der Straße um lautstark dafür einzutretten. <br>
+Neben einem lautstarkem Demozug durch die Stadt und verschiedenen Reden wurde auch ein großes Peace-Zeichen als Menschenbild vorm Rathaus gestellt. <br>
+Nach der Demo war ein offener Austausch, über verschiedene Themen, im Cafe Cossmo noch möglich. 
+
+Nachfolgene Bilder sind von verschiedenen Menschen aufgenommen worden. <br>
+{% include gallery layout="half" %}
+
+Du hast neue Ideen, Feedback zur Demo oder jetzt Lust mitzuorganisieren? - dann schreib uns gerne oder kommt beim nächsten Plenum vorbei :) wir würden uns freuen.
