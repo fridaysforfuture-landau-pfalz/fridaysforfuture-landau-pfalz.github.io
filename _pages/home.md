@@ -35,12 +35,12 @@ header:
 .button2 {
   border: none;
   color: white;
-  padding: 15px 15px;
+  padding: 5px 5px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 24px;
-  margin: 2px 4px;
+  margin: 2px 10px;
   float: right !important;
   cursor: pointer;
   width: 47%;
