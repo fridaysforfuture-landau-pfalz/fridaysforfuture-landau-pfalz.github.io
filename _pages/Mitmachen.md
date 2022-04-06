@@ -17,7 +17,7 @@ Du möchtest dich an der Organisation von Demos oder Aktionen beteiligen, wissen
 Wir planen eine Hochschulgruppe "Students for Future" zu gründen. Wenn du Intersse hast diese mit zu gründen oder Mitglied zu sein melde dich gerne bei uns. Wir freuen uns über Hilfe, Ideen, Kapazitäten und neue Menschen. <br>
 
 <h2> Spenden </h2>
-Keine Kapazitäten oder Zeit zum mitorganisieren, aber trotzdem Lust uns zu unterstützen? Wir haben jetzt seit kurzem die Möglichkeit über ein Konto Spenden entgegen nehmen zu können. Hier sammeln wir Geld für anstehende Aktionen und Klimastreiks für die wir Materialkosten haben, für Künstlerauftritte bei unseren Aktionen und notwendige Anschaffungen. Wir würden uns über eine Spende freuen :) <br>
+Keine Kapazitäten oder Zeit zum mitorganisieren, aber trotzdem Lust uns zu unterstützen? Wir haben jetzt seit kurzem die Möglichkeit über ein Konto Spenden entgegen nehmen zu können. Hier sammeln wir Geld für anstehende Aktionen und Klimastreiks für die wir Materialkosten haben, für Künstlerauftritte bei unseren Aktionen und notwendige Anschaffungen. Wir würden uns über eine Spende freuen :) 
 
 <style>
 .button5 {
