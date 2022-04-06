@@ -26,7 +26,7 @@ gallery:
     image_path: assets/images/Demoplakate/ec1a5ad7-2b1b-4e3c-8b91-9f6165b8051e.jpg
   - url: assets/images/Demoplakate/eed65445-c39e-427e-82e5-7b465d98b35c.jpg
     image_path: assets/images/Demoplakate/eed65445-c39e-427e-82e5-7b465d98b35c.jpg
-  ---
+ ---
 
 Hier findest du Ideen für Demosprüche, Vorschläge für dein nächstes Demoplakat und vieles mehr. 
 
