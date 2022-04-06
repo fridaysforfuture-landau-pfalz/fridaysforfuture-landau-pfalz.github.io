@@ -158,7 +158,7 @@ Keine Kapazitäten oder Zeit zum mitorganisieren, aber trotzdem Lust uns zu unte
   display: inline-block;
   font-size: 24px;
   margin: 2px 4px;
-  float: right !important;
+  float: left !important;
   cursor: pointer;
   width: 30%;
 }
