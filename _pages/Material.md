@@ -26,6 +26,34 @@ gallery:
     image_path: assets/images/Demoplakate/ec1a5ad7-2b1b-4e3c-8b91-9f6165b8051e.jpg
   - url: assets/images/Demoplakate/eed65445-c39e-427e-82e5-7b465d98b35c.jpg
     image_path: assets/images/Demoplakate/eed65445-c39e-427e-82e5-7b465d98b35c.jpg
+  - url: assets/images/Demoplakate/Screenshot_20210923-190714_Instagram.jpg
+    image_path: assets/images/Demoplakate/Screenshot_20210923-190714_Instagram.jpg
+  - url: assets/images/Demoplakate/Screenshot_20210923-190720_Instagram.jpg
+    image_path: assets/images/Demoplakate/Screenshot_20210923-190720_Instagram.jpg
+  - url: assets/images/Demoplakate/Screenshot_20210923-190734_Instagram.jpg
+    image_path: assets/images/Demoplakate/Screenshot_20210923-190734_Instagram.jpg
+  - url: assets/images/Demoplakate/Screenshot_20210923-190914_Instagram.jpg
+    image_path: assets/images/Demoplakate/Screenshot_20210923-190914_Instagram.jpg
+  - url: assets/images/Demoplakate/Screenshot_20220326-183143_Instagram.jpg
+    image_path: assets/images/Demoplakate/Screenshot_20220326-183143_Instagram.jpg
+  - url: assets/images/Demoplakate/Screenshot_20220326-191750_Instagram.jpg
+    image_path: assets/images/Demoplakate/Screenshot_20220326-191750_Instagram.jpg
+  - url: assets/images/Demoplakate/Screenshot_20220327-202438_Instagram.jpg
+    image_path: assets/images/Demoplakate/Screenshot_20220327-202438_Instagram.jpg
+  - url: assets/images/Demoplakate/Screenshot_20220327-202500_Instagram.jpg
+    image_path: assets/images/Demoplakate/Screenshot_20220327-202500_Instagram.jpg
+  - url: assets/images/Demoplakate/Screenshot_20220327-202515_Instagram.jpg
+    image_path: assets/images/Demoplakate/Screenshot_20220327-202515_Instagram.jpg
+  - url: assets/images/Demoplakate/Screenshot_20220328-221855_Instagram.jpg
+    image_path: assets/images/Demoplakate/Screenshot_20220328-221855_Instagram.jpg
+  - url: assets/images/Demoplakate/Screenshot_20220329-104451_Instagram.jpg
+    image_path: assets/images/Demoplakate/Screenshot_20220329-104451_Instagram.jpg
+  - url: assets/images/Demoplakate/Screenshot_20220329-153303_Instagram.jpg
+    image_path: assets/images/Demoplakate/Screenshot_20220329-153303_Instagram.jpg
+  - url: assets/images/Demoplakate/Screenshot_20220329-212038_Instagram.jpg
+    image_path: assets/images/Demoplakate/Screenshot_20220329-212038_Instagram.jpg
+  - url: assets/images/Demoplakate/Screenshot_20220404-202024_Instagram.jpg
+    image_path: assets/images/Demoplakate/Screenshot_20220404-202024_Instagram.jpg
 ---
 
 Hier findest du Ideen für Demosprüche, Vorschläge für dein nächstes Demoplakat und vieles mehr. 
