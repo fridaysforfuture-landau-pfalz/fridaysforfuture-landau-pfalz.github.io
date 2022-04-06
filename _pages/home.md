@@ -100,6 +100,10 @@ header:
 <p> </p>
 <p> </p>
 <p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
 
 <h2>Wer sind wir?</h2>
 
@@ -133,7 +137,7 @@ Keine Kapazitäten oder Zeit zum mitorganisieren, aber trotzdem Lust uns zu unte
   display: inline-block;
   font-size: 24px;
   margin: 2px 4px;
-  float: center !important;
+  float: left !important;
   cursor: pointer;
   width: 30%;
 }
@@ -144,6 +148,29 @@ Keine Kapazitäten oder Zeit zum mitorganisieren, aber trotzdem Lust uns zu unte
   
 <a class="button5" href="https://opencollective.com/klimastreik-landau"
        target="" style="color: white" >Spenden</a> <br>
+       
+
+<style>
+.button6 {
+  border: none;
+  color: white;
+  padding: 15px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 24px;
+  margin: 2px 4px;
+  float: right !important;
+  cursor: pointer;
+  width: 30%;
+}
+
+.button6 {background-color: #4CAF50;} /* Green */
+
+</style>  
+  
+<a class="button6" href="https://fridaysforfuture-landau.de/mitmachen"
+       target="" style="color: white" >Mitmachen</a> <br>
 
 <p> </p>  
 <p> </p>
