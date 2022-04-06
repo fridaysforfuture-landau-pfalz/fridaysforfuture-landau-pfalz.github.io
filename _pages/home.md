@@ -94,9 +94,7 @@ header:
 </style>  
   
 <a class="button4" href="https://opencollective.com/klimastreik-landau"
-       target="" style="color: white" >Spenden</a>
-
-<br>
+       target="" style="color: white" >Spenden</a> <br>
 <p> </p>
 <p> </p>
 <p> </p>
@@ -147,7 +145,7 @@ Keine Kapazitäten oder Zeit zum mitorganisieren, aber trotzdem Lust uns zu unte
 </style>  
   
 <a class="button5" href="https://opencollective.com/klimastreik-landau"
-       target="" style="color: white" >Spenden</a> <br>
+       target="" style="color: white" >Spenden</a>
        
 
 <style>
