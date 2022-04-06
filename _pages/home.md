@@ -129,7 +129,7 @@ Keine Kapazitäten oder Zeit zum mitorganisieren, aber trotzdem Lust uns zu unte
 .button5 {
   border: none;
   color: white;
-  padding: 15px 15px;
+  padding: 15px 25px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -152,7 +152,7 @@ Keine Kapazitäten oder Zeit zum mitorganisieren, aber trotzdem Lust uns zu unte
 .button6 {
   border: none;
   color: white;
-  padding: 15px 15px;
+  padding: 15px 25px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
