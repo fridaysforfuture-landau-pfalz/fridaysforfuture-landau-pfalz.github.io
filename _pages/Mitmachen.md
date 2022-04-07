@@ -3,6 +3,8 @@ title:  "Mitmachen"
 classes: wide
 layout: splash
 permalink: /mitmachen
+header:
+  image: assets/images/Webseite Bilder/Mitmachen Bannner.png
 ---
 <p></p>
 
