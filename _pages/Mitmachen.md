@@ -21,6 +21,9 @@ Wir planen eine Hochschulgruppe "Students for Future" zu gründen. Wenn du Inter
 <p></p>
 <p></p>
 <p></p>
+<p></p>
+<p></p>
+<p></p>
 
 <h2> Spenden </h2>
 Keine Kapazitäten oder Zeit zum mitorganisieren, aber trotzdem Lust uns zu unterstützen? Wir haben jetzt seit kurzem die Möglichkeit über ein Konto Spenden entgegen nehmen zu können. Hier sammeln wir Geld für anstehende Aktionen und Klimastreiks für die wir Materialkosten haben, für Künstlerauftritte bei unseren Aktionen und notwendige Anschaffungen. Wir würden uns über eine Spende freuen :) 
