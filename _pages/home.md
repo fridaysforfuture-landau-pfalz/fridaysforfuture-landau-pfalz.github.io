@@ -134,7 +134,7 @@ Keine Kapazitäten oder Zeit zum mitorganisieren, aber trotzdem Lust uns zu unte
   text-decoration: none;
   display: inline-block;
   font-size: 24px;
-  margin: 2px 2px 8px;
+  margin: 2px 2px 50px;
   float: left !important;
   cursor: pointer;
   width: 47%;
