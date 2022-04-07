@@ -65,7 +65,7 @@ header:
   margin: 2px 2px 35px;
   float: left !important;
   cursor: pointer;
-  width: 47%;
+  width: 49%;
 }
 
 .button3 {background-color: #4CAF50;} /* Green */
