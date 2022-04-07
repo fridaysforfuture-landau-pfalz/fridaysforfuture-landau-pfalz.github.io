@@ -71,7 +71,7 @@ Hier findest du Ideen für Demosprüche, Vorschläge für dein nächstes Demopla
   font-size: 24px;
   margin: 4px 2px;
   cursor: pointer;
-  width: 40%;
+  width: 47%;
 }
 .button2 {
   border: none;
@@ -83,7 +83,7 @@ Hier findest du Ideen für Demosprüche, Vorschläge für dein nächstes Demopla
   font-size: 24px;
   margin: 4px 2px;
   cursor: pointer;
-  width: 40%;
+  width: 47%;
 }  
   
 .button1 {background-color: #4CAF50;} /* Green */
