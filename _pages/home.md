@@ -102,7 +102,7 @@ header:
 <p> </p>
 <p> </p>
 <p> </p>
-
+<br>
 <h2>Wer sind wir?</h2>
 
 Klimastreik Landau ist eine Ortsgruppe von Fridays for Future. Wir kämpfen durch politisches und gesellschaftliches Engagement für mehr Klimaschutz und Klimagerechtigkeit auch in Landau. Wir organisieren Gespräche mit Politiker:Innen, stellen Forderungen auf und planen Demos und andere Aktionen.
@@ -134,7 +134,7 @@ Keine Kapazitäten oder Zeit zum mitorganisieren, aber trotzdem Lust uns zu unte
   text-decoration: none;
   display: inline-block;
   font-size: 24px;
-  margin: 2px 2px 50px;
+  margin: 2px 2px 35px;
   float: left !important;
   cursor: pointer;
   width: 47%;
@@ -157,7 +157,7 @@ Keine Kapazitäten oder Zeit zum mitorganisieren, aber trotzdem Lust uns zu unte
   text-decoration: none;
   display: inline-block;
   font-size: 24px;
-  margin: 2px 2px 50px;
+  margin: 2px 2px 35px;
   float: left !important;
   cursor: pointer;
   width: 47%;
