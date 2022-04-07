@@ -13,7 +13,7 @@ header:
 .button1 {
   border: none;
   color: white;
-  padding: 15px 15px;
+  padding: 5px 5px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -57,7 +57,7 @@ header:
 .button3 {
   border: none;
   color: white;
-  padding: 15px 15px;
+  padding: 5px 5px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -78,7 +78,7 @@ header:
 .button4 {
   border: none;
   color: white;
-  padding: 15px 15px;
+  padding: 5px 5px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
