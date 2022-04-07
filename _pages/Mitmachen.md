@@ -22,6 +22,9 @@ Wir planen eine Hochschulgruppe "Students for Future" zu gründen. Wenn du Inter
 <p></p>
 <p></p>
 <p></p>
+<br>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <br>
