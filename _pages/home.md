@@ -95,13 +95,7 @@ header:
   
 <a class="button4" href="https://opencollective.com/klimastreik-landau"
        target="" style="color: white" >Spenden</a> <br>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
+       
 <br>
 <h2>Wer sind wir?</h2>
 
