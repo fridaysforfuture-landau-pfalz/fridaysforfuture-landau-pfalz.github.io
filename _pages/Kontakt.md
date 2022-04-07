@@ -20,12 +20,12 @@ permalink: /kontakt
 
 </div> <br>
   
-Sie können uns gerne über das Kontaktformular oder direkt an <b>klimastreik-landau@gmx.de</b> schreiben. <br>
+Du kannst uns gerne über das Kontaktformular oder direkt an <b>klimastreik-landau@gmx.de</b> schreiben. <br>
   
 <p> </p>    
   
 <b>Newsletter:</b> <br>
-Du hast Interesse an Veranstaltungen und Aktionen mit und um Fridays for Future Landau? Dann melde dich gerne über das Kontaktformular um in den E-Mail Verteiler zu kommen.
+Du hast Interesse an Veranstaltungen und Aktionen mit und um Fridays for Future Landau? Dann melde dich gerne über das Kontaktformular, um in den E-Mail Verteiler zu kommen.
   
 <p> </p>    
   
