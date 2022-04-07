@@ -13,12 +13,12 @@ header:
 .button1 {
   border: none;
   color: white;
-  padding: 5px 5px;
+  padding: 10px 10px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 24px;
-  margin: 2px 4px;
+  margin: 2px 2px 4px;
   float: left !important;
   cursor: pointer;
   width: 47%;
@@ -35,12 +35,12 @@ header:
 .button2 {
   border: none;
   color: white;
-  padding: 5px 5px;
+  padding: 10px 10px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 24px;
-  margin: 2px 4px;
+  margin: 2px 2px 4px;
   float: right !important;
   cursor: pointer;
   width: 47%;
@@ -57,12 +57,12 @@ header:
 .button3 {
   border: none;
   color: white;
-  padding: 5px 5px;
+  padding: 10px 10px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 24px;
-  margin: 2px 4px;
+  margin: 2px 2px 4px;
   float: left !important;
   cursor: pointer;
   width: 47%;
@@ -78,12 +78,12 @@ header:
 .button4 {
   border: none;
   color: white;
-  padding: 5px 5px;
+  padding: 10px 10px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 24px;
-  margin: 2px 4px;
+  margin: 2px 2px 4px;
   float: right !important;
   cursor: pointer;
   width: 47%;
@@ -129,12 +129,12 @@ Keine Kapazitäten oder Zeit zum mitorganisieren, aber trotzdem Lust uns zu unte
 .button5 {
   border: none;
   color: white;
-  padding: 5px 5px;
+  padding: 10px 10px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 24px;
-  margin: 2px 4px;
+  margin: 2px 2px 4px;
   float: left !important;
   cursor: pointer;
   width: 47%;
@@ -152,12 +152,12 @@ Keine Kapazitäten oder Zeit zum mitorganisieren, aber trotzdem Lust uns zu unte
 .button6 {
   border: none;
   color: white;
-  padding: 5px 5px;
+  padding: 10px 10px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 24px;
-  margin: 2px 4px;
+  margin: 2px 2px 4px;
   float: left !important;
   cursor: pointer;
   width: 47%;
