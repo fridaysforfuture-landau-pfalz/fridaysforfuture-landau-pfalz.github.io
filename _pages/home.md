@@ -62,7 +62,7 @@ header:
   text-decoration: none;
   display: inline-block;
   font-size: 24px;
-  margin: 2px 2px 4px;
+  margin: 2px 2px 10px;
   float: left !important;
   cursor: pointer;
   width: 47%;
@@ -83,7 +83,7 @@ header:
   text-decoration: none;
   display: inline-block;
   font-size: 24px;
-  margin: 2px 2px 4px;
+  margin: 2px 2px 10px;
   float: right !important;
   cursor: pointer;
   width: 47%;
@@ -134,7 +134,7 @@ Keine Kapazitäten oder Zeit zum mitorganisieren, aber trotzdem Lust uns zu unte
   text-decoration: none;
   display: inline-block;
   font-size: 24px;
-  margin: 2px 2px 4px;
+  margin: 2px 2px 8px;
   float: left !important;
   cursor: pointer;
   width: 47%;
@@ -157,7 +157,7 @@ Keine Kapazitäten oder Zeit zum mitorganisieren, aber trotzdem Lust uns zu unte
   text-decoration: none;
   display: inline-block;
   font-size: 24px;
-  margin: 2px 2px 4px;
+  margin: 2px 2px 8px;
   float: left !important;
   cursor: pointer;
   width: 47%;
