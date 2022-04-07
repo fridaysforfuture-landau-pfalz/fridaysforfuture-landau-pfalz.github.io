@@ -137,7 +137,7 @@ Keine Kapazitäten oder Zeit zum mitorganisieren, aber trotzdem Lust uns zu unte
   margin: 2px 4px;
   float: left !important;
   cursor: pointer;
-  width: 30%;
+  width: 50%;
 }
 
 .button5 {background-color: #4CAF50;} /* Green */
@@ -160,7 +160,7 @@ Keine Kapazitäten oder Zeit zum mitorganisieren, aber trotzdem Lust uns zu unte
   margin: 2px 4px;
   float: left !important;
   cursor: pointer;
-  width: 30%;
+  width: 50%;
 }
 
 .button6 {background-color: #4CAF50;} /* Green */
