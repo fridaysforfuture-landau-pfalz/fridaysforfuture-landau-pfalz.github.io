@@ -44,7 +44,7 @@ Keine Kapazitäten oder Zeit zum mitorganisieren, aber trotzdem Lust uns zu unte
   margin: 2px 4px;
   float: center !important;
   cursor: pointer;
-  width: 30%;
+  width: 50%;
 }
 
 .button5 {background-color: #4CAF50;} /* Green */
