@@ -21,7 +21,7 @@ header:
   margin: 2px 2px 4px;
   float: left !important;
   cursor: pointer;
-  width: 49%;
+  width: 47%;
 }
 
 .button1 {background-color: #4CAF50;} /* Green */
@@ -43,7 +43,7 @@ header:
   margin: 2px 2px 4px;
   float: left !important;
   cursor: pointer;
-  width: 49%;
+  width: 47%;
 }
 
 .button2 {background-color: #4CAF50;} /* Green */
@@ -65,7 +65,7 @@ header:
   margin: 2px 2px 35px;
   float: left !important;
   cursor: pointer;
-  width: 49%;
+  width: 47%;
 }
 
 .button3 {background-color: #4CAF50;} /* Green */
@@ -86,7 +86,7 @@ header:
   margin: 2px 2px 35px;
   float: left !important;
   cursor: pointer;
-  width: 49%;
+  width: 47%;
 }
 
 .button4 {background-color: #4CAF50;} /* Green */
@@ -137,7 +137,7 @@ Keine Kapazitäten oder Zeit zum mitorganisieren, aber trotzdem Lust uns zu unte
   margin: 2px 2px 50px;
   float: left !important;
   cursor: pointer;
-  width: 49%;
+  width: 47%;
 }
 
 .button5 {background-color: #4CAF50;} /* Green */
@@ -160,7 +160,7 @@ Keine Kapazitäten oder Zeit zum mitorganisieren, aber trotzdem Lust uns zu unte
   margin: 2px 2px 50px;
   float: left !important;
   cursor: pointer;
-  width: 49%;
+  width: 47%;
 }
 
 .button6 {background-color: #4CAF50;} /* Green */
