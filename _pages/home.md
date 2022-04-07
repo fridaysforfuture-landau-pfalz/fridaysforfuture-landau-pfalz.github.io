@@ -50,8 +50,8 @@ header:
 
 </style>    
   
-<a class="button2" href="https://fridaysforfuture-landau.de/termine"
-       target="" style="color: white" >Termine</a> <br>
+<a class="button2" href="https://fridaysforfuture-landau.de/mitmachen"
+       target="" style="color: white" >Mitmachen</a> <br>
 
 <style>
 .button3 {
