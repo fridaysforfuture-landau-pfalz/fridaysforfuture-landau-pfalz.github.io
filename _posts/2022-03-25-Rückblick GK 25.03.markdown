@@ -13,8 +13,30 @@ gallery:
   - url: assets/GK 25.03.22/signal-2022-03-25-16-00-58-570.jpg
     image_path: assets/GK 25.03.22/signal-2022-03-25-16-00-58-570.jpg
   - url: assets/GK 25.03.22/signal-2022-03-25-16-02-44-168.jpg
-    image_path: assets/GK 25.03.22/signal-2022-03-25-16-02-44-168.jpg 
-
+    image_path: assets/GK 25.03.22/signal-2022-03-25-16-02-44-168.jpg
+    
+  - url: assets/GK 25.03.22/Banner FFF Bündnis.jpg
+    image_path: assets/GK 25.03.22/Banner FFF Bündnis.jpg
+  - url: assets/GK 25.03.22/Banner auf Boden.jpg
+    image_path: assets/GK 25.03.22/Banner auf Boden.jpg
+  - url: assets/GK 25.03.22/Demo 1.jpg
+    image_path: assets/GK 25.03.22/Demo 1.jpg 
+  - url: assets/GK 25.03.22/Greenpeace Banner.jpg
+    image_path: assets/GK 25.03.22/Greenpeace Banner.jpg
+  - url: assets/GK 25.03.22/Laufen 1.jpg
+    image_path: assets/GK 25.03.22/Laufen 1.jpg
+  - url: assets/GK 25.03.22/Schilder 2.jpg
+    image_path: assets/GK 25.03.22/Schilder 2.jpg
+  - url: assets/GK 25.03.22/Schilder 3.jpg
+    image_path: assets/GK 25.03.22/Schilder 3.jpg
+  - url: assets/GK 25.03.22/Schilder 4.jpg
+    image_path: assets/GK 25.03.22/Schilder 4.jpg
+  - url: assets/GK 25.03.22/Schilder.jpg
+    image_path: assets/GK 25.03.22/Schilder.jpg
+  - url: assets/GK 25.03.22/laufen 2.jpg
+    image_path: assets/GK 25.03.22/laufen 2.jpg
+  - url: assets/GK 25.03.22/laufen 3.jpg
+    image_path: assets/GK 25.03.22/laufen 3.jpg
 --- 
 
 Am Freitag dem 25.03 war der erste globale Klimastreik des Jahres. In Landau waren 400 und deutschlandweit 220.000 Menschen auf der Straße um ein starkes Zeichen zusetzen, dass Menschenleben, Menschenrechte, Frieden, das Klima und Klimagerechtigkeit nicht über Profit und Machtinteressen gestellt werden sollten. Um dies klar zu machen waren auch in Landau alle Altersklassen auf der Straße um lautstark dafür einzutretten. <br>
