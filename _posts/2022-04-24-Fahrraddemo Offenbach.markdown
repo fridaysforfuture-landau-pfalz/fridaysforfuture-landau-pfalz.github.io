@@ -6,9 +6,9 @@ date:   2022-04-14 12:00:00 +0200
 categories: Demo
 ---
 
-<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/Fahrraddemo%2024.04.22/SharePic.PNG?raw=true" alt="SharePic Fahrraddemo" style="float:right;" height="50%" width="50%">
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/Fahrraddemo%2024.04.22/SharePic.PNG?raw=true" alt="SharePic Fahrraddemo" style="float:right;" hspace=20 vspace=20 height="50%" width="50%">
 
-Am Sonntag den 24.04.2022 veranstalten wir eine Fahrraddemo zum Bohrplatz der geplanten Erdöl-Bohrung in Offenbach. Treffpunkt ist um 14:00 Uhr der Landauer Rathausplatz. Von dort aus fahren wir über die Rheinstraße, Queichheimer
+Am Sonntag den <b>24.04.2022</b> veranstalten wir eine Fahrraddemo zum Bohrplatz der geplanten Erdöl-Bohrung in Offenbach. Treffpunkt ist um <b>14:00 Uhr der Landauer Rathausplatz</b>. Von dort aus fahren wir über die Rheinstraße, Queichheimer
 Hauptstraße und die L509 durch Offenbach und ein Stück südlich zum
 geplanten Bohrplatz. Die genaue Route seht ihr unten. <br>
 
