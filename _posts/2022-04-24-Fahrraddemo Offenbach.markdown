@@ -30,8 +30,9 @@ Trotz der aktuellen Lockerungen der Corona-Regeln, bitten wir darum bei der Erö
 <a href="assets/Demos/Fahrraddemo 24.04.22/Pressemitteilung Fahrraddemo Erdöl-Bohrung Offenbach 24.04.22.pdf" target="_blank" >Pressemitteilung</a> <br>
 
 <audio controls>
-  <source src="assets/Demos/Fahrraddemo 24.04.22/AUD-20220417-WA0002.mp3" type="audio/mp3">
+  <source src="https://fridaysforfuture-landau.de/assets/Demos/Fahrraddemo 24.04.22/AUD-20220417-WA0002.mp3" type="audio/mpeg">
 Sorry - Ihr Browser hat keine Unterstützung für dieses Audio-Format.
+  </source>
 </audio>
 
   <source src="assets/Demos/Fahrraddemo 24.04.22/AUD-20220417-WA0003.mp3" type="audio/mpeg">
