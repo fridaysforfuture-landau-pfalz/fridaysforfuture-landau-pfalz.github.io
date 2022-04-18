@@ -31,8 +31,8 @@ Trotz der aktuellen Lockerungen der Corona-Regeln, bitten wir darum bei der Erö
 
 <audio controls>
   <source src="assets/Demos/Fahrraddemo 24.04.22/AUD-20220417-WA0002.mp3" type="audio/mpeg">
-  <source src="assets/Demos/Fahrraddemo 24.04.22/AUD-20220417-WA0003.mp3" type="audio/mpeg">
-  <source src="assets/Demos/Fahrraddemo 24.04.22/AUD-20220417-WA0004.mp3" type="audio/mpeg">
 Sorry - Ihr Browser hat keine Unterstützung für dieses Audio-Format.
 </audio>
 
+  <source src="assets/Demos/Fahrraddemo 24.04.22/AUD-20220417-WA0003.mp3" type="audio/mpeg">
+  <source src="assets/Demos/Fahrraddemo 24.04.22/AUD-20220417-WA0004.mp3" type="audio/mpeg">
