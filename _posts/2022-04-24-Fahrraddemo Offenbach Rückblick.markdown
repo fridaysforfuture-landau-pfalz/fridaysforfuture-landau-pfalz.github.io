@@ -6,9 +6,26 @@ date:   2022-04-24 12:00:00 +0200
 categories: Demo
 
 gallery:
-  - url: assets/images/Lützerath/20211030_120302.jpg
-    image_path: assets/images/Lützerath/20211030_120302.jpg
-
+  - url: assets/Demos/Fahrraddemo 24.04.22/20220424_141525.jpg
+    image_path: assets/Demos/Fahrraddemo 24.04.22/20220424_141525.jpg
+  - url: assets/Demos/Fahrraddemo 24.04.22/20220424_143801.jpg
+    image_path: assets/Demos/Fahrraddemo 24.04.22/20220424_143801.jpg
+  - url: assets/Demos/Fahrraddemo 24.04.22/20220424_144833.jpg
+    image_path: assets/Demos/Fahrraddemo 24.04.22/20220424_144833.jpg
+  - url: assets/Demos/Fahrraddemo 24.04.22/20220424_150427.jpg
+    image_path: assets/Demos/Fahrraddemo 24.04.22/20220424_150427.jpg
+  - url: assets/Demos/Fahrraddemo 24.04.22/IMG_20220424_143950486_HDR.jpg
+    image_path: assets/Demos/Fahrraddemo 24.04.22/IMG_20220424_143950486_HDR.jpg
+  - url: assets/Demos/Fahrraddemo 24.04.22/20220424_143811.jpg
+    image_path: assets/Demos/Fahrraddemo 24.04.22/20220424_143811.jpg
+  - url: assets/Demos/Fahrraddemo 24.04.22/20220424_150714.jpg
+    image_path: assets/Demos/Fahrraddemo 24.04.22/20220424_150714.jpg
+  - url: assets/Demos/Fahrraddemo 24.04.22/20220424_152148.jpg
+    image_path: assets/Demos/Fahrraddemo 24.04.22/20220424_152148.jpg
+  - url: assets/Demos/Fahrraddemo 24.04.22/IMG_20220424_152654215_HDR.jpg
+    image_path: assets/Demos/Fahrraddemo 24.04.22/IMG_20220424_152654215_HDR.jpg
+  - url: assets/Demos/Fahrraddemo 24.04.22/IMG_20220424_152732685_HDR.jpg
+    image_path: assets/Demos/Fahrraddemo 24.04.22/IMG_20220424_152732685_HDR.jpg
 ---
 
 Am letzten Sonntag (24.04.22) waren mit dem Fahrrad von Landau nach Offenbach unterwegs um gegen die geplante Erölbohrung von Neptune Energy vorort zu demonstrieren. In Offenbach empfing uns die Bürger Initiative "Kein Erdöl aus Offenbach" mit Reden und Kuchen und Getränken. Die Reden verdeutlichten noch einmal warum eine und diese Erdölbohrung in dieser heutigen Zeit beiweitem nicht mehr sinnvoll ist. 
