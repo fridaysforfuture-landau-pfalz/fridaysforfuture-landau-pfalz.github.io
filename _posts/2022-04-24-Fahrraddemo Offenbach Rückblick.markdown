@@ -32,7 +32,7 @@ Am letzten Sonntag (24.04.22) waren mit dem Fahrrad von Landau nach Offenbach un
 
 Leicht abgeändertes Zitat aus dem Flyer der Initative zur Thematik: <br>
 <ul>"Gegen die geplante Ölbohrung durch die Firma Neptune Energy unter Offenbach haben wir eine Bürgerinitiative gegründet. „ Aufgrund seismologischer Messungen wird unter Offenbach Erdölvorkommen vermutet." Nachdem das Oberlandesgericht den Verkauf eines 20.000 m² großen Ackers von der katholischen Kirche an die Firma Neptune Energy ca. 1,5 km südlich von Offenbach abgesegnet hat, steht dem Bau einer industriellen Ölförderanlage nicht mehr viel im Wege. Von dieser Anlage aus soll eine Erkundungsbohrung in 2000 - 3000 m Tiefe horizontal unter das Ortsgebiet von Offenbach erfolgen. Ist diese erst einmal genehmigt, hat die Bevölkerung der umliegenden Gemeinden aufgrund eines veralteten Bergrechtes keinen Einfluß mehr auf das Ausmaß der Ölförderung und die daraus resultierenden Folgen für Mensch und Natur. Da die Jahresfördermenge in Deutschland nur ca. 3 % des Bedarfes deckt, scheinen uns der Aufwand und vor allem die Risiken der geplanten Anlage unverhältnismäßig hoch zu sein. Die Erdölförderung widerspricht den Zielen des Klimaschutzes, worin der Ausstieg aus fossilen Energien gefordert wird." <br>
-
+<p></p>
 "Folgende Auswirkungen auf Umwelt und Gesundheit sind möglich:
 <ul>
 <li><b>Absenkung des Grundwasserspiegels</b> durch Entnahme großer Mengen Grundwassers zur Aufrechterhaltung des Förderdruckes.
@@ -46,9 +46,9 @@ Leicht abgeändertes Zitat aus dem Flyer der Initative zur Thematik: <br>
 <li><b>Erdabsenkungen</b> im Bereich des Orts gebietes mit der Gefahr von Schäden Wertverlust an Gebäuden. 
 
 <li><b>Hohe Verkehrsbelastung</b> in und um die Ortschaften Offenbach, Herxheim und Insheim durch den Baustellenverkehr und durch den Abtransport des geförderten Öles." <br>
-
+<p></p>
 Mehr Informationen gibt es auf der Webseite der <a href="https://kein-erdoel-aus-offenbach.de/" target="_blank" >Bürger Initative</a>. <br>
-
+<p></p>
 Mehr Eindrücke per Fotos sind im folgenen zu sehen: <br>
 
 {% include gallery layout="half" %}
