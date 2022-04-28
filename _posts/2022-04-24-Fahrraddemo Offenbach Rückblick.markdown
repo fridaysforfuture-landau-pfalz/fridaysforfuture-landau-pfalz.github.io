@@ -18,20 +18,20 @@ Leicht abgeändertes Zitat aus dem Flyer der Initative zur Thematik:
 
 "Folgende Auswirkungen auf Umwelt und Gesundheit sind möglich:
 <ul>
-<b>Absenkung des Grundwasserspiegels</b> durch Entnahme großer Mengen Grundwassers zur Aufrechterhaltung des Förderdruckes.
+<li><b>Absenkung des Grundwasserspiegels</b> durch Entnahme großer Mengen Grundwassers zur Aufrechterhaltung des Förderdruckes.
 
-Gefahr der <b>Grundwasserverschmutzung</b> durch Undichtigkeiten (evtl. potenziert durch die erhöhte Erdbebenfrequenz, ausgehend von der Nähe zur Geothermie - Anlage in Insheim) 
+<li>Gefahr der <b>Grundwasserverschmutzung</b> durch Undichtigkeiten (evtl. potenziert durch die erhöhte Erdbebenfrequenz, ausgehend von der Nähe zur Geothermie - Anlage in Insheim) 
 
-<b>Gesundheitliche Gefährdung der Bevölkerung</b> in Folge von Luft- und Boden verschmutzung durch Quecksilber, Benzol, radioaktive Stoffe u.a., freigesetzt beim Abfackeln von mitgeförderten Gasen.
+<li><b>Gesundheitliche Gefährdung der Bevölkerung</b> in Folge von Luft- und Boden verschmutzung durch Quecksilber, Benzol, radioaktive Stoffe u.a., freigesetzt beim Abfackeln von mitgeförderten Gasen.
 
-<b>Versiegelung</b> landwirtschaftlich genutzter Flächen und evtl. Nutzungseinschränkungen umliegender Äcker. 
+<li><b>Versiegelung</b> landwirtschaftlich genutzter Flächen und evtl. Nutzungseinschränkungen umliegender Äcker. 
 
-<b>Erdabsenkungen</b> im Bereich des Orts gebietes mit der Gefahr von Schäden Wertverlust an Gebäuden. 
+<li><b>Erdabsenkungen</b> im Bereich des Orts gebietes mit der Gefahr von Schäden Wertverlust an Gebäuden. 
 
-<b>Hohe Verkehrsbelastung</b> in und um die Ortschaften Offenbach, Herxheim und Insheim durch den Baustellenverkehr und durch den Abtransport des geförderten Öles."
+<li><b>Hohe Verkehrsbelastung</b> in und um die Ortschaften Offenbach, Herxheim und Insheim durch den Baustellenverkehr und durch den Abtransport des geförderten Öles."
 </ul>
 
-Mehr Informationen gibt es auf der Webseite der <a href="https://kein-erdoel-aus-offenbach.de/" target="_blank" >Bürger Initative</a> . 
+Mehr Informationen gibt es auf der Webseite der <a href="https://kein-erdoel-aus-offenbach.de/" target="_blank" >Bürger Initative</a>. 
 
 Mehr Eindrücke per Fotos sind im folgenen zu sehen:
 
