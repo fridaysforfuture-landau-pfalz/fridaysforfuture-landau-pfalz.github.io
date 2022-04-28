@@ -28,11 +28,10 @@ Leicht abgeändertes Zitat aus dem Flyer der Initative zur Thematik:
 
 <li><b>Erdabsenkungen</b> im Bereich des Orts gebietes mit der Gefahr von Schäden Wertverlust an Gebäuden. 
 
-<li><b>Hohe Verkehrsbelastung</b> in und um die Ortschaften Offenbach, Herxheim und Insheim durch den Baustellenverkehr und durch den Abtransport des geförderten Öles."
-</ul>
+<li><b>Hohe Verkehrsbelastung</b> in und um die Ortschaften Offenbach, Herxheim und Insheim durch den Baustellenverkehr und durch den Abtransport des geförderten Öles." <br>
 
-Mehr Informationen gibt es auf der Webseite der <a href="https://kein-erdoel-aus-offenbach.de/" target="_blank" >Bürger Initative</a>. 
+Mehr Informationen gibt es auf der Webseite der <a href="https://kein-erdoel-aus-offenbach.de/" target="_blank" >Bürger Initative</a>. <br>
 
-Mehr Eindrücke per Fotos sind im folgenen zu sehen:
+Mehr Eindrücke per Fotos sind im folgenen zu sehen: <br>
 
 {% include gallery layout="half" %}
