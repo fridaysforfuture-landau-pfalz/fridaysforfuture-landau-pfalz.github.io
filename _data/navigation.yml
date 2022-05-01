@@ -13,7 +13,7 @@ main:
     
   - title: "Material"
     url: /material
-    children:
+    sublinks:
       - title: "Demosprüche"
         url: /demosprüche
       - title: "Demoplakate"
