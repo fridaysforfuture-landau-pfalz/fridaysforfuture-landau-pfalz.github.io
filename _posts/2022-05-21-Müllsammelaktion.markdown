@@ -6,7 +6,7 @@ date:   2022-05-21 11:00:00 +0200
 categories: Aktion
 ---
 
-<img src="assets/images/0ba77cd6-16bd-427e-a86b-111ac0396a33.jpg" alt="SharePic Müllsammelaktion" style="float:right;" hspace=20 vspace=20 height="50%" width="50%">
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/ae82fdcc3e515305fe589547692a31d2daa4b15f/assets/images/0ba77cd6-16bd-427e-a86b-111ac0396a33.jpg" alt="SharePic Müllsammelaktion" style="float:right;" hspace=20 vspace=20 height="50%" width="50%">
 
 Am 21.5. gibt es eine Müllsammelaktion in Zusammenarbeit von Greenpeace Landau, der KHG, Klimastreiklandau und der Umweltgruppe Landau!
 Wir freuen uns riesig über alle, die mit anpacken! <br>
