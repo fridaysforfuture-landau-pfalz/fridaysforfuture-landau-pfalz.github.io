@@ -13,10 +13,10 @@ gallery:
 
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Aktionen/Filmpremiere%20Everything%20will%20change/Header.png?raw=true" alt="Filmtitel Header" style="float:right;" height="100%" width="100%">
 
-🗓️ 27.05.22 19 Uhr 
--  Einlass ab 18:30
-💰 Eintritt ist kostenlos
-📍 Gloria Kulturplast (Industriestraße 3-5)
+🗓️ 27.05.22 19 Uhr <br>
+-  Einlass ab 18:30 <br>
+💰 Eintritt ist kostenlos <br>
+📍 Gloria Kulturplast (Industriestraße 3-5) <br>
 
 am Freitag den 27.05.2022 zeigen wir in Kooperation mit dem Gloria Filmpalast und dem Farbfilm-Verleih
 um 19:00 Uhr die Premiere des Films „Everything will Change“. Einlass im Gloria (Industriestraße 3-5, Landau) ist bereits ab 18:30 Uhr.
