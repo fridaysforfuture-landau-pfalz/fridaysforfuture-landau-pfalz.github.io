@@ -68,3 +68,5 @@ denen wir unsere eigene Gegenwart neu entdecken können. <br>
 
 Impressionen aus dem Film: 
 {% include gallery layout="half" %}
+
+Pressemitteilung finden Sie <a href="https://fridaysforfuture-landau.de/assets/Aktionen/Filmpremiere%20Everything%20will%20change/Pressemitteilung%20Filmpremiere%2027.05.22.pdf" target="_blank" >hier</a> oder unter Presse bei News
