@@ -33,16 +33,16 @@ gallery:
 
 ---
 
-<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Aktionen/Filmpremiere%20Everything%20will%20change/Header.png?raw=true" alt="Filmtitel Header" style="float:right;" height="100%" width="100%">
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Aktionen/Filmpremiere%20Everything%20will%20change/Header.png?raw=true" alt="Filmtitel Header" style="float:right;" height="100%" width="100%"> <br>
 
-<p></p>
+<p></p> <br>
 
 🗓️ 27.05.22 19 Uhr \-  Einlass ab 18:30 <br>
 💰 Eintritt ist kostenlos <br>
 📍 Gloria Kulturplast (Industriestraße 3-5) <br>
 
-am Freitag den 27.05.2022 zeigen wir in Kooperation mit dem Gloria Filmpalast und dem Farbfilm-Verleih
-um 19:00 Uhr die Premiere des Films „Everything will Change“. Einlass im Gloria (Industriestraße 3-5, Landau) ist bereits ab 18:30 Uhr.
+<b>am Freitag den 27.05.2022</b> zeigen wir in Kooperation mit dem <b>Gloria Filmpalast</b> und dem Farbfilm-Verleih
+<b>um 19:00 Uhr</b> die Premiere des Films „Everything will Change“. Einlass im Gloria (Industriestraße 3-5, Landau) ist bereits ab 18:30 Uhr.
 Passend zum internationalen Tag der Biodiversität am 22. Mai, handelt der Film vom Artensterben in unserer heutigen Zeit aus Perspektive zukünftiger Generationen. Nach dem Film freuen wir uns außerdem Nasim Reza Tehrani, Fotografin und Journalistin unter anderem für Greenpeace, bei uns für einen kurzen Input, offene Gespräche und Diskussionen begrüßen zu dürfen. <br>
 
 Wir befinden uns unlängst mitten im 6. großen Massenaussterben der Erdgeschichte. Direkt vor unseren Augen sterben täglich hunderte Tierarten aus und ganze Ökosysteme zerfallen. Eine der größten Herausforderungen, der wir uns aufgrund unseres maßlosen
@@ -61,8 +61,10 @@ berührenden Reflektion über das Menschsein. Eindrucksvolle Naturbilder treffen
 futuristische Infrarotaufnahmen und Diskurse mit hochkarätigen Wissenschaftler*innen, bei
 denen wir unsere eigene Gegenwart neu entdecken können. <br>
 
-Trailer:
+<b>Trailer:</b>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F5apyctlbmQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p></p> <br>
 
 Impressionen aus dem Film: 
 {% include gallery layout="half" %}
