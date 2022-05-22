@@ -34,6 +34,8 @@ presse:
         url: "/assets/pdf/ForderungenLandauDez2020.pdf"
   - title: "Pressemitteilungen"
     children: 
+      - title: "- Filmpremiere EVERYTHING WILL CHNAGE"
+        url: "assets/Aktionen/Filmpremiere Everything will change/Pressemitteilung Filmpremiere 27.05.22.pdf"
       - title: "- Fahrraddemo Offenbach 24.04"
         url: "assets/Demos/Fahrraddemo 24.04.22/Pressemitteilung Fahrraddemo Erdöl-Bohrung Offenbach 24.04.22.pdf"
       - title: "- Globaler Klimastreik 25.03.22"
@@ -58,6 +60,12 @@ presse:
 aktion:
   - title: "Aktionen 2022"
     children:
+      - title: "27.05. Filmpremiere EVERYTHING WILL CHNAGE"
+        url: "https://fridaysforfuture-landau.de/aktion/2022/05/22/Filmpremiere-Everything-will-Change.html"
+      - title: "21.5 Müllsammelaktion"
+        url: "https://fridaysforfuture-landau.de/aktion/2022/05/12/M%C3%BCllsammelaktion.html"
+      - title: "- 24.04 Fahrraddemo Offenbach"
+        url: "https://fridaysforfuture-landau.de/demo/2022/04/24/Fahrraddemo-Offenbach-R%C3%BCckblick.html"
       - title: "- 25.03.2022 Globaler Klimastreik"
         url: "https://fridaysforfuture-landau.de/demo/2022/03/25/R%C3%BCckblick-GK-25.03.html"
       - title: "- 08.01.2022 Lützerath Aktionstag"
