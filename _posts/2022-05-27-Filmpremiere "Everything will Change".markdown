@@ -41,7 +41,7 @@ gallery:
 💰 Eintritt ist kostenlos <br>
 📍 Gloria Kulturplast (Industriestraße 3-5) <br>
 
-<b>am Freitag den 27.05.2022</b> zeigen wir in Kooperation mit dem <b>Gloria Filmpalast</b> und dem Farbfilm-Verleih
+<b>am Freitag den 27.05.2022</b> zeigen wir in Kooperation mit dem <b>Gloria Kulturpalast</b> und dem Farbfilm-Verleih
 <b>um 19:00 Uhr</b> die Premiere des Films „Everything will Change“. Einlass im Gloria (Industriestraße 3-5, Landau) ist bereits ab 18:30 Uhr.
 Passend zum internationalen Tag der Biodiversität am 22. Mai, handelt der Film vom Artensterben in unserer heutigen Zeit aus Perspektive zukünftiger Generationen. Nach dem Film freuen wir uns außerdem Nasim Reza Tehrani, Fotografin und Journalistin unter anderem für Greenpeace, bei uns für einen kurzen Input, offene Gespräche und Diskussionen begrüßen zu dürfen. <br>
 
