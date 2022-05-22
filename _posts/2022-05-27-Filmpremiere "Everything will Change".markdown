@@ -6,15 +6,38 @@ date:   2022-05-22 12:00:00 +0200
 categories: Aktion
 
 gallery:
-  - url: assets/images/Lützerath/20211030_120302.jpg
-    image_path: assets/images/Lützerath/20211030_120302.jpg
+  - url: assets/Aktionen/Filmpremiere Everything will change/EWC_s_11_moviestill-Archive_Prenguin©FlareFilm2021.jpg
+    image_path: assets/Aktionen/Filmpremiere Everything will change/EWC_s_11_moviestill-Archive_Prenguin©FlareFilm2021.jpg
+  - url: assets/Aktionen/Filmpremiere Everything will change/EWC_s_17_moviestill-Solarpannels©FlareFilm2021.jpg
+    image_path: assets/Aktionen/Filmpremiere Everything will change/EWC_s_17_moviestill-Solarpannels©FlareFilm2021.jpg
+  - url: assets/Aktionen/Filmpremiere Everything will change/EWC_s_1_moviestill_BEN_moment©FlareFilm2021.jpg
+    image_path: assets/Aktionen/Filmpremiere Everything will change/EWC_s_1_moviestill_BEN_moment©FlareFilm2021.jpg
+  - url: assets/Aktionen/Filmpremiere Everything will change/EWC_s_27_moviestill-Expert_WimWenders_close©FlareFilm2021.jpg
+    image_path: assets/Aktionen/Filmpremiere Everything will change/EWC_s_27_moviestill-Expert_WimWenders_close©FlareFilm2021.jpg
+  - url: assets/Aktionen/Filmpremiere Everything will change/EWC_s_2_moviestill-BEN_EYECAM©FlareFilm2021.jpg
+    image_path: assets/Aktionen/Filmpremiere Everything will change/EWC_s_2_moviestill-BEN_EYECAM©FlareFilm2021.jpg
+  - url: assets/Aktionen/Filmpremiere Everything will change/EWC_s_42_moviestill-Reunited_FINI,BEN&CHERRY©FlareFilm2021 (1).jpg
+    image_path: assets/Aktionen/Filmpremiere Everything will change/EWC_s_42_moviestill-Reunited_FINI,BEN&CHERRY©FlareFilm2021 (1).jpg
+  - url: assets/Aktionen/Filmpremiere Everything will change/EWC_s_42_moviestill-Reunited_FINI,BEN&CHERRY©FlareFilm2021.jpg
+    image_path: assets/Aktionen/Filmpremiere Everything will change/EWC_s_42_moviestill-Reunited_FINI,BEN&CHERRY©FlareFilm2021.jpg
+  - url: assets/Aktionen/Filmpremiere Everything will change/EWC_s_47_moviestill-Archive_Giraffe&City©FlareFilm2021.jpg
+    image_path: assets/Aktionen/Filmpremiere Everything will change/EWC_s_47_moviestill-Archive_Giraffe&City©FlareFilm2021.jpg
+  - url: assets/Aktionen/Filmpremiere Everything will change/EWC_s_49_moviestill_CHERRY,BEN&FINI_close©FlareFilm2021.jpg
+    image_path: assets/Aktionen/Filmpremiere Everything will change/EWC_s_49_moviestill_CHERRY,BEN&FINI_close©FlareFilm2021.jpg
+  - url: assets/Aktionen/Filmpremiere Everything will change/EWC_s_50_moviestill-Storyteller©FlareFilm2021.jpg
+    image_path: assets/Aktionen/Filmpremiere Everything will change/EWC_s_50_moviestill-Storyteller©FlareFilm2021.jpg
+  - url: assets/Aktionen/Filmpremiere Everything will change/EWC_s_5_moviestill-CHERRY_Call©FlareFilm2021.jpg
+    image_path: assets/Aktionen/Filmpremiere Everything will change/EWC_s_5_moviestill-CHERRY_Call©FlareFilm2021.jpg
+  - url: assets/Aktionen/Filmpremiere Everything will change/EWC_s_7_moviestill-VintageMan©FlareFilm2021.jpg
+    image_path: assets/Aktionen/Filmpremiere Everything will change/EWC_s_7_moviestill-VintageMan©FlareFilm2021.jpg
 
 ---
 
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Aktionen/Filmpremiere%20Everything%20will%20change/Header.png?raw=true" alt="Filmtitel Header" style="float:right;" height="100%" width="100%">
 
-🗓️ 27.05.22 19 Uhr <br>
-\-  Einlass ab 18:30 <br>
+<p></p>
+
+🗓️ 27.05.22 19 Uhr \-  Einlass ab 18:30 <br>
 💰 Eintritt ist kostenlos <br>
 📍 Gloria Kulturplast (Industriestraße 3-5) <br>
 
@@ -39,8 +62,7 @@ futuristische Infrarotaufnahmen und Diskurse mit hochkarätigen Wissenschaftler*
 denen wir unsere eigene Gegenwart neu entdecken können. <br>
 
 Trailer:
-
-https://www.youtube.com/watch?v=F5apyctlbmQ
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F5apyctlbmQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Impressionen aus dem Film: 
 {% include gallery layout="half" %}
