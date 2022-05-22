@@ -37,7 +37,7 @@ gallery:
 
 <p></p> <br>
 
-🗓️ 27.05.22 19 Uhr \-  Einlass ab 18:30 <br>
+🗓️ 27.05.22 19 Uhr \-  Einlass ab 18:30 Uhr <br>
 💰 Eintritt ist kostenlos <br>
 📍 Gloria Kulturplast (Industriestraße 3-5) <br>
 
