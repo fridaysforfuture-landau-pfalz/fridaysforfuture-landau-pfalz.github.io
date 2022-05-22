@@ -28,7 +28,7 @@ müssen. Darauf wollen wir zum Tag der Biodiversität aufmerksam machen und die 
 dafür öffnen, in was für einer bunten, vielfältigen Umwelt wir leben und wie wertvoll es ist,
 diese zu erhalten. <br>
 
-„Everything will Change“ erzählt vom abenteuerlichen Road-Trip dreier Freund*innen, Ben,
+„Everything will Change“ erzählt vom abenteuerlichen Road-Trip dreier Freund:innen, Ben,
 Fini und Cherry, die im Jahr 2054 eine sterile, betonierte Welt bewohnen. Als sie erfahren,
 dass ihr Planet einst von reicher, bunter Schönheit geprägt war, machen sie sich auf eine
 Reise, um Antworten auf ihre immer größer werdenden Fragen zu suchen - wo sind all die
