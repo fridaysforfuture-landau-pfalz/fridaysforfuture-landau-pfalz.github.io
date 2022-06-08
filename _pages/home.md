@@ -95,8 +95,10 @@ header:
   
 <a class="button4" href="https://opencollective.com/klimastreik-landau"
        target="" style="color: white" >Spenden</a> <br>
-       
 <br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PiIOucdBwuI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br>
+
 <h2>Wer sind wir?</h2>
 
 Klimastreik Landau ist eine Ortsgruppe von Fridays for Future. Wir kämpfen durch politisches und gesellschaftliches Engagement für mehr Klimaschutz und Klimagerechtigkeit auch in Landau. Wir organisieren Gespräche mit Politiker:Innen, stellen Forderungen auf und planen Demos und andere Aktionen.
