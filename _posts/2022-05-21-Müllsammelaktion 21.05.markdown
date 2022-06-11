@@ -6,13 +6,31 @@ date:   2022-05-21 11:00:00 +0200
 categories: Aktion
 
 gallery:
-  - url: assets/images/Lützerath/20211030_120302.jpg
-    image_path: assets/images/Lützerath/20211030_120302.jpg
+  - url: assets/Aktionen/Müllsammelaktion 21.5.22/Müllsammeltour 1.png
+    image_path: assets/Aktionen/Müllsammelaktion 21.5.22/Müllsammeltour 1.png
+  - url: assets/Aktionen/Müllsammelaktion 21.5.22/Müllsammeltour 2.png
+    image_path: assets/Aktionen/Müllsammelaktion 21.5.22/Müllsammeltour 2.png
+  - url: assets/Aktionen/Müllsammelaktion 21.5.22/Müllsammeltour 3.png
+    image_path: assets/Aktionen/Müllsammelaktion 21.5.22/Müllsammeltour 3.png
+  - url: assets/Aktionen/Müllsammelaktion 21.5.22/Müllsammeltour 4.png
+    image_path: assets/Aktionen/Müllsammelaktion 21.5.22/Müllsammeltour 4.png
 
 gallery1:
-  - url: assets/images/Lützerath/20211030_120302.jpg
-    image_path: assets/images/Lützerath/20211030_120302.jpg
-
+  - url: assets/Aktionen/Müllsammelaktion 21.5.22/307758d2-9915-4fab-9920-06e9a282f93f.jpg
+    image_path: assets/Aktionen/Müllsammelaktion 21.5.22/307758d2-9915-4fab-9920-06e9a282f93f.jpg
+  - url: assets/Aktionen/Müllsammelaktion 21.5.22/46acd737-909d-45cd-a830-7f2456152138.jpg
+    image_path: assets/Aktionen/Müllsammelaktion 21.5.22/46acd737-909d-45cd-a830-7f2456152138.jpg  
+  - url: assets/Aktionen/Müllsammelaktion 21.5.22/63fb02ec-1998-49ee-9dc8-d38c60ea529a.jpg
+    image_path: assets/Aktionen/Müllsammelaktion 21.5.22/63fb02ec-1998-49ee-9dc8-d38c60ea529a.jpg
+  - url: assets/Aktionen/Müllsammelaktion 21.5.22/8926827e-79e9-4e2d-81ca-0d927002d78d.jpg
+    image_path: assets/Aktionen/Müllsammelaktion 21.5.22/8926827e-79e9-4e2d-81ca-0d927002d78d.jpg
+  - url: assets/Aktionen/Müllsammelaktion 21.5.22/8c4882b0-fd01-429a-a3f5-452bf13e6680.jpg
+    image_path: assets/Aktionen/Müllsammelaktion 21.5.22/8c4882b0-fd01-429a-a3f5-452bf13e6680.jpg
+  - url: assets/Aktionen/Müllsammelaktion 21.5.22/9118bc97-6c36-44a0-96d6-f79104b2302f.jpg
+    image_path: assets/Aktionen/Müllsammelaktion 21.5.22/9118bc97-6c36-44a0-96d6-f79104b2302f.jpg
+  - url: assets/Aktionen/Müllsammelaktion 21.5.22/c7dae847-f9c6-4f9c-9d10-2cc8e043a006.jpg
+    image_path: assets/Aktionen/Müllsammelaktion 21.5.22/c7dae847-f9c6-4f9c-9d10-2cc8e043a006.jpg
+    
 ---
 
 Am 21.05. haben wir gemeinsam mit der KHG, Greenpeace Landau und der Umweltgruppe Landau eine Müllsammelaktion durchgeführt, um die Stadt ein bisschen sauber zu machen, die Umwelt von Plastik und giftigen Chemikalien zu befreien und das Wohlbefinden in den Straßen zu erhöhen. Tatkräftige Unterstützung bekamen außerdem von einer 30 köpfigen Gruppe aus der Ukraine. 
