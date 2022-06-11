@@ -45,7 +45,7 @@ Denn die Auswirkungen für Natur und Umwelt sind enorm. Um nur ein Beispiel zu n
 Doch selber wenn Menschen ihren Müll ordungsgemäß entsorgen wollen ist das in Landau leider nicht so einfach. Auf unseren Touren durch Landau ist uns aufgefallen, dass es kaum öffentliche Mülleimer gibt. Und an Orten wo Mülleimer zu finden sind, sind diese oftmals überfüllt oder viel zu klein und winddurchlässig und dienen ehr als Müllspreader. Daher fordern wir die Stadt auf mehr Mülleimer aufzustellen und die bereits vorhandenen regelmäßig zu entleeren, damit Landau sauberer und umweltfreudlicher wird. 
 
 Bilder der Aktion:
-{% include gallery1 layout="half" %} <br>
+{% include gallery id="gallery1" layout="half" %} <br>
 
 Direkte Folgen der Verschmutzung für unsere Umwelt generell:
 • Verlust von sauberem Grundwasser
