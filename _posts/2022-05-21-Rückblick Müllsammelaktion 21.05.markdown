@@ -26,16 +26,17 @@ gallery1:
     image_path: assets/Aktionen/Müllsammelaktion 21.5.22/8926827e-79e9-4e2d-81ca-0d927002d78d.jpg
   - url: assets/Aktionen/Müllsammelaktion 21.5.22/8c4882b0-fd01-429a-a3f5-452bf13e6680.jpg
     image_path: assets/Aktionen/Müllsammelaktion 21.5.22/8c4882b0-fd01-429a-a3f5-452bf13e6680.jpg
+  - url: assets/Aktionen/Müllsammelaktion 21.5.22/c7dae847-f9c6-4f9c-9d10-2cc8e043a006.jpg
+    image_path: assets/Aktionen/Müllsammelaktion 21.5.22/c7dae847-f9c6-4f9c-9d10-2cc8e043a006.jpg  
   - url: assets/Aktionen/Müllsammelaktion 21.5.22/9118bc97-6c36-44a0-96d6-f79104b2302f.jpg
     image_path: assets/Aktionen/Müllsammelaktion 21.5.22/9118bc97-6c36-44a0-96d6-f79104b2302f.jpg
-  - url: assets/Aktionen/Müllsammelaktion 21.5.22/c7dae847-f9c6-4f9c-9d10-2cc8e043a006.jpg
-    image_path: assets/Aktionen/Müllsammelaktion 21.5.22/c7dae847-f9c6-4f9c-9d10-2cc8e043a006.jpg   
+ 
 ---
 
 Am 21.05. haben wir gemeinsam mit der KHG, Greenpeace Landau und der Umweltgruppe Landau eine Müllsammelaktion durchgeführt, um die Stadt ein bisschen sauber zu machen, die Umwelt von Plastik und giftigen Chemikalien zu befreien und das Wohlbefinden in den Straßen zu erhöhen. Tatkräftige Unterstützung bekamen außerdem von einer 30 köpfigen Gruppe aus der Ukraine. 
 Auf vier verschiedenen Routen wurde Müll gesammelt: <br>
 
-{% include gallery layout="half" %} <br>
+{% include gallery layout="half" %}
 
 Zwischen dem Hauptbahnhof und dem Westbahnhof, der Innenstadt und dem LGS-Gelände sind jetzt viele Straßen und Gehwege sauberer. Insgesamt sind 35 Säcke Müll zusammen gekommen - vor allem Verpackungsmüll, Masken und sehr sehr viele Zigarettenstummel. Auch ein verrostetes Fahrrad und viele Kronenkorken und Kabelbindern vom Firmenlauf konnten von uns eingesammelt und in den Recyclingkreislauf zurückgeführt werden. <br>
 
