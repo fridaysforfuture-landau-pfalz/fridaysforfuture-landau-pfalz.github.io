@@ -54,6 +54,9 @@ Wir sind zu erreichen über das Kontaktformular, Mail, Telegram, Whatsapp, und I
 <a href="mailto:klimastreik-landau@gmx.de" target=""> <img src="https://camo.githubusercontent.com/0f3aa1f457bb92fbd2411761262ce1fb0f766ed74a4f4289bfc4a0b6024335d6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f656d61696c2e737667" style="margin-right: 20px; margin-top: 20px" alt="Mail Landau" height="20%" width="20%"> </a>
 
 <br>  
+  <p> </p>
+  <p> </p>
+  <p> </p>  
   
 Für Whatsapp-Kontakt schreibe gerne einen Admin der Infogruppen an.   
 <!--https://github.com/edent/SuperTinyIcons-->
