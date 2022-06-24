@@ -13,7 +13,7 @@ permalink: /kontakt
 
 <a href="https://t.me/FFFLDInfo" target=""> <img src="https://camo.githubusercontent.com/f4b401dd7cd9b7840fd31acafd49e151a80e4c9600bf219934461b96dd98e013/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667" style="margin-right: 20px; margin-top: 20px" alt="Telegramm Kanal" height="20%" width="20%"> </a>
 
-<a href="https://de-de.facebook.com/Klimastreiklandau/" target=""> <img src="https://camo.githubusercontent.com/8f245234577766478eaf3ee72b0615e99bb9ef3eaa56e1c37f75692811181d5c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667" style="margin-right: 20px; margin-top: 20px" alt="Facebook Landau" height="100" width="100"> </a> 
+<a href="https://de-de.facebook.com/Klimastreiklandau/" target=""> <img src="https://camo.githubusercontent.com/8f245234577766478eaf3ee72b0615e99bb9ef3eaa56e1c37f75692811181d5c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f66616365626f6f6b2e737667" style="margin-right: 20px; margin-top: 20px" alt="Facebook Landau" height="20%" width="20%"> </a> 
 <!--https://github.com/edent/SuperTinyIcons-->
 
 </div> <br>
@@ -51,7 +51,7 @@ Wir sind zu erreichen über das Kontaktformular, Mail, Telegram, Whatsapp, und I
 <a href="https://t.me/Txmlchrt" target=""> <img src="https://camo.githubusercontent.com/f4b401dd7cd9b7840fd31acafd49e151a80e4c9600bf219934461b96dd98e013/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667" style="margin-right: 20px; margin-top: 20px" alt="Telegramm Kanal" height="20%" width="20%"> </a>  
 <a href="https://www.instagram.com/klimastreiklandau/?hl=de" target=""> <img src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" style="margin-right: 20px; margin-top: 20px" alt="Instagram Landau" height="20%" width="20%"> </a>
   
-<a href="mailto:klimastreik-landau@gmx.de" target=""> <img src="[https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667](https://cdn.icon-icons.com/icons2/1097/PNG/512/1485477030-mail_78575.png)" style="margin-right: 20px; margin-top: 20px" alt="Mail Landau" height="20%" width="20%"> </a>
+<a href="mailto:klimastreik-landau@gmx.de" target=""> <img src="https://camo.githubusercontent.com/0f3aa1f457bb92fbd2411761262ce1fb0f766ed74a4f4289bfc4a0b6024335d6/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f656d61696c2e737667" style="margin-right: 20px; margin-top: 20px" alt="Mail Landau" height="20%" width="20%"> </a>
 
 <br>  
   
