@@ -6,14 +6,14 @@ date:   2022-06-25 11:00:00 +0200
 categories: Aktion
 
 gallery:
-  - url: assets/Aktionen/Filmpremiere Everything will change/aad9baff-4af5-4db9-9c8b-0092961e606a.jpg
-    image_path: assets/Aktionen/Filmpremiere Everything will change/aad9baff-4af5-4db9-9c8b-0092961e606a.jpg
-  - url: assets/Aktionen/Filmpremiere Everything will change/dbb39e44-f4a5-4c3f-ae49-ec8780842650.jpg
-    image_path: assets/Aktionen/Filmpremiere Everything will change/dbb39e44-f4a5-4c3f-ae49-ec8780842650.jpg
-  - url: assets/Aktionen/Filmpremiere Everything will change/1c7fe55e-e8d8-4e6a-974c-cdbbd3069d57.jpg
-    image_path: assets/Aktionen/Filmpremiere Everything will change/1c7fe55e-e8d8-4e6a-974c-cdbbd3069d57.jpg
-  - url: assets/Aktionen/Filmpremiere Everything will change/9b577aac-23bc-4e68-b6db-4f0c9a795f4b.jpg
-    image_path: assets/Aktionen/Filmpremiere Everything will change/9b577aac-23bc-4e68-b6db-4f0c9a795f4b.jpg
+  - url: assets/Aktionen/Plakataktion 25.06.22/056ec395-9931-491e-94bc-a6acc1dfa880.jpg
+    image_path: assets/Aktionen/Plakataktion 25.06.22/056ec395-9931-491e-94bc-a6acc1dfa880.jpg
+  - url: assets/Aktionen/Plakataktion 25.06.22/06f9d9b8-c6c4-40e0-8f10-0a4127df3791.jpg
+    image_path: assets/Aktionen/Plakataktion 25.06.22/06f9d9b8-c6c4-40e0-8f10-0a4127df3791.jpg
+  - url: assets/Aktionen/Plakataktion 25.06.22/185221e8-e5b6-47b1-9ed6-82a8b0027ef7.jpg
+    image_path: assets/Aktionen/Plakataktion 25.06.22/185221e8-e5b6-47b1-9ed6-82a8b0027ef7.jpg
+  - url: assets/Aktionen/Plakataktion 25.06.22/b2de77b0-7b2a-431d-a777-55c87f9c5ef6.jpg
+    image_path: assets/Aktionen/Plakataktion 25.06.22/b2de77b0-7b2a-431d-a777-55c87f9c5ef6.jpg
 ---
 
 
