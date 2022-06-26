@@ -24,3 +24,5 @@ Ob mit Menschen, die uns schon unterstützen, mit Menschen die einfach interessi
 Besonders vor der OB Wahl konnten wir auch nochmal Druck auf die Kandidat*innen aufbauen. Denn auch in kommualer Politik kann viel bewirkt werden - wir müssen nur jetzt konsequent anfagen und Lösungen umsetzten!
 
 Also nutzt eure Möglichkeiten, sprecht über die Klimakrise und zeigt, was euch bewegt. Geht am 03.7 Klima wählen
+
+{% include gallery layout="half" %}
