@@ -60,9 +60,11 @@ presse:
 aktion:
   - title: "Aktionen 2022"
     children:
-      - title: "27.05. Filmpremiere EVERYTHING WILL CHNAGE"
+      - title: "- 25.06 Plakataktion"
+        url: "https://fridaysforfuture-landau.de/aktion/2022/06/25/Plakataktion-OB-Wahl.html"
+      - title: "- 27.05. Filmpremiere EVERYTHING WILL CHNAGE"
         url: "https://fridaysforfuture-landau.de/aktion/2022/05/22/Filmpremiere-Everything-will-Change.html"
-      - title: "21.5 Müllsammelaktion"
+      - title: "- 21.5 Müllsammelaktion"
         url: "https://fridaysforfuture-landau.de/aktion/2022/05/12/M%C3%BCllsammelaktion.html"
       - title: "- 24.04 Fahrraddemo Offenbach"
         url: "https://fridaysforfuture-landau.de/demo/2022/04/24/Fahrraddemo-Offenbach-R%C3%BCckblick.html"
