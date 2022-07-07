@@ -34,6 +34,8 @@ presse:
         url: "/assets/pdf/ForderungenLandauDez2020.pdf"
   - title: "Pressemitteilungen"
     children: 
+      - title: "-Midsommerdemo 15.07"
+        url: "https://fridaysforfuture-landau.de/assets/Demos/Midsommerdemo%2015.07.22/Pressemitteilung%2015.07.22.pdf"
       - title: "- Filmpremiere EVERYTHING WILL CHNAGE"
         url: "assets/Aktionen/Filmpremiere Everything will change/Pressemitteilung Filmpremiere 27.05.22.pdf"
       - title: "- Fahrraddemo Offenbach 24.04"
