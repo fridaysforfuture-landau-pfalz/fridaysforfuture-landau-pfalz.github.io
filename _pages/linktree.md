@@ -8,31 +8,6 @@ permalink: /linktree
 <a href="https://fridaysforfuture-landau.de/"> <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/FFF%20Landau%20Logo.png?raw=true"  alt="Logo" style="float:center;" height="50%" width="50%"> <br>
 
 <style>
-.button1 {
-  border: none;
-  color: white;
-  padding: 15px 15px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 24px;
-  margin: 2px 4px;
-  cursor: pointer;
-  width: 100%;
-}
-
-.button1 {
-  background-color: #4CAF50; /* Green */
-  border-radius: 8px;
-  color: white; 
-}
-  
-</style>  
-  
-<a class="button1" href="https://fridaysforfuture-landau.de/ank%C3%BCndigung/2022/01/25/Klimastreik-25.03.22.html"
-       target="" style="color: white" >25.03 globaler Klimastreik </a> <br>
-
-<style>
 .button2 {
   border: none;
   color: white;
@@ -50,8 +25,8 @@ permalink: /linktree
   
 </style>  
   
-<a class="button2" href=""
-       target="" style="color: white" >KlimaFFFestival</a> 
+<a class="button2" href="https://fridaysforfuture-landau.de/demo/2022/07/07/Midsommerdemo-15.07.html"
+       target="" style="color: white" >Midsommerdemo 15.07.22</a> 
 <br>
 
 <style>
