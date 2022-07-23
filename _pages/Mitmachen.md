@@ -28,7 +28,7 @@ Wir planen eine Hochschulgruppe "Students for Future" zu gründen. Wenn du Inter
   margin: 2px 4px;
   float: center !important;
   cursor: pointer;
-  width: 40%;
+  width: 60%;
 }
 
 .button6 {background-color: #4CAF50;} /* Green */
