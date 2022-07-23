@@ -35,7 +35,7 @@ Wir planen eine Hochschulgruppe "Students for Future" zu gründen. Wenn du Inter
 
 </style>  
   
-<a class="button6" href="https://opencollective.com/klimastreik-landau"
+<a class="button6" href="https://fridaysforfuture-landau.de/sff"
        target="" style="color: white" >Mehr Infos</a> <br>
 
 <p></p>
