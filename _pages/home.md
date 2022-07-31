@@ -3,8 +3,8 @@ title: ""
 layout: splash
 permalink: /
 header:
-  image: /assets/images/Website-Banner-neu.png
-  url: https://fridaysforfuture-landau.de/demo/2022/07/07/Midsummerdemo-15.07.html
+  image: assets/Demos/GK 23.09.22/#PEOPLE NOT PROFIT (1).png
+  url: https://fridaysforfuture-landau.de/demo/2022/07/31/Globaler-Klimastreik-23.09.html
 ---
 
 <p> </p>
