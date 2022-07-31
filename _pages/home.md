@@ -4,7 +4,7 @@ layout: splash
 permalink: /
 header:
   image: assets/Demos/GK 23.09.22/#PEOPLE NOT PROFIT (1).png
-  url: https://fridaysforfuture-landau.de/demo/2022/07/31/Globaler-Klimastreik-23.09.html
+  url: "https://fridaysforfuture-landau.de/demo/2022/07/31/Globaler-Klimastreik-23.09.html" 
 ---
 
 <p> </p>
