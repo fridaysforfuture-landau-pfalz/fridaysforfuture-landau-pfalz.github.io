@@ -4,7 +4,7 @@ layout: splash
 permalink: /
 header:
   image: /assets/images/Website-Banner-neu.png
-  
+  url: https://fridaysforfuture-landau.de/demo/2022/07/07/Midsummerdemo-15.07.html
 ---
 
 <p> </p>
