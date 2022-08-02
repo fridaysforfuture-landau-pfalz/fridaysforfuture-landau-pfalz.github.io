@@ -3,7 +3,7 @@ title: ""
 layout: splash
 permalink: /
 header:
-  image: assets/images/Webseite Bilder/Mitmachen Bannner.png
+  image: assets/Demos/GK 23.09.22/#PEOPLE NOT PROFIT (1).png
 ---
 
 <p> </p>
