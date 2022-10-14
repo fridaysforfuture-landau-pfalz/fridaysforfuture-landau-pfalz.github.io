@@ -3,7 +3,7 @@ title: ""
 layout: splash
 permalink: /
 header:
-  image: assets/Demos/GK 23.09.22/23.09.22 Bannner 2.png
+  image: assets/images/Website-Banner-neu.png
   actions:
     - label: "Mehr Infos"
       url: "https://fridaysforfuture-landau.de/demo/2022/07/31/Globaler-Klimastreik-23.09.html"
