@@ -34,7 +34,7 @@ presse:
         url: "/assets/pdf/ForderungenLandauDez2020.pdf"
   - title: "Pressemitteilungen"
     children: 
-      - title: "-Midsommerdemo 15.07"
+      - title: "- Midsommerdemo 15.07"
         url: "https://fridaysforfuture-landau.de/assets/Demos/Midsommerdemo%2015.07.22/Pressemitteilung%2015.07.22.pdf"
       - title: "- Filmpremiere EVERYTHING WILL CHNAGE"
         url: "assets/Aktionen/Filmpremiere Everything will change/Pressemitteilung Filmpremiere 27.05.22.pdf"
@@ -62,6 +62,10 @@ presse:
 aktion:
   - title: "Aktionen 2022"
     children:
+      - title: "- Globaler Klimastreik 23.09"
+        url: "https://fridaysforfuture-landau.de/demo/2022/10/14/R%C3%BCckblick-23.09.html"
+      - title: "- Midsummerdemo 15.07."
+        url: "https://fridaysforfuture-landau.de/demo/2022/07/15/R%C3%BCckblick-Midsummerdemo.html"
       - title: "- 25.06 Plakataktion"
         url: "https://fridaysforfuture-landau.de/aktion/2022/06/25/Plakataktion-OB-Wahl.html"
       - title: "- 27.05. Filmpremiere EVERYTHING WILL CHNAGE"
