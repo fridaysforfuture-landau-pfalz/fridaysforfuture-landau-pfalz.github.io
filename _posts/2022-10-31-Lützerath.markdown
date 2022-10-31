@@ -34,9 +34,9 @@ Ihr wollt mehr Infos zu Lützath und der Kohle daunter? Hier gibts Quellen und I
 
 <p></p>
 
-<img src="assets/Demos/20211030_120302.jpg" alt="Kohlegrube" style="float:right;" hspace=20 vspace=20 >
-<img src="assets/Demos/20211031_133640.jpg" alt="Kohlegrube" style="float:right;" hspace=20 vspace=20 >
-<img src="assets/Demos/IMG_20211030_121907_761.jpg" alt="Kohlegrube" style="float:right;" hspace=20 vspace=20 >
-<img src="assets/Demos/IMG_20211101_152330_420.jpg" alt="Kohlegrube" style="float:right;" hspace=20 vspace=20 >
-<img src="assets/Demos/IMG_20211101_152345_607.jpg" alt="Kohlegrube" style="float:right;" hspace=20 vspace=20 >
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/a75611c731fc0edb7ac5aa76a3c107d7e9303153/assets/Demos/20211030_120302.jpg" alt="Kohlegrube" style="float:right;" hspace=20 vspace=20 >
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/a75611c731fc0edb7ac5aa76a3c107d7e9303153/assets/Demos/20211031_133640.jpg" alt="Kohlegrube" style="float:right;" hspace=20 vspace=20 >
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/a75611c731fc0edb7ac5aa76a3c107d7e9303153/assets/Demos/IMG_20211030_121907_761.jpg" alt="Kohlegrube" style="float:right;" hspace=20 vspace=20 >
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/a75611c731fc0edb7ac5aa76a3c107d7e9303153/assets/Demos/IMG_20211101_152330_420.jpg" alt="Kohlegrube" style="float:right;" hspace=20 vspace=20 >
+<img src="assets/Demos/IMG_20211101_152345_607.jpg](https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/5569c6b799af4a7540e006717ee791b6fa6420a2/assets/Demos/IMG_20211101_152345_607.jpg" alt="Kohlegrube" style="float:right;" hspace=20 vspace=20 >
 
