@@ -7,6 +7,8 @@ categories: Demo
 ---
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/Tag%20X/Silouette.png?raw=true" alt="Silouette" style="float:right;" hspace=0 vspace=0 > <br>
 
+<p></p>
+
 <b>Was ist Tag X? </b>  <br>
 vielleicht habt ihr schon mal von Lützerath gehört. Lützerath ist ein Dorf im Rheinland am Braunkohletagebau Garzweiler II. Aus dem Dorf wurden bereits alle Anwohner umgesiedelt oder enteignet. Allerdings haben Aktivisti das Dorf besetzt und verhindern so seit fast 2 Jahren, dass das Dorf abgerissen und die Kohle da unter abgebaggert wird. Das wäre auch fatal, denn damit würden wir ganz sicher das 1,5 Grad Ziel verfehlen. Allerdings haben sich die Umstände jetzt geändert und es droht die Räumung von Lützerath. Sollte es Tag X = Tag der Räumung eintretten werden wir am selben Tag in Landau auf die Straße gehen, um gegen dieses Verbrechen und die Unverantwortung gegenüber unserer Generation zu demonstrieren. Wir rufen euch auf ebenfalls dazu zu kommen, wenn es so weit sein sollte - wir geben natürlich nochmal bescheid.  
 Sollte es soweit sein treffen wir uns <b> um 17 Uhr auf dem landauer Rathausplatz </b> für eine Eilversammlung (ist also alles angemeldet und lega!) <br>
@@ -29,9 +31,9 @@ Ihr wollt mehr Infos zu Lützath und der Kohle daunter? Hier gibts Quellen und I
 - <a href="https://www.zdf.de/nachrichten/wirtschaft/rwe-kohle-luetzerath-abbau-100.html#xtor=CS5-282" target="_blank" >ZDF zu Lützerath</a>. <br>
 - <a href="https://www.bund-nrw.de/themen/braunkohle/im-fokus/braunkohleausstieg/" target="_blank" >BUND zum Kohleausstieg</a>. <br>
 
-<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/Tag%20X/Slid%201.png?raw=true" alt="Slid 1" style="float:right;" hspace=0 vspace=0 height="30%" width="30%">
-<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/Tag%20X/Slid%202.png?raw=true" alt="Slid 2" style="float:right;" hspace=0 vspace=0 height="30%" width="30%">
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/Tag%20X/Slid%203.png?raw=true" alt="Slid 3" style="float:right;" hspace=0 vspace=0 height="30%" width="30%"> <br>
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/Tag%20X/Slid%202.png?raw=true" alt="Slid 2" style="float:right;" hspace=0 vspace=0 height="30%" width="30%">
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/Tag%20X/Slid%201.png?raw=true" alt="Slid 1" style="float:right;" hspace=0 vspace=0 height="30%" width="30%">  <br>
 
 <p></p>
 
@@ -62,7 +64,7 @@ Worin wir unsere Zukunft seh'n: Erneuerbare Energien!
 
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/20211030_120302.jpg?raw=true" alt="Kohlegrube" style="float:right;" hspace=20 vspace=20 >
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/20211031_133640.jpg?raw=true" alt="Kohlegrube" style="float:right;" hspace=20 vspace=20 >
-<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/IMG_20211030_121907_761.jpg?raw=true" alt="Kohlegrube" style="float:right;" hspace=20 vspace=20 height="48%" width="48%">
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/IMG_20211030_121907_761.jpg?raw=true" alt="Kohlegrube" style="float:left;" hspace=20 vspace=20 height="48%" width="48%">
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/IMG_20211101_152330_420.jpg?raw=true" alt="Kohlegrube" style="float:right;" hspace=20 vspace=20 height="48%" width="48%">
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/IMG_20211101_152345_607.jpg?raw=true" style="float:right;" hspace=20 vspace=20 >
 
