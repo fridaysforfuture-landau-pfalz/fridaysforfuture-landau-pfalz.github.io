@@ -62,7 +62,7 @@ Worin wir unsere Zukunft seh'n: Erneuerbare Energien!
 
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/20211030_120302.jpg?raw=true" alt="Kohlegrube" style="float:right;" hspace=20 vspace=20 >
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/20211031_133640.jpg?raw=true" alt="Kohlegrube" style="float:right;" hspace=20 vspace=20 >
-<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/IMG_20211030_121907_761.jpg?raw=true" alt="Kohlegrube" style="float:left;" hspace=10 vspace=10 height="48%" width="48%">
-<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/IMG_20211101_152330_420.jpg?raw=true" alt="Kohlegrube" style="float:right;" hspace=10 vspace=10 height="48%" width="48%">
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/IMG_20211030_121907_761.jpg?raw=true" alt="Kohlegrube" style="float:left;" hspace=5 vspace=5 height="48%" width="48%">
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/IMG_20211101_152330_420.jpg?raw=true" alt="Kohlegrube" style="float:right;" hspace=5 vspace=5 height="48%" width="48%">
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/IMG_20211101_152345_607.jpg?raw=true" style="float:right;" hspace=20 vspace=20 >
 
