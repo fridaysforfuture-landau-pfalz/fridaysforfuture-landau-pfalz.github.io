@@ -5,9 +5,9 @@ permalink: /lützerath
 classes: wide
 ---
 Danke, dass du dich für den QR Code interessiert hast. Überall in der Stadt sind Xe mit QR Codes versteckt. Der Zweck ist Aufklärung zu dem Thema Lützerath und was ist Lützerath überhaupt. Im nachfolgendem Artikel findest du alle wichtigen Infos zu Lützerath und Links für weitere Infos. <br>
-Sollte dir das ganze noch nicht spannend genug sein - der erste Mensch, der den QR Code findet der, anders als die anderen 24, auf eine andere Seite verlinkt, gewinnt einen 
+Sollte dir das ganze noch nicht spannend genug sein - der erste Mensch, der den QR Code findet der, anders als die anderen 24, auf eine andere Seite verlinkt, gewinnt einen kleinen Preis.
 <details>
-  <summary>kleinen Preis</summary>
+  <summary>Gewinnbedingungen</summary>
   <p>Wir brauchen für die Gewinnvergabe den Screenshot der Gewinnseite und den Standort des Xes per Instagram oder Email.</p>
 </details> <br>
 
