@@ -1,8 +1,8 @@
 ---
+title:  "Lützerath"
 layout: single
+permalink: /lützerath
 classes: wide
-title:  "Lützerath Tag X"
-date:   2022-10-31 12:00:00 +0200
 ---
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/Tag%20X/Silouette.png?raw=true" alt="Silouette" style="float:right;" hspace=20 vspace=20 > <br>
 
