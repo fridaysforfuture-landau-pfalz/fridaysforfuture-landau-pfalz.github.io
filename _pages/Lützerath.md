@@ -1,6 +1,6 @@
 ---
 title:  "Lützerath"
-layout: single
+layout: splash
 permalink: /lützerath
 classes: wide
 ---
