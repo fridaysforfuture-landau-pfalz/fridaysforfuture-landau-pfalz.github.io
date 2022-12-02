@@ -36,7 +36,7 @@ Ihr wollt mehr Infos zu Lützath und der Kohle daunter? Hier gibts Quellen und I
 - <a href="https://m.focus.de/politik/deutschland/energiehunger-frisst-doerfer-rwe-nahm-bauer-heukamp-seine-hoefe-wenn-ich-hier-weg-bin-ist-luetzerath-tot_id_102212405.html" target="_blank" >Focus über Eckardt Heukamp</a>. <br>
 - <a href="https://www.zdf.de/nachrichten/wirtschaft/rwe-kohle-luetzerath-abbau-100.html#xtor=CS5-282" target="_blank" >ZDF zu Lützerath</a>. <br>
 - <a href="https://www.bund-nrw.de/themen/braunkohle/im-fokus/braunkohleausstieg/" target="_blank" >BUND zum Kohleausstieg</a>. <br>
-Telegraminfochannel: <br>
+<b> Telegraminfochannel: </b> <br>
 - <a href="https://t.me/joinchat/5J_n0M5By0A0YjMy" target="_blank" >FFF goes Lützerath</a>. <br>
 - <a href="https://t.me/luetzerathlebt" target="_blank" >Lützerathbleibt</a>. <br>
 - <a href="https://t.me/LuetziTicker22" target="_blank" >Lützerath Aktionsticker</a>. <br>
