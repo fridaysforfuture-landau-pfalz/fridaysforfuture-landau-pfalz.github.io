@@ -4,7 +4,14 @@ layout: single
 permalink: /lützerath
 classes: wide
 ---
-<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/Tag%20X/Silouette.png?raw=true" alt="Silouette" style="float:right;" hspace=20 vspace=20 > <br>
+Danke, dass du dich für den QR Code interessiert hast. Überall in der Stadt sind Xe mit QR Codes versteckt. Der Zweck ist Aufklärung zu dem Thema Lützerath und was ist Lützerath überhaupt. Im nachfolgendem Artikel findest du alle wichtigen Infos zu Lützerath und Links für weitere Infos. <br>
+Sollte dir das ganze noch nicht spannend genug sein - der erste Mensch, der den QR Code findet der, anders als die anderen 24, auf eine andere Seite verlinkt, gewinnt einen 
+<details>
+  <summary>kleinen Preis</summary>
+  <p>Wir brauchen für die Gewinnvergabe den Screenshot der Gewinnseite und den Standort des Xes per Instagram oder Email.</p>
+</details> <br>
+
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/Tag%20X/Silouette.png?raw=true" alt="Silouette" style="float:right;" hspace=0 vspace=30 > <br>
 
 <p></p>
 
@@ -25,13 +32,17 @@ Ihr wollt mehr Infos zu Lützath und der Kohle daunter? Hier gibts Quellen und I
 - <a href="https://luetzerathlebt.info/" target="_blank" >Lützi Bleibt Webseite</a>. <br>
 - <a href="https://www.alle-doerfer-bleiben.de/" target="_blank" >Alle Dörfer Bleiben Webseite</a>. <br>
 - <a href="https://www.diw.de/documents/publikationen/73/diw_01.c.725608.de/diwkompakt_2020-148.pdf" target="_blank" >DIW Politkberatungsbericht Zusammenfassung</a>. <br>
-- <a href="https://instagram.com/clarasaharaaa?igshid=YmMyMTA2M2Y=](https://www.instagram.com/p/CkNIu2XI7AX/?utm_source=ig_web_copy_link" target="_blank" >Quarks Instagram</a>. <br>
+- <a href="https://www.instagram.com/p/ClrD-LqtcTL/?utm_source=ig_web_copy_link" target="_blank" >Quarks Instagram</a>. <br>
 - <a href="https://m.focus.de/politik/deutschland/energiehunger-frisst-doerfer-rwe-nahm-bauer-heukamp-seine-hoefe-wenn-ich-hier-weg-bin-ist-luetzerath-tot_id_102212405.html" target="_blank" >Focus über Eckardt Heukamp</a>. <br>
 - <a href="https://www.zdf.de/nachrichten/wirtschaft/rwe-kohle-luetzerath-abbau-100.html#xtor=CS5-282" target="_blank" >ZDF zu Lützerath</a>. <br>
 - <a href="https://www.bund-nrw.de/themen/braunkohle/im-fokus/braunkohleausstieg/" target="_blank" >BUND zum Kohleausstieg</a>. <br>
+Telegraminfochannel: <br>
+- <a href="https://t.me/joinchat/5J_n0M5By0A0YjMy" target="_blank" >FFF goes Lützerath</a>. <br>
+- <a href="https://t.me/luetzerathlebt" target="_blank" >Lützerathbleibt</a>. <br>
+- <a href="https://t.me/LuetziTicker22" target="_blank" >Lützerath Aktionsticker</a>. <br>
 
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/Tag%20X/Slid%203.png?raw=true" alt="Slid 3" style="float:right;" hspace=0 vspace=30 height="30%" width="30%">
-<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/Tag%20X/Slid%202.png?raw=true" alt="Slid 2" style="float:right;" hspace=0 vspace=0 height="30%" width="30%">
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/Tag%20X/Slid%202.png?raw=true" alt="Slid 2" style="float:right;" hspace=0 vspace=30 height="30%" width="30%">
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/Tag%20X/Slid%201.png?raw=true" alt="Slid 1" style="float:right;" hspace=0 vspace=30 height="30%" width="30%">
 
 <b> Demosprüche: </b>  <br>
