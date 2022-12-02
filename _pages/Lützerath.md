@@ -1,0 +1,67 @@
+---
+layout: single
+classes: wide
+title:  "Lützerath Tag X"
+date:   2022-10-31 12:00:00 +0200
+---
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/Tag%20X/Silouette.png?raw=true" alt="Silouette" style="float:right;" hspace=20 vspace=20 > <br>
+
+<p></p>
+
+<b>Was ist Tag X? </b>  <br>
+vielleicht habt ihr schon mal von Lützerath gehört. Lützerath ist ein Dorf im Rheinland am Braunkohletagebau Garzweiler II. Aus dem Dorf wurden bereits alle Anwohner umgesiedelt oder enteignet. Allerdings haben Aktivisti das Dorf besetzt und verhindern so seit fast 2 Jahren, dass das Dorf abgerissen und die Kohle da unter abgebaggert wird. Das wäre auch fatal, denn damit würden wir ganz sicher das 1,5 Grad Ziel verfehlen. Allerdings haben sich die Umstände jetzt geändert und es droht die Räumung von Lützerath. Sollte es Tag X = Tag der Räumung eintretten werden wir am selben Tag in Landau auf die Straße gehen, um gegen dieses Verbrechen und die Unverantwortung gegenüber unserer Generation zu demonstrieren. Wir rufen euch auf ebenfalls dazu zu kommen, wenn es so weit sein sollte - wir geben natürlich nochmal bescheid.  
+Sollte es soweit sein treffen wir uns <b> um 17 Uhr auf dem landauer Rathausplatz </b> für eine Eilversammlung (ist also alles angemeldet und lega!) <br>
+
+<b> Was können wir noch dagegen tun?</b> <br>
+-	an Tag X = Tag der Räumung um 17 Uhr mit auf die Straße in Landau kommen
+-	Menschen von Lützerath erzählen 
+-	auf „Lützi bleibt“ Demos kommen
+-	Habeck und Mona Neubaur Briefe und Emails schreiben
+-	nach Lützerath fahren, sich das Camp an gucken und durch Anwesenheit und Spenden (Geld aber auch Sachspenden) unterstützuen
+
+<p></p>
+
+Ihr wollt mehr Infos zu Lützath und der Kohle daunter? Hier gibts Quellen und Infos:  <br>
+- <a href="https://luetzerathlebt.info/" target="_blank" >Lützi Bleibt Webseite</a>. <br>
+- <a href="https://www.alle-doerfer-bleiben.de/" target="_blank" >Alle Dörfer Bleiben Webseite</a>. <br>
+- <a href="https://www.diw.de/documents/publikationen/73/diw_01.c.725608.de/diwkompakt_2020-148.pdf" target="_blank" >DIW Politkberatungsbericht Zusammenfassung</a>. <br>
+- <a href="https://instagram.com/clarasaharaaa?igshid=YmMyMTA2M2Y=](https://www.instagram.com/p/CkNIu2XI7AX/?utm_source=ig_web_copy_link" target="_blank" >Quarks Instagram</a>. <br>
+- <a href="https://m.focus.de/politik/deutschland/energiehunger-frisst-doerfer-rwe-nahm-bauer-heukamp-seine-hoefe-wenn-ich-hier-weg-bin-ist-luetzerath-tot_id_102212405.html" target="_blank" >Focus über Eckardt Heukamp</a>. <br>
+- <a href="https://www.zdf.de/nachrichten/wirtschaft/rwe-kohle-luetzerath-abbau-100.html#xtor=CS5-282" target="_blank" >ZDF zu Lützerath</a>. <br>
+- <a href="https://www.bund-nrw.de/themen/braunkohle/im-fokus/braunkohleausstieg/" target="_blank" >BUND zum Kohleausstieg</a>. <br>
+
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/Tag%20X/Slid%203.png?raw=true" alt="Slid 3" style="float:right;" hspace=0 vspace=0 height="30%" width="30%">
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/Tag%20X/Slid%202.png?raw=true" alt="Slid 2" style="float:right;" hspace=0 vspace=0 height="30%" width="30%">
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/Tag%20X/Slid%201.png?raw=true" alt="Slid 1" style="float:right;" hspace=0 vspace=30 height="30%" width="30%">
+
+<b> Demosprüche: </b>  <br>
+- Keep it in the ground – let's keep it in the ground!
+- Hoch mit dem Klimaschutz, runter mit der Kohle!
+- Es gibt kein Recht auf Kohlebagger fahren!
+- Wehrt Euch, leistet Widerstand gegen die Braunkohle hier im Land.... auf die Barrikaden, auf die Barrikaden!
+- Kohlekonzerne baggern in der Ferne,
+zerstören unsre Umwelt nur für'n Batzen Geld!
+Worin wir unsere Zukunft seh'n: Erneuerbare Energien!
+- „Ob Kohle aus der Mine“ – wiederholen „ob Kohle aus der Bank“ – wiederholen „beiden fehlt die Liebe“ – wiederholen „beides macht mich krank!“ – wiederholen
+- „Ich sage Kohle ihr sagt Stopp! Kohle!“ – „Stopp!“ „Kohle!“ – „Stopp!“
+„Ich sage Lützi ihr sagt bleibt! Lützi!“ – „Bleibt!“
+„One Soulution!“ – „Revolution!“
+„Gebt mir ein R!“ – „R“ „gebt mir ein W!“ – „W!“ „Gebt mir ein E!“ – „E!“ „Was ist das?“ (x3) – „Scheiße!“ (x3)
+„Da sind wir dabei für das Klima; Braun-koh-le-ge-e-egner; Wir gehen in die Grube und auf die Bagger rauf; und sehen wir ne Schiene; setzten wir uns drauf“
+- „One Struggle, one fight, Fridays for Future Lützi bleibt!“
+- „Runter mit der Kohle, hoch mit dem Klimaschutz!“
+- „No more coal, no more oil, keep the carbon in the soil!“
+- „Ob Ost, ob West, nieder mit der Kohlepest!“
+- „Kapitalismus raus aus den Köpfen!“ (klatschen im selben Rhythmus)
+„Klimaschützen ist kein Verbrechen!“ (klatschen im selben Rhythmus)
+- „Lasst die Kohle in dem Boden, niemand soll die Wälder roden!“
+- „Nie! Nie! Nie wieder Kohle!“
+
+<p></p>
+
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/20211030_120302.jpg?raw=true" alt="Kohlegrube" style="float:right;" hspace=20 vspace=20 >
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/20211031_133640.jpg?raw=true" alt="Kohlegrube" style="float:right;" hspace=20 vspace=20 >
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/IMG_20211030_121907_761.jpg?raw=true" alt="Kohlegrube" style="float:left;" hspace=5 vspace=5 height="48%" width="48%">
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/IMG_20211101_152330_420.jpg?raw=true" alt="Kohlegrube" style="float:right;" hspace=5 vspace=5 height="48%" width="48%"> <br>
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/IMG_20211101_152345_607.jpg?raw=true" style="float:right;" hspace=20 vspace=20 >
+
