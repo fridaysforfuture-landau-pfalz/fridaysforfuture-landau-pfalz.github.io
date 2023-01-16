@@ -4,17 +4,6 @@ layout: splash
 permalink: /lützerath
 classes: wide
 ---
-Danke, dass du dich für den QR Code interessiert hast. Überall in der Stadt sind Xe mit QR Codes versteckt. Der Zweck ist Aufklärung zu dem Thema Lützerath und was ist Lützerath überhaupt. Im nachfolgendem Artikel findest du alle wichtigen Infos zu Lützerath und Links für weitere Infos. <br>
-Sollte dir das ganze noch nicht spannend genug sein - der erste Mensch, der den QR Code findet der, anders als die anderen 24, auf eine andere Seite verlinkt, gewinnt einen kleinen Preis.
-<details>
-  <summary>Gewinnbedingungen</summary>
-  <p>Wir brauchen für die Gewinnvergabe den Screenshot der Gewinnseite und den Standort des Xes per Instagram oder Email.</p>
-</details> <br>
-
-<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/Tag%20X/Silouette.png?raw=true" alt="Silouette" style="float:right;" hspace=0 vspace=30 > <br>
-
-<p></p>
-
 <b>Was ist Tag X? </b>  <br>
 vielleicht habt ihr schon mal von Lützerath gehört. Lützerath ist ein Dorf im Rheinland am Braunkohletagebau Garzweiler II. Aus dem Dorf wurden bereits alle Anwohner umgesiedelt oder enteignet. Allerdings haben Aktivisti das Dorf besetzt und verhindern so seit fast 2 Jahren, dass das Dorf abgerissen und die Kohle da unter abgebaggert wird. Das wäre auch fatal, denn damit würden wir ganz sicher das 1,5 Grad Ziel verfehlen. Allerdings haben sich die Umstände jetzt geändert und es droht die Räumung von Lützerath. Sollte es Tag X = Tag der Räumung eintretten werden wir am selben Tag in Landau auf die Straße gehen, um gegen dieses Verbrechen und die Unverantwortung gegenüber unserer Generation zu demonstrieren. Wir rufen euch auf ebenfalls dazu zu kommen, wenn es so weit sein sollte - wir geben natürlich nochmal bescheid.  
 Sollte es soweit sein treffen wir uns <b> um 17 Uhr auf dem landauer Rathausplatz </b> für eine Eilversammlung (ist also alles angemeldet und lega!) <br>
