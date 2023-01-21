@@ -13,7 +13,7 @@ main:
     
   - title: "Material"
     url: /material
-    sublinks:
+    submenu:
       - title: "Demosprüche"
         url: /demosprüche
       - title: "Demoplakate"
@@ -21,7 +21,7 @@ main:
     
   - title: "Kontakt"
     url: /kontakt
-    children:
+    submenu:
       - title: "Impressum"
         url: /kontakt/impressum
 
