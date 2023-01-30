@@ -1,18 +1,8 @@
-<nav>
-  <ul>
-    {% for item in site.data.navigation.main %}
-      {% if item.submenu %}
-        <li>
-          <a href="{{ item.url }}">{{ item.title }}</a>
-          <ul>
-            {% for subitem in item.submenu %}
-              <li><a href="{{ subitem.url }}">{{ subitem.title }}</a></li>
-            {% endfor %}
-          </ul>
-        </li>
-      {% else %}
-        <li><a href="{{ item.url }}">{{ item.title }}</a></li>
-      {% endif %}
-    {% endfor %}
+<li class="menu-item-has-children">
+  <a href="#">Main menu item</a>
+  <ul class="sub-menu">
+    <li><a href="#">Submenu item 1</a></li>
+    <li><a href="#">Submenu item 2</a></li>
+    <li><a href="#">Submenu item 3</a></li>
   </ul>
-</nav>
+</li>
