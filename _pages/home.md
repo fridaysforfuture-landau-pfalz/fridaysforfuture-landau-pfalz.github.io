@@ -4,6 +4,8 @@ layout: splash
 permalink: /
 header:
   image: assets/Demos/GK 03.03.23/03.03.23 Bannner.png
+  
+{% include header.html %}
 ---
 
 <p> </p>
