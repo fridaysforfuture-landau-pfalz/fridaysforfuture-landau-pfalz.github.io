@@ -2,7 +2,7 @@
 layout: single
 classes: 
 title:  "Forderungskatalog 23 Vorstellungsveranstaltung"
-date:   2022-01-27 12:00:00 +0200
+date:   2023-01-27 12:00:00 +0200
 categories: Veranstaltung
 ---
 
