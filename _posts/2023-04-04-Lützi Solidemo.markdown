@@ -40,7 +40,7 @@ gallery:
     image_path: assets/Demos/Tag X/signal-2023-01-14-22-46-46-820.jpg
 
 --- 
-<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/Tag%20X/signal-2023-01-03-19-59-21-234.jpg?raw=true" alt="SharePic Solidemo" style="float:right;" height="50%" width="50%">
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/Tag%20X/signal-2023-01-03-19-59-21-234.jpg?raw=true" alt="SharePic Solidemo" style="float:left;" height="50%" width="50%">
 
 Am 03.01 wurde der Tag X in Lützerath ausgeruften. Das bedeutet die Polizei fing an Baumhäuser und Barrikaden abzureißen und Aktivisti zu räumen. <br>
 
