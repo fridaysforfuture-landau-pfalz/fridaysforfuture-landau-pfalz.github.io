@@ -30,8 +30,6 @@ gallery:
     image_path: assets/Demos/Tag X/signal-2023-01-14-22-46-46-820-1.jpg
   - url: assets/Demos/Tag X/signal-2023-01-14-22-46-46-820-3.jpg
     image_path: assets/Demos/Tag X/signal-2023-01-14-22-46-46-820-3.jpg
-  - url: assets/Demos/Tag X/signal-2023-01-14-22-46-46-820-3.jpg
-    image_path: assets/Demos/Tag X/signal-2023-01-14-22-46-46-820-3.jpg
   - url: assets/Demos/Tag X/signal-2023-01-14-22-46-46-820-4.jpg
     image_path: assets/Demos/Tag X/signal-2023-01-14-22-46-46-820-4.jpg
   - url: assets/Demos/Tag X/signal-2023-01-14-22-46-46-820-5.jpg
