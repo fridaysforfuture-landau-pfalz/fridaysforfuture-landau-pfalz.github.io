@@ -60,8 +60,17 @@ presse:
 
 
 aktion:
+  - title: "Aktionen 2023"
+    children:
+      - title: "- Solidemo Lützerath"
+        url: "https://fridaysforfuture-landau.de/demo/2023/01/04/L%C3%BCtzi-Solidemo.html"
+        
   - title: "Aktionen 2022"
     children:
+      - title: "- Pubquiz Biodiversität"
+        url: "https://fridaysforfuture-landau.de/2022/12/08/Pubquiz-Cosmo.html"
+      - title: "- Spielabend statt Quatar"
+        url: ""
       - title: "- Globaler Klimastreik 23.09"
         url: "https://fridaysforfuture-landau.de/demo/2022/10/14/R%C3%BCckblick-23.09.html"
       - title: "- Midsummerdemo 15.07."
