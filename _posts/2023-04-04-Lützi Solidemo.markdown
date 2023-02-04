@@ -24,7 +24,6 @@ gallery:
   - url: assets/Demos/Tag X/signal-2023-01-09-11-53-39-020.jpg
     image_path: assets/Demos/Tag X/signal-2023-01-09-11-53-39-020.jpg
 
-gallery2:
   - url: assets/Demos/Tag X/signal-2023-01-14-215535 (1).jpeg
     image_path: assets/Demos/Tag X/signal-2023-01-14-215535 (1).jpeg
   - url: assets/Demos/Tag X/signal-2023-01-14-22-46-46-820-1.jpg
@@ -53,7 +52,5 @@ Trotz der Spontanität der Demo, Dunkelheit, Nieselregen und Wind waren knapp 10
 
 Auch 10 Tage später hat die Großdemo in Lützerath mit 35.000 Menschen gezeigt: Wir sind viele und wir nehmen nicht hin, wenn unsere Zukunft für Profit von Unternehmen verkauft wird. <br>
 
-Eindrücke von der Solidemo:
+Eindrücke von der Solidemo und von der Großdemo in Lützerath:
 {% include gallery layout="half" %}
-Eindrücke von der Großdemo in Lützerath:
-{% include gallery2 layout="half" %}
