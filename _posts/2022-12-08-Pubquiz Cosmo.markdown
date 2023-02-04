@@ -1,0 +1,30 @@
+---
+layout: post
+classes: 
+title:  "Pubquiz Cosmo zur CBD CoP"
+date:   2022-11-17 19:00:00 +0200
+
+gallery:
+  - url: assets/Aktionen/Pubquiz Cosmo 08.12.22/20221208_194719076_iOS.jpg
+    image_path: assets/Aktionen/Pubquiz Cosmo 08.12.22/20221208_194719076_iOS.jpg
+  - url: assets/Aktionen/Pubquiz Cosmo 08.12.22/20221208_194827773_iOS.jpg
+    image_path: assets/Aktionen/Pubquiz Cosmo 08.12.22/20221208_194827773_iOS.jpg
+  - url: assets/Aktionen/Pubquiz Cosmo 08.12.22/20221208_195003191_iOS.jpg
+    image_path: assets/Aktionen/Pubquiz Cosmo 08.12.22/20221208_195003191_iOS.jpg
+  - url: assets/Aktionen/Pubquiz Cosmo 08.12.22/20221208_205704.jpg
+    image_path: assets/Aktionen/Pubquiz Cosmo 08.12.22/20221208_205704.jpg
+        
+---
+
+<img src="assets/Aktionen/Pubquiz Cosmo 08.12.22/20221208_212014.jpg" alt="Pubquiz Raum" style="float:right;" height="100%" width="100%">
+
+Am letzten Donnerstag fand im Cosmo ein Pubquiz zum Thema Umwelt statt. Veranstaltet von uns und Greenpeace Landau. 
+
+Vom 7.-20.12 findet in Montreal (Kanada) die 15te CBD COP (Weltnaturkonferenz) statt. Hier werden unter anderem Entscheidungen zum Schutz der Artenvielfalt getroffen. Deshalb haben sich deutschlandweit Gruppen zusammengetan, um unter dem Motto #togetherforbiodiversity mit Aktionen auf die Wichtigkeit des Schutzes der Biodiversität aufmerksam zu machen und den Druck sinnvolle und dringend notwenige Entscheidungen zu treffen, zu erhöhen. 
+
+Einen offenen Brief und mehr könnt ihr unter: https://togetherforbiodiversity.org/ finden.
+
+Das Pubquiz war eine voller Erfolg und auf Grundlage des Feedbacks ist ein weiteres Pubquiz in Zukunft bestimmt möglich.
+
+Ein paar Einblick des Abends:
+{% include gallery layout="half" %}
