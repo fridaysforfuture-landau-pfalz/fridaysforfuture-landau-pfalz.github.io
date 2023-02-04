@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 classes: 
 title:  "Pubquiz Cosmo zur CBD CoP"
 date:   2022-12-08 19:00:00 +0200
