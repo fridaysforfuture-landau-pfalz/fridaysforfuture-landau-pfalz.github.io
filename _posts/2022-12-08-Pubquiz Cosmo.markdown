@@ -2,7 +2,7 @@
 layout: post
 classes: 
 title:  "Pubquiz Cosmo zur CBD CoP"
-date:   2022-11-17 19:00:00 +0200
+date:   2022-12-08 19:00:00 +0200
 
 gallery:
   - url: assets/Aktionen/Pubquiz Cosmo 08.12.22/20221208_194719076_iOS.jpg
@@ -16,7 +16,7 @@ gallery:
         
 ---
 
-<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/17a12e939420e523807d08784f9e10fd1c44bea6/assets/Aktionen/Pubquiz%20Cosmo%2008.12.22/20221208_212014.jpg" alt="Pubquiz Raum" style="float:right;" height="100%" width="100%"> <br>
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Aktionen/Pubquiz%20Cosmo%2008.12.22/20221208_212014.jpg?raw=true" alt="Pubquiz Raum" style="float:right;"> <br>
 
 Am letzten Donnerstag fand im Cosmo ein Pubquiz zum Thema Umwelt statt. Veranstaltet von uns und Greenpeace Landau. 
 
@@ -26,5 +26,5 @@ Einen offenen Brief und mehr könnt ihr unter: <a href="https://togetherforbiodi
 
 Das Pubquiz war eine voller Erfolg und auf Grundlage des Feedbacks ist ein weiteres Pubquiz in Zukunft bestimmt möglich. <br>
 
-Ein paar Einblick des Abends: <br>
+Ein paar Einblicke des Abends: <br>
 {% include gallery layout="half" %}
