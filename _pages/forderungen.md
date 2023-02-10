@@ -11,7 +11,13 @@ sidebar:
     
 ---
 
-Unser <a href="/assets/pdf/ForderungenLandauDez2020.pdf" target="_blank"> aktuelles Forderungspapier </a> an die Stadt Landau
+Unser <a href="assets/pdf/Forderungskatalog Stand 01.01.23 Klimastreik Landau.pdf" target="_blank"> aktueller Forderungskatalog 23 </a> an die Stadt Landau
+<a href="/assets/pdf/ForderungenLandauDez2020.pdf" target="_blank"> </a> <br>
+
+Unser <a href="assets/pdf/Brief Forderungen Bündnis final.pdf" target="_blank"> Unterstüzter der Kernforderungen </a> an die Stadt Landau
+<a href="/assets/pdf/ForderungenLandauDez2020.pdf" target="_blank"> </a> <br>
+
+Unser <a href="/assets/pdf/ForderungenLandauDez2020.pdf" target="_blank"> Forderungspapier 2020 </a> an die Stadt Landau
 <a href="/assets/pdf/ForderungenLandauDez2020.pdf" target="_blank"> </a> <br>
 
 <p> </p>
