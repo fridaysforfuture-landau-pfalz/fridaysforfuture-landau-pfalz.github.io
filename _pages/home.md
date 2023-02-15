@@ -6,13 +6,7 @@ header:
   image: assets/Demos/GK 03.03.23/03.03.23 Bannner.png
   
 ---
-
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
-      body {
         margin: 0;
         padding: 0;
       }
@@ -69,8 +63,6 @@ header:
         }
       }
     </style>
-  </head>
-  <body>
     <div class="iframe-container">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/PiIOucdBwuI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
@@ -80,8 +72,6 @@ header:
       <a class="button" href="https://fridaysforfuture-landau.de/kontakt" target="">Kontakt</a>
       <a class="button" href="https://opencollective.com/klimastreik-landau" target="">Spenden</a>
     </div>
-  </body>
-</html>
 
 <h2>Wer sind wir?</h2>
 
