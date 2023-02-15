@@ -10,88 +10,53 @@ header:
 <p> </p>
 
 <style>
-.button1 {
-  border: none;
-  color: white;
-  padding: 10px 10px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 24px;
-  margin: 2px 2px 4px;
-  float: left !important;
-  cursor: pointer;
-  width: 47%;
-}
+  .button1, .button2, .button3, .button4 {
+    border: none;
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+    margin: 2px 2px 35px;
+    float: left !important;
+    cursor: pointer;
+    width: 100%;
+    max-width: 300px; /* Set a maximum width for the buttons */
+  }
 
-.button1 {background-color: #4CAF50;} /* Green */
+  .button1 {background-color: #4CAF50;} /* Green */
+  .button2 {background-color: #4CAF50;}
+  .button3 {background-color: #4CAF50;}
+  .button4 {background-color: #4CAF50;}
 
-</style>  
-  
+  iframe {
+    width: 100%;
+    max-width: 560px; /* Set a maximum width for the iframe */
+  }
+
+  @media screen and (min-width: 768px) {
+    /* Adjust the styles for screens wider than 768px */
+    .button1, .button2, .button3, .button4 {
+      width: 47%;
+      max-width: none; /* Remove the maximum width for the buttons */
+    }
+
+    iframe {
+      width: 560px;
+      max-width: none; /* Remove the maximum width for the iframe */
+    }
+  }
+</style>
+
 <a class="button1" href="https://fridaysforfuture-landau.de/news"
        target="" style="color: white" >News</a>
 
-<style>
-.button2 {
-  border: none;
-  color: white;
-  padding: 10px 10px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 24px;
-  margin: 2px 2px 4px;
-  float: left !important;
-  cursor: pointer;
-  width: 47%;
-}
-
-.button2 {background-color: #4CAF50;} /* Green */
-
-</style>    
-  
 <a class="button2" href="https://fridaysforfuture-landau.de/mitmachen"
        target="" style="color: white" >Mitmachen</a> <br>
 
-<style>
-.button3 {
-  border: none;
-  color: white;
-  padding: 10px 10px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 24px;
-  margin: 2px 2px 35px;
-  float: left !important;
-  cursor: pointer;
-  width: 47%;
-}
-
-.button3 {background-color: #4CAF50;} /* Green */
-</style> 
-
 <a class="button3" href="https://fridaysforfuture-landau.de/kontakt"
        target="" style="color: white" >Kontakt</a>
-
-<style>
-.button4 {
-  border: none;
-  color: white;
-  padding: 10px 10px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 24px;
-  margin: 2px 2px 35px;
-  float: left !important;
-  cursor: pointer;
-  width: 47%;
-}
-
-.button4 {background-color: #4CAF50;} /* Green */
-
-</style>  
   
 <a class="button4" href="https://opencollective.com/klimastreik-landau"
        target="" style="color: white" >Spenden</a> <br>
