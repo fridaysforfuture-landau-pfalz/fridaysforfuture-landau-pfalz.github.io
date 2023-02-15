@@ -6,7 +6,6 @@ header:
   image: assets/Demos/GK 03.03.23/03.03.23 Bannner.png
   
 ---
-/* Desktop-Ansicht */
 @media screen and (min-width: 768px) {
   /* Code für Desktop-Ansicht */
   .container {
@@ -36,7 +35,6 @@ header:
   }
 }
 
-/* Mobile-Ansicht */
 @media screen and (max-width: 767px) {
   /* Code für Mobile-Ansicht */
   .container {
