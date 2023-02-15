@@ -18,21 +18,30 @@ header:
     text-decoration: none;
     display: inline-block;
     font-size: 24px;
-    margin: 2px 2px 35px;
-    float: left !important;
+    margin: 10px auto;
     cursor: pointer;
     width: 100%;
     max-width: 300px; /* Set a maximum width for the buttons */
   }
 
-  .button1 {background-color: #4CAF50;} /* Green */
-  .button2 {background-color: #4CAF50;}
-  .button3 {background-color: #4CAF50;}
-  .button4 {background-color: #4CAF50;}
+  .button1, .button2 {
+    float: left !important;
+  }
+
+  .button3, .button4 {
+    float: right !important;
+  }
+
+  .button-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
 
   iframe {
     width: 100%;
     max-width: 560px; /* Set a maximum width for the iframe */
+    margin-bottom: 20px;
   }
 
   @media screen and (min-width: 768px) {
@@ -40,26 +49,38 @@ header:
     .button1, .button2, .button3, .button4 {
       width: 47%;
       max-width: none; /* Remove the maximum width for the buttons */
+      margin: 10px;
+      float: none;
+    }
+
+    .button-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
     }
 
     iframe {
       width: 560px;
       max-width: none; /* Remove the maximum width for the iframe */
+      margin-bottom: 40px;
     }
   }
 </style>
 
-<a class="button1" href="https://fridaysforfuture-landau.de/news"
-       target="" style="color: white" >News</a>
+<div class="button-container">
+  <a class="button1" href="https://fridaysforfuture-landau.de/news"
+     target="" style="color: white" >News</a>
 
-<a class="button2" href="https://fridaysforfuture-landau.de/mitmachen"
-       target="" style="color: white" >Mitmachen</a> <br>
+  <a class="button2" href="https://fridaysforfuture-landau.de/mitmachen"
+     target="" style="color: white" >Mitmachen</a>
 
-<a class="button3" href="https://fridaysforfuture-landau.de/kontakt"
-       target="" style="color: white" >Kontakt</a>
-  
-<a class="button4" href="https://opencollective.com/klimastreik-landau"
-       target="" style="color: white" >Spenden</a> <br>
+  <a class="button3" href="https://fridaysforfuture-landau.de/kontakt"
+     target="" style="color: white" >Kontakt</a>
+
+  <a class="button4" href="https://opencollective.com/klimastreik-landau"
+     target="" style="color: white" >Spenden</a>
+</div>
+
 <br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PiIOucdBwuI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <br>
