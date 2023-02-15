@@ -9,27 +9,33 @@ header:
 
 <p> </p>
 
+<div class="button-container">
+  <a class="button1" href="https://fridaysforfuture-landau.de/news" target="" style="color: white">News</a>
+  <a class="button2" href="https://fridaysforfuture-landau.de/mitmachen" target="" style="color: white">Mitmachen</a>
+  <a class="button3" href="https://fridaysforfuture-landau.de/kontakt" target="" style="color: white">Kontakt</a>
+  <a class="button4" href="https://opencollective.com/klimastreik-landau" target="" style="color: white">Spenden</a>
+</div>
+
 <style>
   .button-container {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    margin: 20px 0;
   }
 
-  .button {
+  .button-container a {
     border: none;
     color: white;
-    padding: 10px 20px;
+    padding: 10px 10px;
     text-align: center;
     text-decoration: none;
-    display: block;
+    display: inline-block;
     font-size: 24px;
-    margin: 5px;
+    margin: 2px;
     cursor: pointer;
     background-color: #4CAF50;
-    width: auto;
-    max-width: 100%;
+    width: 47%;
+    max-width: 300px;
   }
 
   iframe {
@@ -40,27 +46,25 @@ header:
 
   @media screen and (min-width: 768px) {
     .button-container {
-      margin: 40px 0;
+      justify-content: space-between;
     }
 
-    .button {
-      width: 47%;
-      max-width: none;
+    .button-container a {
+      width: auto;
+      margin: 2px 0;
     }
 
     iframe {
       width: 560px;
-      max-width: none;
+    }
+  }
+
+  @media screen and (max-width: 767px) {
+    .button-container a {
+      width: 100%;
     }
   }
 </style>
-
-<div class="button-container">
-  <a class="button" href="https://fridaysforfuture-landau.de/news" target="" style="color: white">News</a>
-  <a class="button" href="https://fridaysforfuture-landau.de/mitmachen" target="" style="color: white">Mitmachen</a>
-  <a class="button" href="https://fridaysforfuture-landau.de/kontakt" target="" style="color: white">Kontakt</a>
-  <a class="button" href="https://opencollective.com/klimastreik-landau" target="" style="color: white">Spenden</a>
-</div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PiIOucdBwuI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
