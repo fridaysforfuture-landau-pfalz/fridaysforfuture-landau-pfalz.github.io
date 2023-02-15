@@ -7,76 +7,81 @@ header:
   
 ---
 
-<p> </p>
-
-<style>
-    .button-container {
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+      body {
+        margin: 0;
+        padding: 0;
+      }
+      
+      .button-container {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: 100%;
+      }
+      
+      .button {
         display: flex;
         justify-content: center;
-        flex-wrap: wrap;
-        max-width: 100%;
-        margin-bottom: 20px;
-    }
-    .button {
-        border: none;
+        align-items: center;
+        background-color: #4CAF50;
         color: white;
-        padding: 10px 20px;
         text-align: center;
         text-decoration: none;
         font-size: 24px;
-        margin: 5px;
-        cursor: pointer;
-        width: calc(50% - 10px);
-        max-width: 300px;
-        box-sizing: border-box;
-    }
-    .button:nth-child(even) {
-        margin-left: 10px;
-    }
-    .button:nth-child(odd) {
-        margin-right: 10px;
-    }
-    .button1 {background-color: #4CAF50;} /* Green */
-    .button2 {background-color: #4CAF50;}
-    .button3 {background-color: #4CAF50;}
-    .button4 {background-color: #4CAF50;}
-
-    iframe {
+        padding: 20px;
+        margin: 10px;
         width: 100%;
-        max-width: 560px; /* Set a maximum width for the iframe */
-        margin-bottom: 20px;
-    }
+        max-width: 300px;
+        border: none;
+        cursor: pointer;
+      }
 
-    @media screen and (min-width: 768px) {
+      .iframe-container {
+        position: relative;
+        padding-bottom: 56.25%; /* 16:9 */
+        height: 0;
+        margin: 0 auto;
+        max-width: 560px;
+      }
+
+      .iframe-container iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+      }
+
+      @media screen and (min-width: 768px) {
         .button-container {
-            display: block;
-            text-align: center;
+          flex-direction: row;
+          justify-content: center;
         }
-        .button {
-            width: 100%;
-            max-width: none;
+        
+        .button:nth-child(2n+1) {
+          margin-right: 20px;
         }
-        iframe {
-            width: 560px;
-        }
-    }
-</style>
-
-<div class="button-container">
-    <a class="button button1" href="https://fridaysforfuture-landau.de/news"
-           target="">News</a>
-
-    <a class="button button2" href="https://fridaysforfuture-landau.de/mitmachen"
-           target="">Mitmachen</a>
-
-    <a class="button button3" href="https://fridaysforfuture-landau.de/kontakt"
-           target="">Kontakt</a>
-
-    <a class="button button4" href="https://opencollective.com/klimastreik-landau"
-           target="">Spenden</a>
-</div>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PiIOucdBwuI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      }
+    </style>
+  </head>
+  <body>
+    <div class="iframe-container">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/PiIOucdBwuI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <div class="button-container">
+      <a class="button" href="https://fridaysforfuture-landau.de/news" target="">News</a>
+      <a class="button" href="https://fridaysforfuture-landau.de/mitmachen" target="">Mitmachen</a>
+      <a class="button" href="https://fridaysforfuture-landau.de/kontakt" target="">Kontakt</a>
+      <a class="button" href="https://opencollective.com/klimastreik-landau" target="">Spenden</a>
+    </div>
+  </body>
+</html>
 
 <h2>Wer sind wir?</h2>
 
