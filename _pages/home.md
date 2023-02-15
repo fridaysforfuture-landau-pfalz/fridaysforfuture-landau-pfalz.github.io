@@ -40,35 +40,41 @@ header:
   }
 
   @media screen and (min-width: 768px) {
-    /* Adjust the styles for screens wider than 768px */
-    .button1, .button2, .button3, .button4 {
-      width: auto;
-      max-width: none; /* Remove the maximum width for the buttons */
-      margin: 2px;
-    }
-
-    iframe {
-      width: 560px;
-    }
-
-    .button-container {
-      margin-bottom: 0;
-    }
+  /* Adjust the styles for screens wider than 768px */
+  .button-container {
+    display: flex;
+    justify-content: center;
   }
+  
+  .button-column {
+    display: flex;
+    flex-direction: column;
+    margin: 0 10px;
+  }
+  
+  .button1, .button2, .button3, .button4 {
+    width: 100%;
+    max-width: none; /* Remove the maximum width for the buttons */
+    margin-bottom: 35px;
+  }
+  
+  iframe {
+    width: 560px;
+    max-width: none; /* Remove the maximum width for the iframe */
+    margin-top: 35px;
+  }
+}
 </style>
 
 <div class="button-container">
-  <a class="button1" href="https://fridaysforfuture-landau.de/news"
-       target="" style="color: white" >News</a>
-
-  <a class="button2" href="https://fridaysforfuture-landau.de/mitmachen"
-       target="" style="color: white" >Mitmachen</a>
-
-  <a class="button3" href="https://fridaysforfuture-landau.de/kontakt"
-       target="" style="color: white" >Kontakt</a>
-  
-  <a class="button4" href="https://opencollective.com/klimastreik-landau"
-       target="" style="color: white" >Spenden</a>
+  <div class="button-column">
+    <a class="button1" href="https://fridaysforfuture-landau.de/news" target="_blank">News</a>
+    <a class="button2" href="https://fridaysforfuture-landau.de/mitmachen" target="_blank">Mitmachen</a>
+  </div>
+  <div class="button-column">
+    <a class="button3" href="https://fridaysforfuture-landau.de/kontakt" target="_blank">Kontakt</a>
+    <a class="button4" href="https://opencollective.com/klimastreik-landau" target="_blank">Spenden</a>
+  </div>
 </div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PiIOucdBwuI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
