@@ -6,74 +6,60 @@ header:
   image: assets/Demos/GK 03.03.23/03.03.23 Bannner.png
   
 ---
-@media screen and (min-width: 768px) {
-  /* Code für Desktop-Ansicht */
-  .container {
-    display: flex;
-    justify-content: center;
-  }
-  .button-container {
-    display: flex;
-    justify-content: space-between;
-    width: 100%;
-    max-width: 600px;
-    margin-top: 20px;
-  }
-  .button {
-    flex-basis: calc(50% - 10px);
-    height: 50px;
-    background-color: #0072c6;
-    color: #fff;
-    font-size: 16px;
-    text-align: center;
-    line-height: 50px;
-    border-radius: 5px;
-    text-decoration: none;
-  }
-  .button:nth-child(2n) {
-    margin-left: 20px;
-  }
-}
-
-@media screen and (max-width: 767px) {
-  /* Code für Mobile-Ansicht */
-  .container {
-    display: block;
-  }
+<style>
   .button-container {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    width: 100%;
-    margin-top: 20px;
+    margin: 20px 0;
   }
-  .button {
-    flex-basis: 100%;
-    height: 50px;
-    background-color: #0072c6;
-    color: #fff;
-    font-size: 16px;
-    text-align: center;
-    line-height: 50px;
-    border-radius: 5px;
-    margin: 5px 0;
-    text-decoration: none;
-  }
-  .iframe-container {
-    width: 100%;
-    height: 200px;
-  }
-}
 
-<div class="video-container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/PiIOucdBwuI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+  .button {
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    font-size: 24px;
+    margin: 5px;
+    cursor: pointer;
+    background-color: #4CAF50;
+    width: auto;
+    max-width: 100%;
+  }
+
+  iframe {
+    width: 100%;
+    max-width: 560px;
+    margin-bottom: 20px;
+  }
+
+  @media screen and (min-width: 768px) {
+    .button-container {
+      margin: 40px 0;
+    }
+
+    .button {
+      width: 47%;
+      max-width: none;
+    }
+
+    iframe {
+      width: 560px;
+      max-width: none;
+    }
+  }
+</style>
+
 <div class="button-container">
-  <a class="button" href="https://fridaysforfuture-landau.de/news" target="">News</a>
-  <a class="button" href="https://fridaysforfuture-landau.de/mitmachen" target="">Mitmachen</a>
-  <a class="button" href="https://fridaysforfuture-landau.de/kontakt" target="">Kontakt</a>
-  <a class="button" href="https://opencollective.com/klimastreik-landau" target="">Spenden</a>
+  <a class="button" href="https://fridaysforfuture-landau.de/news" target="" style="color: white">News</a>
+  <a class="button" href="https://fridaysforfuture-landau.de/mitmachen" target="" style="color: white">Mitmachen</a>
+  <a class="button" href="https://fridaysforfuture-landau.de/kontakt" target="" style="color: white">Kontakt</a>
+  <a class="button" href="https://opencollective.com/klimastreik-landau" target="" style="color: white">Spenden</a>
 </div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PiIOucdBwuI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h2>Wer sind wir?</h2>
 
