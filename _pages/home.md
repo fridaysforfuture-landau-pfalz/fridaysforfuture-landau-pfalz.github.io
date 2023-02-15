@@ -6,72 +6,76 @@ header:
   image: assets/Demos/GK 03.03.23/03.03.23 Bannner.png
   
 ---
-    <style>
-        margin: 0;
-        padding: 0;
-      }
-      
-      .button-container {
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        height: 100%;
-      }
-      
-      .button {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        background-color: #4CAF50;
-        color: white;
-        text-align: center;
-        text-decoration: none;
-        font-size: 24px;
-        padding: 20px;
-        margin: 10px;
-        width: 100%;
-        max-width: 300px;
-        border: none;
-        cursor: pointer;
-      }
+/* Desktop-Ansicht */
+@media screen and (min-width: 768px) {
+  /* Code für Desktop-Ansicht */
+  .container {
+    display: flex;
+    justify-content: center;
+  }
+  .button-container {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    max-width: 600px;
+    margin-top: 20px;
+  }
+  .button {
+    flex-basis: calc(50% - 10px);
+    height: 50px;
+    background-color: #0072c6;
+    color: #fff;
+    font-size: 16px;
+    text-align: center;
+    line-height: 50px;
+    border-radius: 5px;
+    text-decoration: none;
+  }
+  .button:nth-child(2n) {
+    margin-left: 20px;
+  }
+}
 
-      .iframe-container {
-        position: relative;
-        padding-bottom: 56.25%; /* 16:9 */
-        height: 0;
-        margin: 0 auto;
-        max-width: 560px;
-      }
+/* Mobile-Ansicht */
+@media screen and (max-width: 767px) {
+  /* Code für Mobile-Ansicht */
+  .container {
+    display: block;
+  }
+  .button-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 100%;
+    margin-top: 20px;
+  }
+  .button {
+    flex-basis: 100%;
+    height: 50px;
+    background-color: #0072c6;
+    color: #fff;
+    font-size: 16px;
+    text-align: center;
+    line-height: 50px;
+    border-radius: 5px;
+    margin: 5px 0;
+    text-decoration: none;
+  }
+  .iframe-container {
+    width: 100%;
+    height: 200px;
+  }
+}
 
-      .iframe-container iframe {
-        position: absolute;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-      }
-
-      @media screen and (min-width: 768px) {
-        .button-container {
-          flex-direction: row;
-          justify-content: center;
-        }
-        
-        .button:nth-child(2n+1) {
-          margin-right: 20px;
-        }
-      }
-    </style>
-    <div class="iframe-container">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/PiIOucdBwuI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
-    <div class="button-container">
-      <a class="button" href="https://fridaysforfuture-landau.de/news" target="">News</a>
-      <a class="button" href="https://fridaysforfuture-landau.de/mitmachen" target="">Mitmachen</a>
-      <a class="button" href="https://fridaysforfuture-landau.de/kontakt" target="">Kontakt</a>
-      <a class="button" href="https://opencollective.com/klimastreik-landau" target="">Spenden</a>
-    </div>
+<div class="video-container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/PiIOucdBwuI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<div class="button-container">
+  <a class="button" href="https://fridaysforfuture-landau.de/news" target="">News</a>
+  <a class="button" href="https://fridaysforfuture-landau.de/mitmachen" target="">Mitmachen</a>
+  <a class="button" href="https://fridaysforfuture-landau.de/kontakt" target="">Kontakt</a>
+  <a class="button" href="https://opencollective.com/klimastreik-landau" target="">Spenden</a>
+</div>
 
 <h2>Wer sind wir?</h2>
 
