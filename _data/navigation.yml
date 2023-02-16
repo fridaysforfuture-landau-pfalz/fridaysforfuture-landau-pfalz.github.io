@@ -30,6 +30,8 @@ presse:
     children:
       - title: "- Logo FfF Landau"
         url: "/assets/images/FFF Landau Logo.png"
+      - title: "- Forderungskatalog 2023"
+        url: "/assets/pdf/Forderungskatalog%20Stand%2001.01.23%20Klimastreik%20Landau.pdf"
       - title: "- Forderungspapier Dez. 2020"
         url: "/assets/pdf/ForderungenLandauDez2020.pdf"
   - title: "Pressemitteilungen"
