@@ -17,7 +17,8 @@ Unser <a href="assets/pdf/Forderungskatalog Stand 01.01.23 Klimastreik Landau.pd
 Unser <a href="assets/pdf/Brief Forderungen Bündnis final.pdf" target="_blank"> Unterstüzter der Kernforderungen </a> an die Stadt Landau
 <a href="/assets/pdf/ForderungenLandauDez2020.pdf" target="_blank"> </a> <br>
 
-<iframe width="560" height="315" src="https://youtu.be/TBWXt9B0d5g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TBWXt9B0d5g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 <p> </p>
   
