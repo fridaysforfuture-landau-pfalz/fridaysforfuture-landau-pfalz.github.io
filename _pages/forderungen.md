@@ -15,18 +15,18 @@ sidebar:
   <div class="row">
     <div class="col">
       <div class="icon">
-        <img src="icon1.png" alt="Icon 1">
+        <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/Icon-Katalog-300x300.png?raw=true" alt="Icon Katalog">
       </div>
       <div class="button">
-        <a href="assets/pdf/Forderungskatalog Stand 01.01.23 Klimastreik Landau.pdf">aktueller Forderungskatalog 23</a>
+        <a href="assets/pdf/Forderungskatalog Stand 01.01.23 Klimastreik Landau und Brief.pdf">aktueller Forderungskatalog 23</a>
       </div>
     </div>
     <div class="col">
       <div class="icon">
-        <img src="icon2.png" alt="Icon 2">
+        <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/V2%20Icon-Katalog-300x300.png?raw=true" alt="Icon Brief">
       </div>
       <div class="button">
-        <a href="assets/pdf/Brief Forderungen Bündnis final.pdf">Unterstüzter der Kernforderungen</a>
+        <a href="assets/pdf/Forderungskatalog Stand 01.01.23 Klimastreik Landau und Brief.pdf#page=4">Unterstüzter der Kernforderungen</a>
       </div>
     </div>
   </div>
