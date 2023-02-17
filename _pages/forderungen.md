@@ -12,7 +12,7 @@ sidebar:
 ---
 <div align='center'>
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/Icon-Katalog-300x300.png?raw=true" style="margin-right: 120px; margin-top: 20px" alt="Icon Forderungskatalog" height="20%" width="20%">
-<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/V2%20Icon-Katalog-300x300.png?raw=true" style="margin-right: 120px; margin-top: 20px" alt="Icon Unterstüzter" height="20%" width="20%">
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/V2%20Icon-Katalog-300x300.png?raw=true" style="margin-left: 120px; margin-top: 20px" alt="Icon Unterstüzter" height="20%" width="20%">
 </div> <br>
 
 <style>
