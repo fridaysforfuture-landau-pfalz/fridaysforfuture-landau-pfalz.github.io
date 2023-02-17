@@ -11,14 +11,18 @@ sidebar:
     
 ---
 
-<div class="icon-button-container">
-  <div class="icon-button-column">
-    <img class="icon" src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/Icon-Katalog-300x300.png?raw=true" alt="Forderungskatalog">
-    <a class="button" href="/assets/pdf/Forderungskatalog%20Stand%2001.01.23%20Klimastreik%20Landau%20und%20Brief.pdf" target="_blank">Forderungen</a>
+<div style="display:flex; flex-wrap:wrap; justify-content:space-between">
+  <div style="text-align:center; width:50%">
+    <a href="/assets/pdf/Forderungskatalog%20Stand%2001.01.23%20Klimastreik%20Landau%20und%20Brief.pdf" target="_blank">
+      <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/Icon-Katalog-300x300.png?raw=true" alt="Katalog Icon" style="width: 200px; height: auto;">
+      <p style="color:#fff; margin-top:10px;">Forderungskatalog</p>
+    </a>
   </div>
-  <div class="icon-button-column">
-    <img class="icon" src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/V2%20Icon-Katalog-300x300.png?raw=true" alt="Brief">
-    <a class="button" href="/assets/pdf/Brief.pdf" target="_blank">Offener Brief</a>
+  <div style="text-align:center; width:50%">
+    <a href="/assets/pdf/Brief%20an%20OB%20Hirsch%20vom%2008.01.23.pdf" target="_blank">
+      <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/V2%20Icon-Katalog-300x300.png?raw=true" alt="Brief Icon" style="width: 200px; height: auto;">
+      <p style="color:#fff; margin-top:10px;">Brief an OB Hirsch</p>
+    </a>
   </div>
 </div>
 
