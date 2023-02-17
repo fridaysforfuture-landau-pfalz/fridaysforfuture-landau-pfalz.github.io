@@ -11,54 +11,60 @@ sidebar:
     
 ---
 
-<div style="display:flex; flex-wrap:wrap; justify-content:space-between">
-  <div style="text-align:center; width:50%">
-    <a href="/assets/pdf/Forderungskatalog%20Stand%2001.01.23%20Klimastreik%20Landau%20und%20Brief.pdf" target="_blank">
-      <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/Icon-Katalog-300x300.png?raw=true" alt="Katalog Icon" style="width: 200px; height: auto;">
-      <p style="color:#fff; margin-top:10px;">Forderungskatalog</p>
-    </a>
+<div class="container">
+  <div class="icon-container">
+    <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/Icon-Katalog-300x300.png?raw=true" alt="Icon-Katalog" width="200" height="200">
   </div>
-  <div style="text-align:center; width:50%">
-    <a href="/assets/pdf/Brief%20an%20OB%20Hirsch%20vom%2008.01.23.pdf" target="_blank">
-      <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/V2%20Icon-Katalog-300x300.png?raw=true" alt="Brief Icon" style="width: 200px; height: auto;">
-      <p style="color:#fff; margin-top:10px;">Brief an OB Hirsch</p>
-    </a>
+  <div class="button-container">
+    <a href="/assets/pdf/Forderungskatalog Stand 01.01.23 Klimastreik Landau und Brief.pdf" class="button">Forderungskatalog</a>
+  </div>
+</div>
+
+<div class="container">
+  <div class="icon-container">
+    <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/V2%20Icon-Katalog-300x300.png?raw=true" alt="V2-Icon-Katalog" width="200" height="200">
+  </div>
+  <div class="button-container">
+    <a href="/assets/pdf/Brief.pdf" class="button">Brief an die Stadt</a>
   </div>
 </div>
 
 <style>
-.icon-button-container {
-  display: flex;
-  justify-content: space-between;
-  max-width: 800px;
-  margin: 0 auto;
-}
+  .container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: 2rem 0;
+  }
 
-.icon-button-column {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
+  .icon-container {
+    text-align: center;
+    margin-right: 1rem;
+  }
 
-.icon {
-  width: 150px;
-  height: auto;
-  margin-bottom: 10px;
-}
+  .button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
 
-.button {
-  display: inline-block;
-  background-color: #4CAF50;
-  color: white;
-  text-align: center;
-  padding: 10px 15px;
-  border-radius: 4px;
+  .button {
+    display: block;
+    text-decoration: none;
+    color: white;
+    background-color: #4CAF50;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  
+  a {
+  color: #fff; /* Weiß */
   text-decoration: none;
-  font-size: 16px;
-  margin-bottom: 10px;
 }
 </style>
-
 
 Unser <a href="assets/pdf/Forderungskatalog Stand 01.01.23 Klimastreik Landau.pdf" target="_blank"> aktueller Forderungskatalog 23 </a> an die Stadt Landau
 <a href="/assets/pdf/ForderungenLandauDez2020.pdf" target="_blank"> </a> <br>
