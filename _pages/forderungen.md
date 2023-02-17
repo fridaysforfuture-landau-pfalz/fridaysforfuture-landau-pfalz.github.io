@@ -11,6 +11,46 @@ sidebar:
     
 ---
 
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/Icon-Katalog-300x300.png?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Icon Forderungskatalog" height="20%" width="20%">
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/V2%20Icon-Katalog-300x300.png?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Icon Unterstüzter" height="20%" width="20%">
+  
+.button1 {
+  border: none;
+  color: white;
+  padding: 15px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 24px;
+  margin: 4px 2px;
+  cursor: pointer;
+  width: 47%;
+}
+.button2 {
+  border: none;
+  color: white;
+  padding: 15px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 24px;
+  margin: 4px 2px;
+  cursor: pointer;
+  width: 47%;
+}  
+  
+.button1 {background-color: #4CAF50;} /* Green */
+.button2 {background-color: #4CAF50;} /* Green */
+</style>
+
+<a class="button1" href="https://fridaysforfuture-landau.de/assets/pdf/Forderungskatalog%20Stand%2001.01.23%20Klimastreik%20Landau%20und%20Brief.pdf"
+       target="" style="color: white" >Forderungskatalog 2023</a>
+<a class="button2" href="https://fridaysforfuture-landau.de/assets/pdf/Forderungskatalog%20Stand%2001.01.23%20Klimastreik%20Landau%20und%20Brief.pdf#page=18"
+       target="" style="color: white" >Unterstützer der Kernforderungen</a>
+       
+       
+       
+
 <div class="icon-container">
   <div class="icon">
     <a href="https://fridaysforfuture-landau.de/assets/pdf/Forderungskatalog Stand 01.01.23 Klimastreik Landau und Brief.pdf" target="_blank">
