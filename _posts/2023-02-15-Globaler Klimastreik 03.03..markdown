@@ -13,7 +13,16 @@ Am <b> 03.03 </b> findet der nächste <b> globale Klimastreik </b> statt. Wir be
 Wir werden am 03.03 unter dem Motto <b> #TomorrowIsTooLate </b> weltweit und deutschlandweit auf die Straße gehen. Hier in Landau wird sowohl die schnellmöglichste Umsetzung unseres Forderungskatalogs als auch Lützerath als Thema sein. Denn wir brauchen deutschlandweit, aber auch in Landau <b> JETZT </b> wirksame Maßnahmen, um den Klimawandel noch abschwächen zu können. <br>
 
 <b> Programm </b>: <br>
--	 
+- Ordnertreffen 15:30
+- 16:00 Beginn Demo
+- 16:05 - 16:25 Musik Chiara 
+- Rede Fridays for Future
+- 16:35 - 17:00 Musik Chiara
+- 2. Rede Greenpeace
+- Musik Clara
+- Demozugbeginn
+- 3. Rede
+- Ausklang Clara
 
 <b> Demosprüche </b> findest du <a href="https://fridaysforfuture-landau.de/assets/Demos/GK%2003.03.23/Lieder%20und%20Rufe%20DINA5.pdf" target="_blank" >hier</a>. <br>
 
