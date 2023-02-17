@@ -11,12 +11,89 @@ sidebar:
     
 ---
 
+<div class="icon-container">
+  <div class="icon">
+    <a href="https://fridaysforfuture-landau.de/assets/pdf/Forderungskatalog Stand 01.01.23 Klimastreik Landau und Brief.pdf" target="_blank">
+      <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/Icon-Katalog-300x300.png?raw=true" alt="Forderungskatalog Icon">
+    </a>
+  </div>
+  <div class="button">
+    <a href="https://fridaysforfuture-landau.de/assets/pdf/Forderungskatalog Stand 01.01.23 Klimastreik Landau und Brief.pdf" target="_blank" class="button-style">Forderungskatalog</a>
+  </div>
+</div>
+<div class="icon-container">
+  <div class="icon">
+    <a href="https://fridaysforfuture-landau.de/assets/pdf/Brief_Klimastreik_Landau.pdf" target="_blank">
+      <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/V2%20Icon-Katalog-300x300.png?raw=true" alt="Brief Icon">
+    </a>
+  </div>
+  <div class="button">
+    <a href="https://fridaysforfuture-landau.de/assets/pdf/Brief_Klimastreik_Landau.pdf#page=18" target="_blank" class="button-style">Offener Brief</a>
+  </div>
+</div>
+
+<style>
+  .container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: 2rem 0;
+  }
+
+  .icon-container {
+    text-align: center;
+    margin-right: 1rem;
+  }
+
+  .button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .button {
+    display: block;
+    text-decoration: none;
+    color: white;
+    background-color: #4CAF50;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  
+  .button-style {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px 24px;
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 8px;
+}
+  
+  a {
+  color: #fff; /* Weiß */
+  text-decoration: none;
+}
+</style>
+
+
+
+
+
+
 <div class="container">
   <div class="icon-container">
     <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/Icon-Katalog-300x300.png?raw=true" alt="Icon-Katalog" width="200" height="200">
   </div>
   <div class="button-container">
-    <a href="/assets/pdf/Forderungskatalog Stand 01.01.23 Klimastreik Landau und Brief.pdf" class="button">Forderungskatalog</a>
+    <a href="/assets/pdf/Forderungskatalog Stand 01.01.23 Klimastreik Landau und Brief.pdf" class="button">Forderungskatalog 2023</a>
   </div>
 </div>
 
@@ -25,7 +102,7 @@ sidebar:
     <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/V2%20Icon-Katalog-300x300.png?raw=true" alt="V2-Icon-Katalog" width="200" height="200">
   </div>
   <div class="button-container">
-    <a href="/assets/pdf/Brief.pdf" class="button">Brief an die Stadt</a>
+    <a href="/assets/pdf/Forderungskatalog Stand 01.01.23 Klimastreik Landau und Brief.pdf" class="button">Unterstützer Kernforderungen</a>
   </div>
 </div>
 
