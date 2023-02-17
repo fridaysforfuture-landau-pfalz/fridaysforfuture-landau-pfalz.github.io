@@ -11,6 +11,87 @@ sidebar:
     
 ---
 
+<div class="container">
+  <div class="row">
+    <div class="col">
+      <div class="icon">
+        <img src="icon1.png" alt="Icon 1">
+      </div>
+      <div class="button">
+        <a href="assets/pdf/Forderungskatalog Stand 01.01.23 Klimastreik Landau.pdf">aktueller Forderungskatalog 23</a>
+      </div>
+    </div>
+    <div class="col">
+      <div class="icon">
+        <img src="icon2.png" alt="Icon 2">
+      </div>
+      <div class="button">
+        <a href="assets/pdf/Brief Forderungen Bündnis final.pdf">Unterstüzter der Kernforderungen</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.col {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+}
+
+.icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  background-color: #ccc;
+  margin-bottom: 10px;
+}
+
+.icon img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button a {
+  display: inline-block;
+  padding: 10px 20px;
+  border: 2px solid #000;
+  border-radius: 5px;
+  text-decoration: none;
+  color: #000;
+  font-weight: bold;
+  text-align: center;
+  transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+}
+
+.button a:hover {
+  background-color: #000;
+  color: #fff;
+}
+
 Unser <a href="assets/pdf/Forderungskatalog Stand 01.01.23 Klimastreik Landau.pdf" target="_blank"> aktueller Forderungskatalog 23 </a> an die Stadt Landau
 <a href="/assets/pdf/ForderungenLandauDez2020.pdf" target="_blank"> </a> <br>
 
