@@ -12,7 +12,7 @@ sidebar:
 ---
 <div align='center'>
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/Icon-Katalog-300x300.png?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Icon Forderungskatalog" height="20%" width="20%">
-<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/V2%20Icon-Katalog-300x300.png?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Icon Unterstüzter" height="20%" width="20%">
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/V2%20Icon-Katalog-300x300.png?raw=true" style="margin-right: 50px; margin-top: 20px" alt="Icon Unterstüzter" height="20%" width="20%">
 </div> <br>
 
 <style>
@@ -49,153 +49,33 @@ sidebar:
        target="" style="color: white" >Forderungskatalog 2023</a>
 <a class="button2" href="https://fridaysforfuture-landau.de/assets/pdf/Forderungskatalog%20Stand%2001.01.23%20Klimastreik%20Landau%20und%20Brief.pdf#page=18"
        target="" style="color: white" >Unterstützer der Kernforderungen</a>
-       
-       
-       
 
-<div class="icon-container">
-  <div class="icon">
-    <a href="https://fridaysforfuture-landau.de/assets/pdf/Forderungskatalog Stand 01.01.23 Klimastreik Landau und Brief.pdf" target="_blank">
-      <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/Icon-Katalog-300x300.png?raw=true" alt="Forderungskatalog Icon" width="200" height="200">
-    </a>
-  </div>
-  <div class="button">
-    <a href="https://fridaysforfuture-landau.de/assets/pdf/Forderungskatalog Stand 01.01.23 Klimastreik Landau und Brief.pdf" target="_blank" class="button-style">Forderungskatalog</a>
-  </div>
-</div>
-<div class="icon-container">
-  <div class="icon">
-    <a href="https://fridaysforfuture-landau.de/assets/pdf/Brief_Klimastreik_Landau.pdf" target="_blank">
-      <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/V2%20Icon-Katalog-300x300.png?raw=true" alt="Brief Icon" width="200" height="200">
-    </a>
-  </div>
-  <div class="button">
-    <a href="https://fridaysforfuture-landau.de/assets/pdf/Brief_Klimastreik_Landau.pdf#page=18" target="_blank" class="button-style">Offener Brief</a>
-  </div>
-</div>
+<b> Unsere Forderungen teilen sich in die Bereiche: </b>
+<ul>
+  <li>Stadt</li>
+  <li>Energie</li>
+  <li>Bau</li>
+  <li>Mobilität</li>
+</ul> 
 
-<style>
-  .container {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
-    margin: 2rem 0;
-  }
-
-  .icon-container {
-    text-align: center;
-    margin-right: 1rem;
-  }
-
-  .button-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-
-  .button {
-    display: block;
-    text-decoration: none;
-    color: white;
-    background-color: #4CAF50;
-    padding: 0.5rem 1rem;
-    border-radius: 0.5rem;
-    font-size: 1.2rem;
-    font-weight: bold;
-  }
-  
-  .button-style {
-  background-color: #4CAF50;
-  color: white;
-  padding: 10px 24px;
-  border: none;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
-  cursor: pointer;
-  border-radius: 8px;
-}
-  
-  a {
-  color: #fff; /* Weiß */
-  text-decoration: none;
-}
-</style>
-
-
-
-
-
-
-<div class="container">
-  <div class="icon-container">
-    <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/Icon-Katalog-300x300.png?raw=true" alt="Icon-Katalog" width="200" height="200">
-  </div>
-  <div class="button-container">
-    <a href="/assets/pdf/Forderungskatalog Stand 01.01.23 Klimastreik Landau und Brief.pdf" class="button">Forderungskatalog 2023</a>
-  </div>
-</div>
-
-<div class="container">
-  <div class="icon-container">
-    <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/V2%20Icon-Katalog-300x300.png?raw=true" alt="V2-Icon-Katalog" width="200" height="200">
-  </div>
-  <div class="button-container">
-    <a href="/assets/pdf/Forderungskatalog Stand 01.01.23 Klimastreik Landau und Brief.pdf" class="button">Unterstützer Kernforderungen</a>
-  </div>
-</div>
-
-<style>
-  .container {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
-    margin: 2rem 0;
-  }
-
-  .icon-container {
-    text-align: center;
-    margin-right: 1rem;
-  }
-
-  .button-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-
-  .button {
-    display: block;
-    text-decoration: none;
-    color: white;
-    background-color: #4CAF50;
-    padding: 0.5rem 1rem;
-    border-radius: 0.5rem;
-    font-size: 1.2rem;
-    font-weight: bold;
-  }
-  
-  a {
-  color: #fff; /* Weiß */
-  text-decoration: none;
-}
-</style>
-
-Unser <a href="assets/pdf/Forderungskatalog Stand 01.01.23 Klimastreik Landau.pdf" target="_blank"> aktueller Forderungskatalog 23 </a> an die Stadt Landau
-<a href="/assets/pdf/ForderungenLandauDez2020.pdf" target="_blank"> </a> <br>
-
-Unser <a href="assets/pdf/Brief Forderungen Bündnis final.pdf" target="_blank"> Unterstüzter der Kernforderungen </a> an die Stadt Landau
-<a href="/assets/pdf/ForderungenLandauDez2020.pdf" target="_blank"> </a> <br>
+<b> Unsere Kernforderungen an die Stadt Landau sind: </b> <br>
+1) CO2 Budget als Richtgröße für die Stadtplanung <br>
+2) 100% erneuerbare Energieversorgung der Stadt bis 2035 <br>
+3) Elektrifizierung und Ausbau des ÖPNVs <br>
+4) Ausbau der Infrastruktur für Wasserstoff- und Elektromobilität <br>
+5) Berücksichtigung der gesamten Lebenszykluskosten bei allen städtischen Neubauten, Sanierungen oder sonstigen Vorhaben inklusive eines CO2-Schattenpreises von etwa 201€ (für das Jahr 2021) pro Tonne CO2-Äquivalent5 <br>
+6) Umfangreiches Konzept möglichst klimaneutraler Gewerbegebiete unter Einbezug entsprechender autarker Energieversorgung, ÖPNV-Anbindung, Shared Infrastructure Anlagen und Erbbaupacht (Cradle to Cradle – Ansatz) <br>
+7) Anreize zur Förderung energetischer Sanierung / Neubauten unter Passivhaus-Standards <br>
+8) Breite Aufklärungskampagnen für Hausbesitzer:innen über mögliche Verbesserungsmaßnahmen am Gebäude mit Ziel der Klimaneutralität und entsprechend bestehenden Förderungen <br>
+9) Mindestens drei Menschen als Klimaschutzmanagement-Team <br>
+10) Überarbeitung des Klimaschutzkonzepts mit Fristsetzung auf Basis des 1,5°C Ziels <br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TBWXt9B0d5g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
 <p> </p>
-  
+
+Zusätzlich zu unseren Forderungen an die Stadt Landau unterstützen wir die Forderungen von Fridays for Future Deutschland und die der aktuellen Wissenschaft. <br>
+
 <h1> Forderungen Fridays for Future Deutschland </h1>
 Fridays For Future fordert die Einhaltung der Ziele des Pariser Abkommens und des 1,5°C-Ziels. Explizit fordern wir für Deutschland: <br> 
 <p> </p>
