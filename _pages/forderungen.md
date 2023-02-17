@@ -11,8 +11,8 @@ sidebar:
     
 ---
 <div align='center'>
-<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/Icon-Katalog-300x300.png?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Icon Forderungskatalog" height="20%" width="20%">
-<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/V2%20Icon-Katalog-300x300.png?raw=true" style="margin-right: 50px; margin-top: 20px" alt="Icon Unterstüzter" height="20%" width="20%">
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/Icon-Katalog-300x300.png?raw=true" style="margin-right: 120px; margin-top: 20px" alt="Icon Forderungskatalog" height="20%" width="20%">
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/V2%20Icon-Katalog-300x300.png?raw=true" style="margin-right: 120px; margin-top: 20px" alt="Icon Unterstüzter" height="20%" width="20%">
 </div> <br>
 
 <style>
@@ -59,17 +59,19 @@ sidebar:
 </ul> 
 
 <b> Unsere Kernforderungen an die Stadt Landau sind: </b> <br>
-1) CO2 Budget als Richtgröße für die Stadtplanung <br>
-2) 100% erneuerbare Energieversorgung der Stadt bis 2035 <br>
-3) Elektrifizierung und Ausbau des ÖPNVs <br>
-4) Ausbau der Infrastruktur für Wasserstoff- und Elektromobilität <br>
-5) Berücksichtigung der gesamten Lebenszykluskosten bei allen städtischen Neubauten, Sanierungen oder sonstigen Vorhaben inklusive eines CO2-Schattenpreises von etwa 201€ (für das Jahr 2021) pro Tonne CO2-Äquivalent5 <br>
-6) Umfangreiches Konzept möglichst klimaneutraler Gewerbegebiete unter Einbezug entsprechender autarker Energieversorgung, ÖPNV-Anbindung, Shared Infrastructure Anlagen und Erbbaupacht (Cradle to Cradle – Ansatz) <br>
-7) Anreize zur Förderung energetischer Sanierung / Neubauten unter Passivhaus-Standards <br>
-8) Breite Aufklärungskampagnen für Hausbesitzer:innen über mögliche Verbesserungsmaßnahmen am Gebäude mit Ziel der Klimaneutralität und entsprechend bestehenden Förderungen <br>
-9) Mindestens drei Menschen als Klimaschutzmanagement-Team <br>
-10) Überarbeitung des Klimaschutzkonzepts mit Fristsetzung auf Basis des 1,5°C Ziels <br>
-
+<ol>
+<li> CO2 Budget als Richtgröße für die Stadtplanung </li>
+<li> 100% erneuerbare Energieversorgung der Stadt bis 2035 </li>
+<li> Elektrifizierung und Ausbau des ÖPNVs </li>
+<li> Ausbau der Infrastruktur für Wasserstoff- und Elektromobilität </li>
+<li> Berücksichtigung der gesamten Lebenszykluskosten bei allen städtischen Neubauten, Sanierungen oder sonstigen Vorhaben inklusive eines CO2-Schattenpreises von etwa 201€ (für das Jahr 2021) pro Tonne CO2-Äquivalent5 </li>
+<li> Umfangreiches Konzept möglichst klimaneutraler Gewerbegebiete unter Einbezug entsprechender autarker Energieversorgung, ÖPNV-Anbindung, Shared Infrastructure Anlagen und Erbbaupacht (Cradle to Cradle – Ansatz) </li>
+<li> Anreize zur Förderung energetischer Sanierung / Neubauten unter Passivhaus-Standards </li>
+<li> Breite Aufklärungskampagnen für Hausbesitzer:innen über mögliche Verbesserungsmaßnahmen am Gebäude mit Ziel der Klimaneutralität und entsprechend bestehenden Förderungen </li>
+<li> Mindestens drei Menschen als Klimaschutzmanagement-Team </li>
+<li> Überarbeitung des Klimaschutzkonzepts mit Fristsetzung auf Basis des 1,5°C Ziels </li>
+</ol>
+  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TBWXt9B0d5g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p> </p>
@@ -94,6 +96,8 @@ Entscheidend für die Einhaltung des 1,5°C-Ziels ist, die Treibhausgasemissione
   <p> </p>
 
 <a href="https://fridaysforfuture.de/forderungen/" target="_blank"> Forderung FfF Deutschland </a> <br>
-  
+
+  <p> </p>
+
 Unser <a href="/assets/pdf/ForderungenLandauDez2020.pdf" target="_blank"> Forderungspapier 2020 </a> an die Stadt Landau
 <a href="/assets/pdf/ForderungenLandauDez2020.pdf" target="_blank"> </a> <br>
