@@ -41,11 +41,17 @@ sidebar:
   width: 47%;
 }
   
-  @media (max-width: 480px) {
+@media screen and (max-width: 600px) {
+  img:first-of-type {
+    margin: 0 auto;
+  }
+  img:nth-of-type(2) {
+    margin: 0 auto;
+  }
   .button1, .button2 {
     width: 100%;
   }
-}  
+}
   
 .button1 {background-color: #4CAF50;} /* Green */
 .button2 {background-color: #4CAF50;} /* Green */
