@@ -39,6 +39,12 @@ sidebar:
   margin: 4px 2px;
   cursor: pointer;
   width: 47%;
+}
+  
+  @media (max-width: 480px) {
+  .button1, .button2 {
+    width: 100%;
+  }
 }  
   
 .button1 {background-color: #4CAF50;} /* Green */
