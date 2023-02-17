@@ -18,10 +18,10 @@ Wir werden am 03.03 unter dem Motto <b> #TomorrowIsTooLate </b> weltweit und deu
 - 16:05 - 16:25 Musik Chiara 
 - Rede Fridays for Future
 - 16:35 - 17:00 Musik Chiara
-- 2. Rede Greenpeace
+- Rede 2 Greenpeace
 - Musik Clara
 - Demozugbeginn
-- 3. Rede
+- Rede 3
 - Ausklang Clara
 
 <b> Demosprüche </b> findest du <a href="https://fridaysforfuture-landau.de/assets/Demos/GK%2003.03.23/Lieder%20und%20Rufe%20DINA5.pdf" target="_blank" >hier</a>. <br>
