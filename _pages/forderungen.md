@@ -15,6 +15,59 @@ sidebar:
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/V2%20Icon-Katalog-300x300.png?raw=true" style="margin-left: 120px; margin-top: 20px" alt="Icon Unterstüzter" height="20%" width="20%">
 </div> <br>
 
+<div class="mobile-view">
+  <div>
+    <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/Icon-Katalog-300x300.png?raw=true" alt="Icon Forderungskatalog" height="20%" width="20%">
+    <a class="button1" href="https://fridaysforfuture-landau.de/assets/pdf/Forderungskatalog%20Stand%2001.01.23%20Klimastreik%20Landau%20und%20Brief.pdf" target="" style="color: white">Forderungskatalog 2023</a>
+  </div>
+  <div>
+    <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/V2%20Icon-Katalog-300x300.png?raw=true" alt="Icon Unterstüzter" height="20%" width="20%">
+    <a class="button2" href="https://fridaysforfuture-landau.de/assets/pdf/Forderungskatalog%20Stand%2001.01.23%20Klimastreik%20Landau%20und%20Brief.pdf#page=18" target="" style="color: white">Unterstützer der Kernforderungen</a>
+  </div>
+</div>
+
+<style>
+.mobile-view {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.mobile-view div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.mobile-view div:first-of-type {
+  order: 1;
+}
+
+.mobile-view div:nth-of-type(2) {
+  order: 3;
+}
+
+.mobile-view .button1 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.mobile-view .button2 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+@media screen and (max-width: 600px) {
+  .mobile-view div:first-of-type {
+    order: 2;
+  }
+  
+  .mobile-view div:nth-of-type(2) {
+    order: 1;
+  }
+}
+</style>
+
 <style>
 .button1 {
   border: none;
@@ -41,6 +94,9 @@ sidebar:
   width: 47%;
 }
   
+.button1 {background-color: #4CAF50;} /* Green */
+.button2 {background-color: #4CAF50;} /* Green */  
+  
 @media screen and (max-width: 600px) {
   img:first-of-type {
     margin: 0 auto;
@@ -52,9 +108,6 @@ sidebar:
     width: 100%;
   }
 }
-  
-.button1 {background-color: #4CAF50;} /* Green */
-.button2 {background-color: #4CAF50;} /* Green */
 </style>
 
 <a class="button1" href="https://fridaysforfuture-landau.de/assets/pdf/Forderungskatalog%20Stand%2001.01.23%20Klimastreik%20Landau%20und%20Brief.pdf"
