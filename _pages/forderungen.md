@@ -44,7 +44,8 @@ sidebar:
   color: #fff;
   padding: 10px 20px;
   border-radius: 5px;
-  width: 47%;
+  width: calc(50% - 20px);
+  max-width: 250px;
 }
 
 @media screen and (max-width: 600px) {
