@@ -24,38 +24,38 @@ sidebar:
 </div>
 
 <style>
-.container {
-  margin: 0 auto;
-  max-width: 600px;
-}
-
-.row {
-  display: flex;
-  justify-content: center;
-}
-
-.col-md-6 {
-  margin: 10px;
-}
-
-.button1, .button2 {
-  display: inline-block;
-  background-color: #000;
-  color: #fff;
-  padding: 10px 0;
-  border-radius: 5px;
-  width: 100%;
-  max-width: 250px;
-  text-align: center;
-  box-sizing: border-box;
-  margin: 0 5px;
-}
-
-@media screen and (max-width: 600px) {
-  .row {
-    flex-direction: column;
+  .button-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 20px 0;
   }
-}
+
+  .button {
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    font-size: 24px;
+    margin: 5px;
+    cursor: pointer;
+    background-color: #4CAF50;
+    width: auto;
+    max-width: 100%;
+  }
+
+  @media screen and (min-width: 768px) {
+    .button-container {
+      margin: 40px 0;
+    }
+
+    .button {
+      width: 47%;
+      max-width: none;
+    }
+  }
 </style>
 
 
