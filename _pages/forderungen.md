@@ -13,23 +13,16 @@ sidebar:
 <div class="container">
   <div class="row">
     <div class="col-md-6 text-center mb-4 mb-md-0">
-      <div class="button-wrapper">
-        <a class="button" href="https://fridaysforfuture-landau.de/assets/pdf/Forderungskatalog%20Stand%2001.01.23%20Klimastreik%20Landau%20und%20Brief.pdf" target="" style="color: white">
-          <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/Icon-Katalog-300x300.png?raw=true" alt="Icon Forderungskatalog" height="50%" width="50%">
-          <span>Forderungskatalog 2023</span>
-        </a>
-      </div>
+      <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/Icon-Katalog-300x300.png?raw=true" alt="Icon Forderungskatalog" height="50%" width="50%">
+      <a class="button" href="https://fridaysforfuture-landau.de/assets/pdf/Forderungskatalog%20Stand%2001.01.23%20Klimastreik%20Landau%20und%20Brief.pdf" target="" style="color: white">Forderungskatalog 2023</a>
     </div>
     <div class="col-md-6 text-center">
-      <div class="button-wrapper">
-        <a class="button" href="https://fridaysforfuture-landau.de/assets/pdf/Forderungskatalog%20Stand%2001.01.23%20Klimastreik%20Landau%20und%20Brief.pdf#page=18" target="" style="color: white">
-          <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/V2%20Icon-Katalog-300x300.png?raw=true" alt="Icon Unterstüzter" height="50%" width="50%">
-          <span>Unterstützer der Kernforderungen</span>
-        </a>
-      </div>
+      <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/V2%20Icon-Katalog-300x300.png?raw=true" alt="Icon Unterstüzter" height="50%" width="50%">
+      <a class="button" href="https://fridaysforfuture-landau.de/assets/pdf/Forderungskatalog%20Stand%2001.01.23%20Klimastreik%20Landau%20und%20Brief.pdf#page=18" target="" style="color: white">Unterstützer der Kernforderungen</a>
     </div>
   </div>
 </div>
+
 <style>
   .container {
     display: flex;
@@ -39,36 +32,19 @@ sidebar:
     max-width: 100%;
   }
 
-  .button-wrapper {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
-
   .button {
     border: none;
     color: white;
     padding: 10px 20px;
     text-align: center;
     text-decoration: none;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    display: block;
     font-size: 24px;
     margin: 5px;
     cursor: pointer;
     background-color: #4CAF50;
-    width: 100%;
-    max-width: 400px;
-    height: 200px;
-    max-height: 200px;
-  }
-
-  .button img {
-    margin-bottom: 10px;
-    max-height: 50%;
-    max-width: 50%;
+    width: auto;
+    max-width: 100%;
   }
 
   @media screen and (min-width: 768px) {
@@ -76,15 +52,12 @@ sidebar:
       margin: 40px 0;
     }
 
-    .button {
-      width: 47%;
-      max-width: none;
-      height: 150px;
-      max-height: none;
+    .col-md-6 {
+      flex: 0 0 calc(50% - 20px);
+      margin: 10px;
     }
   }
-
-</style> 
+</style>
 
 <b> Unsere Forderungen teilen sich in die Bereiche: </b>
 <ul>
