@@ -29,6 +29,7 @@ sidebar:
     flex-wrap: wrap;
     justify-content: center;
     margin: 20px 0;
+    max-width: 100%;
   }
 
   .button {
@@ -47,7 +48,7 @@ sidebar:
   }
 
   @media screen and (min-width: 768px) {
-    .button-container {
+    .container {
       margin: 40px 0;
     }
 
