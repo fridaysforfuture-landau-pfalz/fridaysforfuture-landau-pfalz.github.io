@@ -47,17 +47,26 @@ sidebar:
     max-width: 100%;
   }
 
+  .col-md-6 {
+    max-width: 50%;
+  }
+
   @media screen and (min-width: 768px) {
     .container {
       margin: 40px 0;
     }
 
+    .button {
+      width: auto;
+      max-width: none;
+    }
+
     .col-md-6 {
-      flex: 0 0 calc(50% - 20px);
-      margin: 10px;
+      max-width: none;
     }
   }
 </style>
+
 
 <b> Unsere Forderungen teilen sich in die Bereiche: </b>
 <ul>
