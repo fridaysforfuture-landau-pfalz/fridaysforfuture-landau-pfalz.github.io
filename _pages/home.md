@@ -4,9 +4,14 @@ layout: splash
 permalink: /
 header:
   overlay_image: assets/Demos/GK 03.03.23/03.03.23 Bannner.png
+  overlay_filter: 0.1
+  overlay_height: 100%
   actions:
     - label: "Mehr Infos"
       url: "https://fridaysforfuture-landau.de/demo/2023/02/15/Globaler-Klimastreik-03.03/html"
+      style: "margin-left: auto; margin-right: auto;"
+      icon: arrow-down
+      icon_position: bottom
 ---
 <style>
   .button-container {
