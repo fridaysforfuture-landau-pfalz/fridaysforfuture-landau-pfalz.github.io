@@ -4,7 +4,7 @@ layout: splash
 permalink: /
 header:
   image: assets/Demos/GK 03.03.23/03.03.23 Bannner.png
-  
+  image_link: https://fridaysforfuture-landau.de/demo/2023/02/15/Globaler-Klimastreik-03.03/html
 ---
 <style>
   .button-container {
