@@ -3,7 +3,7 @@ title: ""
 layout: splash
 permalink: /
 header:
-  image: assets/Demos/GK 03.03.23/03.03.23 Bannner.png
+  image: assets/images/Website-Banner-neu.png
 ---
 <style>
   .button-container {
