@@ -27,7 +27,7 @@ Ausklang Clara <br>
 <b> Demosprüche </b> findest du <a href="https://fridaysforfuture-landau.de/assets/Demos/GK%2003.03.23/Lieder%20und%20Rufe%20DINA5.pdf" target="_blank" >hier</a>. <br>
 
 Unsere <b> Demoroute </b>: <br>
-<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/GK%2003.03.23/Demoroute%20GK%2003.03.png?raw=true" alt="Route" height="50%" width="50%">
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/GK%2003.03.23/Route%2003.03%20GK%20Neu.png?raw=true" alt="Route" height="50%" width="50%">
 
 Inspiration für <b> Demoschilder </b> findest du <a href=" https://fridaysforfuture-landau.de/material#Demoschilder " target="_blank" >hier</a> <br>
 
