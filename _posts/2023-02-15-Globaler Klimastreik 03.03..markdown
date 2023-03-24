@@ -15,13 +15,13 @@ Wir werden am 03.03 unter dem Motto <b> #TomorrowIsTooLate </b> weltweit und deu
 <b> Programm </b>: <br>
 15:30 Ordnertreffen <br>
 16:00 Beginn Demo <br>
-16:00 - 16:20 Musik Chiara <br>
+16:00 - 16:20 Musik Caravel <br>
 16:20 - 16:25 Rede Fridays for Future <br>
-16:25 - 16:45 Musik Chiara <br>
-16:45 - 16:50 Rede 2 <br>
-16:50 - 17:15 Musik Clara <br>
+16:25 - 16:45 Musik Caravel <br>
+16:45 - 16:50 Poetry Slam Rune <br>
+16:50 - 17:15 Musik Clara, Lovisa, Sette, Henrike (Helosettara) <br>
 17:15 Demozugbeginn <br>
-Rede 3 <br>
+Rede Jan <br>
 Ausklang Clara <br>
 
 <b> Demosprüche </b> findest du <a href="https://fridaysforfuture-landau.de/assets/Demos/GK%2003.03.23/Lieder%20und%20Rufe%20DINA5.pdf" target="_blank" >hier</a>. <br>
@@ -33,5 +33,4 @@ Inspiration für <b> Demoschilder </b> findest du <a href=" https://fridaysforfu
 
 <b> Pressemitteilungen </b> für den Streik: <br>
 <a href="https://fridaysforfuture-landau.de/assets/Demos/GK%2003.03.23/Ank%C3%BCndigung%20Globaler%20Klimastreik%2003.03.23.pdf" target="_blank" >1. Ankündigung</a> <br>
-<a href="" target="_blank" >Genaue Infos</a> <br>
 
