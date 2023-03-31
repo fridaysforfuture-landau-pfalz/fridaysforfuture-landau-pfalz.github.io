@@ -58,6 +58,8 @@ gallery:
 
 Hier findest du Ideen für Demosprüche, Vorschläge für dein nächstes Demoplakat und vieles mehr. 
 
+https://fridaysforfuture-landau.de/assets/pdf/Koch mit mir - veganes Weihnachten.pdf
+
 <p> </p>
 
 <style>
