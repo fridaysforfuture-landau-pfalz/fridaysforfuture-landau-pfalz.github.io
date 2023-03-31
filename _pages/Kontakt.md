@@ -76,7 +76,7 @@ Du hast Interesse an Veranstaltungen und Aktionen mit und um Fridays for Future 
   .form-container textarea { position: relative; top: 0; left: 0; width: 100%; height: 200px; padding: 0; }
   .background-color: green;
 </style>
-<form action="https://formspree.io/f/xgeronze" method="POST" class="form-container">
+<form action="https://formspree.io/f/xqkoybpb" method="POST" class="form-container">
   <label>Emailadresse:</label><br />
   <input type="text" name="Emailadresse" />
   <label>Betreff:</label><br />
@@ -88,7 +88,7 @@ Du hast Interesse an Veranstaltungen und Aktionen mit und um Fridays for Future 
 
 <p> </p>  
   
-oder direkt an klimastreik-landau@gmx.de schreiben  
+oder direkt an info@fridaysforfuture-landau.de schreiben  
   
 <p> </p>
 
