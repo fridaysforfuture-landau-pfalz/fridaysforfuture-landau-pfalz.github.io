@@ -56,9 +56,9 @@ gallery:
     image_path: assets/images/Demoplakate/Screenshot_20220404-202024_Instagram.jpg
 ---
 
-Hier findest du Ideen für Demosprüche, Vorschläge für dein nächstes Demoplakat und vieles mehr. 
+Hier findest du Ideen für Demosprüche, Vorschläge für dein nächstes Demoplakat und vieles mehr. <br>
 
-https://fridaysforfuture-landau.de/assets/pdf/Koch mit mir - veganes Weihnachten.pdf
+<a href="https://fridaysforfuture-landau.de/assets/pdf/Koch mit mir - veganes Weihnachten.pdf" target=""> Koch mit mir - veganes Weihnachten </a>
 
 <p> </p>
 
