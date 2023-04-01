@@ -58,7 +58,7 @@ gallery:
 
 Hier findest du Ideen für Demosprüche, Vorschläge für dein nächstes Demoplakat und vieles mehr. <br>
 
-Kochbuch für weihnachtliche Rezepte: <a href="https://fridaysforfuture-landau.de/assets/pdf/Koch mit mir - veganes Weihnachten.pdf" target=""> Koch mit mir - veganes Weihnachten </a>
+Rezepte für 3 weihnachtliche Menüs: <a href="https://fridaysforfuture-landau.de/assets/pdf/Koch mit mir - veganes Weihnachten.pdf" target=""> Koch mit mir - veganes Weihnachten </a>
 
 <hr>
 
