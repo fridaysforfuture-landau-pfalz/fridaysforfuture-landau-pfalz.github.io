@@ -13,11 +13,11 @@ sidebar:
 <div class="container">
   <div class="row">
     <div class="col-md-6 text-center mb-4 mb-md-0">
-      <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/Icon-Katalog-300x300.png?raw=true" alt="Icon Forderungskatalog" height="50%" width="50%">
+      <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/Icon-Katalog-300x300.png?raw=true" alt="Icon Forderungskatalog">
       <a class="button" href="https://fridaysforfuture-landau.de/assets/pdf/Forderungskatalog%20Stand%2001.01.23%20Klimastreik%20Landau%20und%20Brief.pdf" target="" style="color: white">Forderungskatalog 2023</a>
     </div>
     <div class="col-md-6 text-center mb-4 mb-md-0">
-      <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/V2%20Icon-Katalog-300x300.png?raw=true" alt="Icon Unterstüzter" height="50%" width="50%">
+      <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/V2%20Icon-Katalog-300x300.png?raw=true" alt="Icon Unterstüzter">
       <a class="button" href="https://fridaysforfuture-landau.de/assets/pdf/Forderungskatalog%20Stand%2001.01.23%20Klimastreik%20Landau%20und%20Brief.pdf#page=18" target="" style="color: white">Unterstützer der Kernforderungen</a>
     </div>
   </div>
@@ -47,6 +47,10 @@ sidebar:
     max-width: 100%;
   }
 
+  img {
+  max-width: 100%;
+  height: auto;
+}
  
   @media screen and (min-width: 768px) {
     .container {
