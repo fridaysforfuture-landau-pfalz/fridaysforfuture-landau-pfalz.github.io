@@ -3,6 +3,10 @@ title:  "Material"
 layout: single
 permalink: /material
 
+sidebar:
+  title: "Downloads"
+  nav: "material"
+
 gallery:
   - url: assets/images/Demoplakate/32c33a2b-2353-4e51-8a4f-677c7843c625.jpg
     image_path: assets/images/Demoplakate/32c33a2b-2353-4e51-8a4f-677c7843c625.jpg
@@ -55,9 +59,6 @@ gallery:
   - url: assets/images/Demoplakate/Screenshot_20220404-202024_Instagram.jpg
     image_path: assets/images/Demoplakate/Screenshot_20220404-202024_Instagram.jpg
     
-  sidebar:
-     title: "Downloads"
-     nav: "material"
 ---
 
 Hier findest du Ideen für Demosprüche, Vorschläge für dein nächstes Demoplakat und vieles mehr. <br>
