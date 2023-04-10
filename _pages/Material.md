@@ -54,6 +54,10 @@ gallery:
     image_path: assets/images/Demoplakate/Screenshot_20220329-212038_Instagram.jpg
   - url: assets/images/Demoplakate/Screenshot_20220404-202024_Instagram.jpg
     image_path: assets/images/Demoplakate/Screenshot_20220404-202024_Instagram.jpg
+    
+  sidebar:
+  title: "Downloads"
+  nav: "material"
 ---
 
 Hier findest du Ideen für Demosprüche, Vorschläge für dein nächstes Demoplakat und vieles mehr. <br>
