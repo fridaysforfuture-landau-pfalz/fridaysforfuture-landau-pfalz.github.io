@@ -125,7 +125,6 @@ aktion:
       - title: "- 19.03.2021 Globaler Klimastreik Fahrraddemo"
         url: "https://fridaysforfuture-landau.de/demos/2021/06/05/Mobilit%C3%A4tswendeJetzt.html"      
 
-
   - title: "Aktionen 2020"
     children:
       - title: "- 10.10.2020 Mahnwache Dannenröder Wald"
@@ -144,7 +143,10 @@ aktion:
       - title: "- 17.01.2020 Mitte Süd-West Demo in Mainz"
       - title: "- 08.01.2020 #Stop Adani"
 
-news: 
-  - title: "- 10.10.2020 Mahnwache Dannenröder Wald"
-  - title: "- 25.09.2020 Globaler Klimasteik"
-  - title: "- 19.09.2020 Müllsammelaktion"
+material:
+  - title: "PDFs"
+    children:
+      - title: "3 vegane Weihnachtsmenüs"
+        url: "https://fridaysforfuture-landau.de/assets/pdf/Koch%20mit%20mir%20-%20veganes%20Weihnachten.pdf" 
+      - title: "Rufe & Lieder Zettel"
+        url: "https://fridaysforfuture-landau.de/assets/Demos/GK%2003.03.23/Lieder%20und%20Rufe%20DINA5.pdf" 
