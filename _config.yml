@@ -20,11 +20,9 @@
 
 logo: "/assets/images/FFF Landau Logo.png"
 title: Klimastreik Landau
-email: klimastreik-landau@gmx.de
+email: info@fridaysforfuture-landau.de
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Wir sind Fridays for Future Landau. Durch Demos, Aktionen und Veranstaltungen ist es unser Ziel die Politik und Bevölkerung zu mehr Klimaschutz zu ermutigen, der Politik unterstützend zur Seite zu stehen und die nötigen Schritt für Einhaltung von 1,5 Grad einzufordern. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://fridaysforfuture-landau.de" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  fridaysforfuture-landau-pfalz
@@ -38,7 +36,7 @@ footer:
       # url: https://twitter.com/klimastreikld
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: "https://de-de.facebook.com/Klimastreiklandau/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/fridaysforfuture-landau-pfalz"
