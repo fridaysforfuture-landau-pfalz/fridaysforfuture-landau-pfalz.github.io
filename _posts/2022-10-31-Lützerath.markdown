@@ -10,12 +10,12 @@ gallery:
     image_path: assets/Demos/Tag X/20211030_120302.jpg
   - url: assets/Demos/Tag X/20211031_133640.jpg
     image_path: assets/Demos/Tag X/20211031_133640.jpg
-  - url: assets/Demos/Tag X/IMG_20211101_152345_607.jpg
-    image_path: assets/Demos/Tag X/IMG_20211101_152345_607.jpg
   - url: assets/Demos/Tag X/IMG_20211030_121907_761.jpg
     image_path: assets/Demos/Tag X/IMG_20211030_121907_761.jpg
   - url: assets/Demos/Tag X/IMG_20211101_152330_420.jpg
     image_path: assets/Demos/Tag X/IMG_20211101_152330_420.jpg
+  - url: assets/Demos/Tag X/IMG_20211101_152345_607.jpg
+    image_path: assets/Demos/Tag X/IMG_20211101_152345_607.jpg
 
 ---
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/Tag%20X/Silouette.png?raw=true" alt="Silouette" style="float:right;" hspace=20 vspace=20 > <br>
@@ -43,10 +43,6 @@ Ihr wollt mehr Infos zu Lützath und der Kohle daunter? Hier gibts Quellen und I
 - <a href="https://m.focus.de/politik/deutschland/energiehunger-frisst-doerfer-rwe-nahm-bauer-heukamp-seine-hoefe-wenn-ich-hier-weg-bin-ist-luetzerath-tot_id_102212405.html" target="_blank" >Focus über Eckardt Heukamp</a>. <br>
 - <a href="https://www.zdf.de/nachrichten/wirtschaft/rwe-kohle-luetzerath-abbau-100.html#xtor=CS5-282" target="_blank" >ZDF zu Lützerath</a>. <br>
 - <a href="https://www.bund-nrw.de/themen/braunkohle/im-fokus/braunkohleausstieg/" target="_blank" >BUND zum Kohleausstieg</a>. <br>
-
-<p></p>
-<p></p>
-<p></p> <br>
 
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/Tag%20X/Slid%203.png?raw=true" alt="Slid 3" style="float:right;" hspace=0 vspace=0 height="30%" width="30%">
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/Tag%20X/Slid%202.png?raw=true" alt="Slid 2" style="float:right;" hspace=0 vspace=0 height="30%" width="30%">
