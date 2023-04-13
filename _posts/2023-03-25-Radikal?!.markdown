@@ -6,7 +6,7 @@ date:   2023-03-25 12:00:00 +0200
 categories: Veranstaltung
 ---
 
-<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/GK%2003.03.23/3.png?raw=true" alt="Plakat Veranstaltungen Radikal!? - Wie weit darf oder muss Klimaprotest gehen?" style="float:right;" height="50%" width="50%">
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Aktionen/2023.06.26%20Radikal/Radikal!.png?raw=true" style="float:right;" height="50%" width="50%">
 
 <b> Podiumsdiskussion </b> <br>
 
@@ -27,6 +27,6 @@ Der <b>Eintritt ist kostenlos</b>. Kommt also gerne vorbei.
 
 <b>Veranstalter durch:</b> <br>
 
-<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/GK%2003.03.23/3.png?raw=true" alt="KHG Landau" style="float:left;" height="25%" width="25%">
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Logos/Logo%20KHG%20Landau.png?raw=true" alt="KHG Landau" style="float:left;" height="25%" width="25%">
 
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/FFF%20Landau%20Logo.png?raw=true" alt="Logo FFF" style="float:left;" height="25%" width="25%">
