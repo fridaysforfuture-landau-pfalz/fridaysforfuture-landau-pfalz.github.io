@@ -9,7 +9,6 @@ categories: Veranstaltung
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Aktionen/2023.06.26%20Radikal/Radikal!.png?raw=true" style="float:right;" height="50%" width="50%">
 
 <b> Podiumsdiskussion </b> <br>
-
 🗓 Montag, 26.06.2023 <br>
 🕖 Uhrzeit: 19:00 Uhr <br>
 📍 Festsaal Bürgerstraße Universität · Landau
@@ -29,10 +28,10 @@ Aktivist*in von Fridays For Future <br>
   <li>Dr. Thomas Gebhart MdB (Obmann im Ausschuss für Klimaschutz und Energie)</li>
   <li>Alexander Schweitzer MdL (Staatsminister im Ministerium für Arbeit, Soziales, Transformation und Digitalisierung des Landes Rheinland-Pfalz)</li>
   <li>Aktivist*in von Fridays For Future</li>
-</ul>
+</ul> <br>
 
-Der <b>💶Eintritt ist kostenlos</b>. Kommt also gerne vorbei.
+Der <b>💶Eintritt ist kostenlos</b>. Kommt also gerne vorbei.  <br>
 
 <b>veranstaltet durch:</b> <br>
-
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/FFF%20Landau%20Logo.png?raw=true" alt="Logo FFF" height="20%" width="20%">
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Logos/Logo%20KHG%20Landau.png?raw=true" alt="KHG Landau" height="25%" width="25%">
