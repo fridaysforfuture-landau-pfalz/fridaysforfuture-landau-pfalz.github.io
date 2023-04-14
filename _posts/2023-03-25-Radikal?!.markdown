@@ -35,7 +35,4 @@ Der <b>💶Eintritt ist kostenlos</b>. Kommt also gerne vorbei.
 
 <b>veranstaltet durch:</b> <br>
 
-<div style="display:flex; width:100%;">
-  <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Logos/Logo%20KHG%20Landau.png?raw=true" alt="KHG Landau" style="width:50%;">
-  <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/FFF%20Landau%20Logo.png?raw=true" alt="Logo FFF" style="width:50%;">
-</div>
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Logos/Logo%20KHG%20Landau.png?raw=true" alt="KHG Landau" height="25%" width="25%">
