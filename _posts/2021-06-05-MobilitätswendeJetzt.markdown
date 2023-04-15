@@ -9,11 +9,12 @@ categories: Demos
 
 Zum bundesweiten denzentralen Aktionstag "Sozial-und klimagerechte Mobilitätswende jetzt" von <a href="https://wald-statt-asphalt.net/mobilitaetswendejetzt/" target="" >Wald statt Asphalt </a> hat ein Bündnis 
 
-<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/B%C3%BCndnis%205.06.21/Logos%20B%C3%BCndnis.png?raw=true" alt="Logos Bündnis" height="100%" width="100%">
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/2021.06.05%20B%C3%BCndnis%20B10/Logos%20B%C3%BCndnis.png?raw=true" alt="Logos Bündnis" height="100%" width="100%">
 
 in Landau verschiedene Aktions gegen den Ausbau der B10 gestartet. 
 
-> <a href="https://fridaysforfuture-landau.de/assets/Bündnis 5.06.21/Neu2_Wald_statt_Asphalt Einladung_Presse.pdf" target="_blank" >Pressemitteilung</a>
+> <a href="https://fridaysforfuture-landau.deassets/Demos/2021.06.05 Bündnis B10/Neu2_Wald_statt_Asphalt Einladung_Presse (1).pdf[
+](https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/2021.06.05%20B%C3%BCndnis%20B10/20210605_113236.jpg?raw=true)" target="_blank" >Pressemitteilung</a>
 
 <h2> Was wurde gemacht? </h2> 
 <li> <a href="https://extinctionrebellion.de/og/landau/" target="" >XR Landau:</a> hat den Zugang zur Königsstraße über eine Stunde blockiert und hat im ehemaligen LGS Gelände ein Bannerdrop veranstaltet <br>
@@ -23,12 +24,13 @@ in Landau verschiedene Aktions gegen den Ausbau der B10 gestartet.
   </summary>
   <p>    
 <ul class="gallery">
-<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/B%C3%BCndnis%205.06.21/20210605_113236.jpg?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Blockade Königsstraße" height="" width="">
-<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/B%C3%BCndnis%205.06.21/20210605_113456.jpg?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Blockade Königsstraße" height="" width="">
-<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/B%C3%BCndnis%205.06.21/20210605_120922.jpg?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Blockade Königsstraße" height="" width="">
-<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/B%C3%BCndnis%205.06.21/20210605_121239.jpg?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Blockade Königsstraße" height="" width="">
-<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/B%C3%BCndnis%205.06.21/m6Yqngt8.jpeg?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Blockade Königsstraße" height="" width="">
-<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/B%C3%BCndnis%205.06.21/xd035Pok.jpeg?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Blockade Königsstraße" height="" width="">  
+<img src="[
+https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/2021.06.05%20B%C3%BCndnis%20B10/20210605_113236.jpg?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Blockade Königsstraße" height="" width="">
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/2021.06.05%20B%C3%BCndnis%20B10/20210605_113456.jpg?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Blockade Königsstraße" height="" width="">
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/2021.06.05%20B%C3%BCndnis%20B10/20210605_120922.jpg?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Blockade Königsstraße" height="" width="">
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/2021.06.05%20B%C3%BCndnis%20B10/20210605_121239.jpg?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Blockade Königsstraße" height="" width="">
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/2021.06.05%20B%C3%BCndnis%20B10/m6Yqngt8.jpeg?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Blockade Königsstraße" height="" width="">
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/2021.06.05%20B%C3%BCndnis%20B10/xd035Pok.jpeg?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Blockade Königsstraße" height="" width="">  
 </ul>
   </p>
 </details>
@@ -42,8 +44,8 @@ in Landau verschiedene Aktions gegen den Ausbau der B10 gestartet.
   </summary>
   <p>
 <ul class="gallery">
-<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/B%C3%BCndnis%205.06.21/signal-2021-06-05-122409.jpg?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Greenpeace Banner" height="" width="">
-<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/B%C3%BCndnis%205.06.21/20210605_171803.jpg?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Greenpeace Fahrradfähnchen" height="" width="">  
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/2021.06.05%20B%C3%BCndnis%20B10/signal-2021-06-05-122409.jpg?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Greenpeace Banner" height="" width="">
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/2021.06.05%20B%C3%BCndnis%20B10/20210605_171803.jpg?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Greenpeace Fahrradfähnchen" height="" width="">  
 </ul>
   </p>
 </details>
@@ -61,11 +63,11 @@ in Landau verschiedene Aktions gegen den Ausbau der B10 gestartet.
   </summary>
   <p>
   <ul class="gallery">
-<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/B%C3%BCndnis%205.06.21/2VC31UI0.jpeg?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Fahrraddemo" height="" width=""> 
-<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/B%C3%BCndnis%205.06.21/QjmBqSiw.jpeg?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Fahrraddemo" height="" width=""> 
-<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/B%C3%BCndnis%205.06.21/f3ltWRPU.jpeg?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Fahrraddemo" height="" width="">   
-<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/B%C3%BCndnis%205.06.21/20210605_174242.jpg?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Fahrraddemo" height="" width="">
-<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/B%C3%BCndnis%205.06.21/20210605_165059.jpg?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Fahrraddemo" height="" width="">
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/2021.06.05%20B%C3%BCndnis%20B10/2VC31UI0.jpeg?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Fahrraddemo" height="" width=""> 
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/2021.06.05%20B%C3%BCndnis%20B10/QjmBqSiw.jpeg?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Fahrraddemo" height="" width=""> 
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/2021.06.05%20B%C3%BCndnis%20B10/f3ltWRPU.jpeg?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Fahrraddemo" height="" width="">   
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/2021.06.05%20B%C3%BCndnis%20B10/20210605_174242.jpg?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Fahrraddemo" height="" width="">
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/2021.06.05%20B%C3%BCndnis%20B10/20210605_165059.jpg?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Fahrraddemo" height="" width="">
 </ul>
   </p>
 </details>  
