@@ -24,8 +24,7 @@ in Landau verschiedene Aktions gegen den Ausbau der B10 gestartet.
   </summary>
   <p>    
 <ul class="gallery">
-<img src="[
-https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/2021.06.05%20B%C3%BCndnis%20B10/20210605_113236.jpg?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Blockade Königsstraße" height="" width="">
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/2021.06.05%20B%C3%BCndnis%20B10/20210605_113236.jpg?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Blockade Königsstraße" height="" width="">
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/2021.06.05%20B%C3%BCndnis%20B10/20210605_113456.jpg?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Blockade Königsstraße" height="" width="">
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/2021.06.05%20B%C3%BCndnis%20B10/20210605_120922.jpg?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Blockade Königsstraße" height="" width="">
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/2021.06.05%20B%C3%BCndnis%20B10/20210605_121239.jpg?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Blockade Königsstraße" height="" width="">
