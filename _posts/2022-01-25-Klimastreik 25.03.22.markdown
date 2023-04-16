@@ -6,7 +6,7 @@ date:   2022-01-25 12:00:00 +0200
 categories: Ankündigung
 ---
 
-<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/GK%2025.03.22/SharePic%20GK%2025.3..png?raw=true" alt="SharePic Klimastreik 25.3" style="float:right;" hspace=20 vspace=20 height="50%" width="50%">
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/GK%2025.03.22/SharePic%20GK%2025.3..png?raw=true" alt="SharePic Klimastreik 25.3" style="float:right;" hspace=20 vspace=20 height="50%" width="50%">
 
 ❗ Nicht mal mehr 2 Wochen ❗ 
 
@@ -20,4 +20,4 @@ categories: Ankündigung
 
 <p></p>
 
-Pressemitteilung: <a href="assets/pdf/Pressemitteilung Ankündigung Globaler Klimastreik 25.3.pdf" target="_blank" >globaler Klimastreik 25.03.22</a>
+Pressemitteilung: <a href="assets/Demos/GK 25.03.22/Pressemitteilung Ankündigung Globaler Klimastreik 25.3.pdf" target="_blank" >globaler Klimastreik 25.03.22</a>
