@@ -26,8 +26,8 @@ gallery:
     image_path: assets/Demos/GK 24.09.21/DSC02577.JPG    
   - url: assets/Demos/GK 24.09.21/DSC02210.JPG
     image_path: assets/Demos/GK 24.09.21/DSC02210.JPG
-  - url:  assets/Demos/GK 24.09.21/DSC02525.JPG
-    image_path:  assets/Demos/GK 24.09.21/DSC02525.JPG
+  - url: assets/Demos/GK 24.09.21/DSC02525.JPG
+    image_path: assets/Demos/GK 24.09.21/DSC02525.JPG
   - url: assets/Demos/GK 24.09.21/DSC02205.jpg
     image_path: assets/Demos/GK 24.09.21/DSC02205.jpg
 
