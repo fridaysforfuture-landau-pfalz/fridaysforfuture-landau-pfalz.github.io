@@ -8,7 +8,7 @@ categories: Demos
 
 <b> Am 24.9 ist der nächste globale Klimastreik von FridaysforFuture </b> <br>
 
-<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/24.9%20Globaler%20Streik/SharePic.PNG?raw=true" alt="SharePic 24.9" style="float:right;" height="50%" width="50%">
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/GK%2024.09.21/SharePic.png?raw=true" alt="SharePic 24.9" style="float:right;" height="50%" width="50%">
 
 Im ganzen Land und auf der ganzen Welt gehen wir am <b>24. September</b> auf die Straßen – für ein Wandel in der Politik, für Klimagerechtigkeit. <br>
 Auch in Landau werden wir an diesem Tag wieder eine Demo vom Alten Messplatz, einmal im Kreis, zurück zum Alten Messplatz machen. Start ist um <b>12:05 Uhr</b> auf dem <b>Alten Messplatz</b> mit Musik. Nach dem Demozug dürfen wir einige Reden hören und noch für ca. 1 Stunde Live-Musik genießen. - es lohnt sich also bis zum Ende zu bleiben. <br>
