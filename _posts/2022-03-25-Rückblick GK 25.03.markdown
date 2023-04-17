@@ -13,7 +13,7 @@ gallery:
   - url: assets/Demos/GK 25.03.22/signal-2022-03-25-16-00-58-570.jpg
     image_path: assets/Demos/GK 25.03.22/signal-2022-03-25-16-00-58-570.jpg
   - url: assets/Demos/GK 25.03.22/signal-2022-03-25-16-02-44-168.jpg
-    image_path: assetsDemos/Demos/GK 25.03.22/signal-2022-03-25-16-02-44-168.jpg
+    image_path: assets/Demos/GK 25.03.22/signal-2022-03-25-16-02-44-168.jpg
   - url: assets/Demos/GK 25.03.22/Banner FFF Bündnis.jpg
     image_path: assets/Demos/GK 25.03.22/Banner FFF Bündnis.jpg
   - url: assets/Demos/GK 25.03.22/Banner auf Boden.jpg
