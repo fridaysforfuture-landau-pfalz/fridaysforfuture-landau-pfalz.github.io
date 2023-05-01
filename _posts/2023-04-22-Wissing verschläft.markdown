@@ -6,8 +6,20 @@ date:   2023-04-22 12:00:00 +0200
 categories: aktion
 
 gallery:
-  - url: assets/Demos/GK 03.03.23/IMG_0572 (1).JPG
-    image_path: assets/Demos/GK 03.03.23/IMG_0572 (1).JPG
+  - url: assets/Aktionen/2023.04.22 Wissing verschläft/20230422_102922.jpg
+    image_path: assets/Aktionen/2023.04.22 Wissing verschläft/20230422_102922.jpg
+  - url: assets/Aktionen/2023.04.22 Wissing verschläft/20230422_111950.jpg
+    image_path: assets/Aktionen/2023.04.22 Wissing verschläft/20230422_111950.jpg
+  - url: assets/Aktionen/2023.04.22 Wissing verschläft/20230422_111937.jpg
+    image_path: assets/Aktionen/2023.04.22 Wissing verschläft/20230422_111937.jpg
+  - url: assets/Aktionen/2023.04.22 Wissing verschläft/20230422_121929.jpg
+    image_path: assets/Aktionen/2023.04.22 Wissing verschläft/20230422_121929.jpg
+  - url: assets/Aktionen/2023.04.22 Wissing verschläft/20230422_103641.jpg
+    image_path: assets/Aktionen/2023.04.22 Wissing verschläft/20230422_103641.jpg
+  - url: assets/Aktionen/2023.04.22 Wissing verschläft/20230422_111158.jpg
+    image_path: assets/Aktionen/2023.04.22 Wissing verschläft/20230422_111158.jpg
+  - url: assets/Aktionen/2023.04.22 Wissing verschläft/20230422_112709.jpg
+    image_path: assets/Aktionen/2023.04.22 Wissing verschläft/20230422_112709.jpg
 ---
 
 Am 22.04 waren wir auf Landaus Straßen mit mal einer bisschen anderen Aktion. Anlässlich zum Geburtstag von Volker Wissing standen wir mit einem Tisch auf dem Rathausplatz und haben ihm Geburtstagskarten geschrieben und ihm ein gutes Händchen im nächsten Lebensjahr bei der Verkehrswende gewünscht. Denn die Verkehrswende verschläfst er gerade. Um dies symbolisch darzustellen, haben wir ein Bett aufgebaut mit einem schlafendem Volker Wissing. Nur kurz ist er zwischendurch aufgewaxht und hat dann mit seinem Sportwagen alle Tempolimitschilder um den Stand umgefahren. 
