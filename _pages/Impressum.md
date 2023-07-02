@@ -13,8 +13,7 @@ Teil der for Future Bewegung <br>
 Name: Tim-Martin Melchert <br>
 Anschrift: <br>
 <p style="margin-left:30px;">
-Lina Kössler Straße 1 <br>
-Haus C <br>
+Waffenstraße 30 <br>
 76829, Landau in der Pfalz <br>
 </p> 
 
