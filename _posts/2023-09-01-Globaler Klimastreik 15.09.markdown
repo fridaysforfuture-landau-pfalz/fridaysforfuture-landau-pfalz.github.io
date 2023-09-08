@@ -24,19 +24,17 @@ auf die Straßen gehen. Hier in Landau wird sowohl wie Deutschland seine Klimazi
 Denn wir brauchen deutschlandweit aber auch in Landau JETZT wirksame Maßnahmen, um  
 den Klimawandel noch abschwächen zu können. 
  
-<b>Programm</b>
-<ul>
-  <li><span>16:00 Uhr Start der Demo mit Auflagen</span></li>
-  <li><span>16:05 Uhr Band</span></li>
-  <li><span>16:20 Uhr Redebeitrag</span></li>
-  <li><span>16:25 Uhr Band</span></li>
-  <li><span>16:45 Uhr Start Demozug</span></li>
-  <li><span>17:00 Uhr Zwischenkundgebung</span></li>
-  <li><span>17:15 Demozug</span></li>
-  <li><span>17:45 Uhr Redebeitrag</span></li>
-  <li><span>17:55 Uhr Offener Ausklang mit Musik</span></li>
-  <li><span>18:30 Uhr Offizielles Demoende</span></li>
-</ul><br>
+<b>Programm</b> <br>
+16:00 Uhr Start der Demo mit Auflagen<br>
+16:05 Uhr Band <br>
+16:20 Uhr Redebeitrag <br>
+16:25 Uhr Band <br>
+16:45 Uhr Start Demozug <br>
+17:00 Uhr Zwischenkundgebung <br>
+17:15 Demozug <br>
+17:45 Uhr Redebeitrag <br>
+17:55 Uhr Offener Ausklang mit Musik <br>
+18:30 Uhr Offizielles Demoende <br>
 
 <b> Demosprüche </b> findest du <a href="https://fridaysforfuture-landau.de/assets/Demos/GK%2003.03.23/Lieder%20und%20Rufe%20DINA5.pdf" target="_blank" >hier</a>. <br>
 
