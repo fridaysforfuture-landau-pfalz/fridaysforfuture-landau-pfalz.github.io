@@ -44,4 +44,4 @@ Unsere <b> Demoroute </b>: <br>
 Inspiration für <b> Demoschilder </b> findest du <a href=" https://fridaysforfuture-landau.de/material#Demoschilder " target="_blank" >hier</a> <br>
 
 <b> Pressemitteilungen </b> für den Streik: <br>
-<! -- <a href="https://fridaysforfuture-landau.de/assets/Demos/..." target="_blank" >1. Ankündigung</a> <br> -->
+<!-- <a href="https://fridaysforfuture-landau.de/assets/Demos/..." target="_blank" >1. Ankündigung</a> <br> -->
