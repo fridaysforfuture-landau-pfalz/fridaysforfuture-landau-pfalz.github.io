@@ -26,16 +26,16 @@ den Klimawandel noch abschwächen zu können.
  
 <b>Programm</b>
 <ul>
-  <li>16:00 Uhr Start der Demo mit Auflagen</li>
-  <li>16:05 Uhr Band</li>
-  <li>16:20 Uhr Redebeitrag </li>
-  <li>16:25 Uhr Band</li>
-  <li>16:45 Uhr Start Demozug</li>
-  <li>17:00 Uhr Zwischenkundgebung</li>
-  <li>17:15 Demozug</li>
-  <li>17:45 Uhr Redebeitrag</li>
-  <li>17:55 Uhr Offener Ausklang mit Musik</li>
-  <li>18:30 Uhr Offizielles Demoende</li>
+  <li><span>16:00 Uhr Start der Demo mit Auflagen</span></li>
+  <li><span>16:05 Uhr Band</span></li>
+  <li><span>16:20 Uhr Redebeitrag</span></li>
+  <li><span>16:25 Uhr Band</span></li>
+  <li><span>16:45 Uhr Start Demozug</span></li>
+  <li><span>17:00 Uhr Zwischenkundgebung</span></li>
+  <li><span>17:15 Demozug</span></li>
+  <li><span>17:45 Uhr Redebeitrag</span></li>
+  <li><span>17:55 Uhr Offener Ausklang mit Musik</span></li>
+  <li><span>18:30 Uhr Offizielles Demoende</span></li>
 </ul><br>
 
 <b> Demosprüche </b> findest du <a href="https://fridaysforfuture-landau.de/assets/Demos/GK%2003.03.23/Lieder%20und%20Rufe%20DINA5.pdf" target="_blank" >hier</a>. <br>
