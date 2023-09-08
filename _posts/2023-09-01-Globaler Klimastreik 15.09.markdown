@@ -41,7 +41,7 @@ den Klimawandel noch abschwächen zu können.
 Unsere <b> Demoroute </b>: <br>
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/GK%2015.09.23/signal-2023-09-06-15-10-41-786.jpg?raw=true" alt="Route" height="50%" width="50%">
 
-Inspiration für <b> Demoschilder </b> findest du <a href=" https://fridaysforfuture-landau.de/material#Demoschilder " target="_blank" >hier</a> <br>
+Inspiration für <b> Demoschilder </b> findest du <a href=" https://fridaysforfuture-landau.de/material#Demoschilder" target="_blank" >hier</a> <br>
 
 <b> Pressemitteilungen </b> für den Streik: <br>
 <!-- <a href="https://fridaysforfuture-landau.de/assets/Demos/..." target="_blank" >1. Ankündigung</a> <br> -->
