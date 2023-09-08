@@ -6,7 +6,7 @@ date:   2023-09-01 12:00:00 +0200
 categories: Demo
 ---
 
-<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/GK%2023.09.22/%23PEOPLE%20NOT%20PROFIT%20(1).png?raw=true" alt="SharePic 23.09" style="float:right;" hspace=20 vspace=20 height="100%" width="100%"> <br>
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/GK%2015.09.23/signal-2023-09-06-14-42-02-716.png?raw=true" alt="SharePic 15.09" style="float:right;" hspace=20 vspace=20 height="50%" width="50%"> <br>
 
 Kommt am <br>
 🗓 15.9 <br>
@@ -33,17 +33,17 @@ den Klimawandel noch abschwächen zu können.
   <li>16:45 Uhr Start Demozug</li>
   <li>17:00 Uhr Zwischenkundgebung</li>
   <li>17:15 Demozug</li>
-  <li>17:45 Uhr Redebeitrag </li>
-  <li>17:55 Uhr Offener Ausklang mit Musik </li>
+  <li>17:45 Uhr Redebeitrag</li>
+  <li>17:55 Uhr Offener Ausklang mit Musik</li>
   <li>18:30 Uhr Offizielles Demoende</li>
 </ul><br>
 
 <b> Demosprüche </b> findest du <a href="https://fridaysforfuture-landau.de/assets/Demos/GK%2003.03.23/Lieder%20und%20Rufe%20DINA5.pdf" target="_blank" >hier</a>. <br>
 
 Unsere <b> Demoroute </b>: <br>
-<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/GK%2003.03.23/Route%2003.03%20GK%20Neu.png?raw=true" alt="Route" height="50%" width="50%">
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/GK%2015.09.23/signal-2023-09-06-15-10-41-786.jpg?raw=true" alt="Route" height="50%" width="50%">
 
 Inspiration für <b> Demoschilder </b> findest du <a href=" https://fridaysforfuture-landau.de/material#Demoschilder " target="_blank" >hier</a> <br>
 
 <b> Pressemitteilungen </b> für den Streik: <br>
-<a href="https://fridaysforfuture-landau.de/assets/Demos/..." target="_blank" >1. Ankündigung</a> <br>
+<! -- <a href="https://fridaysforfuture-landau.de/assets/Demos/..." target="_blank" >1. Ankündigung</a> <br> -->
