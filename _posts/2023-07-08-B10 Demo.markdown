@@ -1,0 +1,28 @@
+---
+layout: single
+classes: 
+title:  "B10 Demo 08.07."
+date:   2023-07-09 12:00:00 +0200
+categories: demo
+
+gallery:
+  - url: assets/Demos/2023.07.08 B10 Demo/20230708_142042.jpg
+    image_path: assets/Demos/2023.07.08 B10 Demo/20230708_142042.jpg
+  - url: assets/Demos/2023.07.08 B10 Demo/20230708_142125.jpg
+    image_path: assets/Demos/2023.07.08 B10 Demo/20230708_142125.jpg
+  - url: assets/Demos/2023.07.08 B10 Demo/20230708_142146.jpg
+    image_path: assets/Demos/2023.07.08 B10 Demo/20230708_142146.jpg
+  - url: assets/Demos/2023.07.08 B10 Demo/20230708_142234.jpg
+    image_path: assets/Demos/2023.07.08 B10 Demo/20230708_142234.jpg
+  - url: assets/Demos/2023.07.08 B10 Demo/20230708_150543.jpg
+    image_path: assets/Demos/2023.07.08 B10 Demo/20230708_150543.jpg
+  - url: assets/Demos/2023.07.08 B10 Demo/20230708_152208.jpg
+    image_path: assets/Demos/2023.07.08 B10 Demo/20230708_152208.jpg
+---
+Am Samstag den 08.07.2023 waren wir in Landau bei der Fahrraddemo vom BUND Südpfalz dabei, um gegen den Ausbau der B10 zu demonstrieren. Mit 450 Menschen sind wir über die B10 nach Annweiler gefahren.  <br>
+
+Der Ausbau der B10 die Zerstörung des Biosphärenreservats Pfälzer Waldes beschleunigen. Dieser ist für uns alle von großer Bedeutung. Denn es zerstört nicht nur aktiv fürs Klima wichtigen Wald, sondern stört auch den Lebensraum vieler wichtiger oder vom aussterben bedrohter Tiere und sorgt so für einen Kollaps der Ökosysteme. Was jetzt entschieden wird bestimmt die Zukunft aller folgenden Generationen. Deswegen ist jetzt wichtig zu handeln und zu zeigen, dass es statt noch mehr Straßen endlich eine Mobilitätswende braucht!!! Deshalb die Forderungen an die zuständigen Ämter und an Volker Wissing - Stoppt den Ausbsu der B10 und fördert lieber die alternativen Mobilitätsmittel. Hört auf die lokale Politik und Menschen - wir brauchen keinen Ausbau!  <br>
+
+<b> Ein paar Fotos von der Demo: </b>  <br>
+{% include gallery layout="half" %}
+
