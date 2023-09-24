@@ -1,17 +1,17 @@
 ---
 layout: single
 classes: 
-title:  "Rückblick Podiumsdiskussion: Radikal?! - Wie weit darf/muss Klimaschutz gehn?"
+title:  "Rückblick Podiumsdiskussion: Radikal?! - Wie weit darf oder muss Klimaprotest gehn?"
 date:   2023-06-27 12:00:00 +0200
 categories: aktion
 
 gallery:
   - url: assets/Aktionen/2023.06.26 Radikal/signal-2023-06-27-155431_002_20230924_150002_0000.jpg
     image_path: assets/Aktionen/2023.06.26 Radikal/signal-2023-06-27-155431_002_20230924_150002_0000.jpg
-  - url: assets/Aktionen/2023.06.26 Radikal/signal-2023-06-27-161603_005_20230924_150020_0000.jpg
-    image_path: assets/Aktionen/2023.06.26 Radikal/signal-2023-06-27-161603_005_20230924_150020_0000.jpg
   - url: assets/Aktionen/2023.06.26 Radikal/signal-2023-07-01-180855_004_20230924_150106_0000.jpg
     image_path: assets/Aktionen/2023.06.26 Radikal/signal-2023-07-01-180855_004_20230924_150106_0000.jpg
+  - url: assets/Aktionen/2023.06.26 Radikal/signal-2023-06-27-161603_005_20230924_150020_0000.jpg
+    image_path: assets/Aktionen/2023.06.26 Radikal/signal-2023-06-27-161603_005_20230924_150020_0000.jpg
   - url: assets/Aktionen/2023.06.26 Radikal/signal-2023-07-02-161413_002_20230924_150009_0000.jpg
     image_path: assets/Aktionen/2023.06.26 Radikal/signal-2023-07-02-161413_002_20230924_150009_0000.jpg
 ---
