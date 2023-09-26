@@ -38,6 +38,8 @@ gallery:
     image_path: assets/Demos/2023.09.15 GK/_JTW7106_20230924_225310_0000.jpg
   - url: assets/Demos/2023.09.15 GK/_JTW7148_20230924_225319_0000.jpg
     image_path: assets/Demos/2023.09.15 GK/_JTW7148_20230924_225319_0000.jpg
+
+gallery2:
   - url: assets/Demos/2023.09.15 GK/_JTW7199_20230924_225359_0000.jpg
     image_path: assets/Demos/2023.09.15 GK/_JTW7199_20230924_225359_0000.jpg
   - url: assets/Demos/2023.09.15 GK/_JTW7204_20230924_225407_0000.jpg
@@ -64,5 +66,5 @@ Denn so wie es aktuell hier in Deutschland und weltweit läuft, kann es so nicht
 Danke allen die da waren !!! 💚
 
 <b> Ein paar Fotos von der Demo: </b>  <br>
-{% include gallery layout="half" %}
-
+{% include gallery id="gallery" layout="third" %}
+{% include gallery id="gallery2" layout="third" %}
