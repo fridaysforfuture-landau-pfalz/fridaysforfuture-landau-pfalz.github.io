@@ -3,7 +3,7 @@ title: ""
 layout: splash
 permalink: /
 header:
-  image: assets/Demos/GK 15.09.23/15.09.23 Bannner.png
+  image: assets/images/Website-Banner-neu.png
 ---
 <style>
   .button-container {
@@ -74,7 +74,7 @@ Falls du auch etwas zu einer nachhaltigen, lebenswerten Zukunft beitragen willst
 <p> </p>  
   
 <h2>Unterstützen</h2>  
-Du möchtest dich an der Organisation von Demos oder Aktionen beteiligen, wissenschaftlichen Input in die Ortsgruppe tragen oder dich anders bei uns einbringen? Dann bist du herzlich eingeladen zu uns ins Plenum zu kommen. Aktuell machen wir unser Plenum jeden Donnerstag um 18 Uhr coronabedingt online. Hab keine Angst, du musst nichts (an Wissen) mitbringen und kannst einfach mal vorbei gucken. Aufgrund der Coronalage / und Onlinesituation würden wir uns über eine Nachricht im vorhinein über Whatsapp, Instagram oder per E-Mail freuen.  
+Du möchtest dich an der Organisation von Demos oder Aktionen beteiligen, wissenschaftlichen Input in die Ortsgruppe tragen oder dich anders bei uns einbringen? Dann bist du herzlich eingeladen zu uns ins Plenum zu kommen. Aktuell machen wir unser Plenum jeden Donnerstag um 19 Uhr in der KHG (Molktestraße 9). Hab keine Angst, du musst nichts (an Wissen) mitbringen und kannst einfach mal vorbei gucken. Wir würden, für unsere Planung und falls sich Plenumszeiten mal ändern sollten, aber über eine Nachricht über Instagram, Whatsapp oder Email freuen. 
 
 <p> </p>
 
