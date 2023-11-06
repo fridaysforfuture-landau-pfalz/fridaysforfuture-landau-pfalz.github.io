@@ -12,7 +12,7 @@ sidebar:
 
 <b>WIR STREIKEN BIS IHR HANDELT!<b> <br>
 
-  Das Pariser Abkommen ist die verbindliche Grundlage für effektive Klimaschutzmaßnahmen, die auf internationaler Zusammenarbeit basiert. Der aktuelle klimapolitische Kurs in Deutschland ist mit diesem Abkommen unvereinbar und muss durch ein auf dem 1,5 °C-Ziel beruhendes Klimaschutzgesetz sowie eine zukunftsorientierte und nachhaltige Zusammenarbeit auf europäischer und globaler Ebene ersetzt werden. In dieser Politik muss sich der Gedanke der Klimagerechtigkeit widerspiegeln. Entscheidungen, die zu Lasten ärmerer Regionen und künftiger Generationen getroffen werden, sind inakzeptabel.
+  Das Pariser Abkommen ist die verbindliche Grundlage für effektive Klimaschutzmaßnahmen, die auf internationaler Zusammenarbeit basiert. Der aktuelle klimapolitische Kurs in Deutschland ist mit diesem Abkommen unvereinbar und muss durch ein auf der 1,5 °C-Grenze beruhendes Klimaschutzgesetz sowie eine zukunftsorientierte und nachhaltige Zusammenarbeit auf europäischer und globaler Ebene ersetzt werden. In dieser Politik muss sich der Gedanke der Klimagerechtigkeit widerspiegeln. Entscheidungen, die zu Lasten ärmerer Regionen und künftiger Generationen getroffen werden, sind inakzeptabel.
 
   <p> </p>
   
@@ -28,7 +28,7 @@ Der Staat muss seiner Verantwortung gegen über der Umwelt und nachfolgenden Gen
 
   <p> </p>
   
-Uns ist bewusst, dass diese Forderungen ambitioniert sind, doch wenn wir jetzt nicht entschlossen handeln, werden wir das 1,5°C-Ziel verfehlen. Die dadurch entstehenden Schäden werden nicht reparabel sein.
+Uns ist bewusst, dass diese Forderungen ambitioniert sind, doch wenn wir jetzt nicht entschlossen handeln, werden wir die 1,5°C-Grenze bei weitem verfehlen. Die dadurch entstehenden Schäden werden nicht reparabel sein.
 
   <p> </p>
   
