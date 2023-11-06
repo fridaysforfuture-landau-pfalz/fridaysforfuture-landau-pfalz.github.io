@@ -10,11 +10,13 @@ header:
 
 <h2> Orga FfF Landau </h2>
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/20210924_132520.jpg?raw=true" alt="Demobild" style="float:right;" hspace=20 vspace=20 height="40%" width="40%">
-Du möchtest dich an der Organisation von Demos oder Aktionen beteiligen, wissenschaftlichen Input in die Ortsgruppe tragen oder dich anders bei uns einbringen? Dann bist du herzlich eingeladen zu uns ins Plenum zu kommen. Aktuell machen wir unser Plenum jeden Donnerstag um 18 Uhr im Garten oder in den Räumlichkeiten der KHG (Moltkestraße 9 76829 landau). Hab keine Angst, du musst nichts (an Wissen) mitbringen und kannst einfach mal vorbei gucken. <br>
+Du möchtest dich an der Organisation von Demos oder Aktionen beteiligen, wissenschaftlichen Input in die Ortsgruppe tragen oder dich anders bei uns einbringen? Dann bist du herzlich eingeladen zu uns ins Plenum zu kommen. Aktuell machen wir unser Plenum jeden Donnerstag um 19 Uhr im Garten oder in den Räumlichkeiten der KHG (Moltkestraße 9 76829 landau). Hab keine Angst, du musst nichts (an Wissen) mitbringen und kannst einfach mal vorbei gucken. <br>
+
+Wir freuen uns auf dich!
 
 <h2> Students for Future Landau </h2>
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Logo%20StudentsforFuture%20Landau.png?raw=true" alt="Logo Students for Future" style="float:left;" hspace=20 vspace=20 height="15%" width="15%"> 
-Wir planen eine Hochschulgruppe "Students for Future" zu gründen. Wenn du Intersse hast diese mit zu gründen oder Mitglied zu sein melde dich gerne bei uns. Wir freuen uns über Hilfe, Ideen, Kapazitäten und neue Menschen. <br>
+Seit kurzem gibt es die Hochschulgruppe "Students for Future". Du bist Studi und möchtest dich im Klimaschutz politisch engergieren? Dann komm zu den Students for Future. Mehr Infos zu Hochschulgruppe gibt es unter "Mehr Infos". Wir freuen uns über Hilfe, Ideen, Kapazitäten und neue Menschen. <br>
 
 <style>
 .button6 {
@@ -70,5 +72,3 @@ Keine Kapazitäten oder Zeit zum mitorganisieren, aber trotzdem Lust uns zu unte
   
 <a class="button5" href="https://opencollective.com/klimastreik-landau"
        target="" style="color: white" >Spenden</a> <br>
-
-Wir freuen uns auf dich!
