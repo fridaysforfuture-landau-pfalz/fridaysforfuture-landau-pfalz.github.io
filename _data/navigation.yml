@@ -5,6 +5,9 @@ main:
   - title: "Forderungen"
     url: /forderungen
 
+  - title: "Mitmachen"
+    url: /mitmachen
+
   - title: "News"
     url: /news
     
