@@ -8,9 +8,6 @@ main:
   - title: "News"
     url: /news
     
-  - title: "Termine"
-    url: /termine
-    
   - title: "Material"
     url: /material
     submenu:
