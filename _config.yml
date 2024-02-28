@@ -23,7 +23,7 @@ title: Klimastreik Landau
 email: info@fridaysforfuture-landau.de
 description:
   Klimastreik Landau ist eine Ortsgruppe von Fridays for Future. Wir kämpfen durch politisches und gesellschaftliches Engagement für mehr Klimaschutz und Klimagerechtigkeit auch in Landau. Wir organisieren Gespräche mit Politiker:Innen, stellen Forderungen auf und planen Demos und andere Aktionen. 
-# baseurl: "fridaysforfuture-landau.de" # the subpath of your site, e.g. /blog
+# baseurl: "fridaysforfuture-landau.de" 
 domain: fridaysforfuture-landau.de
 url: "https://fridaysforfuture-landau.de" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  fridaysforfuture-landau-pfalz
