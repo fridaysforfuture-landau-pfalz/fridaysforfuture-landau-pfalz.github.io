@@ -2,7 +2,7 @@
 layout: single
 classes: 
 title:  "Wir fahren Zusammen 01.03."
-date:   2024-03-01 12:00:00 +0200
+date:   2024-03-01 09:00:00 +0200
 categories: Demo
 ---
 
