@@ -23,8 +23,7 @@ Wir Fahren Zusammen” ist eine einzigartige Allianz, in der Fahrgäst*innen, di
 Die Erreichung der Klimaziele ist ohne eine echte Verkehrswende und eine nachhaltige und dauerhafte Stärkung des ÖPNV nicht möglich. Deswegen kämpfen ver.di und Fridays for Future gemeinsam: für eine soziale Ausgestaltung von Klimaschutz und Strukturwandel durch gute Arbeit, Tarifverträge, starke Betriebsräte und Unternehmensmitbestimmung.
  
 <b> Demosprüche </b> findest du <a href="https://fridaysforfuture-landau.de/assets/Demos/GK%2003.03.23/Lieder%20und%20Rufe%20DINA5.pdf" target="_blank" >hier</a>. <br>
-<b> Demosprüche zu ÖPNV </b> findest du <a href="https://fridaysforfuture-landau.de/assets/Demos/2024.03.01 Wir fahren zusammen
-/Demosprüche ÖPNV 01.03..pdf" target="_blank" >hier</a>. <br>
+<b> Demosprüche zu ÖPNV </b> findest du <a href="https://fridaysforfuture-landau.de/assets/Demos/2024.03.01%20Wir%20fahren%20zusammen/Demosprüche%20ÖPNV%2001.03..pdf" target="_blank" >hier</a>. <br>
 
 Unsere <b> Demoroute </b>: <br>
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/2024.03.01%20Wir%20fahren%20zusammen/Route%20Vorschlag%20V2.png?raw=true" alt="Route" height="50%" width="50%">
@@ -32,5 +31,4 @@ Unsere <b> Demoroute </b>: <br>
 Inspiration für <b> Demoschilder </b> findest du <a href=" https://fridaysforfuture-landau.de/material#Demoschilder" target="_blank" >hier</a> <br>
 
 <b> Pressemitteilungen </b> für den Streik: <br>
-<a href="https://fridaysforfuture-landau.de/assets/Demos/2024.03.01 Wir fahren zusammen
-/Pressemitteilung Fridays for Future Landau 01.03. Wir fahren zusammen.pdf" target="_blank" >1. Ankündigung</a> <br>
+<a href="https://fridaysforfuture-landau.de/assets/Demos/2024.03.01%20Wir%20fahren%20zusammen/Pressemitteilung%20Fridays%20for%20Future%20Landau%2001.03.%20Wir%20fahren%20zusammen.pdf" target="_blank" >1. Ankündigung</a> <br>
