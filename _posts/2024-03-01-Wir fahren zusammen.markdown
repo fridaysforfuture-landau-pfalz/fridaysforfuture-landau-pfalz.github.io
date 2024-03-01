@@ -33,4 +33,4 @@ Inspiration für <b> Demoschilder </b> findest du <a href=" https://fridaysforfu
 
 <b> Pressemitteilungen </b> für den Streik: <br>
 <a href="https://fridaysforfuture-landau.de/assets/Demos/2024.03.01 Wir fahren zusammen
-/Pressemitteilung Fridays for Future Landau 01.03. Wir fahren zusammen.pdf" target="_blank" >1. Ankündigung</a> <br> -->
+/Pressemitteilung Fridays for Future Landau 01.03. Wir fahren zusammen.pdf" target="_blank" >1. Ankündigung</a> <br>
