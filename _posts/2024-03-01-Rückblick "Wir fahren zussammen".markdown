@@ -1,7 +1,7 @@
 ---
 layout: single
 classes: 
-title:  "Rückblick Demo "Wir fahren zusammen""
+title:  "Rückblick Demo Wir fahren zusammen"
 date:   2024-03-01 18:00:00 +0200
 categories: demo
 
@@ -36,8 +36,8 @@ Auch in Landau versammelten sich knapp über 200 engagierte Bürgerinnen und Bü
 
 Danke allen die da waren !!! 💚
 
-<b> Pressemitteilungen </b> für den Streik: <br>
-<a href="https://fridaysforfuture-landau.de/assets/Demos/2024.03.01%20Wir%20fahren%20zusammen/Pressemitteilung%20Fridays%20for%20Future%20Landau%2001.03.%20Wir%20fahren%20zusammen.pdf" target="_blank" >1. Ankündigung</a> <br>
+<b> Pressemitteilungen </b> über den Streik: <br>
+<a href="https://fridaysforfuture-landau.de/assets/Demos/2024.03.01%20Wir%20fahren%20zusammen/Pressemitteilung%20Fridays%20for%20Future%20Landau%2001.03.%20Wir%20fahren%20zusammen.pdf" target="_blank" >Rückblick</a> <br>
 
 <b> Ein paar Fotos von der Demo: </b>  <br>
 {% include gallery id="gallery" layout="half" %}
