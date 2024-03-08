@@ -48,10 +48,10 @@ gallery:
     image_path: assets/Demos/GK 15.09.23/15.09. Bild 20.jpg
   - url: assets/Demos/GK 15.09.23/15.09. Bild 21.jpg
     image_path: assets/Demos/GK 15.09.23/15.09. Bild 21.jpg
-  - url: assets/Demos/GK 15.09.23/15.09. Bild 22.jpg
-    image_path: assets/Demos/GK 15.09.23/15.09. Bild 22.jpg
-  - url: assets/Demos/GK 15.09.23/15.09. Bild 23.jpg
-    image_path: assets/Demos/GK 15.09.23/15.09. Bild 23.jpg
+  - url: assets/Demos/GK 15.09.23/15.09. Bild 22.png
+    image_path: assets/Demos/GK 15.09.23/15.09. Bild 22.png
+  - url: assets/Demos/GK 15.09.23/15.09. Bild 23.png
+    image_path: assets/Demos/GK 15.09.23/15.09. Bild 23.png
   - url: assets/Demos/GK 15.09.23/15.09. Bild 24.jpg
     image_path: assets/Demos/GK 15.09.23/15.09. Bild 24.jpg
   - url: assets/Demos/GK 15.09.23/15.09. Bild 25.jpg
