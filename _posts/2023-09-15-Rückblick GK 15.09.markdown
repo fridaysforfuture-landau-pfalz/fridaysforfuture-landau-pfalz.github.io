@@ -6,8 +6,8 @@ date:   2023-09-16 12:00:00 +0200
 categories: demo
 
 gallery:
-  - url: assets/Demos/GK 15.09.23/_JTW6858_20230924_224954_0000.jpg
-    image_path: assets/Demos/GK 15.09.23/_JTW6858_20230924_224954_0000.jpg
+  - url: assets/Demos/GK 15.09.23/15.09. Bild 1.jpg
+    image_path: assets/Demos/GK 15.09.23/15.09. Bild 1.jpg
   - url: assets/Demos/GK 15.09.23/_JTW6870_20230924_224944_0000.jpg
     image_path: assets/Demos/GK 15.09.23/_JTW6870_20230924_224944_0000.jpg
   - url: assets/Demos/GK 15.09.23/_JTW6890_20230924_224933_0000.jpg
