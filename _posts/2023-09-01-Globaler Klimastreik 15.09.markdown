@@ -6,7 +6,7 @@ date:   2023-09-01 12:00:00 +0200
 categories: Demo
 ---
 
-<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/GK%2015.09.23/signal-2023-09-06-14-42-02-716.png?raw=true" alt="SharePic 15.09" style="float:right;" hspace=20 vspace=20 height="50%" width="50%"> <br>
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/GK%2015.09.23/SharePic%2015.09..png?raw=true" alt="SharePic 15.09" style="float:right;" hspace=20 vspace=20 height="50%" width="50%"> <br>
 
 Kommt am <br>
 🗓 15.9 <br>
@@ -39,7 +39,7 @@ den Klimawandel noch abschwächen zu können.
 <b> Demosprüche </b> findest du <a href="https://fridaysforfuture-landau.de/assets/Demos/GK%2003.03.23/Lieder%20und%20Rufe%20DINA5.pdf" target="_blank" >hier</a>. <br>
 
 Unsere <b> Demoroute </b>: <br>
-<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/GK%2015.09.23/signal-2023-09-06-15-10-41-786.jpg?raw=true" alt="Route" height="50%" width="50%">
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/GK%2015.09.23/Demoroute%2015.09..jpg?raw=true" alt="Route" height="50%" width="50%">
 
 Inspiration für <b> Demoschilder </b> findest du <a href=" https://fridaysforfuture-landau.de/material#Demoschilder" target="_blank" >hier</a> <br>
 
