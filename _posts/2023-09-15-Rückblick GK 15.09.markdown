@@ -8,55 +8,55 @@ categories: demo
 gallery:
   - url: assets/Demos/GK 15.09.23/15.09. Bild 1.jpg
     image_path: assets/Demos/GK 15.09.23/15.09. Bild 1.jpg
-  - url: assets/Demos/GK 15.09.23/_JTW6870_20230924_224944_0000.jpg
-    image_path: assets/Demos/GK 15.09.23/_JTW6870_20230924_224944_0000.jpg
-  - url: assets/Demos/GK 15.09.23/_JTW6890_20230924_224933_0000.jpg
-    image_path: assets/Demos/GK 15.09.23/_JTW6890_20230924_224933_0000.jpg
-  - url: assets/Demos/GK 15.09.23/_JTW6925_20230924_225004_0000.jpg
-    image_path: assets/Demos/GK 15.09.23/_JTW6925_20230924_225004_0000.jpg
-  - url: assets/Demos/GK 15.09.23/_JTW6932_20230924_225122_0000.jpg
-    image_path: assets/Demos/GK 15.09.23/_JTW6932_20230924_225122_0000.jpg
-  - url: assets/Demos/GK 15.09.23/_JTW6937_20230924_225132_0000.jpg
-    image_path: assets/Demos/GK 15.09.23/_JTW6937_20230924_225132_0000.jpg
-  - url: assets/Demos/GK 15.09.23/_JTW6944_20230924_225145_0000.jpg
-    image_path: assets/Demos/GK 15.09.23/_JTW6944_20230924_225145_0000.jpg
-  - url: assets/Demos/GK 15.09.23/_JTW6968_20230924_225158_0000.jpg
-    image_path: assets/Demos/GK 15.09.23/_JTW6968_20230924_225158_0000.jpg
-  - url: assets/Demos/GK 15.09.23/_JTW6985_20230924_225208_0000.jpg
-    image_path: assets/Demos/GK 15.09.23/_JTW6985_20230924_225208_0000.jpg
-  - url: assets/Demos/GK 15.09.23/_JTW7061_20230924_225230_0000.jpg
-    image_path: assets/Demos/GK 15.09.23/_JTW7061_20230924_225230_0000.jpg
-  - url: assets/Demos/GK 15.09.23/_JTW7068_20230924_225245_0000.jpg
-    image_path: assets/Demos/GK 15.09.23/_JTW7068_20230924_225245_0000.jpg
-  - url: assets/Demos/GK 15.09.23/_JTW7102_20230924_225302_0000.jpg
-    image_path: assets/Demos/GK 15.09.23/_JTW7102_20230924_225302_0000.jpg
-  - url: assets/Demos/GK 15.09.23/_JTW7106_20230924_225310_0000.jpg
-    image_path: assets/Demos/GK 15.09.23/_JTW7106_20230924_225310_0000.jpg
-  - url: assets/Demos/GK 15.09.23/_JTW7148_20230924_225319_0000.jpg
-    image_path: assets/Demos/GK 15.09.23/_JTW7148_20230924_225319_0000.jpg
-  - url: assets/Demos/GK 15.09.23/_JTW7199_20230924_225359_0000.jpg
-    image_path: assets/Demos/GK 15.09.23/_JTW7199_20230924_225359_0000.jpg
-  - url: assets/Demos/GK 15.09.23/_JTW7204_20230924_225407_0000.jpg
-    image_path: assets/Demos/GK 15.09.23/_JTW7204_20230924_225407_0000.jpg
-  - url: assets/Demos/GK 15.09.23/_JTW7241_20230924_225352_0000.jpg
-    image_path: assets/Demos/GK 15.09.23/_JTW7241_20230924_225352_0000.jpg
-  - url: assets/Demos/GK 15.09.23/_JTW7253_20230924_225418_0000.jpg
-    image_path: assets/Demos/GK 15.09.23/_JTW7253_20230924_225418_0000.jpg
-  - url: assets/Demos/GK 15.09.23/_JTW7346_20230924_225434_0000.jpg
-    image_path: assets/Demos/GK 15.09.23/_JTW7346_20230924_225434_0000.jpg
-  - url: assets/Demos/GK 15.09.23/_JTW7471_20230924_225455_0000.jpg
-    image_path: assets/Demos/GK 15.09.23/_JTW7471_20230924_225455_0000.jpg
-  - url: assets/Demos/GK 15.09.23/DSC08873_20230924_225332_0000.jpg
-    image_path: assets/Demos/GK 15.09.23/DSC08873_20230924_225332_0000.jpg
-  - url: assets/Demos/GK 15.09.23/sharedImage_20230924_224911_0000.png
-    image_path: assets/Demos/GK 15.09.23/sharedImage_20230924_224911_0000.png
-  - url: assets/Demos/GK 15.09.23/sharedImage_20230924_224920_0000.png
-    image_path: assets/Demos/GK 15.09.23/sharedImage_20230924_224920_0000.png
-  - url: assets/Demos/GK 15.09.23/sharedImage_20230924_225339_0000.jpg
-    image_path: assets/Demos/GK 15.09.23/sharedImage_20230924_225339_0000.jpg
-  - url: assets/Demos/GK 15.09.23/sharedImage_20230924_225444_0000.jpg
-    image_path: assets/Demos/GK 15.09.23/sharedImage_20230924_225444_0000.jpg
----
+  - url: assets/Demos/GK 15.09.23/15.09. Bild 2.jpg
+    image_path: assets/Demos/GK 15.09.23/15.09. Bild 2.jpg
+  - url: assets/Demos/GK 15.09.23/15.09. Bild 3.jpg
+    image_path: assets/Demos/GK 15.09.23/15.09. Bild 3.jpg
+  - url: assets/Demos/GK 15.09.23/15.09. Bild 4.jpg
+    image_path: assets/Demos/GK 15.09.23/15.09. Bild 4.jpg
+  - url: assets/Demos/GK 15.09.23/15.09. Bild 5.jpg
+    image_path: assets/Demos/GK 15.09.23/15.09. Bild 5.jpg
+  - url: assets/Demos/GK 15.09.23/15.09. Bild 6.jpg
+    image_path: assets/Demos/GK 15.09.23/15.09. Bild 6.jpg
+  - url: assets/Demos/GK 15.09.23/15.09. Bild 7.jpg
+    image_path: assets/Demos/GK 15.09.23/15.09. Bild 7.jpg
+  - url: assets/Demos/GK 15.09.23/15.09. Bild 8.jpg
+    image_path: assets/Demos/GK 15.09.23/15.09. Bild 8.jpg
+  - url: assets/Demos/GK 15.09.23/15.09. Bild 9.jpg
+    image_path: assets/Demos/GK 15.09.23/15.09. Bild 9.jpg
+  - url: assets/Demos/GK 15.09.23/15.09. Bild 10.jpg
+    image_path: assets/Demos/GK 15.09.23/15.09. Bild 10.jpg
+  - url: assets/Demos/GK 15.09.23/15.09. Bild 11.jpg
+    image_path: assets/Demos/GK 15.09.23/15.09. Bild 11.jpg
+  - url: assets/Demos/GK 15.09.23/15.09. Bild 12.jpg
+    image_path: assets/Demos/GK 15.09.23/15.09. Bild 12.jpg
+  - url: assets/Demos/GK 15.09.23/15.09. Bild 13.jpg
+    image_path: assets/Demos/GK 15.09.23/15.09. Bild 13.jpg
+  - url: assets/Demos/GK 15.09.23/15.09. Bild 14.jpg
+    image_path: assets/Demos/GK 15.09.23/15.09. Bild 14.jpg
+  - url: assets/Demos/GK 15.09.23/15.09. Bild 15.jpg
+    image_path: assets/Demos/GK 15.09.23/15.09. Bild 15.jpg
+  - url: assets/Demos/GK 15.09.23/15.09. Bild 16.jpg
+    image_path: assets/Demos/GK 15.09.23/15.09. Bild 16.jpg
+  - url: assets/Demos/GK 15.09.23/15.09. Bild 17.jpg
+    image_path: assets/Demos/GK 15.09.23/15.09. Bild 17.jpg
+  - url: assets/Demos/GK 15.09.23/15.09. Bild 18.jpg
+    image_path: assets/Demos/GK 15.09.23/15.09. Bild 18.jpg
+  - url: assets/Demos/GK 15.09.23/15.09. Bild 19.jpg
+    image_path: assets/Demos/GK 15.09.23/15.09. Bild 19.jpg
+  - url: assets/Demos/GK 15.09.23/15.09. Bild 20.jpg
+    image_path: assets/Demos/GK 15.09.23/15.09. Bild 20.jpg
+  - url: assets/Demos/GK 15.09.23/15.09. Bild 21.jpg
+    image_path: assets/Demos/GK 15.09.23/15.09. Bild 21.jpg
+  - url: assets/Demos/GK 15.09.23/15.09. Bild 22.jpg
+    image_path: assets/Demos/GK 15.09.23/15.09. Bild 22.jpg
+  - url: assets/Demos/GK 15.09.23/15.09. Bild 23.jpg
+    image_path: assets/Demos/GK 15.09.23/15.09. Bild 23.jpg
+  - url: assets/Demos/GK 15.09.23/15.09. Bild 24.jpg
+    image_path: assets/Demos/GK 15.09.23/15.09. Bild 24.jpg
+  - url: assets/Demos/GK 15.09.23/15.09. Bild 25.jpg
+    image_path: assets/Demos/GK 15.09.23/15.09. Bild 25.jpg
+ ---
 Am 15.09.23 waren wir hier in Landau, deutschlandweit und weltweit unter dem Motto #EndFossilFuels wieder auf den Straßen. In Landau waren wir 300 Menschen und in ganz Deutschland sogar 250.000.
 
 Denn so wie es aktuell hier in Deutschland und weltweit läuft, kann es so nicht mehr weiter gehen. Wir brauchen jetzt eine Veränderung, um zukünftigen Generationen eine lebenswerte und sozial gerechte Zukunft zu ermöglichen.
@@ -64,4 +64,4 @@ Denn so wie es aktuell hier in Deutschland und weltweit läuft, kann es so nicht
 Danke allen die da waren !!! 💚
 
 <b> Ein paar Fotos von der Demo: </b>  <br>
-{% include gallery id="gallery" layout="half" %}
+{% include gallery id="gallery" layout="third" %}
