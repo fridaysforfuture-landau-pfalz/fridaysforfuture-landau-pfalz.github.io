@@ -2,7 +2,7 @@
 layout: single
 classes: 
 title:  "Europaweiter Klimastreik 31.05."
-date:   2024-05-020 12:00:00 +0200
+date:   2024-05-20 12:00:00 +0200
 categories: Demo
 ---
 
