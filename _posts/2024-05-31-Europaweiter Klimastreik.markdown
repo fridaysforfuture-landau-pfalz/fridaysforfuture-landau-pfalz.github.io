@@ -26,6 +26,15 @@ Unsere <b> Demoroute </b>: <br>
 
 Inspiration für <b> Demoschilder </b> findest du <a href=" https://fridaysforfuture-landau.de/material#Demoschilder" target="_blank" >hier</a> <br>
 
+Keine Partei kann sich vor der Klimakrise verstecken: Wer diewissenschaftlichen Erkenntnisse leugnet und lieber auf extrem teure Technologien wie E-Fuels setzt, ist keine ernst zu nehmende Optionbei dieser Wahl. Es gibt einen klaren Auftrag an die Parteien, dieneue Kommission und das Parlament: Die Bekämpfung der Klimakrise muss wieder zur politischen Priorität werden. <br>
+
+Die aktuelle Klimapolitik der EU ist unzureichend. Die EU muss ihre Klimaziele verschärfen und mehr Klimaschutz umsetzen, um die Vorgaben des Pariser Klimaabkommens einzuhalten. Das bedeutet unter anderem: <br>
+
+1. einen verbindlichen Ausstieg für alle fosilen Energieträger bis 2035 (Kohle bis 20230) beschlie0en <br>
+2. Klimainvestitionen bis 2030 mehr als verdoppeln <br>
+
+Dafür gehen wir am 31.05. überall in Deutschland auf die Straße! Damit sind wir in Europa nicht allein - in zahlreichen Ländern gehen an diesem Wochenende junge Menschen im Vorfeld der Europawahlen auf die Straße. Sei auch du dabei!
+
 <b> Pressemitteilungen </b> für den Streik: <br>
 <a href="assets/Demos/EK 31.05.24/Pressemitteilung Europastreik Ankündigung.pdf" target="_blank" >1. Ankündigung</a> <br>
 <a href="assets/Demos/EK 31.05.24/Pressemitteilung Fridays for Future Landau Europaweiter Klimastreik 31.05..pdf" target="_blank" >Pressemitteilung 2</a> <br>
