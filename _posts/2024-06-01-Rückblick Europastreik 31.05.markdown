@@ -22,8 +22,8 @@ gallery:
     image_path: assets/Demos/EK 31.05.24/_JTW7729.jpg
   - url: assets/Demos/EK 31.05.24/_JTW7590.jpg
     image_path: assets/Demos/EK 31.05.24/_JTW7590.jpg
-  - url: assets/Demos/EK 31.05.24/_JTW7495.jpg
-    image_path: assets/Demos/EK 31.05.24/_JTW7495.jpg
+  - url: assets/Demos/2024.05.31 EK/Max und Lena.png
+    image_path: assets/Demos/2024.05.31 EK/Max und Lena.png
   - url: assets/Demos/EK 31.05.24/_JTW7511.jpg
     image_path: assets/Demos/EK 31.05.24/_JTW7511.jpg
   - url: assets/Demos/EK 31.05.24/_JTW7535.jpg
