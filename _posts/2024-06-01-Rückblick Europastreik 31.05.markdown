@@ -6,45 +6,48 @@ date:   2024-06-01 15:00:00 +0200
 categories: demo
 
 gallery:
-  - url: assets/Demos/EK 31.05.24/_JTW7711.jpg
-    image_path: assets/Demos/EK 31.05.24/_JTW7711.jpg
-  - url: assets/Demos/EK 31.05.24/_JTW7607.jpg
-    image_path: assets/Demos/EK 31.05.24/_JTW7607.jpg
-  - url: assets/Demos/EK 31.05.24/_JTW7527.jpg
-    image_path: assets/Demos/EK 31.05.24/_JTW7527.jpg
-  - url: assets/Demos/EK 31.05.24/_JTW7666.jpg
-    image_path: assets/Demos/EK 31.05.24/_JTW7666.jpg
-  - url: assets/Demos/EK 31.05.24/_JTW7636.jpg
-    image_path: assets/Demos/EK 31.05.24/_JTW7636.jpg
-  - url: assets/Demos/EK 31.05.24/_JTW7640.jpg
-    image_path: assets/Demos/EK 31.05.24/_JTW7640.jpg
-  - url: assets/Demos/EK 31.05.24/_JTW7729.jpg
-    image_path: assets/Demos/EK 31.05.24/_JTW7729.jpg
-  - url: assets/Demos/EK 31.05.24/_JTW7590.jpg
-    image_path: assets/Demos/EK 31.05.24/_JTW7590.jpg
+  - url: assets/Demos/2024.05.31 EK/Demo 2.jpg
+    image_path: assets/Demos/2024.05.31 EK/Demo 2.jpg
+  - url: assets/Demos/2024.05.31 EK/Demo 5.jpg
+    image_path: assets/Demos/2024.05.31 EK/Demo 5.jpg
+  - url: assets/Demos/2024.05.31 EK/Jonathan Rede.jpg
+    image_path: assets/Demos/2024.05.31 EK/Jonathan Rede.jpg
+  - url: assets/Demos/2024.05.31 EK/Demo 6.jpg
+    image_path: assets/Demos/2024.05.31 EK/Demo 6.jpg
+  - url: assets/Demos/2024.05.31 EK/Demo .jpg
+    image_path: assets/Demos/2024.05.31 EK/Demo .jpg
+  - url: assets/Demos/2024.05.31 EK/Demo 1.jpg
+    image_path: assets/Demos/2024.05.31 EK/Demo 1.jpg
+  - url: assets/Demos/2024.05.31 EK/Demo 3.jpg
+    image_path: assets/Demos/2024.05.31 EK/Demo 3.jpg
+  - url: assets/Demos/2024.05.31 EK/Demo 4.jpg
+    image_path: assets/Demos/2024.05.31 EK/Demo 4.jpg
   - url: assets/Demos/2024.05.31 EK/Max und Lena.png
     image_path: assets/Demos/2024.05.31 EK/Max und Lena.png
-  - url: assets/Demos/EK 31.05.24/_JTW7511.jpg
-    image_path: assets/Demos/EK 31.05.24/_JTW7511.jpg
-  - url: assets/Demos/EK 31.05.24/_JTW7535.jpg
-    image_path: assets/Demos/EK 31.05.24/_JTW7535.jpg
-  - url: assets/Demos/EK 31.05.24/_JTW7594.jpg
-    image_path: assets/Demos/EK 31.05.24/_JTW7594.jpg
-  - url: assets/Demos/EK 31.05.24/_JTW7595.jpg
-    image_path: assets/Demos/EK 31.05.24/_JTW7595.jpg
-  - url: assets/Demos/EK 31.05.24/_JTW7646.jpg
-    image_path: assets/Demos/EK 31.05.24/_JTW7646.jpg
-  - url: assets/Demos/EK 31.05.24/_JTW7761.jpg
-    image_path: assets/Demos/EK 31.05.24/_JTW7761.jpg
-  - url: assets/Demos/EK 31.05.24/_JTW7861.jpg
-    image_path: assets/Demos/EK 31.05.24/_JTW7861.jpg
-  - url: assets/Demos/EK 31.05.24/_JTW7764.jpg
-    image_path: assets/Demos/EK 31.05.24/_JTW7764.jpg
-  - url: assets/Demos/EK 31.05.24/_JTW7773.jpg
-    image_path: assets/Demos/EK 31.05.24/_JTW7773.jpg
+  - url: assets/Demos/2024.05.31 EK/Jonathan Rede 2.jpg
+    image_path: assets/Demos/2024.05.31 EK/Jonathan Rede 2.jpg
+  - url: assets/Demos/2024.05.31 EK/Anna Rede.jpg
+    image_path: assets/Demos/2024.05.31 EK/Anna Rede.jpg    
+  - url: assets/Demos/2024.05.31 EK/Demo hoch 1.jpg
+    image_path: assets/Demos/2024.05.31 EK/Demo hoch 1.jpg
+  - url: assets/Demos/2024.05.31 EK/Demo hoch 2.jpg
+    image_path: assets/Demos/2024.05.31 EK/Demo hoch 2.jpg
+  - url: assets/Demos/2024.05.31 EK/Demo hoch 3.jpg
+    image_path: assets/Demos/2024.05.31 EK/Demo hoch 3.jpg
+  - url: assets/Demos/2024.05.31 EK/Demo hoch 4.jpg
+    image_path: assets/Demos/2024.05.31 EK/Demo hoch 4.jpg
+  - url: assets/Demos/2024.05.31 EK/Buskers 1.jpg
+    image_path: assets/Demos/2024.05.31 EK/Buskers 1.jpg
+  - url: assets/Demos/2024.05.31 EK/Buskers 2.jpg
+    image_path: assets/Demos/2024.05.31 EK/Buskers 2.jpg
+  - url: assets/Demos/2024.05.31 EK/Buskers 3.jpg
+    image_path: assets/Demos/2024.05.31 EK/Buskers 3.jpg
+  - url: assets/Demos/2024.05.31 EK/Buskers 4.jpg
+    image_path: assets/Demos/2024.05.31 EK/Buskers 4.jpg
+    
     
 ---
-<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/EK%2031.05.24/_JTW7686_v2.jpg?raw=true" alt="Bild Die-In" style="float:right;" hspace=20 vspace=20 height="50%" width="50%"> <br>
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/2024.05.31%20EK/Die%20In%20.jpg?raw=true" alt="Bild Die-In" style="float:right;" hspace=20 vspace=20 height="50%" width="50%"> <br>
 
 Freitag, dem 31. Mai 2024, fanden in Landau, in über 100 weiteren Orten in Deutschland, sowie 14 weiteren Ländern Demonstrationen statt. Die Versammlung trug die Forderung an die Gesellschaft, zur Wahl zu gehen und die Themen Klimaschutz, Klimagerechtigkeit und Schutz der Demokratie dabei zu beachten, auf die Straße. <br>
 
@@ -66,7 +69,7 @@ Nach der Zwischenkundgebung kehrte der Demozug zum Landesgartenschaugelände zur
 Danke allen die da waren und die Buskers für die tolle Musik !!! 💚
 
 <b> Pressemitteilung </b> über den Streik: <br>
-<a href="https://fridaysforfuture-landau.de/assets/Demos/EK%2031.05.24/Pressemitteilung%20R%C3%BCckblick%20Fridays%20for%20Future%20Landau%2031.05.%20Europawahl.pdf" target="_blank" >Rückblick</a> <br>
+<a href="https://fridaysforfuture-landau.de/assets/Demos/2024.05.31%20EK/Pressemitteilung%20R%C3%BCckblick%20Fridays%20for%20Future%20Landau%2031.05.%20Europawahl.pdf" target="_blank" >Rückblick</a> <br>
 
 <b> Ein paar Fotos von der Demo: </b>  <br>
 {% include gallery id="gallery" layout="half" %}
