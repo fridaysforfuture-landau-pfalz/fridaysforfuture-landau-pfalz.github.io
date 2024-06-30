@@ -3,7 +3,7 @@ title: ""
 layout: splash
 permalink: /
 header:
-  image: assets/Demos/EK 31.05.24/Banner V2.png
+  image: assets/images/Frontbanner.jpg
 ---
 <style>
   .button-container {
