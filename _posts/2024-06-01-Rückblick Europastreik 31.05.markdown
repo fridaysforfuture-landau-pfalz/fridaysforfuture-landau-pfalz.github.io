@@ -10,8 +10,8 @@ gallery:
     image_path: assets/Demos/2024.05.31 EK/Demo 2.jpg
   - url: assets/Demos/2024.05.31 EK/Demo 5.jpg
     image_path: assets/Demos/2024.05.31 EK/Demo 5.jpg
-  - url: assets/Demos/2024.05.31 EK/Jonathan Rede.jpg
-    image_path: assets/Demos/2024.05.31 EK/Jonathan Rede.jpg
+  - url: assets/Demos/2024.05.31 EK/Jonathan Rede 2.jpg
+    image_path: assets/Demos/2024.05.31 EK/Jonathan Rede 2.jpg
   - url: assets/Demos/2024.05.31 EK/Demo 6.jpg
     image_path: assets/Demos/2024.05.31 EK/Demo 6.jpg
   - url: assets/Demos/2024.05.31 EK/Demo .jpg
@@ -24,16 +24,14 @@ gallery:
     image_path: assets/Demos/2024.05.31 EK/Demo 4.jpg
   - url: assets/Demos/2024.05.31 EK/Max und Lena.png
     image_path: assets/Demos/2024.05.31 EK/Max und Lena.png
-  - url: assets/Demos/2024.05.31 EK/Jonathan Rede 2.jpg
-    image_path: assets/Demos/2024.05.31 EK/Jonathan Rede 2.jpg
+  - url: assets/Demos/2024.05.31 EK/Jonathan Rede.jpg
+    image_path: assets/Demos/2024.05.31 EK/Jonathan Rede.jpg   
   - url: assets/Demos/2024.05.31 EK/Anna Rede.jpg
     image_path: assets/Demos/2024.05.31 EK/Anna Rede.jpg    
   - url: assets/Demos/2024.05.31 EK/Demo hoch 1.jpg
     image_path: assets/Demos/2024.05.31 EK/Demo hoch 1.jpg
   - url: assets/Demos/2024.05.31 EK/Demo hoch 2.jpg
     image_path: assets/Demos/2024.05.31 EK/Demo hoch 2.jpg
-  - url: assets/Demos/2024.05.31 EK/Demo hoch 3.jpg
-    image_path: assets/Demos/2024.05.31 EK/Demo hoch 3.jpg
   - url: assets/Demos/2024.05.31 EK/Demo hoch 4.jpg
     image_path: assets/Demos/2024.05.31 EK/Demo hoch 4.jpg
   - url: assets/Demos/2024.05.31 EK/Buskers 1.jpg
