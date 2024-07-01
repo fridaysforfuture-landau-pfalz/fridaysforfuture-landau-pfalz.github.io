@@ -9,9 +9,9 @@ categories: veranstaltung
 
 Wir planen im Rahmen der Aktion Zukuftspakt eine öffentliche Veranstaltung am <br>
 
-🗓️<b>07.07.2024</b> <br> 
-🕒<b>um 15:30 Uhr</b> <br>
-📍<b>im Haus am Westbahnhof</b> <br>
+🗓️ <b>07.07.2024</b> <br> 
+🕒 <b>um 15:30 Uhr</b> <br>
+📍 <b>im Haus am Westbahnhof</b> <br>
 
 Geplant ist ein Zukunftsraum, in dem es um sozial verträglichen Klimaschutz gehen wird. Fridays for Future sammelt bundesweit Maßnahmen für eine soziale, klimagerechte Zukunft. 
 
