@@ -1,10 +1,8 @@
 ---
 title:  "Klimafestival Landau"
-layout: splash
+layout: single
 permalink: /klimafestival
 classes: wide
-header:
-  image: assets/images/Frontbanner.jpg
 ---
 
 <h2>Programm</h2>
