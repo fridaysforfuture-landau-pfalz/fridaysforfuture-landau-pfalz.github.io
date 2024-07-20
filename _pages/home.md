@@ -3,8 +3,30 @@ title: ""
 layout: splash
 permalink: /
 header:
-  image: assets/images/Frontbanner.jpg
+  image: assets/Aktionen/2024.08.24 Klimafestival/KlIMAFESTIVAL.png
 ---
+<style>
+.button7 {
+  border: none;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 24px;
+  margin: 2px 2px 35px;
+  float: left !important;
+  cursor: pointer;
+  width: 100%;
+}
+
+.button7 {background-color: #90D3ED;} /* Light Blue */
+
+</style>  
+  
+<a class="button7" href="https://opencollective.com/klimastreik-landau"
+       target="" style="color: white" >Klimafestival</a>
+
 <style>
   .button-container {
     display: flex;
