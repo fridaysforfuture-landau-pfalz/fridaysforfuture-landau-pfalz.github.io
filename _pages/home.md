@@ -24,7 +24,7 @@ header:
 
 </style>  
   
-<a class="button7" href="https://opencollective.com/klimastreik-landau"
+<a class="button7" href="https://fridaysforfuture-landau.de/klimafestival"
        target="" style="color: white" >Klimafestival</a>
 
 <style>
