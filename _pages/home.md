@@ -6,24 +6,54 @@ header:
   image: assets/Aktionen/2024.08.24 Klimafestival/KlIMAFESTIVAL.png
 ---
 <style>
-.button7 {
-  border: none;
-  color: white;
-  padding: 10px 10px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 24px;
-  margin: 2px 2px 35px;
-  cursor: pointer;
-}
+  .button7-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 20px 0;
+  }
 
-.button7 {background-color: #90D3ED;} /* Light Blue */
+  .button {
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    font-size: 24px;
+    margin: 5px;
+    cursor: pointer;
+    background-color: #4CAF50;
+    width: auto;
+    max-width: 100%;
+  }
 
-</style>  
-  
-<a class="button7" href="https://fridaysforfuture-landau.de/klimafestival"
-       target="" style="color: white" >Klimafestival</a>
+  iframe {
+    width: 100%;
+    max-width: 560px;
+    margin-bottom: 20px;
+  }
+
+  @media screen and (min-width: 768px) {
+    .button7-container {
+      margin: 40px 0;
+    }
+
+    .button {
+      width: 100%;
+      max-width: none;
+    }
+
+    iframe {
+      width: 560px;
+      max-width: none;
+    }
+  }
+</style>
+
+<div class="button7-container">
+  <a class="button" href="https://fridaysforfuture-landau.de/klimafestival" target="" style="color: white">Klimafestival</a>
+ </div>
 
 <style>
   .button-container {
