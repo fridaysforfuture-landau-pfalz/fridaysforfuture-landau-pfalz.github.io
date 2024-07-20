@@ -3,22 +3,58 @@ title:  "Klimafestival Landau"
 layout: single
 permalink: /klimafestival
 classes: wide
+
+sidebar:
+  - title: "Pressemitteilungen"
+    nav: "klimafestival"
 ---
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Aktionen/2024.08.24%20Klimafestival/Klimafestival%20Logo%20Wei%C3%9Fschatten.png?raw=true" alt="Logo Klimafestival" style="float:right;" hspace=20 vspace=20 height="50%" width="50%">
 
-Am 24.08.2024 findet das erste Landauer Klimafestival statt. Eine Veranstaltung für die ganze Familie - jung wie alt.
-Von 14:00 bis 23:00 Uhr erwarten euch im Goethepark viele Info-, Aktions- und Mitmach-Stände, einiges an Bühnenprogramm, Poetry Slams und Live-Acts.
+Am <b> 24.08.2024 </b> findet das erste Landauer Klimafestival statt. Eine Veranstaltung für die ganze Familie - jung wie alt.
+Von <b> 14:00 bis 23:00 Uhr </b> erwarten euch im Goethepark viele Info-, Aktions- und Mitmach-Stände, einiges an Bühnenprogramm, Poetry Slams und Live-Acts.
 Das übergeordnete Thema des Klimafestivals ist natürlich Nachhaltigkeit. Dabei geht es aber in erster Linie darum, die Begeisterung für Neues zu wecken.
 Ab 17:00 Uhr erwartet euch außerdem die heißgeliebte Landauer SkaterNight, bei der ihr mit euren Inlinern oder Skateboards durch die Straßen düsen könnt.
 Ab 19:00 Uhr haben sich dann verschiedene Bands angekündigt, unter anderem die Landauer X-Rays und Feasco.
 Bagage und Café Ich bin so Frey sorgen während der gesamten Veranstaltung für das leibliche Wohl.
 Wenn ihr vorab Fragen habt, meldet euch gerne per Email oder per Instagram. Wir laden herzlich ein und freuen uns über Interesse und Weiterverbreitung!
 
+<h2>Mithelfen</h2>
+Damit alles wie geplant stattfinden kann, suchen wir aktuell möglichst viele Ordner\*innen, die Lust haben, schichtweise auf der Veranstaltung für die Sicherheit zu sorgen und als Ansprechperson bei Problemen da zu sein. Wir würden uns sehr freuen, wenn sich dafür noch einige Freiwillige finden. Ihr würdet immer in Zweierteams sein und bekommt als Entschädigung Essen und Getränke umsonst.
+Falls Interesse besteht, würden wir darum bitten, dass ihr euch in folgendes Dokument eintragt: <br>
+https://docs.google.com/spreadsheets/d/1BvEWGdCEZKRXsUXpZ8degh4Mf0IC2LKnC7vj7uEzn98/edit?usp=sharing <br>
+Und anschließend über den enthaltenen Link unserer WhatsApp-Gruppe beitretet, damit wir besser planen können. 
+Voraussetzung für die Tätigkeit als Ordner\*in ist, dass ihr volljährig seid und am angegebenen Datum Zeit habt. Zudem würden wir zwei bis drei Wochen vor dem 24.08. ein gemeinsames Briefing veranstalten, bei dem wir eure Aufgaben als Ordner\*innen zusammenfassen, der genaue Termin wird dann mit euch in der Gruppe festgelegt.
+Falls es Fragen gibt, meldet euch gerne, wir freuen uns auf eure Beteiligung!
+
 <h2>Programm</h2>
+14:00        Eröffnung mit Grußworten
+14:15        Grußworte Oberbürgermeister Dominik Geißler und Bürgermeister Lukas Hartmann
+16:00        Bühnenprogramm 1, 2 oder 3 Quizspiel
+17:00        SkaterNight
+18:00        Poetry Slam Rune + Sky
+             Greenpeace Aktion
+18:30        Bühnenprogramm Greenpeace OpenMic
+19:00        Bandauftritt Feasco
+20:15        Bandauftritt X-Rays
+21:30        Bandauftritt Maiva
+22:30        Schlussworte Kaycee und Beendung der Veranstaltung
 
 <h2>Geländeplan</h2>
 
 <h2>Angebot</h2>
+<b> Essen </b>
+- Bagage 
+- Café Ich bin so Frey
+
+<b> Stände </b>
+- Greenpeace
+- Friays for Future
+- Foodsharing
+- Umweltgruppe
+- BUND 
+- Vegans for Future
+- Klimastabsstelle
+- ADFC
 
 <h2>Anreise</h2>
 
@@ -27,6 +63,8 @@ Wenn ihr vorab Fragen habt, meldet euch gerne per Email oder per Instagram. Wir 
 <h2>Sicherheits- und Awarenesskonzept</h2>
 
 <h2>Pressemitteilungen</h2>
+Guckt gerne außerdem auf unserem <a href="https://www.instagram.com/klimastreiklandau/" target="_blank"> Instagram Klimastreik Landau </a>, <a href="https://www.instagram.com/greenpeace.landau/" target="_blank"> Instagram Greenpeace Landau </a> und dem <a href="https://www.instagram.com/klimafestival_landau/" target="_blank"> Klimafestival Account </a> vorbei.
+<br>
 
 <h2>Spenden</h2>
 Ein solches Festival ist natürlch teuer. Falls du uns mit einem kleinen Beitrag unterstützen möchtest, kannst du das sehr gerne über unser Spendenkonto auf Open Collectiv oder persönlich vor Ort machen. 
