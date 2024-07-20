@@ -25,7 +25,7 @@ header:
 </style>  
   
 <a class="button7" href="https://fridaysforfuture-landau.de/klimafestival"
-       target="" style="color: white" >Klimafestival</a>
+       target="" style="color: white" >Klimafestival</a> <br>
 
 <style>
   .button-container {
