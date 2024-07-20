@@ -4,6 +4,15 @@ layout: single
 permalink: /klimafestival
 classes: wide
 ---
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Aktionen/2024.08.24%20Klimafestival/Klimafestival%20Logo%20Wei%C3%9Fschatten.png?raw=true" alt="Logo Klimafestival" style="float:right;" hspace=20 vspace=20 height="50%" width="50%">
+
+Am 24.08.2024 findet das erste Landauer Klimafestival statt. Eine Veranstaltung für die ganze Familie - jung wie alt.
+Von 14:00 bis 23:00 Uhr erwarten euch im Goethepark viele Info-, Aktions- und Mitmach-Stände, einiges an Bühnenprogramm, Poetry Slams und Live-Acts.
+Das übergeordnete Thema des Klimafestivals ist natürlich Nachhaltigkeit. Dabei geht es aber in erster Linie darum, die Begeisterung für Neues zu wecken.
+Ab 17:00 Uhr erwartet euch außerdem die heißgeliebte Landauer SkaterNight, bei der ihr mit euren Inlinern oder Skateboards durch die Straßen düsen könnt.
+Ab 19:00 Uhr haben sich dann verschiedene Bands angekündigt, unter anderem die Landauer X-Rays und Feasco.
+Bagage und Café Ich bin so Frey sorgen während der gesamten Veranstaltung für das leibliche Wohl.
+Wenn ihr vorab Fragen habt, meldet euch gerne per Email oder per Instagram. Wir laden herzlich ein und freuen uns über Interesse und Weiterverbreitung!
 
 <h2>Programm</h2>
 
