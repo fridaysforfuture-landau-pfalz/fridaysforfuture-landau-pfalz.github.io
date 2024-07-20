@@ -15,9 +15,7 @@ header:
   display: inline-block;
   font-size: 24px;
   margin: 2px 2px 35px;
-  float: left !important;
   cursor: pointer;
-  width: 100%;
 }
 
 .button7 {background-color: #90D3ED;} /* Light Blue */
@@ -25,7 +23,7 @@ header:
 </style>  
   
 <a class="button7" href="https://fridaysforfuture-landau.de/klimafestival"
-       target="" style="color: white" >Klimafestival</a> <br>
+       target="" style="color: white" >Klimafestival</a>
 
 <style>
   .button-container {
