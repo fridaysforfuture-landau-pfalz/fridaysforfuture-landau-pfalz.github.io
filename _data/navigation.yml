@@ -173,4 +173,14 @@ klimafestival:
     children: 
       - titel: "- erste Ankündigung 16.06.24"
         url: "https://fridaysforfuture-landau.de/assets/Aktionen/2024.08.24%20Klimafestival/Pressemitteilung%20Klimafestival%2016.06.24.pdf"
+      - titel: "- Einladung 21.08.24"
+        url: "https://fridaysforfuture-landau.de/assets/Aktionen/2024.08.24 Klimafestival/Pressemitteilung Klimafestival 21.08.24.pdf"
+  - titel: "Presseerwähnungen"
+    children: 
+      - titel: "Wochenblatt am 22.08.24"
+        url: "https://www.wochenblatt-reporter.de/landau/c-ausgehen-geniessen/festivalsommer-trifft-klimaaktivismus-in-landau_a581025"
+      - titel: "Rheinpfalz am 05.08.24"
+        url: "https://www.rheinpfalz.de/lokal/landau_artikel,-erstes-klimafestival-im-goethepark-_arid,5678260.html"
+      - titel: "Instagram Stadt Landau"
+        url: "https://www.instagram.com/reel/C-cgJ3ECzWT/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
         
