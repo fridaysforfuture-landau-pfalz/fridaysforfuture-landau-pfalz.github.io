@@ -11,38 +11,27 @@ sidebar:
 ---
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Aktionen/2024.08.24%20Klimafestival/Klimafestival%20Logo%20Wei%C3%9Fschatten.png?raw=true" alt="Logo Klimafestival" style="float:right;" hspace=20 vspace=20 height="30%" width="30%">
 
-<span style="color: red;"> <b> Diese Seite fasst alle wichtigen Infos zum Klimafestival zusammen. Wir geben uns Mühe alle relevanten Infos so schnell wie möglich hochzuladen und zu aktualisieren. </b> </span>
-
-<p> Am <b> 24.08.2024 </b> findet das erste Landauer Klimafestival statt. Eine Veranstaltung für die ganze Familie - jung wie alt. <br>
-Von <b> 14:00 bis 23:00 Uhr </b> erwarten euch im Goethepark viele Info-, Aktions- und Mitmach-Stände, einiges an Bühnenprogramm, Poetry Slams und Live-Acts. <br>
-Das übergeordnete Thema des Klimafestivals ist natürlich Nachhaltigkeit. Dabei geht es aber in erster Linie darum, die Begeisterung für Neues zu wecken. <br>
-Ab 17:00 Uhr erwartet euch außerdem die heißgeliebte Landauer SkaterNight, bei der ihr mit euren Inlinern oder Skateboards durch die Straßen düsen könnt. <br>
-Ab 19:00 Uhr haben sich dann verschiedene Bands angekündigt, unter anderem die Landauer X-Rays und Feasco.
-Bagage und Café Ich bin so Frey sorgen während der gesamten Veranstaltung für das leibliche Wohl. <br>
-Wenn ihr vorab Fragen habt, meldet euch gerne per Email oder per Instagram. Wir laden herzlich ein und freuen uns über Interesse und Weiterverbreitung! </p>
-
-<h2>Mithelfen</h2>
-Damit alles wie geplant stattfinden kann, suchen wir aktuell möglichst viele Ordner\*innen, die Lust haben, schichtweise auf der Veranstaltung für die Sicherheit zu sorgen und als Ansprechperson bei Problemen da zu sein. Wir würden uns sehr freuen, wenn sich dafür noch einige Freiwillige finden. Ihr würdet immer in Zweierteams sein und bekommt als Entschädigung Essen und Getränke umsonst.
-Falls Interesse besteht, würden wir darum bitten, dass ihr euch in folgendes Dokument eintragt: <br>
-https://docs.google.com/spreadsheets/d/1BvEWGdCEZKRXsUXpZ8degh4Mf0IC2LKnC7vj7uEzn98/edit?usp=sharing <br>
-Und anschließend über den enthaltenen Link unserer WhatsApp-Gruppe beitretet, damit wir besser planen können. 
-Voraussetzung für die Tätigkeit als Ordner\*in ist, dass ihr volljährig seid und am angegebenen Datum Zeit habt. Zudem würden wir zwei bis drei Wochen vor dem 24.08. ein gemeinsames Briefing veranstalten, bei dem wir eure Aufgaben als Ordner\*innen zusammenfassen, der genaue Termin wird dann mit euch in der Gruppe festgelegt.
-Falls es Fragen gibt, meldet euch gerne, wir freuen uns auf eure Beteiligung!
+wir freuen uns, euch mitteilen zu können, dass am 24.08.2024 das erste Landauer Klimafestival stattfinden wird!
+Dabei erwarten euch von <b>14:00 Uhr bis 23:00 Uhr</b> im <b>Goethepark</b> viele Info-, Aktions- und Mitmachstände, einiges an Bühnenprogramm, Poetry Slams sowie Live-Acts.
+Das übergeordnete Thema ist "Begeisterung für Nachhaltigkeit" und Menschen jeden Alters sind willkommen. Zudem könnt ihr ab 17:00 Uhr im Rahmen der heißgeliebten Landauer SkaterNight auf Inlinern oder Skateboards die Stadt erkunden
+und ab 19:00 Uhr Auftritte verschiedener Bands, darunter die Landauer X-Rays, Feasco, sowie TOFF und MAIVA, genießen.
+Für das leibliche Wohl ist durch Bagage und Café Ich bin so Frey ebenfalls gesorgt.
 
 <h2>Programm</h2>
-<b> 14:00 </b>        Eröffnung mit Grußworten <br>
-<b> 14:15 </b>       Grußworte Oberbürgermeister Dominik Geißler und Bürgermeister Lukas Hartmann <br>
-<b> 16:00 </b>       Bühnenprogramm 1, 2 oder 3 Quizspiel <br>
-<b> 17:00 </b>       SkaterNight <br>
-<b> 18:00 </b>       Poetry Slam Rune + Sky <br>
-                     Greenpeace Aktion <br>
-<b> 18:30 </b>       Bühnenprogramm Greenpeace OpenMic <br>
-<b> 19:00 </b>       Bandauftritt Feasco <br>
-<b> 20:15 </b>       Bandauftritt X-Rays <br>
-<b> 21:30 </b>       Bandauftritt Maiva <br>
-<b> 22:30 </b>       Schlussworte Kaycee und Beendung der Veranstaltung <br>
+<b> 14:00 - 14:15 Uhr: </b>	Eröffnung mit Grußworten von Kaycee, Greenpeace und FfF/S4F
+<b> 14:15 - 14:30 Uhr: </b>	Grußworte OB Dominik Geißler und BM Lukas Hartmann
+<b> 14:30 - 15:15 Uhr: </b>	Bandauftritt Toff
+<b> 16:00 - 16:30 Uhr: </b>	Bühnenprogramm 1, 2 oder 3 Quizspiel
+<b> 17:00 - 18:00 Uhr: </b>	SkaterNight
+<b> 18:00 - 18:30 Uhr: </b>	Poetry Slam Rune + Sky
+<b> 18:30 - 19:00 Uhr: </b>	Greenpeace Mitmach-Aktion
+<b> 19:00 - 19:50 Uhr: </b>	Bandauftritt Feasco
+<b> 20:15 - 21:05 Uhr: </b>	Bandauftritt X-Rays
+<b> 21:30 - 22:30 Uhr: </b>	Bandauftritt Maiva
+<b> 22:30 - 22:45 Uhr: </b>	Schlussworte Kaycee und Beendung der Veranstaltung
 
 <h2>Geländeplan</h2>
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Aktionen/2024.08.24%20Klimafestival/Lageplan%20Klimafestival.png?raw=true" alt="Lageplan Klimafestival" style="float:right;" hspace=20 vspace=20 height="50%" width="50%">
 
 <h2>Angebot</h2>
 <b> Essen </b>
@@ -60,13 +49,50 @@ Falls es Fragen gibt, meldet euch gerne, wir freuen uns auf eure Beteiligung!
 - ADFC
 
 <h2>Anreise</h2>
+Zu Fuß sind wir über alle Eingänge erreichbar. <br>
+Fahrräder könnt ihr südwestlich vom Veranstaltungsgelände abstellen. (siehe Bild) <br>
+Mit Bus und Bahn fahrt ihr am besten bis Landau Westbahnhof. Hierfür könnt ihr die Busse 535 und 538 von Landau Hauptbahnhof nehmen. Diese fahren alle 15 Minuten. <br>
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Aktionen/2024.08.24%20Klimafestival/Klimafestival%20Anreise.png?raw=true" alt="Anreise Klimafestival" style="float:right;" hspace=20 vspace=20 height="50%" width="50%">
 
 <h2>Packliste</h2>
+- Sonnenschutz / Sonnencreme 
+- Picknickdecke 
+- Trinkflasche mit Wasser 
+- Powerbank
+- Kleingeld für Essen
+- Inliner, Skateboard, Einrad ect. für SkaterNight
+- deine Lieblingsmenschen
+- gute Laune
 
 <h2>Sicherheits- und Awarenesskonzept</h2>
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Aktionen/2024.08.24%20Klimafestival/Awarenesskonzept%201.png?raw=true" alt="Awarenesskonzept Klimafestival" style="float:left;" hspace=20 vspace=20 height="50%" width="50%">
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Aktionen/2024.08.24%20Klimafestival/Awarenesskonzept%202.png?raw=true" alt="Awarenesskonzept Klimafestival" style="float:right;" hspace=20 vspace=20 height="50%" width="50%">
 
-<h2>Pressemitteilungen</h2>
+Bei Problemen, Unwohlbefinden oder Fragen wendet euch geren an:
+- Ordner*innen (in grünen Westen) - an jedem Eingang und unterwegs auf dem Gelände
+- bei Unwohlbefinden an unser Awarenessteam -> hier seit ihr sicher
+- an jeden Stand mit den Safewords
+- die Versammlungsleitung
+
+Den Anweisungen der Ordner*innen, dem Awarenessteam, der Veranstaltungsleitung und der Polizeit ist Folge zu leisten. Wiederstand kann zu Ausschluss von der Veranstaltung führen. 
+
+Auf dem Klimafestival ist kein Platz für:
+... Sexismus <br>
+... Rassismus <br>
+... Antisemitismus <br>
+... Diskriminierung bez. Behinderung  <br>
+... Diskriminierung bez. Alter <br>
+... Gewalt <br>
+... Hasssymbole <br>
+... Respektloses & übergriffiges Verhalten <br>
+... Diskriminierung bez. Religion <br>
+... Queerfeindlichkeit <br>
+
+Wir freuen uns auf ein friedliches, lustiges, buntes und großes Klimafestival mit euch.  
+
+<h2>Pressemitteilungen</h2> 
 <a href="https://fridaysforfuture-landau.de/assets/Aktionen/2024.08.24%20Klimafestival/Pressemitteilung%20Klimafestival%2016.06.24.pdf" target="_blank"> 1. Ankündiung 16.06.24 </a> <br>
+<a href="https://fridaysforfuture-landau.de/assets/Aktionen/2024.08.24 Klimafestival/Pressemitteilung Klimafestival 21.08.24.pdf" target="_blank"> 1. Ankündiung 21.08.24 </a> <br>
 
 Guckt gerne außerdem auf unserem <a href="https://www.instagram.com/klimastreiklandau/" target="_blank"> Instagram Klimastreik Landau </a>, <a href="https://www.instagram.com/greenpeace.landau/" target="_blank"> Instagram Greenpeace Landau </a> und dem <a href="https://www.instagram.com/klimafestival_landau/" target="_blank"> Klimafestival Account </a> vorbei.
 <br>
