@@ -5,9 +5,9 @@ permalink: /klimafestival
 classes: wide
 
 sidebar:
-    title: ""
+    title: "Presse"
     nav: "klimafestival"
-    
+
 ---
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Aktionen/2024.08.24%20Klimafestival/Klimafestival%20Logo%20Wei%C3%9Fschatten.png?raw=true" alt="Logo Klimafestival" style="float:right;" hspace=20 vspace=20 height="30%" width="30%">
 
