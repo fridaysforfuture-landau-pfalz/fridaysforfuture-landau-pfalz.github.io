@@ -70,7 +70,7 @@ Mit Bus und Bahn fahrt ihr am besten bis Landau Westbahnhof. Hierfür könnt ihr
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Aktionen/2024.08.24%20Klimafestival/Awarenesskonzept%201.png?raw=true" alt="Awarenesskonzept Klimafestival" style="height:50%; width:50%; margin-right: 20px;">
     <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Aktionen/2024.08.24%20Klimafestival/Awarenesskonzept%202.png?raw=true" alt="Awarenesskonzept Klimafestival" style="height:50%; width:50%; margin-left: 20px;">
-</div>
+</div> <br>
 
 Bei Problemen, Unwohlbefinden oder Fragen wendet euch geren an:
 - Ordner*innen (in grünen Westen) - an jedem Eingang und unterwegs auf dem Gelände
