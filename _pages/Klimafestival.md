@@ -18,20 +18,20 @@ und ab 19:00 Uhr Auftritte verschiedener Bands, darunter die Landauer X-Rays, Fe
 Für das leibliche Wohl ist durch Bagage und Café Ich bin so Frey ebenfalls gesorgt.
 
 <h2>Programm</h2>
-<b> 14:00 - 14:15 Uhr: </b>	Eröffnung mit Grußworten von Kaycee, Greenpeace und FfF/S4F
-<b> 14:15 - 14:30 Uhr: </b>	Grußworte OB Dominik Geißler und BM Lukas Hartmann
-<b> 14:30 - 15:15 Uhr: </b>	Bandauftritt Toff
-<b> 16:00 - 16:30 Uhr: </b>	Bühnenprogramm 1, 2 oder 3 Quizspiel
-<b> 17:00 - 18:00 Uhr: </b>	SkaterNight
-<b> 18:00 - 18:30 Uhr: </b>	Poetry Slam Rune + Sky
-<b> 18:30 - 19:00 Uhr: </b>	Greenpeace Mitmach-Aktion
-<b> 19:00 - 19:50 Uhr: </b>	Bandauftritt Feasco
-<b> 20:15 - 21:05 Uhr: </b>	Bandauftritt X-Rays
-<b> 21:30 - 22:30 Uhr: </b>	Bandauftritt Maiva
-<b> 22:30 - 22:45 Uhr: </b>	Schlussworte Kaycee und Beendung der Veranstaltung
+<b> 14:00 - 14:15 Uhr: </b>	Eröffnung mit Grußworten von Kaycee, Greenpeace und FfF/S4F <br>
+<b> 14:15 - 14:30 Uhr: </b>	Grußworte OB Dominik Geißler und BM Lukas Hartmann <br>
+<b> 14:30 - 15:15 Uhr: </b>	Bandauftritt Toff <br>
+<b> 16:00 - 16:30 Uhr: </b>	Bühnenprogramm 1, 2 oder 3 Quizspiel <br>
+<b> 17:00 - 18:00 Uhr: </b>	SkaterNight <br>
+<b> 18:00 - 18:30 Uhr: </b>	Poetry Slam Rune + Sky <br>
+<b> 18:30 - 19:00 Uhr: </b>	Greenpeace Mitmach-Aktion <br>
+<b> 19:00 - 19:50 Uhr: </b>	Bandauftritt Feasco <br>
+<b> 20:15 - 21:05 Uhr: </b>	Bandauftritt X-Rays <br>
+<b> 21:30 - 22:30 Uhr: </b>	Bandauftritt Maiva <br>
+<b> 22:30 - 22:45 Uhr: </b>	Schlussworte Kaycee und Beendung der Veranstaltung <br>
 
 <h2>Geländeplan</h2>
-<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Aktionen/2024.08.24%20Klimafestival/Lageplan%20Klimafestival.png?raw=true" alt="Lageplan Klimafestival" style="float:right;" hspace=20 vspace=20 height="50%" width="50%">
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Aktionen/2024.08.24%20Klimafestival/Lageplan%20Klimafestival.png?raw=true" alt="Lageplan Klimafestival" hspace=20 vspace=20 height="70%" width="70%">
 
 <h2>Angebot</h2>
 <b> Essen </b>
@@ -49,10 +49,12 @@ Für das leibliche Wohl ist durch Bagage und Café Ich bin so Frey ebenfalls ges
 - ADFC
 
 <h2>Anreise</h2>
+<div style="display: flex; justify-content: space-between;">
+   <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Aktionen/2024.08.24%20Klimafestival/Klimafestival%20Anreise.png?raw=true" alt="Anreise Klimafestival" hspace=20 vspace=20 height="50%" width="50%">
+</div> 
 Zu Fuß sind wir über alle Eingänge erreichbar. <br>
 Fahrräder könnt ihr südwestlich vom Veranstaltungsgelände abstellen. (siehe Bild) <br>
 Mit Bus und Bahn fahrt ihr am besten bis Landau Westbahnhof. Hierfür könnt ihr die Busse 535 und 538 von Landau Hauptbahnhof nehmen. Diese fahren alle 15 Minuten. <br>
-<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Aktionen/2024.08.24%20Klimafestival/Klimafestival%20Anreise.png?raw=true" alt="Anreise Klimafestival" style="float:right;" hspace=20 vspace=20 height="50%" width="50%">
 
 <h2>Packliste</h2>
 - Sonnenschutz / Sonnencreme 
@@ -65,8 +67,10 @@ Mit Bus und Bahn fahrt ihr am besten bis Landau Westbahnhof. Hierfür könnt ihr
 - gute Laune
 
 <h2>Sicherheits- und Awarenesskonzept</h2>
-<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Aktionen/2024.08.24%20Klimafestival/Awarenesskonzept%201.png?raw=true" alt="Awarenesskonzept Klimafestival" style="float:left;" hspace=20 vspace=20 height="50%" width="50%">
-<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Aktionen/2024.08.24%20Klimafestival/Awarenesskonzept%202.png?raw=true" alt="Awarenesskonzept Klimafestival" style="float:right;" hspace=20 vspace=20 height="50%" width="50%">
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Aktionen/2024.08.24%20Klimafestival/Awarenesskonzept%201.png?raw=true" alt="Awarenesskonzept Klimafestival" style="height:50%; width:50%; margin-right: 20px;">
+    <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Aktionen/2024.08.24%20Klimafestival/Awarenesskonzept%202.png?raw=true" alt="Awarenesskonzept Klimafestival" style="height:50%; width:50%; margin-left: 20px;">
+</div>
 
 Bei Problemen, Unwohlbefinden oder Fragen wendet euch geren an:
 - Ordner*innen (in grünen Westen) - an jedem Eingang und unterwegs auf dem Gelände
