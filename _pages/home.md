@@ -3,58 +3,8 @@ title: ""
 layout: splash
 permalink: /
 header:
-  image: assets/Aktionen/2024.08.24 Klimafestival/KlIMAFESTIVAL.png
+  image: assets/images/Website-Banner-neu.png
 ---
-<style>
-  .button7-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    margin: 20px 0;
-  }
-
-  .button {
-    border: none;
-    color: white;
-    padding: 10px 20px;
-    text-align: center;
-    text-decoration: none;
-    display: block;
-    font-size: 24px;
-    margin: 5px;
-    cursor: pointer;
-    background-color: #4CAF50;
-    width: auto;
-    max-width: 100%;
-  }
-
-  iframe {
-    width: 100%;
-    max-width: 560px;
-    margin-bottom: 20px;
-  }
-
-  @media screen and (min-width: 768px) {
-    .button7-container {
-      margin: 40px 0;
-    }
-
-    .button {
-      width: 100%;
-      max-width: none;
-    }
-
-    iframe {
-      width: 560px;
-      max-width: none;
-    }
-  }
-</style>
-
-<div class="button7-container">
-  <a class="button" href="https://fridaysforfuture-landau.de/klimafestival" target="" style="color: white">Klimafestival</a>
- </div>
-
 <style>
   .button-container {
     display: flex;
@@ -124,7 +74,7 @@ Falls du auch etwas zu einer nachhaltigen, lebenswerten Zukunft beitragen willst
 <p> </p>  
   
 <h2>Unterstützen</h2>  
-Du möchtest dich an der Organisation von Demos oder Aktionen beteiligen, wissenschaftlichen Input in die Ortsgruppe tragen oder dich anders bei uns einbringen? Dann bist du herzlich eingeladen zu uns ins Plenum zu kommen. Aktuell machen wir unser Plenum jeden Donnerstag um 18 Uhr in der KHG (Molktestr. 9). Hab keine Angst, du musst nichts (an Wissen) mitbringen und kannst einfach mal vorbei gucken. Wir würden, für unsere Planung und falls sich Plenumszeiten mal ändern sollten, aber über eine Nachricht über Instagram, Whatsapp oder Email freuen. 
+Du möchtest dich an der Organisation von Demos oder Aktionen beteiligen, wissenschaftlichen Input in die Ortsgruppe tragen oder dich anders bei uns einbringen? Dann bist du herzlich eingeladen zu uns ins Plenum zu kommen. Aktuell machen wir unser Plenum jeden Donnerstag um 18:30 Uhr in der KHG (Molktestr. 9). Hab keine Angst, du musst nichts (an Wissen) mitbringen und kannst einfach mal vorbei gucken. Wir würden, für unsere Planung und falls sich Plenumszeiten mal ändern sollten, aber über eine Nachricht über Instagram, Whatsapp oder Email freuen. 
 
 <p> </p>
 
