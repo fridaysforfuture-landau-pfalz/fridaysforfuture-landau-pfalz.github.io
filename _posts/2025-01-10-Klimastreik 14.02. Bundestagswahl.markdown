@@ -5,10 +5,12 @@ title:  "Klimastreik 14.02. Bundestagswahl"
 date:   2025-01-10 12:00:00 +0200
 categories: demo
 ---
-<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Aktionen/2024.07.07%20Zukuftspakt/Fyler%20Seite%201.png?raw=true" alt="Flyer Zukuftspakt 07.07." style="float:right;" hspace=20 vspace=20 height="50%" width="50%">
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/2025.02.14%20Klimastreik%20Bundestagswahl/3%20Datumsank%C3%BCndigung%20Valentinstag%20(1).png?raw=true" alt="Bundesweiter Klimastreik am 14.02." style="float:right;" hspace=20 vspace=20 height="50%" width="50%">
 
-am <br>
+Am 23.02. findet die vorgezogene Bundestagswahl statt. Auch die kommende Bundesregierung muss alles in ihrer Macht stehende tun, um effektive Klimaschutz- und Klimaanpassungsmaßnahmen vorzubereiten und umzusetzen. Um für diesen Wahl weiterhin einzustehen und der kommenden Bundesregierung zu zeigen, dass das Thema Klima immer noch das wichtigste ist, gehen wir am: <br>
 
 🗓️ <b>14.01.2025</b> <br> 
 🕒 <b>um 15:30 Uhr</b> <br>
-📍 <b>Rathausplatz</b> <br>
+📍 auf dem <b>Rathausplatz</b> <br>
+
+auf die Straße. Denn mehr denn je gilt das Motto: WIR SIND HIER - WIR SIND LAUT - WEIL IHR UNS DIE ZUKUNFT KLAUT!
