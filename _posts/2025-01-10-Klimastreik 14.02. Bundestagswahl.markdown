@@ -14,3 +14,5 @@ Am 23.02. findet die vorgezogene Bundestagswahl statt. Auch die kommende Bundesr
 📍 auf dem <b>Rathausplatz</b> <br>
 
 auf die Straße. Denn mehr denn je gilt das Motto: WIR SIND HIER - WIR SIND LAUT - WEIL IHR UNS DIE ZUKUNFT KLAUT!
+
+Fridays for Future Deutschland hat zur Bundestagswahl 2025 das Forderungspaket 2025 veröffentlicht. Unsere Forderungen an die neue Bundesregierung findest du <a href="https://fridaysforfuture.de/forderungen/forderungen-2025/" target="_blank"> hier </a> <br>. 
