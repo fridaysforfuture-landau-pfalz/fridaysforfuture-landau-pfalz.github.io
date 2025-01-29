@@ -36,6 +36,7 @@ sidebar:
   .invisible-table td {
     text-align: center;
     padding: 10px;
+    width: 50%; /* Stellt sicher, dass beide Zellen gleich breit sind */
   }
 
   .image-button-container {
@@ -43,11 +44,11 @@ sidebar:
     flex-direction: column;
     align-items: center; /* Zentriert die Inhalte horizontal */
     justify-content: center; /* Zentriert die Inhalte vertikal */
+    text-align: center; /* Zentriert den Text im Button */
   }
 
   .button-image {
-    width: 100%;
-    max-width: 150px;
+    width: 150px; /* Feste Breite für die Bilder */
     height: auto;
     display: block;
     margin-bottom: 10px;
