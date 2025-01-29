@@ -38,6 +38,13 @@ sidebar:
     padding: 10px;
   }
 
+  .image-button-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Zentriert die Inhalte horizontal */
+    justify-content: center; /* Zentriert die Inhalte vertikal */
+  }
+
   .button-image {
     width: 100%;
     max-width: 150px;
