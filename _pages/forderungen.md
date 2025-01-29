@@ -10,43 +10,36 @@ sidebar:
     image_alt: "FfF Logo Landau"
     
 ---
-
   <div class="button-container">
     <div class="button-with-image">
-         <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/Icon-Katalog-300x300.png?raw=true" alt="Bild 1" class="button-image">
-         <a href="#link1" class="button">Forderungskatalog 2023</a>
+        <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/Icon-Katalog-300x300.png?raw=true" alt="Bild 1" class="button-image">
+        <a href="#link1" class="button">Forderungskatalog 2023</a>
     </div>
-     <div class="button-with-image">
-         <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/V2%20Icon-Katalog-300x300.png?raw=true" alt="Bild 2" class="button-image">
-         <a href="#link2" class="button">Unterstützer der Kernforderungen</a>
+    <div class="button-with-image">
+        <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/V2%20Icon-Katalog-300x300.png?raw=true" alt="Bild 2" class="button-image">
+        <a href="#link2" class="button">Unterstützer der Kernforderungen</a>
     </div>
- </div>
-
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    background-color: #f4f4f4;
-}
+</div>
 
 .button-container {
     display: flex;
-    justify-content: space-between;
-    width: 80%;
-    max-width: 600px;
+    justify-content: space-around; /* Verteilt die Buttons gleichmäßig */
+    align-items: center; /* Zentriert die Buttons vertikal */
+    width: 100%; /* Nimmt die gesamte Breite des Containers ein */
+    max-width: 800px; /* Begrenzt die maximale Breite */
+    margin: 0 auto; /* Zentriert den Container horizontal */
+    padding: 20px; /* Fügt etwas Abstand um den Container hinzu */
 }
 
 .button-with-image {
     text-align: center;
+    flex: 1; /* Stellt sicher, dass beide Buttons gleich viel Platz einnehmen */
+    margin: 0 10px; /* Fügt Abstand zwischen den Buttons hinzu */
 }
 
 .button-image {
     width: 100%;
-    max-width: 200px;
+    max-width: 150px; /* Verkleinert die Bilder etwas */
     height: auto;
     display: block;
     margin-bottom: 10px;
@@ -61,12 +54,13 @@ body {
     text-decoration: none;
     border-radius: 5px;
     transition: background-color 0.3s;
+    width: 100%; /* Stellt sicher, dass die Buttons die volle Breite ihres Containers einnehmen */
+    box-sizing: border-box; /* Berücksichtigt Padding und Border in der Breite */
 }
 
 .button:hover {
     background-color: #45a049;
 }
-
 
 <div class="container">
   <div class="row">
