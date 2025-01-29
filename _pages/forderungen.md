@@ -10,6 +10,64 @@ sidebar:
     image_alt: "FfF Logo Landau"
     
 ---
+
+  <div class="button-container">
+    <div class="button-with-image">
+         <img src="[bild1.jpg](https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/Icon-Katalog-300x300.png?raw=true)" alt="Bild 1" class="button-image">
+         <a href="#link1" class="button">Forderungskatalog 2023</a>
+    </div>
+     <div class="button-with-image">
+         <img src="[bild2.jpg](https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/V2%20Icon-Katalog-300x300.png?raw=true)" alt="Bild 2" class="button-image">
+         <a href="#link2" class="button">Unterstützer der Kernforderungen</a>
+    </div>
+ </div>
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f4f4f4;
+}
+
+.button-container {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    max-width: 600px;
+}
+
+.button-with-image {
+    text-align: center;
+}
+
+.button-image {
+    width: 100%;
+    max-width: 200px;
+    height: auto;
+    display: block;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.button:hover {
+    background-color: #45a049;
+}
+
+
 <div class="container">
   <div class="row">
     <div class="col-md-6 text-center mb-4 mb-md-0">
