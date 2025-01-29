@@ -13,11 +13,11 @@ sidebar:
 
   <div class="button-container">
     <div class="button-with-image">
-         <img src="[bild1.jpg](https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/Icon-Katalog-300x300.png?raw=true)" alt="Bild 1" class="button-image">
+         <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/Icon-Katalog-300x300.png?raw=true" alt="Bild 1" class="button-image">
          <a href="#link1" class="button">Forderungskatalog 2023</a>
     </div>
      <div class="button-with-image">
-         <img src="[bild2.jpg](https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/V2%20Icon-Katalog-300x300.png?raw=true)" alt="Bild 2" class="button-image">
+         <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/V2%20Icon-Katalog-300x300.png?raw=true" alt="Bild 2" class="button-image">
          <a href="#link2" class="button">Unterstützer der Kernforderungen</a>
     </div>
  </div>
