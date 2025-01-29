@@ -10,57 +10,66 @@ sidebar:
     image_alt: "FfF Logo Landau"
     
 ---
-  <div class="button-container">
-    <div class="button-with-image">
-        <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/Icon-Katalog-300x300.png?raw=true" alt="Bild 1" class="button-image">
-        <a href="#link1" class="button">Forderungskatalog 2023</a>
-    </div>
-    <div class="button-with-image">
-        <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/V2%20Icon-Katalog-300x300.png?raw=true" alt="Bild 2" class="button-image">
-        <a href="#link2" class="button">Unterstützer der Kernforderungen</a>
-    </div>
-</div>
 
-.button-container {
-    display: flex;
-    justify-content: space-around; /* Verteilt die Buttons gleichmäßig */
-    align-items: center; /* Zentriert die Buttons vertikal */
-    width: 100%; /* Nimmt die gesamte Breite des Containers ein */
-    max-width: 800px; /* Begrenzt die maximale Breite */
-    margin: 0 auto; /* Zentriert den Container horizontal */
-    padding: 20px; /* Fügt etwas Abstand um den Container hinzu */
-}
+<table class="invisible-table">
+  <tr>
+    <td>
+      <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/Icon-Katalog-300x300.png?raw=true" alt="Icon Forderungskatalog" class="button-image">
+      <a class="button" href="https://fridaysforfuture-landau.de/assets/pdf/Forderungskatalog%20Stand%2001.01.23%20Klimastreik%20Landau%20und%20Brief.pdf" target="" style="color: white">Forderungskatalog 2023</a>
+    </td>
+    <td>
+      <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/V2%20Icon-Katalog-300x300.png?raw=true" alt="Icon Unterstützer" class="button-image">
+      <a class="button" href="https://fridaysforfuture-landau.de/assets/pdf/Forderungskatalog%20Stand%2001.01.23%20Klimastreik%20Landau%20und%20Brief.pdf#page=18" target="" style="color: white">Unterstützer der Kernforderungen</a>
+    </td>
+  </tr>
+</table>
 
-.button-with-image {
-    text-align: center;
-    flex: 1; /* Stellt sicher, dass beide Buttons gleich viel Platz einnehmen */
-    margin: 0 10px; /* Fügt Abstand zwischen den Buttons hinzu */
-}
-
-.button-image {
+<style>
+  .invisible-table {
     width: 100%;
-    max-width: 150px; /* Verkleinert die Bilder etwas */
+    max-width: 800px;
+    border-collapse: collapse;
+    border: none;
+    margin: 20px auto;
+  }
+
+  .invisible-table td {
+    text-align: center;
+    padding: 10px;
+  }
+
+  .button-image {
+    width: 100%;
+    max-width: 150px;
     height: auto;
     display: block;
     margin-bottom: 10px;
     border-radius: 10px;
-}
+  }
 
-.button {
-    display: inline-block;
-    padding: 10px 20px;
-    background-color: #4CAF50;
+  .button {
+    border: none;
     color: white;
+    padding: 10px 20px;
+    text-align: center;
     text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 5px;
+    cursor: pointer;
+    background-color: #4CAF50;
+    width: auto;
+    max-width: 100%;
     border-radius: 5px;
     transition: background-color 0.3s;
-    width: 100%; /* Stellt sicher, dass die Buttons die volle Breite ihres Containers einnehmen */
-    box-sizing: border-box; /* Berücksichtigt Padding und Border in der Breite */
-}
+  }
 
-.button:hover {
+  .button:hover {
     background-color: #45a049;
-}
+  }
+</style>
+
+++++++++++++++++++++++++++++++++++
 
 <div class="container">
   <div class="row">
