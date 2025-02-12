@@ -31,7 +31,7 @@ Fridays for Future fordert, dass die nächste Bundesregierung konkrete und wirks
 Fridays for Future Deutschland hat zur Bundestagswahl 2025 das Forderungspaket 2025 veröffentlicht. Unsere Forderungen an die neue Bundesregierung findest du <a href="https://fridaysforfuture.de/forderungen/forderungen-2025/" target="_blank"> hier </a>. <br>
 
 <h2> Route </h2>
-<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/2025.02.14%20Klimastreik%20Bundestagswahl/Route%2014.02.25.png?raw=true" alt="Bundesweiter Klimastreik am 14.02." hspace=20 vspace=20 height="50%" width="50%">
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/2025.02.14%20Klimastreik%20Bundestagswahl/Route%2014.02.25.png?raw=true" alt="Bundesweiter Klimastreik am 14.02." hspace=20 vspace=20 height="100%" width="100%">
 
 <h2> Programm </h2>
 14:45 Uhr Treffen Ordner*innen <br>
