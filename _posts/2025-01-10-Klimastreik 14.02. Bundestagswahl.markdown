@@ -43,5 +43,5 @@ Fridays for Future Deutschland hat zur Bundestagswahl 2025 das Forderungspaket 2
 - Rede Tom Südpfalz <br>
 17:30 Uhr Ende Demo <br>
 
-Pressemitteilungen: 
+<h2> Pressemitteilungen: </h2>
 <a href="https://fridaysforfuture-landau.de/assets/Demos/2025.02.14 Klimastreik Bundestagswahl/Pressemitteilung Klimastreik Landau 14.02.2025.pdf" target="_blank"> 1. Ankündiung 16.06.24 </a> <br>
