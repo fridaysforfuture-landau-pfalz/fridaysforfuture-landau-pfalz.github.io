@@ -36,11 +36,15 @@ Fridays for Future Deutschland hat zur Bundestagswahl 2025 das Forderungspaket 2
 <h2> Programm </h2>
 14:45 Uhr Treffen Ordner*innen <br>
 15:30 Uhr Demostart <br>
-- Rede FFF Landau <br>
-- Rede FFF Forderungen 2025 <br>
-16 Uhr Demozug  <br>
-- Rede Greenpeace Landau  <br>
-- Rede Tom Südpfalz <br>
+<ul>
+  <li>- Rede FFF Landau </li>
+  <li>- Rede FFF Forderungen 2025 </li>
+</ul>
+    16 Uhr Demozug <br>
+<ul>
+  <li>- Rede Greenpeace Landau </li>
+  <li>- Rede Tom Südpfalz </li>
+</ul>
 17:30 Uhr Ende Demo <br>
 
 <h2> Pressemitteilungen: </h2>
