@@ -14,7 +14,7 @@ Du möchtest dich an der Organisation von Demos oder Aktionen beteiligen, wissen
 
 Was erwartet dich bei uns? Neben der Möglichkeit, dich aktiv für gesellschaftliche Themen einzusetzen, kannst du viel Neues lernen – sei es über die Organisation von Demos und Veranstaltungen oder über politische Prozesse. Du kannst deine Fähigkeiten einbringen, egal in welchem Bereich – wir brauchen kreative Köpfe, strategische Denkerinnen, Social-Media-Talente, Orga-Profis und alle, die Lust haben mitzumachen. Zudem engagierst du dich ehrenamtlich in einer offenen, bunten Gruppe von Studierenden und Schülerinnen. Wenn du neu in Landau bist, bietet unsere Gruppe auch eine tolle Gelegenheit, schnell Leute kennenzulernen und Anschluss zu finden.
 
-Wir freuen uns auf dich!
+Wir freuen uns auf dich! 
 
 Für unsere aktuellen Projekte schau gerne unterm Reiter "News" oder auf unserem Instagram vorbei. 
 
