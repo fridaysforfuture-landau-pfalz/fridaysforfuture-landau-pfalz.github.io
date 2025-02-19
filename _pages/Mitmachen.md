@@ -15,7 +15,7 @@ Du möchtest dich an der Organisation von Demos oder Aktionen beteiligen, wissen
 Wir freuen uns auf dich!
 
 <h2> Students for Future Landau </h2>
-<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Logo%20StudentsforFuture%20Landau.png?raw=true" alt="Logo Students for Future" style="float:left;" hspace=20 vspace=20 height="15%" width="15%"> 
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Logo%20StudentsforFuture%20Landau.png?raw=true" alt="Logo Students for Future" style="float:left;" hspace=20 vspace=20 height="25%" width="25%"> 
 “Students for Future Landau” ist eine Hochschulgruppe an der RPTU Landau. Du bist Studi und möchtest dich im Klimaschutz politisch engergieren? Dann komm zu den Students for Future.
 
 <h3> Ziel/Zweck der Hochschulgruppe: </h3>
