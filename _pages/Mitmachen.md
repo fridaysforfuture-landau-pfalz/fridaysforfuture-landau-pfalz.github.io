@@ -10,7 +10,7 @@ header:
 
 <h2> Orga FfF Landau </h2>
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/20210924_132520.jpg?raw=true" alt="Demobild" style="float:right;" hspace=20 vspace=20 height="40%" width="40%">
-Du möchtest dich an der Organisation von Demos oder Aktionen beteiligen, wissenschaftlichen Input in die Ortsgruppe tragen oder dich auf andere Weise einbringen? Dann bist du herzlich eingeladen, zu unserem Plenum zu kommen! Wir treffen uns jeden Donnerstag um 18:30 Uhr – je nach Wetter im Garten oder in den Räumlichkeiten der KHG (Moltkestraße 9, 76829 Landau). Keine Sorge, du musst nichts mitbringen – weder Wissen noch Vorerfahrung. Schau einfach vorbei!
+Du möchtest dich an der Organisation von Demos oder Aktionen beteiligen, wissenschaftlichen Input in die Ortsgruppe tragen oder dich auf andere Weise einbringen? Dann bist du herzlich eingeladen, zu unserem Plenum zu kommen! Wir treffen uns jeden <b> Donnerstag um 18:30 Uhr </b> – je nach Wetter im Garten oder in den Räumlichkeiten der <b> KHG (Moltkestraße 9, 76829 Landau) </b>. Keine Sorge, du musst nichts mitbringen – weder Wissen noch Vorerfahrung. Schau einfach vorbei!
 
 Was erwartet dich bei uns? Neben der Möglichkeit, dich aktiv für gesellschaftliche Themen einzusetzen, kannst du viel Neues lernen – sei es über die Organisation von Demos und Veranstaltungen oder über politische Prozesse. Du kannst deine Fähigkeiten einbringen, egal in welchem Bereich – wir brauchen kreative Köpfe, strategische Denkerinnen, Social-Media-Talente, Orga-Profis und alle, die Lust haben mitzumachen. Zudem engagierst du dich ehrenamtlich in einer offenen, bunten Gruppe von Studierenden und Schülerinnen. Wenn du neu in Landau bist, bietet unsere Gruppe auch eine tolle Gelegenheit, schnell Leute kennenzulernen und Anschluss zu finden.
 
@@ -30,7 +30,7 @@ Für unsere aktuellen Projekte schau gerne unterm Reiter "News" oder auf unserem
   margin: 2px 4px;
   float: left !important;
   cursor: pointer;
-  width: 47%;
+  width: 40%;
 }
 
 .button1 {background-color: #4CAF50;} /* Green */
@@ -52,7 +52,7 @@ Für unsere aktuellen Projekte schau gerne unterm Reiter "News" oder auf unserem
   margin: 2px 4px;
   float: left !important;
   cursor: pointer;
-  width: 47%;
+  width: 40%;
 }
 
 .button2 {background-color: #4CAF50;} /* Green */
