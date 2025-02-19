@@ -18,6 +18,51 @@ Wir freuen uns auf dich!
 
 Für unsere aktuellen Projekte schau gerne unterm Reiter "News" oder auf unserem Instagram vorbei. 
 
+<style>
+.button1 {
+  border: none;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 24px;
+  margin: 2px 4px;
+  float: center !important;
+  cursor: pointer;
+  width: 40%;
+}
+
+.button1 {background-color: #4CAF50;} /* Green */
+
+</style>  
+  
+<a class="button1" href="https://fridaysforfuture-landau.de/news"
+       target="" style="color: white" >News</a> <br>
+
+<style>
+.button2 {
+  border: none;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 24px;
+  margin: 2px 4px;
+  float: center !important;
+  cursor: pointer;
+  width: 40%;
+}
+
+.button2 {background-color: #4CAF50;} /* Green */
+
+</style>  
+  
+<a class="button2" href="https://fridaysforfuture-landau.de/kontakt"
+       target="" style="color: white" >Kontakt</a> <br>
+
+
 <h2> Students for Future Landau </h2>
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Logo%20StudentsforFuture%20Landau.png?raw=true" alt="Logo Students for Future" style="float:left;" hspace=20 vspace=20 height="2ß%" width="20%"> 
 “Students for Future Landau” ist eine Hochschulgruppe an der RPTU Landau. Du bist Studi und möchtest dich im Klimaschutz politisch engergieren? Dann komm zu den Students for Future.
