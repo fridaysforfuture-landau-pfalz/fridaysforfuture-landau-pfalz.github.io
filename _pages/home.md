@@ -3,7 +3,7 @@ title: ""
 layout: splash
 permalink: /
 header:
-  image: assets/images/Klimastreik Banner Klimastreifen.png
+  image: assets/Banner/Klimastreik Banner Klimastreifen.png
 ---
 <style>
   .button-container {
