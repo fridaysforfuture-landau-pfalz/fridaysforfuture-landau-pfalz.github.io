@@ -65,13 +65,7 @@ sidebar:
 </style>
 
 
-<b> Unsere Forderungen teilen sich in die Bereiche: </b>
-<ul>
-  <li>Stadt</li>
-  <li>Energie</li>
-  <li>Bau</li>
-  <li>Mobilität</li>
-</ul> 
+<b> Unsere Forderungen teilen sich in die Bereiche: Stadt, Energie, Bau, Mobilität <br> 
 
 <b> Unsere Kernforderungen an die Stadt Landau sind: </b> <br>
 <ol>
