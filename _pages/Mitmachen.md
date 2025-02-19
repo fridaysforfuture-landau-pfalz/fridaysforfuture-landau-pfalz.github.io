@@ -28,9 +28,9 @@ Für unsere aktuellen Projekte schau gerne unterm Reiter "News" oder auf unserem
   display: inline-block;
   font-size: 24px;
   margin: 2px 4px;
-  float: center !important;
+  float: left !important;
   cursor: pointer;
-  width: 40%;
+  width: 47%;
 }
 
 .button1 {background-color: #4CAF50;} /* Green */
@@ -50,9 +50,9 @@ Für unsere aktuellen Projekte schau gerne unterm Reiter "News" oder auf unserem
   display: inline-block;
   font-size: 24px;
   margin: 2px 4px;
-  float: center !important;
+  float: left !important;
   cursor: pointer;
-  width: 40%;
+  width: 47%;
 }
 
 .button2 {background-color: #4CAF50;} /* Green */
