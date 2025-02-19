@@ -32,12 +32,21 @@ repository: "fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.
 footer:
   icon: <img src="/assets/images/FFF Landau Logo.png" alt="Logo FfF Landau">
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: https://twitter.com/klimastreikld
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/klimastreiklandau/?hl=de"
+  #  - label: "Twitter"
+  #    icon: "fab fa-fw fa-twitter-square"
+  #    url: https://twitter.com/klimastreikld
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://de-de.facebook.com/Klimastreiklandau/"
+    - label: "Impressum"
+      url: "https://fridaysforfuture-landau.de/kontakt/impressum"
+    - label: "Kontakt"
+      url: "https://fridaysforfuture-landau.de/kontakt"
+    - label: "Fridays for Future DE"
+      url: "https://fridaysforfuture.de"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/fridaysforfuture-landau-pfalz"
@@ -47,15 +56,6 @@ footer:
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
-    - label: "Impressum"
-      url: "https://fridaysforfuture-landau.de/kontakt/impressum"
-    - label: "Kontakt"
-      url: "https://fridaysforfuture-landau.de/kontakt"
-    - label: "Fridays for Future DE"
-      url: "https://fridaysforfuture.de"
 
 include: ["_pages", "_posts"]
 
