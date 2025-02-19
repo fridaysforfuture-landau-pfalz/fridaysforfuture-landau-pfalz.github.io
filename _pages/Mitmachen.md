@@ -4,7 +4,7 @@ classes: wide
 layout: splash
 permalink: /mitmachen
 header:
-  image: assets/images/Webseite Bilder/Mitmachen Bannner.png
+  image: assets/Banner/Mitmachen Banner.png
 ---
 <p></p>
 
@@ -15,7 +15,7 @@ Du möchtest dich an der Organisation von Demos oder Aktionen beteiligen, wissen
 Wir freuen uns auf dich!
 
 <h2> Students for Future Landau </h2>
-<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Logo%20StudentsforFuture%20Landau.png?raw=true" alt="Logo Students for Future" style="float:left;" hspace=20 vspace=20 height="25%" width="25%"> 
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Logo%20StudentsforFuture%20Landau.png?raw=true" alt="Logo Students for Future" style="float:left;" hspace=20 vspace=20 height="2ß%" width="20%"> 
 “Students for Future Landau” ist eine Hochschulgruppe an der RPTU Landau. Du bist Studi und möchtest dich im Klimaschutz politisch engergieren? Dann komm zu den Students for Future.
 
 <h3> Ziel/Zweck der Hochschulgruppe: </h3>
@@ -31,7 +31,7 @@ Unser aktuell größtes Projekt ist die Einführung eines PBU Konzepts in den Un
 
 Wenn du mit machen möchtest oder Fragen hast, dann melde dich gerne per Email: hsg-students4f@edu.rptu.de oder auf Instagram @klimastreiklandau.
 
-<b>Students For Future Deutschland</b>
+<b>Students For Future Deutschland</b> <br>
 <a href="/assets/StudentsforFuture/Selbstverst%C3%A4ndnis%20der%20AG%20Studierende.pdf" target="_blank"> Aktuelles Selbstverständnis </a> Students for Future Deutschland
 
 <h2> Spenden </h2>
