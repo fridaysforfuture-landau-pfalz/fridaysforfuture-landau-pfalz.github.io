@@ -10,9 +10,13 @@ header:
 
 <h2> Orga FfF Landau </h2>
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/20210924_132520.jpg?raw=true" alt="Demobild" style="float:right;" hspace=20 vspace=20 height="40%" width="40%">
-Du möchtest dich an der Organisation von Demos oder Aktionen beteiligen, wissenschaftlichen Input in die Ortsgruppe tragen oder dich anders bei uns einbringen? Dann bist du herzlich eingeladen zu uns ins Plenum zu kommen. Aktuell machen wir unser Plenum jeden Donnerstag um 18:30 Uhr im Garten oder in den Räumlichkeiten der KHG (Moltkestraße 9 76829 landau). Hab keine Angst, du musst nichts (an Wissen) mitbringen und kannst einfach mal vorbei gucken. <br>
+Du möchtest dich an der Organisation von Demos oder Aktionen beteiligen, wissenschaftlichen Input in die Ortsgruppe tragen oder dich auf andere Weise einbringen? Dann bist du herzlich eingeladen, zu unserem Plenum zu kommen! Wir treffen uns jeden Donnerstag um 18:30 Uhr – je nach Wetter im Garten oder in den Räumlichkeiten der KHG (Moltkestraße 9, 76829 Landau). Keine Sorge, du musst nichts mitbringen – weder Wissen noch Vorerfahrung. Schau einfach vorbei!
+
+Was erwartet dich bei uns? Neben der Möglichkeit, dich aktiv für gesellschaftliche Themen einzusetzen, kannst du viel Neues lernen – sei es über die Organisation von Demos und Veranstaltungen oder über politische Prozesse. Du kannst deine Fähigkeiten einbringen, egal in welchem Bereich – wir brauchen kreative Köpfe, strategische Denkerinnen, Social-Media-Talente, Orga-Profis und alle, die Lust haben mitzumachen. Zudem engagierst du dich ehrenamtlich in einer offenen, bunten Gruppe von Studierenden und Schülerinnen. Wenn du neu in Landau bist, bietet unsere Gruppe auch eine tolle Gelegenheit, schnell Leute kennenzulernen und Anschluss zu finden.
 
 Wir freuen uns auf dich!
+
+Für unsere aktuellen Projekte schau gerne unterm Reiter "News" oder auf unserem Instagram vorbei. 
 
 <h2> Students for Future Landau </h2>
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Logo%20StudentsforFuture%20Landau.png?raw=true" alt="Logo Students for Future" style="float:left;" hspace=20 vspace=20 height="2ß%" width="20%"> 
