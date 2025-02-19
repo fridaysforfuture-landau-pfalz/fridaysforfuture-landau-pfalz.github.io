@@ -65,7 +65,7 @@ sidebar:
 </style>
 
 
-<b> Unsere Forderungen teilen sich in die Bereiche: Stadt, Energie, Bau, Mobilität <br> 
+<b> Unsere Forderungen teilen sich in die Bereiche: </b>  Stadt, Energie, Bau, Mobilität <br> 
 
 <b> Unsere Kernforderungen an die Stadt Landau sind: </b> <br>
 <ol>
@@ -85,9 +85,9 @@ sidebar:
 
 <p> </p>
 
-Zusätzlich zu unseren Forderungen an die Stadt Landau unterstützen wir die Forderungen von Fridays for Future Deutschland und die der aktuellen Wissenschaft. <br>
-
 Unser <a href="/assets/pdf/ForderungenLandauDez2020.pdf" target="_blank"> Forderungspapier 2020 </a> an die Stadt Landau findest du hier. <br>
+
+Zusätzlich zu unseren Forderungen an die Stadt Landau unterstützen wir die Forderungen von Fridays for Future Deutschland und die der aktuellen Wissenschaft. <br>
 
 <h1> Forderungen Fridays for Future Deutschland </h1>
 Fridays For Future fordert die Einhaltung der Ziele des Pariser Abkommens und des 1,5°C-Ziels. Explizit fordern wir für Deutschland: <br> 
