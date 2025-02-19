@@ -3,7 +3,7 @@ title: ""
 layout: splash
 permalink: /
 header:
-  image: assets/Demos/2025.02.14 Klimastreik Bundestagswahl/14.02. Klimastreik Banner.png
+  image: assets/images/Klimastreik Banner Klimastreifen.png
 ---
 <style>
   .button-container {
