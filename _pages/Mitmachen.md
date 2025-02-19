@@ -27,7 +27,7 @@ Für unsere aktuellen Projekte schau gerne unterm Reiter "News" oder auf unserem
   text-decoration: none;
   display: inline-block;
   font-size: 24px;
-  margin: 2px 4px;
+  margin: 2px 2px 35px;
   float: left !important;
   cursor: pointer;
   width: 47%;
@@ -49,8 +49,8 @@ Für unsere aktuellen Projekte schau gerne unterm Reiter "News" oder auf unserem
   text-decoration: none;
   display: inline-block;
   font-size: 24px;
-  margin: 2px 4px;
-  float: right !important;
+  margin: 2px 2px 35px;
+  float: left !important;
   cursor: pointer;
   width: 47%;
 }
