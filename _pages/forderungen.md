@@ -93,26 +93,28 @@ sidebar:
 
 Zusätzlich zu unseren Forderungen an die Stadt Landau unterstützen wir die Forderungen von Fridays for Future Deutschland und die der aktuellen Wissenschaft. <br>
 
+Unser <a href="/assets/pdf/ForderungenLandauDez2020.pdf" target="_blank"> Forderungspapier 2020 </a> an die Stadt Landau findest du hier. <br>
+
 <h1> Forderungen Fridays for Future Deutschland </h1>
 Fridays For Future fordert die Einhaltung der Ziele des Pariser Abkommens und des 1,5°C-Ziels. Explizit fordern wir für Deutschland: <br> 
 <p> </p>
 <li> Nettonull 2035 erreichen
 <li> Kohleausstieg bis 2030
-<li> 100% erneuerbare Energieversorgung bis 2035 <br>
+<li> 100% erneuerbare Energieversorgung bis 2035
+<li> Das Ende der Subventionen für fossile Energieträger
+<li> Eine CO2-Steuer auf alle Treibhausgasemissionen. Der Preis für den Ausstoß von Treibhausgasen muss schnell so hoch werden wie die Kosten, die dadurch uns und zukünftigen Generationen entstehen. Laut UBA sind das 180€ pro Tonne CO2
 
 <p> </p>  
-  
-Entscheidend für die Einhaltung des 1,5°C-Ziels ist, die Treibhausgasemissionen so schnell wie möglich stark zu reduzieren. Deshalb fordern wir ab sofort: <br>
+
+<b> Fridays for Future Deutschland fordert vor der Bundestagswahl 2025: </b> <br>
 <p> </p>
-<li> Das Ende der Subventionen für fossile Energieträger
-<li> 1/4 der Kohlekraft abschalten
-<li> Eine CO2-Steuer auf alle Treibhausgasemissionen. Der Preis für den Ausstoß von Treibhausgasen muss schnell so hoch werden wie die Kosten, die dadurch uns und zukünftigen Generationen entstehen. Laut UBA sind das 180€ pro Tonne CO2 <br>
+<li> Klimaneutralität bis 2035
+<li> Gasausstieg bis 2035 mit klarem Plan
+<li> Besteuerung von Superreichen und fossilen Konzernen
+<li> Eine Mobilitäts- und Wärmegarantie für alle
+<li> Ein Fond für Klimaanpassung und Katastrophenhilfe
+<li> Jährlich 300.000 neue Jobs für die Klimawende <br>
   
-  <p> </p>
+<p> </p>
 
-<a href="https://fridaysforfuture.de/forderungen/" target="_blank"> Forderung FfF Deutschland </a> <br>
-
-  <p> </p>
-
-Unser <a href="/assets/pdf/ForderungenLandauDez2020.pdf" target="_blank"> Forderungspapier 2020 </a> an die Stadt Landau
-<a href="/assets/pdf/ForderungenLandauDez2020.pdf" target="_blank"> </a> <br>
+Alle Infos zu den aktuellen <a href="https://fridaysforfuture.de/forderungen/" target="_blank"> Forderung FfF Deutschland </a> findest du hier. <br>
