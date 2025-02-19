@@ -1,25 +1,53 @@
 ---
-permalink: /404.html
 layout: default
+title: "Seite nicht gefunden"
+permalink: /404.html
 ---
 
-<style type="text/css" media="screen">
-  .container {
-    margin: 10px auto;
-    max-width: 600px;
+<style>
+  body {
+    background: #f9f9f9;
+    font-family: Arial, sans-serif;
+    color: #333;
     text-align: center;
+    padding: 50px;
+  }
+  .container {
+    max-width: 600px;
+    margin: auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  img {
+    max-width: 200px;
+    margin-bottom: 20px;
   }
   h1 {
-    margin: 30px 0;
-    font-size: 4em;
-    line-height: 1;
-    letter-spacing: -1px;
+    font-size: 3em;
+    color: #e74c3c;
+  }
+  p {
+    font-size: 1.2em;
+  }
+  a {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background: #3498db;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  a:hover {
+    background: #2980b9;
   }
 </style>
 
 <div class="container">
-  <h1>404</h1>
-
-  <p><strong>Page not found :(</strong></p>
-  <p>The requested page could not be found.</p>
+  <img src="{{ site.baseurl }}/assets/Logos/FFF Landau Logo.png" alt="Logo">
+  <h1>Ups, da ist etwas schiefgelaufen...</h1>
+  <p>Die gesuchte Seite konnte nicht gefunden werden.</p>
+  <p>Versuche es gerne <a href="https://fridaysforfuture-landau.de">nochmal auf der Startseite</a>.</p>
 </div>
