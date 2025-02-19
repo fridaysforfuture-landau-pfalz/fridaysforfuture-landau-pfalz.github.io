@@ -16,40 +16,26 @@ Wir freuen uns auf dich!
 
 <h2> Students for Future Landau </h2>
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Logo%20StudentsforFuture%20Landau.png?raw=true" alt="Logo Students for Future" style="float:left;" hspace=20 vspace=20 height="15%" width="15%"> 
-Seit kurzem gibt es die Hochschulgruppe "Students for Future". Du bist Studi und möchtest dich im Klimaschutz politisch engergieren? Dann komm zu den Students for Future. Mehr Infos zu Hochschulgruppe gibt es unter "Mehr Infos". Wir freuen uns über Hilfe, Ideen, Kapazitäten und neue Menschen. <br>
+“Students for Future Landau” ist eine Hochschulgruppe an der RPTU Landau. Du bist Studi und möchtest dich im Klimaschutz politisch engergieren? Dann komm zu den Students for Future.
 
-<style>
-.button6 {
-  border: none;
-  color: white;
-  padding: 15px 25px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 24px;
-  margin: 2px 4px;
-  float: center !important;
-  cursor: pointer;
-  width: 60%;
-}
+<h3> Ziel/Zweck der Hochschulgruppe: </h3>
 
-.button6 {background-color: #4CAF50;} /* Green */
+Die Hochschulgruppe "Students for Future Landau" soll die Verbindung von Fridays for Future Landau und der Uni Landau aufbauen und Klimaschutz im Kontext Uni stärken. Es ist leider immer noch wichtig wissenschaftliches Wissen zu Klimawandel und dazugehörigen Themen an die Politik und in die Bevölkerung zu tragen. Dies kann, mit Veranstaltungen und Aktionen in und mit der Uni, fachlich korrekt umgesetzt werden. Hierzu wollen wir die Scientist for Future Landau wiederbeleben und eine Plattform für Informationsvermittlung zu den Themen Klimaschutz, Artenschutz, Demokartie und Frieden schaffen. 
 
-</style>  
-  
-<a class="button6" href="https://fridaysforfuture-landau.de/sff"
-       target="" style="color: white" >Mehr Infos</a> <br>
+"Students for Future Landau" soll Studentinnen die Möglichkeit geben sich in einem sicheren Umfeld in den Aktivismus einzuleben. Egal aus welchem Fachbereich können Studentinnen ihr Wissen und ihre Interessen einbringen und für die Zukunft stärken. Denn auch nach der Uni können sie sich im Aktivismus weiter als Scientist for Future, Teachers for Future oder Psychologists for Future einbringen. Durch die Teilnahme oder Organisation an/von Veranstaltungen können sie ihr Können und Arbeitsbereich erproben, erweitern und optimieren.
 
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<br>
+Zukünftig sind von Fridays for Future in Schulen Klima-Workshops geplant. Hierfür erhoffen wir uns Interesse und Unterstützung von Student*innen der Lehramtsstudiengäng. Für Menschen auf Demos und im Alltag wollen wir zusammen mit den Psychologists for Future Konzepte und Aktionen entwickeln um Menschen mit Klima-Zukunftsängste zu unterstützen. Aber auch alle anderen Fachbereiche bieten mit uns als Plattform gutes Wissen und Möglichkeit für Aktionen und Veranstaltungen.
+
+<b> Aktuelle Projekte </b> <br>
+Unser aktuell größtes Projekt ist die Einführung eines PBU Konzepts in den Uni-Mensen. PBU bedeutet Plant-Based Universities und verfolgt eine langsame Steigerung des Anteils des pflanzlich basierten Ernährungsangebots in den Mensen. Hierfür haben wir bereits Feedback und Unterschriften von den Studierenden gesammelt und sind aktuell in Gesprächen mit dem Studierenden Werk für eine mögliche Umsetzung. <br>
+
+Wenn du mit machen möchtest oder Fragen hast, dann melde dich gerne per Email: hsg-students4f@edu.rptu.de oder auf Instagram @klimastreiklandau.
+
+<b>Students For Future Deutschland</b>
+<a href="/assets/StudentsforFuture/Selbstverst%C3%A4ndnis%20der%20AG%20Studierende.pdf" target="_blank"> Aktuelles Selbstverständnis </a> Students for Future Deutschland
 
 <h2> Spenden </h2>
-Keine Kapazitäten oder Zeit zum mitorganisieren, aber trotzdem Lust uns zu unterstützen? Wir haben jetzt seit kurzem die Möglichkeit über ein Konto Spenden entgegen nehmen zu können. Hier sammeln wir Geld für anstehende Aktionen und Klimastreiks für die wir Materialkosten haben, für Künstlerauftritte bei unseren Aktionen und notwendige Anschaffungen. Wir würden uns über eine Spende freuen :) 
+Keine Kapazitäten oder Zeit zum mitorganisieren, aber trotzdem Lust uns zu unterstützen? Wir haben die Möglichkeit über ein Konto Spenden entgegen nehmen zu können. Hier sammeln wir Geld für anstehende Aktionen und Klimastreiks für die wir Materialkosten haben, für Künstlerauftritte bei unseren Aktionen und notwendige Anschaffungen. Wir würden uns über eine Spende freuen :) <br>
 
 <style>
 .button5 {
