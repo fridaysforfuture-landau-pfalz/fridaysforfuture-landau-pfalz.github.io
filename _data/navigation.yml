@@ -77,9 +77,23 @@ presse:
  #       url: "/assets/pdf/Statement_zum_Antrag_der_PEARL_OEUFS_MODERY_Fridays_for_Future_Landau.pdf"
 
 aktion:
+  - title: "Aktionen 2025"
+    children: 
+      - title: "- Klimastreik Bundestagswahl 14.02."
+  - title: "Aktionen 2024"
+    children: 
+      - title: "- Klimafestival 2024 Landau"
+      - title: "- Landauer Zukuftsraum am 07.07."
+        url: "https://fridaysforfuture-landau.de/veranstaltung/2024/07/01/Zukunftspakt.html"
+      - title: "- Klimaklage"
+        url: "https://fridaysforfuture-landau.de/aktion/2024/06/27/Klimaklage.html"
+      - title: "- Europaweiter Klimastreik 31.05."
+        url: "https://fridaysforfuture-landau.de/demo/2024/06/01/R%C3%BCckblick-Europastreik-31.05.html"
+      - title: "- Wir fahren Zusammen 01.03."
+        url: "https://fridaysforfuture-landau.de/demo/2024/03/01/R%C3%BCckblick-Wir-fahren-zussammen.html"
   - title: "Aktionen 2023"
     children:
-      - title: "Globaler Klimastreik 15.09."
+      - title: "- Globaler Klimastreik 15.09."
         url: "https://fridaysforfuture-landau.de/demo/2023/09/16/R%C3%BCckblick-GK-15.09.html"
       - title: "- Sommerferien Klimazeugnis Demo "
         url: "https://fridaysforfuture-landau.de/demo/2023/07/14/Midsummer-Demo.html"
