@@ -107,7 +107,7 @@ Hier findest du Ideen für Demosprüche, Vorschläge für dein nächstes Demopla
 
 <a name="Sprüche"> </a>
 
-<h2> Rufe: </h2> <br>
+<h2> Rufe: </h2>
 
 Ein PDF zum <a href="https://fridaysforfuture-landau.de/assets/Demos/GK%2003.03.23/Lieder%20und%20Rufe%20DINA5.pdf" target="_blank"> Download </a> der Sprüche findest du hier.
 
