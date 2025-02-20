@@ -2,6 +2,7 @@
 title:  "Material"
 layout: single
 permalink: /material
+classes: wide
 
 sidebar:
   title: "Downloads"
@@ -153,7 +154,7 @@ Hier findest du Ideen für Demosprüche, Vorschläge für dein nächstes Demopla
   
 <a name="Demoschilder"> </a>
   <b> Demoschilder: </b> <br>
-  {% include gallery layout="half" %}
+  {% include gallery layout="third" %}
   
   <p> </p>
   <p> </p>
