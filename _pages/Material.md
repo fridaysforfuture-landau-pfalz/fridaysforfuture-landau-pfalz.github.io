@@ -162,10 +162,13 @@ Ein PDF zum <a href="https://fridaysforfuture-landau.de/assets/Demos/GK%2003.03.
   <p> </p>
   
 <h2> Lieder: </h2>
-<p> Wehrt euch, leistet Widerstand gegen die Braunkohle hier im Land! Alle auf die Straßen, alle auf die Straßen! (Melodie: Hejo, Spann den Wagen an) </p>
-<p> Hey du, wir leisten Widerstand, für eine echte Energiewende im Land, kommt, geht auf die Straßen, kommt, geht auf die Straßen! (Melodie: Hejo, Spann den Wagen an)
+<p> Wehrt euch, leistet Widerstand gegen die Braunkohle hier im Land! Alle auf die Straßen, alle auf die Straßen! <span style="color: gray;">(Melodie: Hejo, Spann den Wagen an)</span> </p>
+
+<p> Hey du, wir leisten Widerstand, für eine echte Energiewende im Land, kommt, geht auf die Straßen, kommt, geht auf die Straßen! <span style="color: gray;">(Melodie: Hejo, Spann den Wagen an)</span> </p>
+
 <p> Where ever I go, People want know, Who we are, What we do, So we tell them, We are the people, Who save the climate, save save save the climate </p>
-<p> Yesterday, climate troubles seemed so far away, but today, we have to act and say: coal mining has to fade away, Yesterday we did still believe and pray, that your deals would work and lead the way, but now the years have passed away (Melodie: Yesterday-Beatles) </p>
+
+<p> Yesterday, climate troubles seemed so far away, but today, we have to act and say: coal mining has to fade away, Yesterday we did still believe and pray, that your deals would work and lead the way, but now the years have passed away <span style="color: gray;">(Melodie: Yesterday-Beatles)</span> </p>
   
   <p> </p> 
   
