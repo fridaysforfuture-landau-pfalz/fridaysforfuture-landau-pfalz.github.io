@@ -128,6 +128,34 @@ Hier findest du Ideen für Demosprüche, Vorschläge für dein nächstes Demopla
   <p> </p>
   
 <b> Ruf und Antwort:  </b>  <br>
+<p>What do we want?! <b style="color: darkgreen;">CLIMATE JUSTICE!</b> When do we want it?! <b style="color: darkgreen;">NOW!</b></p>
+
+<p>Wie lautet die Parole?! <b style="color: darkgreen;">WIR BRAUCHEN KEINE KOHLE!</b></p>
+
+<p>Solid as a rock – <b style="color: darkgreen;">SOLID AS A ROCK</b> – rooted as a tree – <b style="color: darkgreen;">ROOTED AS A TREE</b> – we are here – <b style="color: darkgreen;">WE ARE HERE</b> – standing strong – <b style="color: darkgreen;">STANDING STRONG</b> – in our rightful place – <b style="color: darkgreen;">IN OUR RIGHTFUL PLACE</b></p>
+
+<p>Power to the people – <b style="color: darkgreen;">POWER TO THE PEOPLE</b> – people get the power – <b style="color: darkgreen;">PEOPLE GET THE POWER</b> – tell me can you feel it – <b style="color: darkgreen;">TELL ME CAN YOU FEEL IT</b> – getting stronger by the hour – <b style="color: darkgreen;">GETTING STRONGER BY THE HOUR</b> – power – <b style="color: darkgreen;">POWER</b></p>
+
+<p>Wat wollen wa? - <b style="color: darkgreen;">Klimagerechtigkeit!</b> - Und wann wollen wir die? - <b style="color: darkgreen;">Jetzt und zwar zack zack!</b></p>
+
+<p>Whose streets?! <b style="color: darkgreen;">OUR STREETS!</b></p>
+
+<p>Kohlekonzerne – <b style="color: darkgreen;">KOHLEKONZERNE</b> – Bagger in der Ferne – <b style="color: darkgreen;">BAGGER IN DER FERNE</b> – Zerstören unsre Umwelt – <b style="color: darkgreen;">ZERSTÖREN UNSRE UMWELT</b> – Nur fürn Batzen Geld – <b style="color: darkgreen;">NUR FÜRN BATZEN GELD</b> – Drum lasst uns in die Zukunft sehen – <b style="color: darkgreen;">DRUM LASST UNS IN DIE ZUKUNFT SEHN</b> – Erneuerbare Energien – <b style="color: darkgreen;">ERNEUERBARE ENERGIEN</b></p>
+
+<p>I say Climate, you say Justice – Climate – <b style="color: darkgreen;">JUSTICE</b></p>
+
+<p>Ich sag Klima, ihr sagt Schutz – Klima – <b style="color: darkgreen;">SCHUTZ</b></p>
+
+<p>Ich sag Kohle, ihr sagt Stopp – Kohle – <b style="color: darkgreen;">STOPP</b></p>
+
+<p>Gib mir ein R – <b style="color: darkgreen;"> R </b> – Gib mir ein W – <b style="color: darkgreen;"> W </b> – Gib mir ein E – <b style="color: darkgreen;"> E </b> - was ist das? – <b style="color: darkgreen;">SCHEIẞE!</b></p>
+
+<p>Tell me what does democracy look like? – <b style="color: darkgreen;">THIS IS WHAT DEMOCRACY LOOKS LIKE</b></p>
+
+<p>1,2,3,4 für das Klima kämpfen wir – <b style="color: darkgreen;"> 1,2,3,4 FÜR DAS KLIMA KÄMPFEN WIR</b> – 5,6,7,8 RWE wird platt gemacht – <b style="color: darkgreen;"> 5,6,7,8 RWE WIRD PLATT GEMACHT</b> – 9 und 10 der Klimakampf muss weiter gehen – <b style="color: darkgreen;"> 9 und 10 DER KLIMAKAMPF MUSS WEITER GEHEN</b></p>
+
+<p>1,2,3,4 für das Klima sind wir hier – <b style="color: darkgreen;">1,2,3,4 FÜR DAS KLIMA SIND WIR HIER</b> – 5,6,7,8 Klimaschützi an die Macht – <b style="color: darkgreen;">5,6,7,8 KLIMASCHÜTZI AN DIE MACHT</b> – 9, 10 der Widerstand muss weiter gehen – <b style="color: darkgreen;">9 und 10 DER WIDERSTAND MUSS WEITER GEHEN</b></p>
+
 <li> What do we want?! CLIMATE JUSTICE! When do we want it?! NOW!
 <li> Wie lautet die Parole?! WIR BRAUCHEN KEINE KOHLE!
 <li> Solid as a rock – SOLID AS A ROCK – rooted as a tree – ROOTED AS A TREE – we are here – WE ARE HERE – standing strong – STANDING STRONG – in our rightful place – IN OUR RIGHTFUL PLACE
@@ -138,17 +166,10 @@ Hier findest du Ideen für Demosprüche, Vorschläge für dein nächstes Demopla
   <p> </p>
   
 <b> Lieder:  </b> <br>
-<li> Wehrt euch, leistet Widerstand gegen die Braunkohle hier im Land! Alle auf die Straßen, alle auf die Straßen! (Melodie: Hejo, Spann den Wagen an)
-<li> Hey du, wir leisten Widerstand, für eine echte Energiewende im Land, kommt, geht auf die Straßen, kommt, geht auf die Straßen! (Melodie: Hejo, Spann den Wagen an)
-<li> Where ever I go, <br>
-     People want know, <br>
-     Who we are, <br>
-     What we do, <br>
-     So we tell them, <br>
-     We are the people, <br>
-     Who save the climate, <br>
-     save save save the climate <br> 
-<li> Yesterday, climate troubles seemed so far away, but today, we have to act and say: coal mining has to fade away, Yesterday we did still believe and pray, that your deals would work and lead the way, but now the years have passed away (Melodie: Yesterday-Beatles) <br>  
+<p> Wehrt euch, leistet Widerstand gegen die Braunkohle hier im Land! Alle auf die Straßen, alle auf die Straßen! (Melodie: Hejo, Spann den Wagen an) </p>
+<p> Hey du, wir leisten Widerstand, für eine echte Energiewende im Land, kommt, geht auf die Straßen, kommt, geht auf die Straßen! (Melodie: Hejo, Spann den Wagen an)
+<p> Where ever I go, People want know, Who we are, What we do, So we tell them, We are the people, Who save the climate, save save save the climate </p>
+<p> Yesterday, climate troubles seemed so far away, but today, we have to act and say: coal mining has to fade away, Yesterday we did still believe and pray, that your deals would work and lead the way, but now the years have passed away (Melodie: Yesterday-Beatles) </p>
   
   <p> </p> 
   
