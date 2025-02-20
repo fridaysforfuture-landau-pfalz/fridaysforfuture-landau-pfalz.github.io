@@ -107,7 +107,10 @@ Hier findest du Ideen für Demosprüche, Vorschläge für dein nächstes Demopla
 
 <a name="Sprüche"> </a>
 
-<b> Rufe: <a href="https://fridaysforfuture-landau.de/assets/Demos/GK%2003.03.23/Lieder%20und%20Rufe%20DINA5.pdf" target="_blank"> Download </a> </b> <br>
+<h2> Rufe: </h2> <br>
+
+Ein PDF zum <a href="https://fridaysforfuture-landau.de/assets/Demos/GK%2003.03.23/Lieder%20und%20Rufe%20DINA5.pdf" target="_blank"> Download </a> der Sprüche findest du hier.
+
 <li> Wir sind hier! Wir sind laut, weil ihr uns die Zukunft klaut!
 <li> Streik in der Schule! Streik im Betrieb! Das ist unsre Antwort auf eure Politik!
 <li> Wer nicht hüpft der ist für Kohle, hey, hey!
@@ -156,16 +159,9 @@ Hier findest du Ideen für Demosprüche, Vorschläge für dein nächstes Demopla
 
 <p>1,2,3,4 für das Klima sind wir hier – <b style="color: darkgreen;">1,2,3,4 FÜR DAS KLIMA SIND WIR HIER</b> – 5,6,7,8 Klimaschützi an die Macht – <b style="color: darkgreen;">5,6,7,8 KLIMASCHÜTZI AN DIE MACHT</b> – 9, 10 der Widerstand muss weiter gehen – <b style="color: darkgreen;">9 und 10 DER WIDERSTAND MUSS WEITER GEHEN</b></p>
 
-<li> What do we want?! CLIMATE JUSTICE! When do we want it?! NOW!
-<li> Wie lautet die Parole?! WIR BRAUCHEN KEINE KOHLE!
-<li> Solid as a rock – SOLID AS A ROCK – rooted as a tree – ROOTED AS A TREE – we are here – WE ARE HERE – standing strong – STANDING STRONG – in our rightful place – IN OUR RIGHTFUL PLACE
-<li> Power to the people – POWER TO THE PEOPLE – people get the power – PEOPLE GET THE POWER – tell me can you feel it – TELL ME CAN YOU FEEL IT – getting stronger by the hour – GETTING STRONGER BY THE HOUR – power – POWER
-<li> Wat wollen wa? - Klimagerechtigkeit! - Und wann wollen wir die? - Jetzt und zwar zack zack!
-<li> Whose streets?! OUR STREETS! <br>
-
   <p> </p>
   
-<b> Lieder:  </b> <br>
+<h2> Lieder: </h2>
 <p> Wehrt euch, leistet Widerstand gegen die Braunkohle hier im Land! Alle auf die Straßen, alle auf die Straßen! (Melodie: Hejo, Spann den Wagen an) </p>
 <p> Hey du, wir leisten Widerstand, für eine echte Energiewende im Land, kommt, geht auf die Straßen, kommt, geht auf die Straßen! (Melodie: Hejo, Spann den Wagen an)
 <p> Where ever I go, People want know, Who we are, What we do, So we tell them, We are the people, Who save the climate, save save save the climate </p>
@@ -174,7 +170,7 @@ Hier findest du Ideen für Demosprüche, Vorschläge für dein nächstes Demopla
   <p> </p> 
   
 <a name="Demoschilder"> </a>
-  <b> Demoschilder: </b> <br>
+<h2> Demoschilder: </h2>
   {% include gallery layout="third" %}
   
   <p> </p>
