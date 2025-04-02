@@ -88,7 +88,7 @@ Du hast Interesse an Veranstaltungen und Aktionen mit und um Fridays for Future 
 
 <p> </p>  
   
-oder direkt an info@fridaysforfuture-landau.de schreiben  
+oder direkt an info (at) fridaysforfuture-landau.de schreiben  
   
 <p> </p>
 
