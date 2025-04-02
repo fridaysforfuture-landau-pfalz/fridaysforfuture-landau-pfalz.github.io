@@ -74,7 +74,7 @@ Falls du auch etwas zu einer nachhaltigen, lebenswerten Zukunft beitragen willst
 <p> </p>  
   
 <h2>Unterstützen</h2>  
-Du möchtest dich an der Organisation von Demos oder Aktionen beteiligen, wissenschaftlichen Input in die Ortsgruppe tragen oder dich anders bei uns einbringen? Dann bist du herzlich eingeladen zu uns ins Plenum zu kommen. Aktuell machen wir unser Plenum jeden Donnerstag um 18:30 Uhr in der KHG (Molktestr. 9). Hab keine Angst, du musst nichts (an Wissen) mitbringen und kannst einfach mal vorbei gucken. Wir würden, für unsere Planung und falls sich Plenumszeiten mal ändern sollten, aber über eine Nachricht über Instagram, Whatsapp oder Email freuen. 
+Du möchtest dich an der Organisation von Demos oder Aktionen beteiligen, wissenschaftlichen Input in die Ortsgruppe tragen oder dich anders bei uns einbringen? Dann bist du herzlich eingeladen zu uns ins Plenum zu kommen. Aktuell machen wir unser Plenum jeden Donnerstag um 18 Uhr in der KHG (Molktestr. 9). Hab keine Angst, du musst nichts (an Wissen) mitbringen und kannst einfach mal vorbei gucken. Wir würden, für unsere Planung und falls sich Plenumszeiten mal ändern sollten, aber über eine Nachricht über Instagram, Whatsapp oder Email freuen. 
 
 <p> </p>
 
