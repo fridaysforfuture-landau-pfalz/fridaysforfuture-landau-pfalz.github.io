@@ -1,0 +1,39 @@
+---
+layout: single
+classes: 
+title:  "Rückblick Klimastreik 11.04."
+date:   2025-04-12 12:00:00 +0200
+categories: demo
+
+gallery:
+  - url: assets/Demos/2025.04.11 Klimastreik/Bild Banner.png
+    image_path: assets/Demos/2025.04.11 Klimastreik/Bild Banner.png
+  - url: assets/Demos/2025.04.11 Klimastreik/Bild Demozug.png
+    image_path: assets/Demos/2025.04.11 Klimastreik/Bild Demozug.png
+  - url: assets/Demos/2025.04.11 Klimastreik/Bild Rede.png
+    image_path: assets/Demos/2025.04.11 Klimastreik/Bild Rede.png
+  - url: assets/Demos/2025.04.11 Klimastreik/Weltverteilungsspiel 1.png
+    image_path: assets/Demos/2025.04.11 Klimastreik/Weltverteilungsspiel 1.png
+  - url: assets/Demos/2025.04.11 Klimastreik/Weltverteilungsspiel 2.png
+    image_path: assets/Demos/2025.04.11 Klimastreik/Weltverteilungsspiel 2.png
+  - url: assets/Demos/2025.04.11 Klimastreik/Weltverteilungsspiel 3.png
+    image_path: assets/Demos/2025.04.11 Klimastreik/Weltverteilungsspiel 3.png
+  - url: assets/Demos/2025.04.11 Klimastreik/Weltverteilungsspiel 4.png
+    image_path: assets/Demos/2025.04.11 Klimastreik/Weltverteilungsspiel 4.png
+---
+<b> Rückblick auf den Klimastreik am 11. April in Landau: „Don’t sell our future“ </b> <br>
+
+Am Freitag, den 11. April 2025, folgten rund 100 Menschen dem Aufruf des Klimastreik Landau zur Teilnahme an der bundesweiten Klimastreikaktion unter dem Motto „Don’t sell our future – Verkauft unsere Zukunft nicht“. Die Demonstration begann um 17 Uhr auf dem Stiftsplatz und setzte ein klares Zeichen gegen klimapolitische Untätigkeit – laut, sichtbar und entschlossen. <br>
+
+Bereits zu Beginn wurde deutlich: Der Klimastreik war mehr als ein Protest – er war ein solidarisches Zusammenkommen für globale Gerechtigkeit. Im Rahmen eines interaktiven Weltverteilungsspiels wurde eindrucksvoll gezeigt, wie ungleich Ressourcen und Verantwortung in der Klimakrise verteilt sind. Während reiche Industrienationen weiterhin den größten Teil der Emissionen verursachen, leiden Menschen im Globalen Süden bereits heute massiv unter den Folgen – wie Dürren, Überschwemmungen und Vertreibung. <br>
+
+Um 18 Uhr setzte sich der Demozug durch die Innenstadt in Bewegung. Mit Schildern, Rufen und Musik machten die Teilnehmenden deutlich: Unsere Zukunft ist keine Verhandlungsmasse für fossile Interessen. Die Zwischenkundgebung bot Raum für inhaltliche Beiträge – unter anderem mit einer engagierten Rede von Attac, die die globalen Machtverhältnisse und ökonomische Ungleichheiten in den Mittelpunkt stellte. <br>
+
+Zurück auf dem Stiftsplatz klang die Aktion mit einer kraftvollen Abschlussrede von Greenpeace Landau aus. Auch hier wurde betont: Die Klimakrise ist nicht nur ein ökologisches Problem, sondern eine Frage von globaler Gerechtigkeit, kolonialer Kontinuität und sozialer Verantwortung. <br>
+
+Angesichts weltweiter Rückschritte im Klimaschutz – vom Machtgewinn eines Klima-Leugners in den USA bis hin zur fortschreitenden Zerstörung des Amazonas – war die Botschaft der Demonstration unmissverständlich: Wir lassen nicht zu, dass unsere Zukunft verkauft wird. <br>
+
+Wir waren laut – und wir bleiben laut. Für eine klimagerechte Welt. Für globale Solidarität. Für unsere gemeinsame Zukunft.
+
+<b> Ein paar Fotos von der Demo: </b>  <br>
+{% include gallery id="gallery" layout="half" %}
