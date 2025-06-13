@@ -2,7 +2,7 @@
 layout: single
 classes: 
 title:  "Midsummerdemo 18.07."
-date:   2025-06-01 12:00:00 +0200
+date:   2025-08-01 12:00:00 +0200
 categories: demo
 classes: wide
 ---
