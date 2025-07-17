@@ -24,4 +24,16 @@ In den ersten 100 Tagen ihrer Amtszeit muss diese Regierung zeigen, dass sie der
 
 Es ist klar, was es jetzt braucht. Doch wir wissen auch, ohne unseren Druck, wird Merz und seine Regierung weder in den nächsten 100 Tagen noch in den nächsten Jahren ausreichend Klimaschutz umsetzen. Deswegen werden wir laut und werden in den ersten 100 Tagen der neuen Regierung 100 Aktionen organisieren. <br>
 
+<h2> Route </h2>
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/2025.07.18%20Midsummer/Route%20Demo%2018.06.25.png?raw=true" hspace=20 vspace=20 height="100%" width="50%">
 
+<h2> Programm </h2>
+16:00 Demostart <br>
+16:00 Rede Santiago <br>
+16:15 Rede FFF vor CDU Zukunftsbüro <br>
+Demozug <br>
+16:45 Rede FFF vor SPD Büro <br>
+17:30 Ende im Goethepark 
+<ul>
+  <li>entspannter Ausklang mit Band und Kuchen</li>
+</ul>
