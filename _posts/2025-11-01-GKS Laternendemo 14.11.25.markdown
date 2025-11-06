@@ -24,7 +24,7 @@ Für eine Welt auf der Menschen keine Angst haben müssen ihre Existenz zu verli
 Für eine Klimagerechte Zukunft!  <br>
 
 <h2> Laternen </h2>
-<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/2025.11.14%20Laternendemo/SharePic%20Basteln%2014.11..png?raw=true" hspace=20 vspace=20 height="50%" width="50%">
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/2025.11.14%20Laternendemo/SharePic%20Basteln%2014.11..png?raw=true" style="float: left; margin: 10px 20px 10px; hspace=20 vspace=20 height="50%" width="50%">
 
 Da die Demo eine Laternendemo ist, bitten wir euch alle eine Laterne mitzubringen. Wenn ihr keine habt, kommt gerne zum Laternen-Basteln am 06.11. um 18 Uhr in die Molktestraße 9. Wir haben alle Materialen da zum basteln - du musst also nur vorbei kommen :) <br>
 
