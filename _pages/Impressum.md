@@ -11,13 +11,8 @@ Klimastreik Landau <br>
 Teil der for Future Bewegung <br>
 
 Name: Tim-Martin Melchert <br>
-Anschrift: <br>
-<p style="margin-left:30px;">
-Waffenstraße 30 <br>
-76829, Landau in der Pfalz <br>
-</p> 
-
-info@fridaysforfuture-landau.de <br>
+Anschrift: auf Anfrage <br>
+info[at]fridaysforfuture-landau.de <br>
 
 <b>Haftung für Inhalte</b> <br>
 Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.
