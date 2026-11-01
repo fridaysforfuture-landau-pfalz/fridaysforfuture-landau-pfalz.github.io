@@ -8,13 +8,16 @@ permalink: /datenschutz
 
 ## 1. Verantwortlich
 
-Verantwortlich für die Datenverarbeitung auf dieser Webseite ist die im [Impressum](/kontakt/impressum) genannte Person.
-Kontakt: info[at]fridaysforfuture-landau.de
+Verantwortlich für die Datenverarbeitung auf dieser Webseite ist:
+
+Tim-Martin Melchert<br>
+Waffenstraße 30, 76829 Landau in der Pfalz<br>
+E-Mail: info[at]fridaysforfuture-landau.de
 
 ## 2. Kurz gesagt
 
-- Wir setzen **keine Cookies** und nutzen **keine Analyse- oder Tracking-Werkzeuge**.
-- Videos von YouTube werden **erst nach deinem Klick** geladen.
+- Wir selbst setzen **keine Cookies** und nutzen **keine Analyse- oder Tracking-Werkzeuge**.
+- Videos von YouTube werden **erst geladen, wenn du zustimmst**: über das Banner („Videos erlauben“) oder per Klick auf ein einzelnes Video.
 - Daten, die du uns über das Kontaktformular schickst, nutzen wir nur, um dir zu antworten oder dich (wenn du das möchtest) in unseren E-Mail-Verteiler aufzunehmen.
 
 ## 3. Hosting (GitHub Pages)
@@ -30,13 +33,26 @@ Mehr dazu: [Datenschutz bei jsDelivr](https://www.jsdelivr.com/terms/privacy-pol
 
 ## 5. Kontaktformular (Formspree)
 
-Wenn du uns über das Kontaktformular schreibst, werden deine Angaben (E-Mail-Adresse, Betreff, Nachricht) über den Dienst Formspree (Formspree Inc., USA) an uns weitergeleitet. Wir nutzen die Daten nur, um deine Anfrage zu beantworten bzw. dich auf deinen Wunsch in unseren E-Mail-Verteiler aufzunehmen. Rechtsgrundlage ist deine Anfrage bzw. Einwilligung (Art. 6 Abs. 1 lit. a und b DSGVO). Du kannst dich jederzeit wieder aus dem Verteiler austragen lassen.
+Wenn du uns über das Kontaktformular schreibst, werden deine Angaben (E-Mail-Adresse, Betreff, Nachricht) über den Dienst Formspree (Formspree Inc., USA) an uns weitergeleitet. Wir nutzen die Daten nur, um deine Anfrage zu beantworten bzw. dich auf deinen Wunsch in unseren E-Mail-Verteiler aufzunehmen. Wir löschen sie, wenn deine Anfrage erledigt ist oder du dich aus dem Verteiler austrägst. Rechtsgrundlage ist deine Anfrage bzw. Einwilligung (Art. 6 Abs. 1 lit. a und b DSGVO). Du kannst dich jederzeit wieder aus dem Verteiler austragen lassen.
 Mehr dazu: [Datenschutzerklärung von Formspree](https://formspree.io/legal/privacy-policy).
 
-## 6. YouTube-Videos
+## 6. YouTube-Videos und deine Einwilligung
 
-Wir binden Videos von YouTube (Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland) im erweiterten Datenschutzmodus (youtube-nocookie.com) ein. Das Video wird erst geladen, wenn du auf „Video abspielen“ klickst. Erst dann werden Daten wie deine IP-Adresse an YouTube bzw. Google übertragen, und YouTube kann Cookies oder ähnliche Techniken auf deinem Gerät nutzen. Rechtsgrundlage ist deine Einwilligung durch den Klick (Art. 6 Abs. 1 lit. a DSGVO, § 25 Abs. 1 TDDDG).
+Wir binden Videos von YouTube (Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland) im erweiterten Datenschutzmodus (youtube-nocookie.com) ein. Ohne deine Zustimmung wird von YouTube nichts geladen.
+
+Du kannst auf zwei Wegen zustimmen:
+
+- **„Videos erlauben“** im Banner: Dann laden alle Videos auf dieser Webseite direkt.
+- **Klick auf „Video abspielen“**: Dann lädt nur dieses eine Video.
+
+Sobald ein Video geladen wird, werden Daten wie deine IP-Adresse an YouTube bzw. Google übertragen, auch in die USA. YouTube kann dann Cookies oder ähnliche Techniken auf deinem Gerät nutzen. Rechtsgrundlage ist deine Einwilligung (Art. 6 Abs. 1 lit. a DSGVO, § 25 Abs. 1 TDDDG). Google ist nach dem EU-US Data Privacy Framework zertifiziert.
+
+Deine Entscheidung speichern wir nur in deinem Browser (im sogenannten „localStorage“), damit das Banner nicht bei jedem Besuch erscheint. Sie wird nicht an uns übertragen. Das ist technisch notwendig (§ 25 Abs. 2 TDDDG).
 Mehr dazu: [Datenschutzerklärung von Google](https://policies.google.com/privacy).
+
+**Deine Einstellung ändern oder die Einwilligung widerrufen:**
+
+<div data-einwilligung-einstellung><p>Zum Ändern der Einstellung muss JavaScript aktiviert sein.</p></div>
 
 ## 7. Kalender (AktionsDeck Landau)
 

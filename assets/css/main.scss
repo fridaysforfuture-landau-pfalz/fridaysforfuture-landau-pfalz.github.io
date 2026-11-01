@@ -505,3 +505,50 @@ $link-color-visited: $fff-gruen;
 }
 
 .fff-termine-status { font-style: italic; }
+
+/* Heller Knopf (zweite Wahl) */
+.fff-btn--hell,
+.page__content .fff-btn--hell {
+  background-color: #fff;
+  color: $fff-gruen !important;
+  border: 2px solid $fff-gruen;
+
+  &:hover,
+  &:focus {
+    background-color: #eef5f0;
+    color: $fff-gruen-dunkel !important;
+  }
+}
+
+/* Banner: Einwilligung für YouTube */
+.fff-einwilligung {
+  position: fixed;
+  left: 50%;
+  bottom: 16px;
+  z-index: 1000;
+  width: calc(100% - 32px);
+  max-width: 720px;
+  transform: translateX(-50%);
+  padding: 1em 1.2em;
+  border-radius: 14px;
+  background: #fff;
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.25);
+  border-top: 5px solid $fff-gruen;
+  font-size: 0.85em;
+
+  p { margin: 0 0 0.8em; }
+
+  .fff-einwilligung__knoepfe {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+
+    .fff-btn { flex: 1 1 12em; font-size: 1.05em; }
+  }
+}
+
+[data-einwilligung-einstellung] {
+  margin: 1em 0;
+
+  .fff-btn { font-size: 1em; margin: 0 8px 8px 0; }
+}
