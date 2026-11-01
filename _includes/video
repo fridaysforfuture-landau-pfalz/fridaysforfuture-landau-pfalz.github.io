@@ -1,0 +1,30 @@
+{%- comment -%}
+  Klimastreik Landau: ersetzt das Video-Include des Themes.
+  YouTube-Videos laden erst nach einem Klick (Zwei-Klick-Lösung). Vorher wird nichts von YouTube geladen,
+  deshalb braucht die Seite dafür keinen Cookie-Banner.
+  Verwendung: {% include video id="PiIOucdBwuI" provider="youtube" %}
+{%- endcomment -%}
+{%- if include.provider == "youtube" -%}
+<div class="fff-video" data-youtube="{{ include.id }}">
+  <button type="button" class="fff-video__laden">
+    <span class="fff-video__play" aria-hidden="true">▶</span>
+    <span class="fff-video__text"><b>Video abspielen</b><br>
+      Beim Abspielen wird das Video von YouTube (Google) geladen. Dabei werden Daten an YouTube übertragen.</span>
+  </button>
+  <a class="fff-video__link" href="https://www.youtube.com/watch?v={{ include.id }}" target="_blank" rel="noopener">Direkt auf YouTube ansehen</a> ·
+  <a class="fff-video__link" href="/datenschutz">Datenschutz</a>
+</div>
+{%- else -%}
+{% capture video_src %}
+  {% case include.provider %}
+  {% when "vimeo" %}https://player.vimeo.com/video/{{ include.id }}?dnt=true
+  {% when "google-drive" %}https://drive.google.com/file/d/{{ include.id }}/preview
+  {% endcase %}
+{% endcapture %}
+{% assign video_src = video_src | strip %}
+{% unless video_src == "" %}
+  <div class="responsive-video-container">
+    <iframe src="{{ video_src }}" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowfullscreen></iframe>
+  </div>
+{% endunless %}
+{%- endif -%}

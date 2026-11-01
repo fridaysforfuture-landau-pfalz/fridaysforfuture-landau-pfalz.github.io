@@ -37,7 +37,7 @@ sidebar:
 <li> Überarbeitung des Klimaschutzkonzepts mit Fristsetzung auf Basis des 1,5°C Ziels </li>
 </ol>
   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TBWXt9B0d5g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include video id="TBWXt9B0d5g" provider="youtube" %}
 
 <p> </p>
 
@@ -48,21 +48,21 @@ Zusätzlich zu unseren Forderungen an die Stadt Landau unterstützen wir die For
 <h1> Forderungen Fridays for Future Deutschland </h1>
 Fridays For Future fordert die Einhaltung der Ziele des Pariser Abkommens und des 1,5°C-Ziels. Explizit fordern wir für Deutschland: <br> 
 <ul>
-<li> Nettonull 2035 erreichen
-<li> Kohleausstieg bis 2030
-<li> 100% erneuerbare Energieversorgung bis 2035
-<li> Das Ende der Subventionen für fossile Energieträger
-<li> Eine CO2-Steuer auf alle Treibhausgasemissionen. Der Preis für den Ausstoß von Treibhausgasen muss schnell so hoch werden wie die Kosten, die dadurch uns und zukünftigen Generationen entstehen. Laut UBA sind das 180€ pro Tonne CO2
-</ul>  
+  <li>Nettonull 2035 erreichen</li>
+  <li>Kohleausstieg bis 2030</li>
+  <li>100% erneuerbare Energieversorgung bis 2035</li>
+  <li>Das Ende der Subventionen für fossile Energieträger</li>
+  <li>Eine CO2-Steuer auf alle Treibhausgasemissionen. Der Preis für den Ausstoß von Treibhausgasen muss schnell so hoch werden wie die Kosten, die dadurch uns und zukünftigen Generationen entstehen. Laut UBA sind das 180€ pro Tonne CO2</li>
+</ul>
 
 <b> Fridays for Future Deutschland fordert vor der Bundestagswahl 2025: </b> <br>
 <ul>
-<li> Klimaneutralität bis 2035
-<li> Gasausstieg bis 2035 mit klarem Plan
-<li> Besteuerung von Superreichen und fossilen Konzernen
-<li> Eine Mobilitäts- und Wärmegarantie für alle
-<li> Ein Fond für Klimaanpassung und Katastrophenhilfe
-<li> Jährlich 300.000 neue Jobs für die Klimawende
+  <li>Klimaneutralität bis 2035</li>
+  <li>Gasausstieg bis 2035 mit klarem Plan</li>
+  <li>Besteuerung von Superreichen und fossilen Konzernen</li>
+  <li>Eine Mobilitäts- und Wärmegarantie für alle</li>
+  <li>Ein Fond für Klimaanpassung und Katastrophenhilfe</li>
+  <li>Jährlich 300.000 neue Jobs für die Klimawende</li>
 </ul>
   
 <p> </p>

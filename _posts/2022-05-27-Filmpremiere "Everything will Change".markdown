@@ -63,7 +63,7 @@ futuristische Infrarotaufnahmen und Diskurse mit hochkarätigen Wissenschaftler*
 denen wir unsere eigene Gegenwart neu entdecken können. <br>
 
 <b>Trailer:</b>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F5apyctlbmQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include video id="F5apyctlbmQ" provider="youtube" %}
 
 <p></p> <br>
 

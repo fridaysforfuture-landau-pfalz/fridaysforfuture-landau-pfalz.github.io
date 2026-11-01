@@ -1,6 +1,7 @@
 // Öffentliche Termine aus dem AktionsDeck Landau (https://fridaysforfuture-landau.de/aktionsdeck-landau/#/termine)
-// Holt die Termine ohne Login über dieselbe Schnittstelle wie die App und zeigt sie als Kacheln, nach Monat sortiert.
-// Verwendung: <div class="fff-termine" data-aktionsdeck-termine></div> und dieses Skript einbinden.
+// Holt die Termine ohne Login über dieselbe Schnittstelle wie die App und zeigt sie im Monatsraster,
+// darunter die Termine des Monats als Kacheln (antippen für Details).
+// Verwendung: <div class="fff-kalender" data-aktionsdeck-termine></div> und dieses Skript einbinden.
 // Freiwillig: data-gruppe="fff" zeigt nur die Termine einer Gruppe (Kurzname aus dem AktionsDeck).
 (function () {
   'use strict';
@@ -126,24 +127,108 @@
     return li;
   }
 
-  function zeichne(ziel, liste) {
+  function isoVon(j, m, t) {
+    return j + '-' + ('0' + (m + 1)).slice(-2) + '-' + ('0' + t).slice(-2);
+  }
+
+  // Monatsraster (Montag bis Sonntag) mit den Terminen, darunter die Termine des Monats als Kacheln
+  function zeichne(ziel, alle) {
+    var heute = heuteIso();
+    var start = { j: Number(heute.slice(0, 4)), m: Number(heute.slice(5, 7)) - 1 };
+    var stand = { j: start.j, m: start.m };
+
     ziel.textContent = '';
-    if (!liste.length) {
-      ziel.appendChild(el('p', 'fff-termine-status', 'Zurzeit sind keine öffentlichen Termine eingetragen.'));
-      return;
-    }
-    var monat = null;
-    var ul = null;
-    liste.forEach(function (t) {
-      var m = MONATE[Number(t.von.slice(5, 7)) - 1] + ' ' + t.von.slice(0, 4);
-      if (m !== monat) {
-        monat = m;
-        ziel.appendChild(el('h2', null, m));
-        ul = el('ul');
-        ziel.appendChild(ul);
+    var kopf = el('div', 'fff-kal-kopf');
+    var zurueck = el('button', null, '‹');
+    zurueck.type = 'button';
+    zurueck.setAttribute('aria-label', 'Vorheriger Monat');
+    var titel = el('h2');
+    titel.setAttribute('aria-live', 'polite');
+    var weiter = el('button', null, '›');
+    weiter.type = 'button';
+    weiter.setAttribute('aria-label', 'Nächster Monat');
+    kopf.appendChild(zurueck);
+    kopf.appendChild(titel);
+    kopf.appendChild(weiter);
+    var raster = el('div', 'fff-kal-raster');
+    var hinweis = el('p', 'fff-kal-leer');
+    var liste = el('ul');
+    var kasten = el('div', 'fff-termine');
+    kasten.appendChild(liste);
+    ziel.appendChild(kopf);
+    ziel.appendChild(raster);
+    ziel.appendChild(hinweis);
+    ziel.appendChild(kasten);
+
+    function monat() {
+      var erster = isoVon(stand.j, stand.m, 1);
+      var tage = new Date(stand.j, stand.m + 1, 0).getDate();
+      var letzter = isoVon(stand.j, stand.m, tage);
+      var imMonat = alle.filter(function (t) { return t.von <= letzter && t.bis >= erster; });
+
+      titel.textContent = MONATE[stand.m] + ' ' + stand.j;
+      zurueck.disabled = stand.j === start.j && stand.m === start.m;
+      zurueck.style.visibility = zurueck.disabled ? 'hidden' : '';
+
+      // Raster
+      raster.textContent = '';
+      ['Mo', 'Di', 'Mi', 'Do', 'Fr', 'Sa', 'So'].forEach(function (w) {
+        raster.appendChild(el('div', 'fff-kal-wt', w));
+      });
+      var versatz = (new Date(stand.j, stand.m, 1).getDay() + 6) % 7;
+      var zellen = Math.ceil((versatz + tage) / 7) * 7;
+      for (var i = 0; i < zellen; i++) {
+        var d = new Date(stand.j, stand.m, 1 - versatz + i);
+        var iso = isoVon(d.getFullYear(), d.getMonth(), d.getDate());
+        var zelle = el('div', 'fff-kal-tag');
+        if (d.getMonth() !== stand.m) zelle.classList.add('fff-kal-fremd');
+        if (iso === heute) zelle.classList.add('fff-kal-heute');
+        zelle.appendChild(el('span', 'fff-kal-nr', String(d.getDate())));
+        if (d.getMonth() === stand.m) {
+          imMonat.forEach(function (t, nr) {
+            if (t.von > iso || t.bis < iso) return;
+            var chip = el('button', 'fff-kal-termin', (t.zeitVon && t.von === iso ? t.zeitVon + ' ' : '') + t.titel);
+            chip.type = 'button';
+            chip.title = t.titel;
+            chip.style.background = t.farbe;
+            chip.style.color = schriftfarbe(t.farbe);
+            chip.addEventListener('click', function () {
+              var det = liste.querySelectorAll('details')[nr];
+              if (!det) return;
+              det.open = true;
+              det.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            });
+            zelle.appendChild(chip);
+          });
+        }
+        raster.appendChild(zelle);
       }
-      ul.appendChild(kachel(t));
+
+      // Liste darunter
+      liste.textContent = '';
+      imMonat.forEach(function (t) { liste.appendChild(kachel(t)); });
+      if (!alle.length) {
+        hinweis.textContent = 'Zurzeit sind keine öffentlichen Termine eingetragen.';
+        hinweis.hidden = false;
+      } else if (!imMonat.length) {
+        hinweis.textContent = 'In diesem Monat sind keine Termine eingetragen.';
+        hinweis.hidden = false;
+      } else {
+        hinweis.hidden = true;
+      }
+    }
+
+    zurueck.addEventListener('click', function () {
+      stand.m -= 1;
+      if (stand.m < 0) { stand.m = 11; stand.j -= 1; }
+      monat();
     });
+    weiter.addEventListener('click', function () {
+      stand.m += 1;
+      if (stand.m > 11) { stand.m = 0; stand.j += 1; }
+      monat();
+    });
+    monat();
   }
 
   function laden(ziel) {
