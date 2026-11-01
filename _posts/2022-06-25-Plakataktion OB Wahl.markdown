@@ -14,6 +14,8 @@ gallery:
     image_path: assets/Aktionen/Plakataktion 25.06.22/185221e8-e5b6-47b1-9ed6-82a8b0027ef7.jpg
   - url: assets/Aktionen/Plakataktion 25.06.22/b2de77b0-7b2a-431d-a777-55c87f9c5ef6.jpg
     image_path: assets/Aktionen/Plakataktion 25.06.22/b2de77b0-7b2a-431d-a777-55c87f9c5ef6.jpg
+aktion: true
+aktion_titel: "25.06. Plakataktion"
 ---
 
 

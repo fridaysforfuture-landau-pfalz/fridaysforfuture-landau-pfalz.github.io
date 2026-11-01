@@ -9,6 +9,8 @@ gallery:
   - url: 
     image_path: 
     
+aktion: true
+aktion_titel: "22.10.2021 Globaler Klimastreik"
 ---
 
 Diesen Klimastreik haben wir als landauer Ortsgruppe nach Karlsruhe und inbesondere nach Berlin mobilisiert, denn dieser sollte als Zentralstreik in Berlin stattfinden. 

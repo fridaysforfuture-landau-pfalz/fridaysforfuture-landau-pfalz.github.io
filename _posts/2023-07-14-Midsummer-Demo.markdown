@@ -22,6 +22,8 @@ gallery:
     image_path: assets/Demos/2023.07.14 Sommerferien-Demo/20230714-IMG_2743-vivalamovie.jpg
   - url: assets/Demos/2023.07.14 Sommerferien-Demo/20230714_161951.jpg
     image_path: assets/Demos/2023.07.14 Sommerferien-Demo/20230714_161951.jpg
+aktion: true
+aktion_titel: "Sommerferien Klimazeugnis Demo"
 ---
 Heute am 14.07 fand unsere Demo mit dem Thema: "Die Klimakrise geht nicht in den Sommerurlaub" statt. Mit 250 Menschen waren wir in Landau auf der Straße, um lokal und bundesweit konsequenten Klimaschutz zu fordern.
 Auf unserer Route durch Landau fand ein Die-In vor der Stiftskirche statt, um auf den Fakt aufmerksam zu machen, dass jetzt schon 60.000 Menschen pro Jahr in Deutschland an extremer Hitze sterben. Und handeln wir jetzt nicht, um den Klimawandel auszubremsen, werden es noch mehr werden.

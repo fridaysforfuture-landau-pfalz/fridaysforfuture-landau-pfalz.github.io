@@ -14,6 +14,8 @@ gallery:
   - url: assets/Aktionen/Pubquiz Cosmo 08.12.22/20221208_205704.jpg
     image_path: assets/Aktionen/Pubquiz Cosmo 08.12.22/20221208_205704.jpg
         
+aktion: true
+aktion_titel: "Pubquiz Biodiversität"
 ---
 
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Aktionen/Pubquiz%20Cosmo%2008.12.22/20221208_212014.jpg?raw=true" alt="Pubquiz Raum" style="float:right;"> <br>

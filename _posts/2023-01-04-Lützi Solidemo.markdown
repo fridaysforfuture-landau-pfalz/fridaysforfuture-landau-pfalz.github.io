@@ -38,7 +38,8 @@ gallery:
     image_path: assets/Demos/Tag X/signal-2023-01-14-22-46-46-820-6.jpg
   - url: assets/Demos/Tag X/signal-2023-01-14-22-46-46-820.jpg
     image_path: assets/Demos/Tag X/signal-2023-01-14-22-46-46-820.jpg
-
+aktion: true
+aktion_titel: "Solidemo Lützerath"
 --- 
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/Tag%20X/signal-2023-01-03-19-59-21-234.jpg?raw=true" alt="SharePic Solidemo" style="float:left;" hspace=20 height="50%" width="50%">
 

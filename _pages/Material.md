@@ -66,41 +66,10 @@ Hier findest du Ideen für Demosprüche, Vorschläge für dein nächstes Demopla
 
 <p> </p>
 
-<style>
-.button1 {
-  border: none;
-  color: white;
-  padding: 15px 15px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 24px;
-  margin: 4px 2px;
-  cursor: pointer;
-  width: 47%;
-}
-.button2 {
-  border: none;
-  color: white;
-  padding: 15px 15px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 24px;
-  margin: 4px 2px;
-  cursor: pointer;
-  width: 47%;
-}  
-  
-.button1 {background-color: #4CAF50;} /* Green */
-.button2 {background-color: #4CAF50;} /* Green */
-</style>
-
-<a class="button1" href="#Sprüche"
-       target="" style="color: white" >Sprüche</a>
-<a class="button2" href="#Demoschilder"
-       target="" style="color: white" >Demoschilder</a>
-       
+<div class="fff-buttons">
+  <a class="fff-btn" href="#Sprüche">Sprüche</a>
+  <a class="fff-btn" href="#Demoschilder">Demoschilder</a>
+</div>
   <p> </p>
 
 <hr>
@@ -111,6 +80,7 @@ Hier findest du Ideen für Demosprüche, Vorschläge für dein nächstes Demopla
 
 Ein PDF zum <a href="https://fridaysforfuture-landau.de/assets/Demos/GK%2003.03.23/Lieder%20und%20Rufe%20DINA5.pdf" target="_blank"> Download </a> der Sprüche findest du hier.
 
+<ul>
 <li> Wir sind hier! Wir sind laut, weil ihr uns die Zukunft klaut!
 <li> Streik in der Schule! Streik im Betrieb! Das ist unsre Antwort auf eure Politik!
 <li> Wer nicht hüpft der ist für Kohle, hey, hey!
@@ -126,7 +96,8 @@ Ein PDF zum <a href="https://fridaysforfuture-landau.de/assets/Demos/GK%2003.03.
 <li> Ist doch klar, die Zukunft ist solar!
 <li> Braunkohle killt das Klima-Aber Firmen finden’s prima!
 <li> Fahrradfahren ist nicht nur nur Hobby, nieder mit der Autolobby!
-<li> Wasser, Wind und Sonne: Kohle in die Tonne! <br>
+<li> Wasser, Wind und Sonne: Kohle in die Tonne!
+</ul>
   
   <p> </p>
   

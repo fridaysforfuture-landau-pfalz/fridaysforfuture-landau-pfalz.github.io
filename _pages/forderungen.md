@@ -10,60 +10,16 @@ sidebar:
     image_alt: "FfF Logo Landau"
     
 ---
-<div class="container">
-  <div class="row">
-    <div class="col-md-6 text-center mb-4 mb-md-0">
-      <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/Icon-Katalog-300x300.png?raw=true" alt="Icon Forderungskatalog">
-      <a class="button" href="https://fridaysforfuture-landau.de/assets/pdf/Forderungskatalog%20Stand%2001.01.23%20Klimastreik%20Landau%20und%20Brief.pdf" target="" style="color: white">Forderungskatalog 2023</a>
-    </div>
-    <div class="col-md-6 text-center mb-4 mb-md-0">
-      <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/V2%20Icon-Katalog-300x300.png?raw=true" alt="Icon Unterstüzter">
-      <a class="button" href="https://fridaysforfuture-landau.de/assets/pdf/Forderungskatalog%20Stand%2001.01.23%20Klimastreik%20Landau%20und%20Brief.pdf#page=18" target="" style="color: white">Unterstützer der Kernforderungen</a>
-    </div>
+<div class="fff-kacheln">
+  <div class="fff-kachel">
+    <img src="/assets/images/Webseite%20Bilder/Icon-Katalog-300x300.png" alt="Icon Forderungskatalog">
+    <a class="fff-btn" href="/assets/pdf/Forderungskatalog%20Stand%2001.01.23%20Klimastreik%20Landau%20und%20Brief.pdf" target="_blank" rel="noopener">Forderungskatalog 2023</a>
+  </div>
+  <div class="fff-kachel">
+    <img src="/assets/images/Webseite%20Bilder/V2%20Icon-Katalog-300x300.png" alt="Icon Unterstützer der Kernforderungen">
+    <a class="fff-btn" href="/assets/pdf/Forderungskatalog%20Stand%2001.01.23%20Klimastreik%20Landau%20und%20Brief.pdf#page=18" target="_blank" rel="noopener">Unterstützer der Kernforderungen</a>
   </div>
 </div>
-
-<style>
-  .container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    margin: 20px 0;
-    max-width: 100%;
-  }
-
-  .button {
-    border: none;
-    color: white;
-    padding: 10px 20px;
-    text-align: center;
-    text-decoration: none;
-    display: block;
-    font-size: 24px;
-    margin: 5px;
-    cursor: pointer;
-    background-color: #4CAF50;
-    width: auto;
-    max-width: 100%;
-  }
-
-  img {
-  max-width: 100%;
-  height: auto;
-}
- 
-  @media screen and (min-width: 768px) {
-    .container {
-      margin: 40px 0;
-    }
-
-    .col-md-6 {
-      flex: 0 0 calc(50% - 20px);
-      margin: 10px;
-    }
-  }
-</style>
-
 
 <b> Unsere Forderungen teilen sich in die Bereiche: </b>  Stadt, Energie, Bau, Mobilität <br> 
 
@@ -91,23 +47,23 @@ Zusätzlich zu unseren Forderungen an die Stadt Landau unterstützen wir die For
 
 <h1> Forderungen Fridays for Future Deutschland </h1>
 Fridays For Future fordert die Einhaltung der Ziele des Pariser Abkommens und des 1,5°C-Ziels. Explizit fordern wir für Deutschland: <br> 
-<p> </p>
+<ul>
 <li> Nettonull 2035 erreichen
 <li> Kohleausstieg bis 2030
 <li> 100% erneuerbare Energieversorgung bis 2035
 <li> Das Ende der Subventionen für fossile Energieträger
 <li> Eine CO2-Steuer auf alle Treibhausgasemissionen. Der Preis für den Ausstoß von Treibhausgasen muss schnell so hoch werden wie die Kosten, die dadurch uns und zukünftigen Generationen entstehen. Laut UBA sind das 180€ pro Tonne CO2
-
-<p> </p>  
+</ul>  
 
 <b> Fridays for Future Deutschland fordert vor der Bundestagswahl 2025: </b> <br>
-<p> </p>
+<ul>
 <li> Klimaneutralität bis 2035
 <li> Gasausstieg bis 2035 mit klarem Plan
 <li> Besteuerung von Superreichen und fossilen Konzernen
 <li> Eine Mobilitäts- und Wärmegarantie für alle
 <li> Ein Fond für Klimaanpassung und Katastrophenhilfe
-<li> Jährlich 300.000 neue Jobs für die Klimawende <br>
+<li> Jährlich 300.000 neue Jobs für die Klimawende
+</ul>
   
 <p> </p>
 

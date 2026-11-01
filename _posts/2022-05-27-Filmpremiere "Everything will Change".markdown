@@ -30,7 +30,8 @@ gallery:
     image_path: assets/Aktionen/Filmpremiere Everything will change/EWC_s_5_moviestill-CHERRY_Call©FlareFilm2021.jpg
   - url: assets/Aktionen/Filmpremiere Everything will change/EWC_s_7_moviestill-VintageMan©FlareFilm2021.jpg
     image_path: assets/Aktionen/Filmpremiere Everything will change/EWC_s_7_moviestill-VintageMan©FlareFilm2021.jpg
-
+aktion: true
+aktion_titel: "27.05. Filmpremiere EVERYTHING WILL CHANGE"
 ---
 
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Aktionen/Filmpremiere%20Everything%20will%20change/Header.png?raw=true" alt="Filmtitel Header" style="float:right;" hspace=20 vspace=20 height="100%" width="100%"> <br>

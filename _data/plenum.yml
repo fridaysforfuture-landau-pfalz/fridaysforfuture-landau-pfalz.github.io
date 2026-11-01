@@ -1,0 +1,8 @@
+# Termin fürs Plenum. Wird auf der Startseite und auf "Mitmachen" angezeigt.
+# Hier ändern, dann ändert es sich auf beiden Seiten.
+wochentag: "Donnerstag"
+uhrzeit: "18 Uhr"
+ort: "KHG"
+adresse: "Moltkestraße 9, 76829 Landau"
+# Freiwillig, steht vor dem Ort (z. B. "je nach Wetter im Garten oder in den Räumlichkeiten der"). Leer lassen mit ""
+zusatz: "je nach Wetter im Garten oder in den Räumlichkeiten der"

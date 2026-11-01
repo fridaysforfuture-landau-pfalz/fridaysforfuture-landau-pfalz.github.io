@@ -4,6 +4,8 @@ classes:
 title:  "Adventstürchen 12"
 date:   2021-12-12 12:00:00 +0200
 categories: Aktion
+aktion: true
+aktion_titel: "12.12.2021 Adventstürchen 12"
 ---
 
 Auch 2021 macht das Haus der Jugend Landau wieder die Aktion der Adventstürchen, bei der jeden Tag eine andere Gruppe eine Aktion oder ähnliches anbietet. Die Aktionen können ganz unterschiedlich ausfallen: Vom gemeinsamen Backen, über ein kleines Weihnachtskonzert, bis hin zum Vorlesen einer Weihnachtsgeschichte oder Bereitstellen einer Bastelanleitung. Die Täglichen Adventstürchen können auf der <a href="https://jufoelandau.com/veranstaltungen-und-angebote/landauer-adventstuerchen/" target="_blank" >Webseite</a> und dem <a href="https://www.instagram.com/hausderjugend_landauinderpfalz/" target="_blank" >Instagram-Account</a>  vom Haus der Jungend gefunden werden. <br>

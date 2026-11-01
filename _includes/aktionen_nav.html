@@ -1,0 +1,49 @@
+{%- comment -%}
+  Seitenleiste "Bisherige Aktionen" (Seite "Warum streiken wir?").
+  Füllt sich von selbst aus allen News-Beiträgen mit "aktion: true" im Kopf
+  und aus _data/aktionen.yml (Aktionen ohne Beitrag). Gruppiert nach Jahr, neueste zuerst.
+{%- endcomment -%}
+{%- assign aktion_posts = site.posts | where_exp: "p", "p.aktion == true" -%}
+{%- assign aktion_extra = site.data.aktionen | default: empty -%}
+{%- assign schluessel = "" -%}
+{%- for p in aktion_posts -%}
+  {%- capture k -%}{{ p.date | date: "%Y-%m-%d" }}~p~{{ forloop.index0 | prepend: "0000" | slice: -4, 4 }}{%- endcapture -%}
+  {%- assign schluessel = schluessel | append: k | append: "|" -%}
+{%- endfor -%}
+{%- for e in aktion_extra -%}
+  {%- capture k -%}{{ e.datum | date: "%Y-%m-%d" }}~d~{{ forloop.index0 | prepend: "0000" | slice: -4, 4 }}{%- endcapture -%}
+  {%- assign schluessel = schluessel | append: k | append: "|" -%}
+{%- endfor -%}
+{%- assign schluessel = schluessel | split: "|" | sort | reverse -%}
+
+<nav class="nav__list">
+  {% if include.title %}<h3 class="nav__title" style="padding-left: 0;">{{ include.title }}</h3>{% endif %}
+  <input id="ac-toc" name="accordion-toc" type="checkbox" />
+  <label for="ac-toc">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle Menu" }}</label>
+  <ul class="nav__items">
+  {%- assign jahr = "" -%}
+  {%- for k in schluessel -%}
+    {%- assign teile = k | split: "~" -%}
+    {%- assign j = teile[0] | slice: 0, 4 -%}
+    {%- assign i = teile[2] | plus: 0 -%}
+    {%- if teile[1] == "p" -%}
+      {%- assign eintrag = aktion_posts[i] -%}
+      {%- assign e_titel = eintrag.aktion_titel | default: eintrag.title -%}
+      {%- assign e_url = eintrag.url -%}
+    {%- else -%}
+      {%- assign eintrag = aktion_extra[i] -%}
+      {%- assign e_titel = eintrag.titel -%}
+      {%- assign e_url = eintrag.url -%}
+    {%- endif -%}
+    {%- if j != jahr -%}
+      {%- unless jahr == "" %}</ul></li>{% endunless %}
+      {%- assign jahr = j %}
+    <li>
+      <span class="nav__sub-title"><i class="far fa-calendar-alt" aria-hidden="true"></i>Aktionen {{ jahr }}</span>
+      <ul>
+    {%- endif %}
+        <li>{% if e_url and e_url != "" %}<a href="{{ e_url | relative_url }}"{% if e_url == page.url %} class="active"{% endif %}>{{ e_titel }}</a>{% else %}{{ e_titel }}{% endif %}</li>
+  {%- endfor -%}
+  {%- unless jahr == "" %}</ul></li>{% endunless %}
+  </ul>
+</nav>

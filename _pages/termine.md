@@ -6,9 +6,13 @@ class: wide
 ---
 <p> </p>
 
-<b> Veranstaltungen und Aktionen </b> <br>
-Hier finden Sie unsere Termine und Termine zu Umwelt- und Klimaschutzthemen, die interessant sein könnten.
+<div class="fff-kopfzeile">
+  <b>Veranstaltungen und Aktionen</b>
+  <a class="fff-btn" href="https://fridaysforfuture-landau.de/aktionsdeck-landau/#/termine" target="_blank" rel="noopener">Öffentlicher Kalender AktionsDeck Landau</a>
+</div>
 
-<p> </p>
+Hier findest du unsere Termine und Termine anderer Klima-Gruppen in Landau. Die Termine kommen direkt aus dem öffentlichen Kalender des AktionsDeck Landau. Tippe auf einen Termin für mehr Infos.
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=2&amp;bgcolor=%23cbffb3&amp;ctz=Europe%2FBerlin&amp;src=ZnJpZGF5c2ZvcmZ1dHVyZS5sYW5kYXVAZ21haWwuY29t&amp;color=%23039BE5&amp;showNav=1&amp;showPrint=0&amp;showCalendars=0&amp;showTz=0" style="border:solid 1px #777" width="100%" height="600" frameborder="0" scrolling="yes"></iframe>
+<div class="fff-termine" data-aktionsdeck-termine></div>
+
+<script src="{{ '/assets/js/aktionsdeck-termine.js' | relative_url }}" defer></script>

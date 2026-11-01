@@ -51,6 +51,8 @@ gallery:
     image_path: assets/Demos/Midsommerdemo 15.07.22/1024-1536 (4).jpg
   - url: assets/Demos/Midsommerdemo 15.07.22/1024-1536.jpg
     image_path: assets/Demos/Midsommerdemo 15.07.22/1024-1536.jpg
+aktion: true
+aktion_titel: "Midsummerdemo 15.07."
 ---
 
 Am 15.07 war unsere Midsummerdemo. Nach 2 Reden auf dem Rathausplatz ging es als Demozug einmal durch Landau. Das Ende war im Goethepark mit Kuchen, Livemusik, Moderation, Poetry Slam und Getränken. 

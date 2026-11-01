@@ -24,6 +24,8 @@ gallery:
     image_path: assets/Aktionen/Forderungskatalog 23 Vorstellung/IMG_0313.JPG
   - url: assets/Aktionen/Forderungskatalog 23 Vorstellung/IMG_0271.JPG
     image_path: assets/Aktionen/Forderungskatalog 23 Vorstellung/IMG_0271.JPG
+aktion: true
+aktion_titel: "Vorstellung Forderungskatalog 23"
 ---
 
 AM 10.02 haben wir unseren aktuallisierten Forderungskatalog offiziell an die Stadt Landau übergeben. Im Rahmen einer Veranstaltung zu der Vertreter\*in aller Parteien eingeladen waren, haben wir Domenik Geißler als Oberbürgermeister den Forderungskatalog offziell überreicht und haben anschließend mit den Vertreter\*innen über die verschiedenen Forderungsbereiche diskutiert. <br>

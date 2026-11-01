@@ -5,6 +5,8 @@ title:  "Midsummerdemo 18.07."
 date:   2025-06-20 12:00:00 +0200
 categories: demo
 classes: wide
+aktion: true
+aktion_titel: "Midsummerdemo 18.07."
 ---
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/2025.07.18%20Midsummer/SharePic%2018.07..png?raw=true" alt="SharePic Misummerdemo am 18.07." style="float:right;" hspace=20 vspace=20 height="50%" width="50%">
 

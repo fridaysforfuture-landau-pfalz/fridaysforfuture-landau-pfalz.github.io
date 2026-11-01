@@ -36,6 +36,8 @@ gallery:
     image_path: assets/Demos/GK 25.03.22/laufen 2.jpg
   - url: assets/Demos/GK 25.03.22/laufen 3.jpg
     image_path: assets/Demos/GK 25.03.22/laufen 3.jpg
+aktion: true
+aktion_titel: "25.03.2022 Globaler Klimastreik"
 --- 
 
 Am Freitag dem 25.03 war der erste globale Klimastreik des Jahres. In Landau waren 400 und deutschlandweit 220.000 Menschen auf der Straße um ein starkes Zeichen zusetzen, dass Menschenleben, Menschenrechte, Frieden, das Klima und Klimagerechtigkeit nicht über Profit und Machtinteressen gestellt werden sollten. Um dies klar zu machen waren auch in Landau alle Altersklassen auf der Straße um lautstark dafür einzutretten. <br>

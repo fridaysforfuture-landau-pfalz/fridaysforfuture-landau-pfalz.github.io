@@ -4,6 +4,8 @@ classes:
 title:  "Petition BildungsTicket für RLP"
 date:   2026-01-05 12:00:00 +0200
 categories: aktion
+aktion: true
+aktion_titel: "Petition BildungsTicket RLP"
 ---
 
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Aktionen/BildungsTicket/Petition.png?raw=true" alt="SharePic Laternendemo am 14.11." style="float:right;" hspace=20 vspace=20 height="50%" width="50%">

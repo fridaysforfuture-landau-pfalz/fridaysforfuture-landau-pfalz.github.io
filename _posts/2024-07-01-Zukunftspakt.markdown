@@ -4,6 +4,8 @@ classes:
 title:  "Landauer Zukuftsraum am 07.07."
 date:   2024-07-01 12:00:00 +0200
 categories: veranstaltung
+aktion: true
+aktion_titel: "Landauer Zukunftsraum am 07.07."
 ---
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Aktionen/2024.07.07%20Zukuftspakt/Fyler%20Seite%201.png?raw=true" alt="Flyer Zukuftspakt 07.07." style="float:right;" hspace=20 vspace=20 height="50%" width="50%">
 

@@ -4,6 +4,8 @@ classes:
 title:  "Müllsammelaktion"
 date:   2022-05-12 11:00:00 +0200
 categories: Aktion
+aktion: true
+aktion_titel: "21.05. Müllsammelaktion"
 ---
 
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/0ba77cd6-16bd-427e-a86b-111ac0396a33.jpg?raw=true" alt="SharePic Müllsammelaktion" style="float:right;" hspace=20 vspace=20 height="50%" width="50%">

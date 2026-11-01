@@ -30,7 +30,8 @@ gallery:
     image_path: assets/Demos/GK 24.09.21/DSC02525.JPG
   - url: assets/Demos/GK 24.09.21/DSC02205.jpg
     image_path: assets/Demos/GK 24.09.21/DSC02205.jpg
-
+aktion: true
+aktion_titel: "24.09.2021 Globaler Klimastreik"
 ---
 Am 24. September waren wir als Fridays for Future mit dem 8ten globalen Klimastreik auf den Straßen, um zwei Tage vor der Bundestagswahl die Bevölkerung noch mal an die Dringlichkeit, Klima zu wählen, zu erinnern. <br>
 <p></p>

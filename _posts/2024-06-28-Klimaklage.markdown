@@ -4,6 +4,8 @@ classes:
 title:  "Klimaklage"
 date:   2024-06-27 15:00:00 +0200
 categories: aktion
+aktion: true
+aktion_titel: "Klimaklage"
 ---
 ❗ Neue Klimaklage - und du wirst gebraucht ❗ <br>
 
