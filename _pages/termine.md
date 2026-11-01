@@ -1,18 +1,16 @@
 ---
-title:  "Termine"
-layout: splash
+title:  "Kalender"
+layout: single
 permalink: /termine
-class: wide
+classes: wide
+author_profile: false
 ---
-<p> </p>
 
 <div class="fff-kopfzeile">
-  <b>Veranstaltungen und Aktionen</b>
-  <a class="fff-btn" href="https://fridaysforfuture-landau.de/aktionsdeck-landau/#/termine" target="_blank" rel="noopener">Öffentlicher Kalender AktionsDeck Landau</a>
+  <span>Hier findest du unsere Termine und Termine anderer Klima-Gruppen in Landau. Sie kommen direkt aus dem öffentlichen Kalender des AktionsDeck Landau. Tippe auf einen Termin für mehr Infos.</span>
+  <a class="fff-btn" href="https://fridaysforfuture-landau.de/aktionsdeck-landau/#/termine" target="_blank" rel="noopener">Kalender im AktionsDeck</a>
 </div>
 
-Hier findest du unsere Termine und Termine anderer Klima-Gruppen in Landau. Die Termine kommen direkt aus dem öffentlichen Kalender des AktionsDeck Landau. Tippe auf einen Termin für mehr Infos.
-
-<div class="fff-termine" data-aktionsdeck-termine></div>
+<div class="fff-kalender" data-aktionsdeck-termine></div>
 
 <script src="{{ '/assets/js/aktionsdeck-termine.js' | relative_url }}" defer></script>

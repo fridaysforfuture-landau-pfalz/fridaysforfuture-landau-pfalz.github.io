@@ -81,22 +81,22 @@ Hier findest du Ideen für Demosprüche, Vorschläge für dein nächstes Demopla
 Ein PDF zum <a href="https://fridaysforfuture-landau.de/assets/Demos/GK%2003.03.23/Lieder%20und%20Rufe%20DINA5.pdf" target="_blank"> Download </a> der Sprüche findest du hier.
 
 <ul>
-<li> Wir sind hier! Wir sind laut, weil ihr uns die Zukunft klaut!
-<li> Streik in der Schule! Streik im Betrieb! Das ist unsre Antwort auf eure Politik!
-<li> Wer nicht hüpft der ist für Kohle, hey, hey!
-<li> Es gibt kein Recht auf Kohlebagger fahren!
-<li> Solidarität und Widerstand, Klimastreik in jedem Land!
-<li> We are unstoppable, another world is possible!
-<li> Change the system, not the climate!
-<li> Keep it in the ground! - - Keep it in the ground!
-<li> Hopp Hopp Hopp, Kohle stopp!
-<li> We have the solution, stop the pollution!
-<li> Say it loud, say it clear: Klimaschutz, jetzt und hier!
-<li> Keine Kohle für die Kohle!
-<li> Ist doch klar, die Zukunft ist solar!
-<li> Braunkohle killt das Klima-Aber Firmen finden’s prima!
-<li> Fahrradfahren ist nicht nur nur Hobby, nieder mit der Autolobby!
-<li> Wasser, Wind und Sonne: Kohle in die Tonne!
+  <li>Wir sind hier! Wir sind laut, weil ihr uns die Zukunft klaut!</li>
+  <li>Streik in der Schule! Streik im Betrieb! Das ist unsre Antwort auf eure Politik!</li>
+  <li>Wer nicht hüpft der ist für Kohle, hey, hey!</li>
+  <li>Es gibt kein Recht auf Kohlebagger fahren!</li>
+  <li>Solidarität und Widerstand, Klimastreik in jedem Land!</li>
+  <li>We are unstoppable, another world is possible!</li>
+  <li>Change the system, not the climate!</li>
+  <li>Keep it in the ground! - - Keep it in the ground!</li>
+  <li>Hopp Hopp Hopp, Kohle stopp!</li>
+  <li>We have the solution, stop the pollution!</li>
+  <li>Say it loud, say it clear: Klimaschutz, jetzt und hier!</li>
+  <li>Keine Kohle für die Kohle!</li>
+  <li>Ist doch klar, die Zukunft ist solar!</li>
+  <li>Braunkohle killt das Klima-Aber Firmen finden’s prima!</li>
+  <li>Fahrradfahren ist nicht nur nur Hobby, nieder mit der Autolobby!</li>
+  <li>Wasser, Wind und Sonne: Kohle in die Tonne!</li>
 </ul>
   
   <p> </p>

@@ -43,6 +43,8 @@ footer:
       url: "https://de-de.facebook.com/Klimastreiklandau/"
     - label: "Impressum"
       url: "https://fridaysforfuture-landau.de/kontakt/impressum"
+    - label: "Datenschutz"
+      url: "https://fridaysforfuture-landau.de/datenschutz"
     - label: "Kontakt"
       url: "https://fridaysforfuture-landau.de/kontakt"
     - label: "Fridays for Future DE"

@@ -5,16 +5,6 @@ permalink: /
 header:
   image: assets/Banner/Klimastreik Banner Klimastreifen.png
 ---
-<style>
-  .fff-video {
-    width: 100%;
-    max-width: 560px;
-    aspect-ratio: 16 / 9;
-    height: auto;
-    margin-bottom: 20px;
-  }
-</style>
-
 <div class="fff-buttons">
   <a class="fff-btn" href="/news">News</a>
   <a class="fff-btn" href="/mitmachen">Mitmachen</a>
@@ -22,7 +12,7 @@ header:
   <a class="fff-btn" href="https://opencollective.com/klimastreik-landau" target="_blank" rel="noopener">Spenden</a>
 </div>
 
-<iframe class="fff-video" width="560" height="315" src="https://www.youtube.com/embed/PiIOucdBwuI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include video id="PiIOucdBwuI" provider="youtube" %}
 
 <h2>Wer sind wir?</h2>
 
