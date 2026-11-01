@@ -20,6 +20,8 @@ gallery:
     image_path: assets/Aktionen/2023.06.30 Müllsammelaktion/signal-2023-07-01-180312_007_20230924_123530_0000.png
   - url: assets/Aktionen/2023.06.30 Müllsammelaktion/IMG_6640_20230924_123512_0000.jpg
     image_path: assets/Aktionen/2023.06.30 Müllsammelaktion/IMG_6640_20230924_123512_0000.jpg
+aktion: true
+aktion_titel: "Müllsammelaktion Juni 23"
 ---
 Am Freitag den 30.06.2023 waren wir unterwegs, um Landau ein bisschen von Müll zu befreien. Denn es ist zwar nicht unser Müll aber unser Planet. - und diesen sollten wir mit seiner ganzen Biodiversität erhalten so gut es geht. <br>
 

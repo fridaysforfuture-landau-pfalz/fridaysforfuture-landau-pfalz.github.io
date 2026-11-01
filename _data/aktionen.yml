@@ -1,0 +1,47 @@
+# Aktionen OHNE eigenen News-Beitrag für die Seitenleiste "Bisherige Aktionen" auf "Warum streiken wir?".
+#
+# Aktionen MIT News-Beitrag kommen automatisch in die Seitenleiste. Dafür im Kopf des Beitrags
+# (zwischen den beiden ---) diese Zeile ergänzen:
+#   aktion: true
+# Freiwillig ein kürzerer Name für die Seitenleiste:
+#   aktion_titel: "Klimastreik 11.04."
+#
+# Hier nur eintragen, was keinen Beitrag hat. datum bestimmt Jahr und Reihenfolge, url ist freiwillig.
+
+- titel: "Mahnwache COP29"
+  datum: 2024-11-15
+- titel: "Klimafestival 2024 Landau"
+  datum: 2024-08-24
+  url: /klimafestival
+- titel: "Spielabend statt Qatar"
+  datum: 2022-11-20
+- titel: "10.10.2020 Mahnwache Dannenröder Wald"
+  datum: 2020-10-10
+- titel: "25.09.2020 Globaler Klimastreik"
+  datum: 2020-09-25
+- titel: "19.09.2020 Müllsammelaktion"
+  datum: 2020-09-19
+- titel: "25.07.2020 Die In"
+  datum: 2020-07-25
+- titel: "10.07.2020 Parking Day"
+  datum: 2020-07-10
+- titel: "19.06.2020 Demo Landau"
+  datum: 2020-06-19
+- titel: "24.04.2020 Digitaler globaler Klimastreik #netzstreikfürsklima"
+  datum: 2020-04-24
+- titel: "20.03.2020 Emails löschen Aktion"
+  datum: 2020-03-20
+- titel: "06.03.2020 Kleidertauschparty"
+  datum: 2020-03-06
+- titel: "29.02.2020 Die In"
+  datum: 2020-02-29
+- titel: "14.02.2020 One billion Rising Tanz gegen Gewalt gegen Frauen"
+  datum: 2020-02-14
+- titel: "14.02.2020 Demo in Karlsruhe gegen Ölbohrung"
+  datum: 2020-02-14
+- titel: "31.01.2020 Demo Landau"
+  datum: 2020-01-31
+- titel: "17.01.2020 Mitte Süd-West Demo in Mainz"
+  datum: 2020-01-17
+- titel: "08.01.2020 #Stop Adani"
+  datum: 2020-01-08

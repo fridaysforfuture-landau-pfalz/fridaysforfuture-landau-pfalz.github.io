@@ -61,6 +61,8 @@ gallery:
   - url: assets/Demos/GK 23.09.22/IMG_9864.JPG
     image_path: assets/Demos/GK 23.09.22/IMG_9864.JPG   
  
+aktion: true
+aktion_titel: "Globaler Klimastreik 23.09."
 ---
 
 Am 23.09.22 war der 11te globale Klimastreik von Fridays for Future. Auch wir waren in Landau auf der Straße und forderten mit 300 Menschen ein klimagerechtes Landau ein. <br>

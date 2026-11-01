@@ -14,6 +14,8 @@ gallery:
     image_path: assets/Aktionen/Dezember Aktion 2021/20211217_164106.jpg
   - url: assets/Aktionen/Dezember Aktion 2021/20211217_170349.jpg
     image_path: assets/Aktionen/Dezember Aktion 2021/20211217_170349.jpg
+aktion: true
+aktion_titel: "17.12.2021 Dezember Aktion"
 ---
 
 Eindrücke von unserer Weihnachts-Dezember Aktion: <br>

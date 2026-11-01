@@ -4,6 +4,8 @@ classes:
 title:  "Earth Overshoot Day 2021"
 date:   2021-06-27 11:00:00 +0200
 categories: Aktion
+aktion: true
+aktion_titel: "29.07.2021 Earth Overshoot Day"
 ---
 
 Dieses Jahr ist der Earth Overshoot Day (der Erd-Überlastungs-Tag) am <b>29.07.</b>. Bedeutet ab diesem Tag sind die natürlichen Ressourcen, die die Erde innerhalb eines Jahres wiederherstellen und damit nachhaltig zur Verfügung stellen kann. <br>

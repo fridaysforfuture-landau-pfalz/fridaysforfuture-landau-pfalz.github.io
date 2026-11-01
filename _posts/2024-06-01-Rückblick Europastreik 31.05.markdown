@@ -44,6 +44,8 @@ gallery:
     image_path: assets/Demos/2024.05.31 EK/Buskers 4.jpg
     
     
+aktion: true
+aktion_titel: "Europaweiter Klimastreik 31.05."
 ---
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/2024.05.31%20EK/Die%20In%20.jpg?raw=true" alt="Bild Die-In" style="float:right;" hspace=20 vspace=20 height="50%" width="50%"> <br>
 

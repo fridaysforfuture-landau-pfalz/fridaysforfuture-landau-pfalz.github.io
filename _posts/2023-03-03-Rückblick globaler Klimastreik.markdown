@@ -28,6 +28,8 @@ gallery:
     image_path: assets/Demos/GK 03.03.23/IMG_0752.JPG
   - url: assets/Demos/GK 03.03.23/IMG_0570.JPG
     image_path: assets/Demos/GK 03.03.23/IMG_0570.JPG
+aktion: true
+aktion_titel: "Globaler Klimastreik 03.03."
 ---
 
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/GK%2003.03.23/IMG_20230306_191609_551.jpg?raw=true" alt="SharePic 03.03" style="float:right;" height="50%" width="50%">

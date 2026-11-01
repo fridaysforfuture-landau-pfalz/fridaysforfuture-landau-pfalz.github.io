@@ -18,6 +18,8 @@ gallery:
     image_path: assets/Demos/2023.07.08 B10 Demo/20230708_150543.jpg
   - url: assets/Demos/2023.07.08 B10 Demo/20230708_152208.jpg
     image_path: assets/Demos/2023.07.08 B10 Demo/20230708_152208.jpg
+aktion: true
+aktion_titel: "B10 Fahrraddemo"
 ---
 Am Samstag den 08.07.2023 waren wir in Landau bei der Fahrraddemo vom BUND Südpfalz dabei, um gegen den Ausbau der B10 zu demonstrieren. Mit 450 Menschen sind wir über die B10 nach Annweiler gefahren.  <br>
 

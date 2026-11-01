@@ -6,17 +6,17 @@ classes: wide
 
 sidebar:
   title: "Bisherige Aktionen"
-  nav: "aktion"
+  aktionen: true
 
 ---
 
-<b>WIR STREIKEN BIS IHR HANDELT!<b> <br>
+<b>WIR STREIKEN BIS IHR HANDELT!</b> <br>
 
   Das Pariser Abkommen ist die verbindliche Grundlage für effektive Klimaschutzmaßnahmen, die auf internationaler Zusammenarbeit basiert. Der aktuelle klimapolitische Kurs in Deutschland ist mit diesem Abkommen unvereinbar und muss durch ein auf der 1,5 °C-Grenze beruhendes Klimaschutzgesetz sowie eine zukunftsorientierte und nachhaltige Zusammenarbeit auf europäischer und globaler Ebene ersetzt werden. In dieser Politik muss sich der Gedanke der Klimagerechtigkeit widerspiegeln. Entscheidungen, die zu Lasten ärmerer Regionen und künftiger Generationen getroffen werden, sind inakzeptabel.
 
   <p> </p>
   
-Fridays For Future fordert die Regierungen auf Kommunal- Landes- und Bundesebene auf, die Klimakrise als solche zu benennen und sofortige Handlungsinitiative auf allen Ebenen zu ergreifen. Noch haben wir die Chance und damit die Verantwortung, eine Klimakatastrophe abzuwenden. Für den notwendigen Wandel müssen sektorübergreifend grundlegende Veränderungen stattfinden. Vor allem in den Sektoren Energieerzeugung, Wohnen und Bauen, Industrie, Transport und Verkehr sowie Landwirtschaft sind enorme Anstrengungen nötig. Das wirtschaftliche Handeln darf nicht weiterhin planetare Grenzen überschreiten.
+Fridays For Future fordert die Regierungen auf Kommunal-, Landes- und Bundesebene auf, die Klimakrise als solche zu benennen und sofortige Handlungsinitiative auf allen Ebenen zu ergreifen. Noch haben wir die Chance und damit die Verantwortung, eine Klimakatastrophe abzuwenden. Für den notwendigen Wandel müssen sektorübergreifend grundlegende Veränderungen stattfinden. Vor allem in den Sektoren Energieerzeugung, Wohnen und Bauen, Industrie, Transport und Verkehr sowie Landwirtschaft sind enorme Anstrengungen nötig. Das wirtschaftliche Handeln darf nicht weiterhin planetare Grenzen überschreiten.
 
   <p> </p>
   
@@ -24,7 +24,7 @@ Die Verwirklichung dieser Forderungen muss sozial verträglich gestaltet werden 
 
   <p> </p>
   
-Der Staat muss seiner Verantwortung gegen über der Umwelt und nachfolgenden Generationen im Sinne von Artikel 20a des Grundgesetzes und der Allgemeinen Erklärung der Menschenrechte gerecht werden.
+Der Staat muss seiner Verantwortung gegenüber der Umwelt und nachfolgenden Generationen im Sinne von Artikel 20a des Grundgesetzes und der Allgemeinen Erklärung der Menschenrechte gerecht werden.
 
   <p> </p>
   
@@ -32,7 +32,7 @@ Uns ist bewusst, dass diese Forderungen ambitioniert sind, doch wenn wir jetzt n
 
   <p> </p>
   
-Um eine Wende zu erreichen, die von der Gesellschaft mitgetragen werden kann, fordern wir absolute Transparenz und faktenbasierte Aufklärung für alle Bürger*innen. Alle getroffenen Maßnahmen müssen unabhängigen wissenschaftlichen Kontrollen unterliegen, die ihre Wirksamkeit beurteilen. Vorallem junge Menschen müssen wegen ihrer besonderen Betroffenheit stärker in den demokratischen Prozess einbezogen werden.
+Um eine Wende zu erreichen, die von der Gesellschaft mitgetragen werden kann, fordern wir absolute Transparenz und faktenbasierte Aufklärung für alle Bürger*innen. Alle getroffenen Maßnahmen müssen unabhängigen wissenschaftlichen Kontrollen unterliegen, die ihre Wirksamkeit beurteilen. Vor allem junge Menschen müssen wegen ihrer besonderen Betroffenheit stärker in den demokratischen Prozess einbezogen werden.
 
   <p> </p>
   

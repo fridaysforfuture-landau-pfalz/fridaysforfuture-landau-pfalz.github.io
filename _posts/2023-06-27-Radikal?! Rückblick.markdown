@@ -14,6 +14,8 @@ gallery:
     image_path: assets/Aktionen/2023.06.26 Radikal/signal-2023-06-27-161603_005_20230924_150020_0000.jpg
   - url: assets/Aktionen/2023.06.26 Radikal/signal-2023-07-02-161413_002_20230924_150009_0000.jpg
     image_path: assets/Aktionen/2023.06.26 Radikal/signal-2023-07-02-161413_002_20230924_150009_0000.jpg
+aktion: true
+aktion_titel: "Radikal!? Podiumsdiskussion"
 ---
 Am 26.06.2023 haben wir als Fridays for Future zusammen mit der KHG Landau eine Podiumsdiskussion zum Thema: "Wie weit darf oder muss Klimaprotest gehen?" veranstaltet. Die Gäste waren Sarah Lobenhofer von der letzten Generation in Ulm, Dr. Thomas Gebhart als Bundesabgeordneter von der CDU, Florian Maier als Landesabgeordneter von Rheinland-Pfalz und Anna Feron von Fridays for Future. Dr. Johanna Kranz war als Referentin da und Nico Köber hat als Moderator die Diskussion geleitet. <br>
 

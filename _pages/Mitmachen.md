@@ -10,7 +10,7 @@ header:
 
 <h2> Orga FfF Landau </h2>
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Webseite%20Bilder/20210924_132520.jpg?raw=true" alt="Demobild" style="float:right;" hspace=20 vspace=20 height="40%" width="40%">
-Du möchtest dich an der Organisation von Demos oder Aktionen beteiligen, wissenschaftlichen Input in die Ortsgruppe tragen oder dich auf andere Weise einbringen? Dann bist du herzlich eingeladen, zu unserem Plenum zu kommen! Wir treffen uns jeden <b> Donnerstag um 18 Uhr </b> – je nach Wetter im Garten oder in den Räumlichkeiten der <b> KHG (Moltkestraße 9, 76829 Landau) </b>. Keine Sorge, du musst nichts mitbringen – weder Wissen noch Vorerfahrung. Schau einfach vorbei!
+Du möchtest dich an der Organisation von Demos oder Aktionen beteiligen, wissenschaftlichen Input in die Ortsgruppe tragen oder dich auf andere Weise einbringen? Dann bist du herzlich eingeladen, zu unserem Plenum zu kommen! Wir treffen uns {% include plenum.html %}. Keine Sorge, du musst nichts mitbringen – weder Wissen noch Vorerfahrung. Schau einfach vorbei!
 
 Was erwartet dich bei uns? Neben der Möglichkeit, dich aktiv für gesellschaftliche Themen einzusetzen, kannst du viel Neues lernen – sei es über die Organisation von Demos und Veranstaltungen oder über politische Prozesse. Du kannst deine Fähigkeiten einbringen, egal in welchem Bereich – wir brauchen kreative Köpfe, strategische Denkerinnen, Social-Media-Talente, Orga-Profis und alle, die Lust haben mitzumachen. Zudem engagierst du dich ehrenamtlich in einer offenen, bunten Gruppe von Studierenden und Schülerinnen. Wenn du neu in Landau bist, bietet unsere Gruppe auch eine tolle Gelegenheit, schnell Leute kennenzulernen und Anschluss zu finden.
 
@@ -18,53 +18,13 @@ Wir freuen uns auf dich!
 
 Für unsere aktuellen Projekte schau gerne unterm Reiter "News" oder auf unserem Instagram vorbei. 
 
-<style>
-.button7 {
-  border: none;
-  color: white;
-  padding: 10px 10px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 24px;
-  margin: 2px 2px 35px;
-  float: left !important;
-  cursor: pointer;
-  width: 47%;
-}
-
-.button7 {background-color: #4CAF50;} /* Green */
-
-</style>  
-  
-<a class="button7" href="https://fridaysforfuture-landau.de/news"
-       target="" style="color: white" >News</a>
-       
-
-<style>
-.button6 {
-  border: none;
-  color: white;
-  padding: 10px 10px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 24px;
-  margin: 2px 2px 35px;
-  float: left !important;
-  cursor: pointer;
-  width: 47%;
-}
-
-.button6 {background-color: #4CAF50;} /* Green */
-
-</style>  
-  
-<a class="button6" href="https://fridaysforfuture-landau.de/kontakt"
-       target="" style="color: white" >Kontakt</a> <br>
+<div class="fff-buttons">
+  <a class="fff-btn" href="/news">News</a>
+  <a class="fff-btn" href="/kontakt">Kontakt</a>
+</div>
 
 <h2> Students for Future Landau </h2>
-<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Logo%20StudentsforFuture%20Landau.png?raw=true" alt="Logo Students for Future" style="float:left;" hspace=20 vspace=20 height="2ß%" width="20%"> 
+<img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/images/Logo%20StudentsforFuture%20Landau.png?raw=true" alt="Logo Students for Future" style="float:left;" hspace=20 vspace=20 width="20%"> 
 “Students for Future Landau” ist eine Hochschulgruppe an der RPTU Landau. Du bist Studi und möchtest dich im Klimaschutz politisch engergieren? Dann komm zu den Students for Future.
 
 <h3> Ziel/Zweck der Hochschulgruppe: </h3>
@@ -86,24 +46,6 @@ Wenn du mit machen möchtest oder Fragen hast, dann melde dich gerne per Email: 
 <h2> Spenden </h2>
 Keine Kapazitäten oder Zeit zum mitorganisieren, aber trotzdem Lust uns zu unterstützen? Wir haben die Möglichkeit über ein Konto Spenden entgegen nehmen zu können. Hier sammeln wir Geld für anstehende Aktionen und Klimastreiks für die wir Materialkosten haben, für Künstlerauftritte bei unseren Aktionen und notwendige Anschaffungen. Wir würden uns über eine Spende freuen :) <br>
 
-<style>
-.button5 {
-  border: none;
-  color: white;
-  padding: 15px 25px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 24px;
-  margin: 2px 4px;
-  float: center !important;
-  cursor: pointer;
-  width: 40%;
-}
-
-.button5 {background-color: #4CAF50;} /* Green */
-
-</style>  
-  
-<a class="button5" href="https://opencollective.com/klimastreik-landau"
-       target="" style="color: white" >Spenden</a> <br>
+<div class="fff-buttons">
+  <a class="fff-btn" href="https://opencollective.com/klimastreik-landau" target="_blank" rel="noopener">Spenden</a>
+</div>

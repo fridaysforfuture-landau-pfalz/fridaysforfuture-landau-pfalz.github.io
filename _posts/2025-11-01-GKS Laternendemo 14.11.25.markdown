@@ -5,6 +5,8 @@ title:  "Laternendemo 14.11."
 date:   2025-11-01 12:00:00 +0200
 categories: demo
 classes: wide
+aktion: true
+aktion_titel: "Laternendemo 14.11."
 ---
 <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Demos/2025.11.14%20Laternendemo/SharePic%2014.11..png?raw=true" alt="SharePic Laternendemo am 14.11." style="float:right;" hspace=20 vspace=20 height="50%" width="50%">
 

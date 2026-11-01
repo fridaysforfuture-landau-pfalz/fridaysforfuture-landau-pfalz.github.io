@@ -30,7 +30,8 @@ gallery:
     image_path: assets/images/Lützerath/IMG_20211101_152330_420.jpg
   - url: assets/images/Lützerath/IMG_20211101_152345_607.jpg
     image_path: assets/images/Lützerath/IMG_20211101_152345_607.jpg
-
+aktion: true
+aktion_titel: "31.10.2021 Lützerath AlleDörferbleiben Demo"
 ---
 
 Lützerath ist ein Dorf von vielen im Rheinland am Tagebau Garzweiler, das abgerissen werden soll. Dabei ist der Abriss vollkommen unnötig und die Enteignungen oder erniedrigend kleine Abfindungen keinenfalls gerecht. Auch wird die Kohle unter den Dörfern nicht für die Energieversorgung unbedingt benötigt und wir würden, mit diesen 650 Mio Tonnen zusätzlich, die Klimaziele auf keinen Fall erreichen. Trotzdem möchte RWE alle Dörfer abreißen und abbaggern. 

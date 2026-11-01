@@ -1,0 +1,318 @@
+---
+# Eigene Gestaltung für Klimastreik Landau.
+# Diese Datei ersetzt die gleichnamige Datei des Themes (Minimal Mistakes).
+# Die beiden @import-Zeilen holen das Theme, alles darunter sind unsere Ergänzungen.
+---
+
+@charset "utf-8";
+
+/* Unser Dunkelgrün. Hier ändern, dann ändert es sich überall. */
+$fff-gruen: #1b7340;
+$fff-gruen-dunkel: #145530;
+
+/* Links: dunkelgrün statt Blau (gilt für die ganze Seite) */
+$link-color: $fff-gruen;
+$link-color-hover: $fff-gruen-dunkel;
+$link-color-visited: $fff-gruen;
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+/* ==========================================================================
+   Knöpfe
+   Verwendung: <a class="fff-btn" href="...">Text</a>
+   Mehrere nebeneinander: in <div class="fff-buttons"> … </div> setzen.
+   ========================================================================== */
+
+.fff-btn,
+.page__content .fff-btn,
+.page__content form button[type="submit"] {
+  display: inline-block;
+  padding: 0.5em 1em;
+  border: none;
+  border-radius: 12px;
+  background-color: $fff-gruen;
+  color: #fff !important;
+  font-size: 1.5em;
+  text-align: center;
+  text-decoration: none !important;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+
+  &:hover,
+  &:focus {
+    background-color: $fff-gruen-dunkel;
+    color: #fff !important;
+  }
+}
+
+/* Mehrere Knöpfe: am PC zwei pro Reihe, am Handy untereinander */
+.fff-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 1.5em 0;
+  clear: both;
+
+  .fff-btn {
+    flex: 1 1 100%;
+  }
+
+  @include breakpoint($medium) {
+    .fff-btn {
+      flex: 1 1 calc(50% - 10px);
+    }
+  }
+}
+
+/* Ein einzelner Knopf über die ganze Breite */
+.fff-btn--breit {
+  display: block;
+  width: 100%;
+}
+
+/* Knopf oben rechts neben dem Seitentitel (z. B. Kalender) */
+.fff-kopfzeile {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  margin-bottom: 1em;
+
+  .fff-btn {
+    font-size: 1em;
+  }
+}
+
+/* ==========================================================================
+   Seitenleiste: runde grüne Aufzählungszeichen, umbrochene Zeilen eingerückt
+   ========================================================================== */
+
+.nav__list .nav__items {
+  ul {
+    margin: 0.3em 0 1em;
+    padding-left: 0;
+    list-style: none;
+  }
+
+  ul li {
+    position: relative;
+    padding-left: 1.1em;
+    margin-bottom: 0.3em;
+    line-height: 1.35;
+
+    &::before {
+      content: "";
+      position: absolute;
+      left: 0.15em;
+      top: 0.5em;
+      width: 0.45em;
+      height: 0.45em;
+      border-radius: 50%;
+      background-color: $fff-gruen;
+    }
+  }
+
+  .nav__sub-title i {
+    margin-right: 0.4em;
+    color: $fff-gruen;
+  }
+}
+
+/* ==========================================================================
+   Forderungen: zwei Kacheln (Bild + Knopf), am PC nebeneinander
+   ========================================================================== */
+
+.fff-kacheln {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin: 1.5em 0 2em;
+
+  .fff-kachel {
+    flex: 1 1 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+
+    img {
+      width: 100%;
+      max-width: 300px;
+      height: 260px;
+      object-fit: contain;
+      margin-bottom: 0.75em;
+    }
+
+    .fff-btn {
+      width: 100%;
+      max-width: 360px;
+      font-size: 1.2em;
+      margin-top: auto;
+    }
+  }
+
+  @include breakpoint($medium) {
+    .fff-kachel {
+      flex: 1 1 calc(50% - 20px);
+    }
+  }
+}
+
+/* ==========================================================================
+   Kontakt: Kanal-Logos ohne Unterstreichung (das waren die blauen Striche)
+   ========================================================================== */
+
+.fff-kanaele {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  margin: 1em 0 1.5em;
+
+  a {
+    display: block;
+    width: 20%;
+    min-width: 70px;
+    text-decoration: none;
+    border: none;
+  }
+
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+}
+
+/* Kontaktformular */
+.fff-formular {
+  label {
+    display: block;
+    margin-top: 0.75em;
+    font-weight: bold;
+  }
+
+  input[type="text"],
+  input[type="email"],
+  textarea {
+    width: 100%;
+    padding: 0.5em;
+    border: 1px solid #999;
+    border-radius: 8px;
+  }
+
+  textarea {
+    min-height: 200px;
+  }
+
+  button[type="submit"] {
+    margin-top: 1em;
+    font-size: 1.1em;
+  }
+
+  /* Falle für Spam-Bots: für Menschen unsichtbar */
+  .fff-falle {
+    position: absolute;
+    left: -9999px;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+  }
+}
+
+/* ==========================================================================
+   News: Jahresfilter oben rechts
+   ========================================================================== */
+
+.fff-jahresfilter {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  gap: 0.5em;
+  margin-bottom: 1em;
+
+  select {
+    width: auto;
+    padding: 0.3em 0.6em;
+    border: 2px solid $fff-gruen;
+    border-radius: 12px;
+    font-size: 1em;
+  }
+}
+
+/* ==========================================================================
+   Kalender: Termine aus dem AktionsDeck Landau
+   ========================================================================== */
+
+.fff-termine {
+  h2 {
+    margin-top: 1.2em;
+    font-size: 1.25em;
+  }
+
+  ul {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 10px;
+    margin: 0 0 1em;
+    padding: 0;
+    list-style: none;
+
+    @include breakpoint($medium) {
+      grid-template-columns: repeat(2, 1fr);
+    }
+
+    @include breakpoint($large) {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+
+  li {
+    margin: 0;
+  }
+
+  details {
+    border-radius: 10px;
+    padding: 10px 12px;
+    height: 100%;
+  }
+
+  summary {
+    display: grid;
+    gap: 2px;
+    cursor: pointer;
+    list-style: none;
+
+    &::-webkit-details-marker {
+      display: none;
+    }
+  }
+
+  .fff-termin-datum {
+    font-size: 0.8em;
+    font-weight: 600;
+    opacity: 0.9;
+  }
+
+  .fff-termin-info {
+    font-size: 0.85em;
+    opacity: 0.9;
+  }
+
+  .fff-termin-text {
+    margin-top: 0.6em;
+    font-size: 0.85em;
+    white-space: pre-line;
+
+    a {
+      color: inherit;
+      font-weight: 600;
+    }
+  }
+
+  .fff-termine-status {
+    font-style: italic;
+  }
+}

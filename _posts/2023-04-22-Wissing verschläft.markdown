@@ -20,6 +20,8 @@ gallery:
     image_path: assets/Aktionen/2023.04.22 Wissing verschläft/20230422_111158.jpg
   - url: assets/Aktionen/2023.04.22 Wissing verschläft/20230422_112709.jpg
     image_path: assets/Aktionen/2023.04.22 Wissing verschläft/20230422_112709.jpg
+aktion: true
+aktion_titel: "Wissing Verkehrswende Aktion"
 ---
 
 Am 22.04 waren wir auf Landaus Straßen mit mal einer bisschen anderen Aktion. Anlässlich zum Geburtstag von Volker Wissing standen wir mit einem Tisch auf dem Rathausplatz und haben ihm Geburtstagskarten geschrieben und ihm ein gutes Händchen im nächsten Lebensjahr bei der Verkehrswende gewünscht. Denn die Verkehrswende verschläfst er gerade. Um dies symbolisch darzustellen, haben wir ein Bett aufgebaut mit einem schlafendem Volker Wissing. Nur kurz ist er zwischendurch aufgewacht und hat dann mit seinem Sportwagen alle Tempolimitschilder um den Stand umgefahren. 

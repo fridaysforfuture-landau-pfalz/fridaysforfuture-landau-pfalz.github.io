@@ -1,0 +1,2 @@
+{%- assign p = site.data.plenum -%}
+jeden <b>{{ p.wochentag }} um {{ p.uhrzeit }}</b> {% if p.zusatz and p.zusatz != "" %}– {{ p.zusatz }}{% else %}in der{% endif %} <b>{{ p.ort }}{% if p.adresse and p.adresse != "" %} ({{ p.adresse }}){% endif %}</b>

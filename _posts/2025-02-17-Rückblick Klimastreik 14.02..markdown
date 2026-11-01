@@ -38,6 +38,8 @@ gallery:
     image_path: assets/Demos/2025.02.14 Klimastreik Bundestagswahl/15.JPG
   - url: assets/Demos/2025.02.14 Klimastreik Bundestagswahl/16.JPG
     image_path: assets/Demos/2025.02.14 Klimastreik Bundestagswahl/16.JPG
+aktion: true
+aktion_titel: "Klimastreik Bundestagswahl 14.02."
 ---
 „Liebe deine Zukunft – wähl fürs Klima!“ <br>
 

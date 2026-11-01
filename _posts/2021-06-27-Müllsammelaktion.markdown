@@ -18,6 +18,8 @@ gallery:
     image_path: assets/images/Müllsammelaktion 27.06.21/9b5dddaf-cb44-44b1-8b14-d74da46a90b8.jpg
   - url: assets/images/Müllsammelaktion 27.06.21/ad523dfa-0c0e-4219-b834-012d873d8065.jpg
     image_path: assets/images/Müllsammelaktion 27.06.21/ad523dfa-0c0e-4219-b834-012d873d8065.jpg
+aktion: true
+aktion_titel: "27.06.2021 Müllsammelaktion"
 ---
 <p> </p>
 

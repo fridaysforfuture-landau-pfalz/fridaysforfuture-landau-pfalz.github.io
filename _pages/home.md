@@ -6,59 +6,23 @@ header:
   image: assets/Banner/Klimastreik Banner Klimastreifen.png
 ---
 <style>
-  .button-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    margin: 20px 0;
-  }
-
-  .button {
-    border: none;
-    color: white;
-    padding: 10px 20px;
-    text-align: center;
-    text-decoration: none;
-    display: block;
-    font-size: 24px;
-    margin: 5px;
-    cursor: pointer;
-    background-color: #4CAF50;
-    width: auto;
-    max-width: 100%;
-  }
-
-  iframe {
+  .fff-video {
     width: 100%;
     max-width: 560px;
+    aspect-ratio: 16 / 9;
+    height: auto;
     margin-bottom: 20px;
-  }
-
-  @media screen and (min-width: 768px) {
-    .button-container {
-      margin: 40px 0;
-    }
-
-    .button {
-      width: 47%;
-      max-width: none;
-    }
-
-    iframe {
-      width: 560px;
-      max-width: none;
-    }
   }
 </style>
 
-<div class="button-container">
-  <a class="button" href="https://fridaysforfuture-landau.de/news" target="" style="color: white">News</a>
-  <a class="button" href="https://fridaysforfuture-landau.de/mitmachen" target="" style="color: white">Mitmachen</a>
-  <a class="button" href="https://fridaysforfuture-landau.de/kontakt" target="" style="color: white">Kontakt</a>
-  <a class="button" href="https://opencollective.com/klimastreik-landau" target="" style="color: white">Spenden</a>
+<div class="fff-buttons">
+  <a class="fff-btn" href="/news">News</a>
+  <a class="fff-btn" href="/mitmachen">Mitmachen</a>
+  <a class="fff-btn" href="/kontakt">Kontakt</a>
+  <a class="fff-btn" href="https://opencollective.com/klimastreik-landau" target="_blank" rel="noopener">Spenden</a>
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PiIOucdBwuI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="fff-video" width="560" height="315" src="https://www.youtube.com/embed/PiIOucdBwuI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h2>Wer sind wir?</h2>
 
@@ -74,7 +38,7 @@ Falls du auch etwas zu einer nachhaltigen, lebenswerten Zukunft beitragen willst
 <p> </p>  
   
 <h2>Unterstützen</h2>  
-Du möchtest dich an der Organisation von Demos oder Aktionen beteiligen, wissenschaftlichen Input in die Ortsgruppe tragen oder dich anders bei uns einbringen? Dann bist du herzlich eingeladen zu uns ins Plenum zu kommen. Aktuell machen wir unser Plenum jeden Donnerstag um 18 Uhr in der KHG (Molktestr. 9). Hab keine Angst, du musst nichts (an Wissen) mitbringen und kannst einfach mal vorbei gucken. Wir würden, für unsere Planung und falls sich Plenumszeiten mal ändern sollten, aber über eine Nachricht über Instagram, Whatsapp oder Email freuen. 
+Du möchtest dich an der Organisation von Demos oder Aktionen beteiligen, wissenschaftlichen Input in die Ortsgruppe tragen oder dich anders bei uns einbringen? Dann bist du herzlich eingeladen zu uns ins Plenum zu kommen. Aktuell machen wir unser Plenum {% include plenum.html %}. Hab keine Angst, du musst nichts (an Wissen) mitbringen und kannst einfach mal vorbei gucken. Wir würden, für unsere Planung und falls sich Plenumszeiten mal ändern sollten, aber über eine Nachricht über Instagram, Whatsapp oder Email freuen. 
 
 <p> </p>
 
@@ -82,61 +46,13 @@ Keine Kapazitäten oder Zeit zum mitorganisieren, aber trotzdem Lust uns zu unte
 
 <p> </p>
 
-<style>
-.button5 {
-  border: none;
-  color: white;
-  padding: 10px 10px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 24px;
-  margin: 2px 2px 35px;
-  float: left !important;
-  cursor: pointer;
-  width: 47%;
-}
+<div class="fff-buttons">
+  <a class="fff-btn" href="https://opencollective.com/klimastreik-landau" target="_blank" rel="noopener">Spenden</a>
+  <a class="fff-btn" href="/mitmachen">Mitmachen</a>
+</div>
 
-.button5 {background-color: #4CAF50;} /* Green */
-
-</style>  
-  
-<a class="button5" href="https://opencollective.com/klimastreik-landau"
-       target="" style="color: white" >Spenden</a>
-       
-
-<style>
-.button6 {
-  border: none;
-  color: white;
-  padding: 10px 10px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 24px;
-  margin: 2px 2px 35px;
-  float: left !important;
-  cursor: pointer;
-  width: 47%;
-}
-
-.button6 {background-color: #4CAF50;} /* Green */
-
-</style>  
-  
-<a class="button6" href="https://fridaysforfuture-landau.de/mitmachen"
-       target="" style="color: white" >Mitmachen</a> <br>
-
-<p> </p>  
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-   
 <h2> Awareness </h2>
 Egal ob bei Demos, Diskussionen oder Orgaarbeit, Awareness (Wohlbefinden) und sich gegenseitig zu akzeptieren ist für uns essentiell wichtig. Deshalb findest du bei jeder Demo von FFF in Landau eine:n Ordner:in ganz hinten am Demozug für Awarenessthemen. Aber auch alle anderen Ordner:innen sind bei Problemen immer gerne bereit zu helfen. <br>
-  Für beinträchtigte Menschen, die gerne an Aktionen oder Plena von uns teilnehmen würden, aber durch ihre Beeinträchtigung daran gehindert werden - wendet euch gerne rechtzeitig über <a href="mailto:info@fridaysforfuture-landau.de" target="_blank" >E-Mail</a> an uns und wir finden eine Lösung, damit alle mitmachen können. 
+  Für beinträchtigte Menschen, die gerne an Aktionen oder Plena von uns teilnehmen würden, aber durch ihre Beeinträchtigung daran gehindert werden - wendet euch gerne rechtzeitig über unser <a href="/kontakt">Kontaktformular</a> an uns und wir finden eine Lösung, damit alle mitmachen können. 
   
   

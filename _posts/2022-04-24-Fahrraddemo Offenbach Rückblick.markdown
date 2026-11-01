@@ -26,6 +26,8 @@ gallery:
     image_path: assets/Demos/Fahrraddemo 24.04.22/IMG_20220424_152654215_HDR.jpg
   - url: assets/Demos/Fahrraddemo 24.04.22/IMG_20220424_152732685_HDR.jpg
     image_path: assets/Demos/Fahrraddemo 24.04.22/IMG_20220424_152732685_HDR.jpg
+aktion: true
+aktion_titel: "24.04. Fahrraddemo Offenbach"
 ---
 
 Am letzten Sonntag (24.04.22) waren mit dem Fahrrad von Landau nach Offenbach unterwegs um gegen die geplante Erölbohrung von Neptune Energy vorort zu demonstrieren. In Offenbach empfing uns die Bürger Initiative "Kein Erdöl aus Offenbach" mit Reden und Kuchen und Getränken. Die Reden verdeutlichten noch einmal warum eine und diese Erdölbohrung in dieser heutigen Zeit beiweitem nicht mehr sinnvoll ist. 

@@ -30,6 +30,8 @@ gallery:
     image_path: assets/Demos/2024.03.01 Wir fahren zusammen/DSC00316.JPG
   - url: assets/Demos/2024.03.01 Wir fahren zusammen/DSC00207.JPG
     image_path: assets/Demos/2024.03.01 Wir fahren zusammen/DSC00207.JPG
+aktion: true
+aktion_titel: "Wir fahren zusammen 01.03."
 ---
 Am Freitag dem 01. März 2024, fanden in Landau und über 100 weiteren Orten in Deutschland Demonstrationen statt, organisiert von Fridays for Future in Zusammenarbeit mit Verdi. Die Versammlung trug die Forderung nach verstärkten Investitionen in den ÖPNV sowie nach verbesserten Arbeitsbedingungen für die Beschäftigten im öffentlichen Nahverkehr auf die Straße.
 Auch in Landau versammelten sich knapp über 200 engagierte Bürgerinnen und Bürger, um ihre Stimmen für eine nachhaltige Verkehrspolitik und gerechte Arbeitsbedingungen zu erheben. 

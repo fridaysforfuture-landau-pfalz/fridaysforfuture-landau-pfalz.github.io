@@ -14,6 +14,8 @@ gallery:
     image_path: assets/Aktionen/2023.06.25 TZN/20230625_125606.jpg
   - url: assets/Aktionen/2023.06.25 TZN/20230625_125631.jpg
     image_path: assets/Aktionen/2023.06.25 TZN/20230625_125631.jpg
+aktion: true
+aktion_titel: "Tag zur Nachhaltigkeit"
 ---
 Am Sonntag, den 25.06.2023, fand in Landau der Tag zur Nachhaltigkeit statt. Wir waren mit einem Stand vor Ort und haben eure Visionen für eine nachhaltige Zukunft in Landau gesammelt. Neben unserem Stand haben sich auch viele andere großartige Gruppen vorgestellt und ein unterhaltsames Programm geboten. Dadurch konntest du auf einfache Weise einen umfassenden Überblick über die nachhaltigen Gruppen in Landau erhalten und mehr über ihre Forderungen und Arbeit erfahren.
 

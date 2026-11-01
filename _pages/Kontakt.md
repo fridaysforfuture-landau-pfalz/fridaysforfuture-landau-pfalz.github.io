@@ -3,113 +3,56 @@ title:  "Kontakt"
 layout: single
 permalink: /kontakt
 ---
-<b> Unsere Infokanäle:<br>
+<b>Unsere Infokanäle:</b>
 
-<div align='center'>
-  
-<a href="https://www.instagram.com/klimastreiklandau/?hl=de" target=""> <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Logos/Logos%20Kontakt/Instagram.png?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Instagram Landau" height="20%" width="20%"> </a>
-
-<a href="https://chat.whatsapp.com/H0HW72PpRQi6URmGK4RgFJ" target=""> <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Logos/Logos%20Kontakt/Whatsapp.png?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Whatsapp Landau" height="20%" width="20%"> </a>
-
-<a href="https://t.me/FFFLDInfo" target=""> <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Logos/Logos%20Kontakt/Telegram.png?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Telegramm Kanal" height="20%" width="20%"> </a>
-
-<a href="https://de-de.facebook.com/Klimastreiklandau/" target=""> <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Logos/Logos%20Kontakt/Facebook.png?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Facebook Landau" height="20%" width="20%"> </a> 
+<div class="fff-kanaele">
+  <a href="https://www.instagram.com/klimastreiklandau/?hl=de" target="_blank" rel="noopener"><img src="/assets/Logos/Logos%20Kontakt/Instagram.png" alt="Instagram Klimastreik Landau"></a>
+  <a href="https://chat.whatsapp.com/H0HW72PpRQi6URmGK4RgFJ" target="_blank" rel="noopener"><img src="/assets/Logos/Logos%20Kontakt/Whatsapp.png" alt="WhatsApp-Infogruppe Landau"></a>
+  <a href="https://t.me/FFFLDInfo" target="_blank" rel="noopener"><img src="/assets/Logos/Logos%20Kontakt/Telegram.png" alt="Telegram-Kanal"></a>
+  <a href="https://de-de.facebook.com/Klimastreiklandau/" target="_blank" rel="noopener"><img src="/assets/Logos/Logos%20Kontakt/Facebook.png" alt="Facebook Klimastreik Landau"></a>
+</div>
 <!--https://github.com/edent/SuperTinyIcons-->
 
-</div> <br>
+<a class="fff-btn fff-btn--breit" href="/mitmachen">Mitmachen</a>
 
-<p> </p>  
-  
-<style>
-.button2 {
-  border: none;
-  color: white;
-  padding: 15px 15px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 24px;
-  margin: 4px 2px;
-  cursor: pointer;
-  width: 100%;
-}
+<p> </p>
 
-.button2 {background-color: #4CAF50;} /* Green */
-</style>
+Wir sind zu erreichen über das Kontaktformular, Mail, Telegram, WhatsApp und Instagram.
 
-<a class="button2" href="https://fridaysforfuture-landau.de/mitmachen"
-       target="" style="color: white" >Mitmachen</a>
-  
-<p></p>  
+<div class="fff-kanaele">
+  <a href="https://t.me/Txmlchrt" target="_blank" rel="noopener"><img src="/assets/Logos/Logos%20Kontakt/Telegram.png" alt="Telegram"></a>
+  <a href="https://www.instagram.com/klimastreiklandau/?hl=de" target="_blank" rel="noopener"><img src="/assets/Logos/Logos%20Kontakt/Instagram.png" alt="Instagram Klimastreik Landau"></a>
+  <a href="mailto:klimastreik-landau@gmx.de"><img src="/assets/Logos/Logos%20Kontakt/Mail.png" alt="E-Mail"></a>
+</div>
 
-Wir sind zu erreichen über das Kontaktformular, Mail, Telegram, Whatsapp, und Instagram.  <br>
-  
-<p> </p>    
+Für WhatsApp-Kontakt schreibe gerne einen Admin der Infogruppen an.
 
-<div align='center'>
-  
-<a href="https://t.me/Txmlchrt" target=""> <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Logos/Logos%20Kontakt/Telegram.png?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Telegramm Kanal" height="20%" width="20%"> </a>  
-<a href="https://www.instagram.com/klimastreiklandau/?hl=de" target=""> <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Logos/Logos%20Kontakt/Instagram.png?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Instagram Landau" height="20%" width="20%"> </a>
-  
-<a href="mailto:klimastreik-landau@gmx.de" target=""> <img src="https://github.com/fridaysforfuture-landau-pfalz/fridaysforfuture-landau-pfalz.github.io/blob/main/assets/Logos/Logos%20Kontakt/Mail.png?raw=true" style="margin-right: 20px; margin-top: 20px" alt="Mail Landau" height="20%" width="20%"> </a>
+<p> </p>
 
-<br>  
-  <p> </p>
-  <p> </p>
-  <p> </p>  
-  
-Für Whatsapp-Kontakt schreibe gerne einen Admin der Infogruppen an.   
-<!--https://github.com/edent/SuperTinyIcons-->
-
-</div> <br>
-
-<p> </p>     
-  
 <b>Newsletter:</b> <br>
 Du hast Interesse an Veranstaltungen und Aktionen mit und um Fridays for Future Landau? Dann melde dich gerne über das Kontaktformular, um in den E-Mail Verteiler zu kommen.
-  
-<p> </p>    
-  
-<style>
-  .form-container { max-width: 100%; }
-  .form-container input { position: relative; top: 0; left: 0; width: 100%; height: 50px; padding: 0 ; }
-  .form-container textarea { position: relative; top: 0; left: 0; width: 100%; height: 200px; padding: 0; }
-  .background-color: green;
-</style>
-<form action="https://formspree.io/f/xqkoybpb" method="POST" class="form-container">
-  <label>Emailadresse:</label><br />
-  <input type="text" name="Emailadresse" />
-  <label>Betreff:</label><br />
-  <input type="text" name="Betreff" />
-  <label>Ihre Nachricht:</label><br />
-  <textarea name="Nachricht"></textarea>
+
+<form action="https://formspree.io/f/xqkoybpb" method="POST" class="fff-formular">
+  <label for="kf-email">Emailadresse:</label>
+  <input id="kf-email" type="email" name="email" autocomplete="email" required>
+  <label for="kf-betreff">Betreff:</label>
+  <input id="kf-betreff" type="text" name="_subject" required>
+  <label for="kf-nachricht">Ihre Nachricht:</label>
+  <textarea id="kf-nachricht" name="Nachricht" required></textarea>
+  <!-- Falle für Spam-Bots: Menschen sehen dieses Feld nicht. Füllt ein Bot es aus, verwirft Formspree die Nachricht. -->
+  <div class="fff-falle" aria-hidden="true">
+    <label for="kf-gotcha">Bitte leer lassen:</label>
+    <input id="kf-gotcha" type="text" name="_gotcha" tabindex="-1" autocomplete="off">
+  </div>
   <button type="submit">Absenden</button>
 </form>
 
-<p> </p>  
-  
-oder direkt an info (at) fridaysforfuture-landau.de schreiben  
-  
 <p> </p>
 
-<style>
-.button1 {
-  border: none;
-  color: white;
-  padding: 15px 15px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 24px;
-  margin: 4px 2px;
-  cursor: pointer;
-  width: 100%;
-}
+oder direkt an info (at) fridaysforfuture-landau.de schreiben
 
-.button1 {background-color: #4CAF50;} /* Green */
-</style>
+<p> </p>
 
-<a class="button1" href="https://fridaysforfuture-landau.de/kontakt/impressum"
-       target="" style="color: white" >Impressum</a>
-       
+<a class="fff-btn fff-btn--breit" href="/kontakt/impressum">Impressum</a>
+
 <p> </p>

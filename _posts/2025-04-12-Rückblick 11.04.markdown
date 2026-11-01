@@ -20,6 +20,8 @@ gallery:
     image_path: assets/Demos/2025.04.11 Klimastreik/Weltverteilungsspiel 3.png
   - url: assets/Demos/2025.04.11 Klimastreik/Weltverteilungsspiel 4.png
     image_path: assets/Demos/2025.04.11 Klimastreik/Weltverteilungsspiel 4.png
+aktion: true
+aktion_titel: "Klimastreik 11.04."
 ---
 <b> Rückblick auf den Klimastreik am 11. April in Landau: „Don’t sell our future“ </b> <br>
 
