@@ -609,7 +609,35 @@ $link-color-visited: $fff-gruen;
       b[style] { color: $fff-gruen !important; }
 
       h2 { font-size: 1.15em; margin-top: 1em; }
+      h3 { font-size: 1em; margin: 0.8em 0 0.3em; }
       p, li { break-inside: avoid; }
     }
   }
+}
+
+/* Überschrift mit kleinem Knopf in derselben Zeile (Material: "Rufe" + Drucken) */
+.fff-abschnitt-kopf {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5em 1em;
+  border-bottom: 1px solid mix(#000, #fff, 25%);
+  margin: 2em 0 0.5em;
+
+  h2 {
+    margin: 0;
+    border-bottom: 0;
+  }
+}
+
+.fff-btn--klein,
+.page__content .fff-btn--klein {
+  font-size: 0.75em;
+  padding: 0.4em 1em;
+  margin: 0 0 0.4em;
+}
+
+.fff-strophen li {
+  margin-bottom: 0.3em;
 }

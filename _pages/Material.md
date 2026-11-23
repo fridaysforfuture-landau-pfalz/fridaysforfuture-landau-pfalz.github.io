@@ -69,7 +69,6 @@ Hier findest du Ideen für Demosprüche, Vorschläge für dein nächstes Demopla
 <div class="fff-buttons">
   <a class="fff-btn" href="#Sprüche">Sprüche</a>
   <a class="fff-btn" href="#Demoschilder">Demoschilder</a>
-  <button type="button" class="fff-btn" onclick="fffSpruecheDrucken()">Drucken Sprüche</button>
 </div>
   <p> </p>
 
@@ -81,9 +80,12 @@ Hier findest du Ideen für Demosprüche, Vorschläge für dein nächstes Demopla
 
 <h1 class="fff-nur-druck">Demosprüche · Klimastreik Landau</h1>
 
-<h2> Rufe: </h2>
+<div class="fff-abschnitt-kopf">
+  <h2> Rufe: </h2>
+  <button type="button" class="fff-btn fff-btn--klein fff-druck-aus" onclick="fffSpruecheDrucken()">Drucken Sprüche</button>
+</div>
 
-<p class="fff-druck-aus">Ein PDF zum <a href="https://fridaysforfuture-landau.de/assets/Demos/GK%2003.03.23/Lieder%20und%20Rufe%20DINA5.pdf" target="_blank"> Download </a> der Sprüche findest du hier.</p>
+<p class="fff-druck-aus">Hier ist ein <a href="https://fridaysforfuture-landau.de/assets/Demos/GK%2003.03.23/Lieder%20und%20Rufe%20DINA5.pdf" target="_blank">Download für einen fertigen Spruchzettel</a>. Oder drucke über den Knopf „Drucken Sprüche“ ein PDF mit allen Sprüchen.</p>
 
 <ul>
   <li>Wir sind hier! Wir sind laut, weil ihr uns die Zukunft klaut!</li>
@@ -189,6 +191,87 @@ und keine Inlandsflüge!</p>
 <p> Where ever I go, People want know, Who we are, What we do, So we tell them, We are the people, Who save the climate, save save save the climate </p>
 
 <p> Yesterday, climate troubles seemed so far away, but today, we have to act and say: coal mining has to fade away, Yesterday we did still believe and pray, that your deals would work and lead the way, but now the years have passed away <span style="color: gray;">(Melodie: Yesterday-Beatles)</span> </p>
+
+<h3> Geburtstagslied an Friedrich Merz </h3>
+<p class="fff-reim">Heute kann es regnen, stürmen oder schneien,<br>
+das wird immer öfter und extremer sein.<br>
+Heut ist wieder Freitag, darum sind wir hier,<br>
+alle meine Freunde streiken hier mit mir,<br>
+alle meine Freunde streiken hier mit mir.</p>
+<p class="fff-reim">Die Wissenschaft wird ignoriert,<br>
+die Politik hat's nicht kapiert.<br>
+Wir stehen auf, denn es ist Zeit.<br>
+Wir fordern: Klimagerechtigkeit!<br>
+<span style="color: gray;">(oder:)</span><br>
+Die Wissenschaft wird ignoriert,<br>
+der Merz hat's nicht kapiert.<br>
+Wir stehen auf, denn es ist Zeit.<br>
+Wir fordern jetzt Klimagerechtigkeit!</p>
+
+<h3> Auf den Straßen, auf und nieder </h3>
+<p class="fff-reim">Auf den Straßen, auf und nieder,<br>
+auf den Straßen, immer wieder,<br>
+gegen Nazis, für das Klima!<br>
+Alte, Junge, coole Leute<br>
+sind auf dieser Demo heute.<br>
+<span style="color: gray;">(oder: Alte, Junge, alle Leute, kommt auf diese Demo heute!)</span></p>
+<p class="fff-reim">Was wir wirklich super fänden,<br>
+wär, die Energie zu wenden.<br>
+Wasser, Windkraft und auch Sonne<br>
+hauen Kohle in die Tonne.</p>
+<p class="fff-reim">Ihr könnt uns jetzt nichts vorschreiben,<br>
+alle Dörfer müssen bleiben!<br>
+Hört auf, Bäume abzuroden,<br>
+lasst die Kohle doch im Boden!</p>
+
+<h3> Laterne, Laterne, wir lieben uns're Erde </h3>
+<p><span style="color: gray;">(Melodie: Laterne, Laterne)</span></p>
+<p class="fff-reim">1. Laterne, Laterne, wir lieben uns're Erde.<br>
+Brenne auf, mein Licht, brenne auf, mein Licht,<br>
+aber nur meine liebe Erde nicht.</p>
+<p class="fff-reim">2. Laterne, Laterne, wir lieben uns're Erde.<br>
+Wenn es zu spät ist, wenn es zu spät ist,<br>
+ja, dann seht ihr erst, wie schlimm es ist.</p>
+<p class="fff-reim">3. Laterne, Laterne, wir lieben uns're Erde.<br>
+Geh nicht weg, mein Licht, geh nicht weg, mein Licht,<br>
+denn mit dir stirbt uns're Hoffnung nicht.</p>
+<p class="fff-reim">4. Laterne, Laterne, wir lieben uns're Erde.<br>
+Und die Winde wehn, und die Winde wehn,<br>
+lassen die Windräder immer weiterdrehn.</p>
+<p class="fff-reim">5. Laterne, Laterne, wir lieben uns're Erde.<br>
+Und der Sonnenschein, und der Sonnenschein<br>
+bringt uns grüne Energie ins Heim.</p>
+
+<h3> Ich geh mit meiner Laterne </h3>
+<p><span style="color: gray;">(Melodie: Ich geh mit meiner Laterne. Die ersten vier Zeilen werden in jeder Strophe gesungen, die letzte Zeile zweimal.)</span></p>
+<p class="fff-reim">Ich gehe mit meiner Laterne<br>
+und meine Laterne mit mir.<br>
+Fürs Klima streiken wir gerne,<br>
+und darum sind wir hier.</p>
+<ol class="fff-strophen">
+  <li>Die Erd' wird warm, nun gibt's Alarm. Rabimmel, rabammel, rabumm.</li>
+  <li>Der Klimawandel zieht voran. Rabimmel, rabammel, rabumm.</li>
+  <li>Ein Vöglein singt, doch bald verklingt. Rabimmel, rabammel, rabumm.</li>
+  <li>Ein Kohleduft liegt in der Luft. Rabimmel, rabammel, rabumm.</li>
+  <li>Ich sag es schlicht, es reicht noch nicht. Rabimmel, rabammel, rabumm.</li>
+  <li>Streikt mit uns heut, ihr lieben Leut. Rabimmel, rabammel, rabumm.</li>
+  <li>Nun lasst uns gehn, man wird uns sehn. Rabimmel, rabammel, rabumm.</li>
+  <li>Mein Schild nehm ich, so stoppt mich nicht. Rabimmel, rabammel, rabumm.</li>
+  <li>Wir zeigen Mut, bis ihr was tut. Rabimmel, rabammel, rabumm.</li>
+  <li>So haltet echt, was ihr versprecht. Rabimmel, rabammel, rabumm.</li>
+  <li>Was bleibt uns nun? Revolution! Rabimmel, rabammel, rabumm.</li>
+</ol>
+
+<h3> Advent, Advent, die Erde brennt </h3>
+<p class="fff-reim">Advent, Advent, die Erde brennt.<br>
+Erst eins, dann zwei,<br>
+dann drei, dann vier,<br>
+dann steht die Krise vor der Tür!<br>
+Und wenn das fünfte Feuer brennt,<br>
+dann habt ihr die letzte Chance verpennt!<br>
+Advent, Advent, die Erde brennt.<br>
+Nicht zwei, nicht drei, nicht fünf, nicht vier,<br>
+nur eine Erde haben wir.</p>
   
   <p> </p>
 
