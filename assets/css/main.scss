@@ -554,31 +554,62 @@ $link-color-visited: $fff-gruen;
 }
 
 /* ==========================================================================
-   Demosprüche (/demosprueche)
-   Antworten der Menge stehen in <b> und werden grün.
+   Material: Knopf "Drucken Sprüche"
+   Der Knopf setzt die Klasse fff-druck-sprueche auf <body> und öffnet das
+   Druckfenster. Dann wird nur der Bereich #fff-sprueche gedruckt.
    ========================================================================== */
 
-.fff-sprueche li {
-  margin-bottom: 0.4em;
+.fff-reim {
+  padding-left: 0.8em;
+  border-left: 4px solid $fff-gruen;
 }
 
-.fff-legende {
-  font-size: 0.85em;
-  color: #666;
-
-  b { color: $fff-gruen; }
+.fff-nur-druck {
+  display: none;
 }
 
-.fff-rufe {
-  p {
-    padding-left: 0.8em;
-    border-left: 4px solid $fff-gruen;
-  }
+@media print {
+  body.fff-druck-sprueche {
+    .masthead,
+    .sidebar,
+    .page__title,
+    .page__meta,
+    .page__footer,
+    .page__related,
+    .page__comments,
+    .page__share,
+    .fff-einwilligung,
+    .page__content > *:not(#fff-sprueche),
+    .fff-druck-aus {
+      display: none !important;
+    }
 
-  b { color: $fff-gruen; }
+    .page,
+    .page__inner-wrap,
+    .page__content,
+    #main {
+      width: 100% !important;
+      max-width: none !important;
+      margin: 0 !important;
+      padding: 0 !important;
+      float: none !important;
+    }
 
-  .fff-melodie {
-    font-size: 0.85em;
-    color: #666;
+    .fff-nur-druck {
+      display: block;
+      font-size: 1.4em;
+      margin-top: 0;
+    }
+
+    #fff-sprueche {
+      font-size: 11pt;
+      color: #000;
+
+      li, p, h1, h2, b { color: #000; }
+      b[style] { color: $fff-gruen !important; }
+
+      h2 { font-size: 1.15em; margin-top: 1em; }
+      p, li { break-inside: avoid; }
+    }
   }
 }
