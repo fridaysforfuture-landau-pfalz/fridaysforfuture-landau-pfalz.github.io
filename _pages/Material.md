@@ -67,7 +67,7 @@ Hier findest du Ideen für Demosprüche, Vorschläge für dein nächstes Demopla
 <p> </p>
 
 <div class="fff-buttons">
-  <a class="fff-btn" href="#Sprüche">Sprüche</a>
+  <a class="fff-btn" href="/demosprueche">Sprüche</a>
   <a class="fff-btn" href="#Demoschilder">Demoschilder</a>
 </div>
   <p> </p>
@@ -76,73 +76,16 @@ Hier findest du Ideen für Demosprüche, Vorschläge für dein nächstes Demopla
 
 <a name="Sprüche"> </a>
 
-<h2> Rufe: </h2>
+<h2> Demosprüche: </h2>
 
-Ein PDF zum <a href="https://fridaysforfuture-landau.de/assets/Demos/GK%2003.03.23/Lieder%20und%20Rufe%20DINA5.pdf" target="_blank"> Download </a> der Sprüche findest du hier.
+Rufe, Ruf-und-Antwort-Sprüche und Lieder für die nächste Demo haben jetzt eine eigene Seite.
 
-<ul>
-  <li>Wir sind hier! Wir sind laut, weil ihr uns die Zukunft klaut!</li>
-  <li>Streik in der Schule! Streik im Betrieb! Das ist unsre Antwort auf eure Politik!</li>
-  <li>Wer nicht hüpft der ist für Kohle, hey, hey!</li>
-  <li>Es gibt kein Recht auf Kohlebagger fahren!</li>
-  <li>Solidarität und Widerstand, Klimastreik in jedem Land!</li>
-  <li>We are unstoppable, another world is possible!</li>
-  <li>Change the system, not the climate!</li>
-  <li>Keep it in the ground! - - Keep it in the ground!</li>
-  <li>Hopp Hopp Hopp, Kohle stopp!</li>
-  <li>We have the solution, stop the pollution!</li>
-  <li>Say it loud, say it clear: Klimaschutz, jetzt und hier!</li>
-  <li>Keine Kohle für die Kohle!</li>
-  <li>Ist doch klar, die Zukunft ist solar!</li>
-  <li>Braunkohle killt das Klima-Aber Firmen finden’s prima!</li>
-  <li>Fahrradfahren ist nicht nur nur Hobby, nieder mit der Autolobby!</li>
-  <li>Wasser, Wind und Sonne: Kohle in die Tonne!</li>
-</ul>
-  
-  <p> </p>
-  
-<b> Ruf und Antwort:  </b>  <br>
-<p>What do we want?! <b style="color: darkgreen;">CLIMATE JUSTICE!</b> When do we want it?! <b style="color: darkgreen;">NOW!</b></p>
-
-<p>Wie lautet die Parole?! <b style="color: darkgreen;">WIR BRAUCHEN KEINE KOHLE!</b></p>
-
-<p>Solid as a rock – <b style="color: darkgreen;">SOLID AS A ROCK</b> – rooted as a tree – <b style="color: darkgreen;">ROOTED AS A TREE</b> – we are here – <b style="color: darkgreen;">WE ARE HERE</b> – standing strong – <b style="color: darkgreen;">STANDING STRONG</b> – in our rightful place – <b style="color: darkgreen;">IN OUR RIGHTFUL PLACE</b></p>
-
-<p>Power to the people – <b style="color: darkgreen;">POWER TO THE PEOPLE</b> – people get the power – <b style="color: darkgreen;">PEOPLE GET THE POWER</b> – tell me can you feel it – <b style="color: darkgreen;">TELL ME CAN YOU FEEL IT</b> – getting stronger by the hour – <b style="color: darkgreen;">GETTING STRONGER BY THE HOUR</b> – power – <b style="color: darkgreen;">POWER</b></p>
-
-<p>Wat wollen wa? - <b style="color: darkgreen;">Klimagerechtigkeit!</b> - Und wann wollen wir die? - <b style="color: darkgreen;">Jetzt und zwar zack zack!</b></p>
-
-<p>Whose streets?! <b style="color: darkgreen;">OUR STREETS!</b></p>
-
-<p>Kohlekonzerne – <b style="color: darkgreen;">KOHLEKONZERNE</b> – Bagger in der Ferne – <b style="color: darkgreen;">BAGGER IN DER FERNE</b> – Zerstören unsre Umwelt – <b style="color: darkgreen;">ZERSTÖREN UNSRE UMWELT</b> – Nur fürn Batzen Geld – <b style="color: darkgreen;">NUR FÜRN BATZEN GELD</b> – Drum lasst uns in die Zukunft sehen – <b style="color: darkgreen;">DRUM LASST UNS IN DIE ZUKUNFT SEHN</b> – Erneuerbare Energien – <b style="color: darkgreen;">ERNEUERBARE ENERGIEN</b></p>
-
-<p>I say Climate, you say Justice – Climate – <b style="color: darkgreen;">JUSTICE</b></p>
-
-<p>Ich sag Klima, ihr sagt Schutz – Klima – <b style="color: darkgreen;">SCHUTZ</b></p>
-
-<p>Ich sag Kohle, ihr sagt Stopp – Kohle – <b style="color: darkgreen;">STOPP</b></p>
-
-<p>Gib mir ein R – <b style="color: darkgreen;"> R </b> – Gib mir ein W – <b style="color: darkgreen;"> W </b> – Gib mir ein E – <b style="color: darkgreen;"> E </b> - was ist das? – <b style="color: darkgreen;">SCHEIẞE!</b></p>
-
-<p>Tell me what does democracy look like? – <b style="color: darkgreen;">THIS IS WHAT DEMOCRACY LOOKS LIKE</b></p>
-
-<p>1,2,3,4 für das Klima kämpfen wir – <b style="color: darkgreen;"> 1,2,3,4 FÜR DAS KLIMA KÄMPFEN WIR</b> – 5,6,7,8 RWE wird platt gemacht – <b style="color: darkgreen;"> 5,6,7,8 RWE WIRD PLATT GEMACHT</b> – 9 und 10 der Klimakampf muss weiter gehen – <b style="color: darkgreen;"> 9 und 10 DER KLIMAKAMPF MUSS WEITER GEHEN</b></p>
-
-<p>1,2,3,4 für das Klima sind wir hier – <b style="color: darkgreen;">1,2,3,4 FÜR DAS KLIMA SIND WIR HIER</b> – 5,6,7,8 Klimaschützi an die Macht – <b style="color: darkgreen;">5,6,7,8 KLIMASCHÜTZI AN DIE MACHT</b> – 9, 10 der Widerstand muss weiter gehen – <b style="color: darkgreen;">9 und 10 DER WIDERSTAND MUSS WEITER GEHEN</b></p>
+<div class="fff-buttons">
+  <a class="fff-btn" href="/demosprueche">Zu den Demosprüchen</a>
+</div>
 
   <p> </p>
-  
-<h2> Lieder: </h2>
-<p> Wehrt euch, leistet Widerstand gegen die Braunkohle hier im Land! Alle auf die Straßen, alle auf die Straßen! <span style="color: gray;">(Melodie: Hejo, Spann den Wagen an)</span> </p>
 
-<p> Hey du, wir leisten Widerstand, für eine echte Energiewende im Land, kommt, geht auf die Straßen, kommt, geht auf die Straßen! <span style="color: gray;">(Melodie: Hejo, Spann den Wagen an)</span> </p>
-
-<p> Where ever I go, People want know, Who we are, What we do, So we tell them, We are the people, Who save the climate, save save save the climate </p>
-
-<p> Yesterday, climate troubles seemed so far away, but today, we have to act and say: coal mining has to fade away, Yesterday we did still believe and pray, that your deals would work and lead the way, but now the years have passed away <span style="color: gray;">(Melodie: Yesterday-Beatles)</span> </p>
-  
-  <p> </p> 
-  
 <a name="Demoschilder"> </a>
 <h2> Demoschilder: </h2>
   {% include gallery layout="third" %}

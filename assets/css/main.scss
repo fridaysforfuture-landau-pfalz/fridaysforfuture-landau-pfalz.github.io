@@ -552,3 +552,33 @@ $link-color-visited: $fff-gruen;
 
   .fff-btn { font-size: 1em; margin: 0 8px 8px 0; }
 }
+
+/* ==========================================================================
+   Demosprüche (/demosprueche)
+   Antworten der Menge stehen in <b> und werden grün.
+   ========================================================================== */
+
+.fff-sprueche li {
+  margin-bottom: 0.4em;
+}
+
+.fff-legende {
+  font-size: 0.85em;
+  color: #666;
+
+  b { color: $fff-gruen; }
+}
+
+.fff-rufe {
+  p {
+    padding-left: 0.8em;
+    border-left: 4px solid $fff-gruen;
+  }
+
+  b { color: $fff-gruen; }
+
+  .fff-melodie {
+    font-size: 0.85em;
+    color: #666;
+  }
+}
