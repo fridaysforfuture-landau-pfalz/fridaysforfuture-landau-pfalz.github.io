@@ -197,6 +197,29 @@ und keine Inlandsflüge!</p>
 <a name="Demoschilder"> </a>
 <h2> Demoschilder: </h2>
   {% include gallery layout="third" %}
+
+<h3> Ideen für eigene Schilder: </h3>
+
+<b> Serie „Wir sind …“ </b> (jede*r trägt ein Schild):
+<ul>
+  <li>Wir sind viele</li>
+  <li>Wir sind Wissenschaftler*in</li>
+  <li>Wir sind Lehrer*in</li>
+  <li>Wir sind Bauern</li>
+  <li>Wir sind Unternehmer*in</li>
+  <li>Wir sind Eltern</li>
+  <li>Wir sind Schüler*in</li>
+  <li>Wir sind die Erde</li>
+</ul>
+
+<b> Weitere Ideen: </b>
+<ul>
+  <li>Follow the Science</li>
+  <li>Eine Erde ausgelöscht fürs Sonderangebot</li>
+  <li>Erde in einem Sarg</li>
+  <li>Children of Revolution</li>
+  <li>Attention please – this is a climate emergency!</li>
+</ul>
   
   <p> </p>
   <p> </p>
