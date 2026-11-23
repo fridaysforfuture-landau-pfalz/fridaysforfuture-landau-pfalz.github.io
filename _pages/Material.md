@@ -283,20 +283,15 @@ nur eine Erde haben wir.</p>
 
 <h3> Ideen für eigene Schilder: </h3>
 
-<b> Serie „Wir sind …“ </b> (jede*r trägt ein Schild):
 <ul>
-  <li>Wir sind viele</li>
-  <li>Wir sind Wissenschaftler*in</li>
-  <li>Wir sind Lehrer*in</li>
-  <li>Wir sind Bauern</li>
-  <li>Wir sind Unternehmer*in</li>
-  <li>Wir sind Eltern</li>
-  <li>Wir sind Schüler*in</li>
-  <li>Wir sind die Erde</li>
-</ul>
-
-<b> Weitere Ideen: </b>
-<ul>
+  <li>Wir sind viele<br>
+    Wir sind Wissenschaftler*in<br>
+    Wir sind Lehrer*in<br>
+    Wir sind Bauern<br>
+    Wir sind Unternehmer*in<br>
+    Wir sind Eltern<br>
+    Wir sind Schüler*in<br>
+    Wir sind die Erde</li>
   <li>Follow the Science</li>
   <li>Eine Erde ausgelöscht fürs Sonderangebot</li>
   <li>Erde in einem Sarg</li>
