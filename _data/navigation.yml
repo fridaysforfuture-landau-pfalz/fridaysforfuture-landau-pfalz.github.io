@@ -18,9 +18,9 @@ main:
     url: /material
     submenu:
       - title: "Demosprüche"
-        url: /material/demosprüche/
+        url: /material#Sprüche
       - title: "Demoplakate"
-        url: /material/demoplakate/
+        url: /material#Demoschilder
     
   - title: "Kontakt"
     url: /kontakt

@@ -69,6 +69,7 @@ Hier findest du Ideen für Demosprüche, Vorschläge für dein nächstes Demopla
 <div class="fff-buttons">
   <a class="fff-btn" href="#Sprüche">Sprüche</a>
   <a class="fff-btn" href="#Demoschilder">Demoschilder</a>
+  <button type="button" class="fff-btn" onclick="fffSpruecheDrucken()">Drucken Sprüche</button>
 </div>
   <p> </p>
 
@@ -76,9 +77,13 @@ Hier findest du Ideen für Demosprüche, Vorschläge für dein nächstes Demopla
 
 <a name="Sprüche"> </a>
 
+<div id="fff-sprueche">
+
+<h1 class="fff-nur-druck">Demosprüche · Klimastreik Landau</h1>
+
 <h2> Rufe: </h2>
 
-Ein PDF zum <a href="https://fridaysforfuture-landau.de/assets/Demos/GK%2003.03.23/Lieder%20und%20Rufe%20DINA5.pdf" target="_blank"> Download </a> der Sprüche findest du hier.
+<p class="fff-druck-aus">Ein PDF zum <a href="https://fridaysforfuture-landau.de/assets/Demos/GK%2003.03.23/Lieder%20und%20Rufe%20DINA5.pdf" target="_blank"> Download </a> der Sprüche findest du hier.</p>
 
 <ul>
   <li>Wir sind hier! Wir sind laut, weil ihr uns die Zukunft klaut!</li>
@@ -94,9 +99,26 @@ Ein PDF zum <a href="https://fridaysforfuture-landau.de/assets/Demos/GK%2003.03.
   <li>Say it loud, say it clear: Klimaschutz, jetzt und hier!</li>
   <li>Keine Kohle für die Kohle!</li>
   <li>Ist doch klar, die Zukunft ist solar!</li>
-  <li>Braunkohle killt das Klima-Aber Firmen finden’s prima!</li>
-  <li>Fahrradfahren ist nicht nur nur Hobby, nieder mit der Autolobby!</li>
+  <li>Braunkohle killt das Klima, aber Firmen finden’s prima!</li>
+  <li>Fahrradfahren ist nicht nur Hobby, nieder mit der Autolobby!</li>
   <li>Wasser, Wind und Sonne: Kohle in die Tonne!</li>
+  <li>Wir sind laut. Wir sind viele. Haltet euch an Klimaziele!</li>
+  <li>Lass die Kohle in dem Boden, niemand soll die Wälder roden!</li>
+</ul>
+
+<b> Gegen Rassismus und Faschismus: </b>
+<ul>
+  <li>No border, no nation, stop deportation!</li>
+  <li>Um Europa keine Mauern, Bleiberecht für alle und auf Dauer!</li>
+  <li>Kein Mensch ist illegal, Bleiberecht überall!</li>
+  <li>Grenzen von der Karte streichen, Staaten müssen Menschen weichen!</li>
+  <li>Gebt den Nazis die Straße zurück, Stein für Stein, Stück für Stück!</li>
+  <li>Siamo tutti antifascisti!</li>
+  <li>Ob Ost, ob West, nieder mit der Nazipest!</li>
+  <li>Für die Freiheit, für das Leben, Nazis von der Straße fegen!</li>
+  <li>Hinter dem Faschismus steckt das Kapital, der Kampf um Befreiung ist international!</li>
+  <li>Alerta, Alerta, Antifascista!</li>
+  <li>Ob friedlich oder militant, wichtig ist der Widerstand!</li>
 </ul>
   
   <p> </p>
@@ -111,6 +133,11 @@ Ein PDF zum <a href="https://fridaysforfuture-landau.de/assets/Demos/GK%2003.03.
 <p>Power to the people – <b style="color: darkgreen;">POWER TO THE PEOPLE</b> – people get the power – <b style="color: darkgreen;">PEOPLE GET THE POWER</b> – tell me can you feel it – <b style="color: darkgreen;">TELL ME CAN YOU FEEL IT</b> – getting stronger by the hour – <b style="color: darkgreen;">GETTING STRONGER BY THE HOUR</b> – power – <b style="color: darkgreen;">POWER</b></p>
 
 <p>Wat wollen wa? - <b style="color: darkgreen;">Klimagerechtigkeit!</b> - Und wann wollen wir die? - <b style="color: darkgreen;">Jetzt und zwar zack zack!</b></p>
+
+<p>When the air we breathe is under attack, what do we do? <b style="color: darkgreen;">STAND UP, FIGHT BACK!</b><br>
+When the water we drink is under attack, what do we do? <b style="color: darkgreen;">STAND UP, FIGHT BACK!</b><br>
+When the earth we need is under attack, what do we do? <b style="color: darkgreen;">STAND UP, FIGHT BACK!</b><br>
+What do we do? <b style="color: darkgreen;">STAND UP, FIGHT BACK!</b> What do we do? <b style="color: darkgreen;">STAND UP, FIGHT BACK!</b> What do we do? <b style="color: darkgreen;">STAND UP, FIGHT BACK!</b></p>
 
 <p>Whose streets?! <b style="color: darkgreen;">OUR STREETS!</b></p>
 
@@ -132,6 +159,28 @@ Ein PDF zum <a href="https://fridaysforfuture-landau.de/assets/Demos/GK%2003.03.
 
   <p> </p>
   
+<h2> Reime zum Vorrufen: </h2>
+<p class="fff-reim">Kinder, habt ihr schon gehört,<br>
+eure Zukunft wird zerstört,<br>
+seid mutig und setzt euch ein,<br>
+denn dafür seid ihr nie zu klein,<br>
+ruft, dass die Politik euch hört,<br>
+weil die Zukunft euch gehört!</p>
+
+<p class="fff-reim">Leute, habt ihr schon gehört,<br>
+eure Zukunft wird zerstört,<br>
+Wälder stehen schon in Brand,<br>
+Wasser flutet Stadt und Land,<br>
+ruft, dass die Politik euch hört,<br>
+weil die Zukunft euch gehört!<br>
+<span style="color: gray;">oder als Schluss:</span><br>
+deshalb fordern wir vom Staat:<br>
+mehr Platz für Fahrrad,<br>
+mehr Geld für Züge<br>
+und keine Inlandsflüge!</p>
+
+  <p> </p>
+
 <h2> Lieder: </h2>
 <p> Wehrt euch, leistet Widerstand gegen die Braunkohle hier im Land! Alle auf die Straßen, alle auf die Straßen! <span style="color: gray;">(Melodie: Hejo, Spann den Wagen an)</span> </p>
 
@@ -141,12 +190,25 @@ Ein PDF zum <a href="https://fridaysforfuture-landau.de/assets/Demos/GK%2003.03.
 
 <p> Yesterday, climate troubles seemed so far away, but today, we have to act and say: coal mining has to fade away, Yesterday we did still believe and pray, that your deals would work and lead the way, but now the years have passed away <span style="color: gray;">(Melodie: Yesterday-Beatles)</span> </p>
   
-  <p> </p> 
-  
+  <p> </p>
+
+</div>
+
 <a name="Demoschilder"> </a>
 <h2> Demoschilder: </h2>
   {% include gallery layout="third" %}
   
   <p> </p>
   <p> </p>
-  
+
+<script>
+  /* Knopf "Drucken Sprüche": druckt nur den Bereich mit den Sprüchen.
+     Im Druckfenster "Als PDF speichern" wählen, dann entsteht ein PDF. */
+  function fffSpruecheDrucken() {
+    document.body.classList.add('fff-druck-sprueche');
+    window.print();
+  }
+  window.addEventListener('afterprint', function () {
+    document.body.classList.remove('fff-druck-sprueche');
+  });
+</script>
