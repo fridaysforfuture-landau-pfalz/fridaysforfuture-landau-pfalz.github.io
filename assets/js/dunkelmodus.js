@@ -5,6 +5,15 @@
   var knopf = document.querySelector('.fff-modus-knopf');
   if (!knopf) return;
 
+  // Der Knopf trägt die Klasse search__toggle (damit das Theme Platz für ihn lässt).
+  // Die Suche des Themes hängt sich daran (sobald die Seite bereit ist);
+  // direkt danach entfernen wir diesen Klick-Handler wieder.
+  if (window.jQuery) {
+    window.jQuery(function () {
+      window.jQuery(knopf).off('click');
+    });
+  }
+
   function istDunkel() {
     return html.getAttribute('data-modus') === 'dunkel';
   }
