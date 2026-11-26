@@ -652,3 +652,130 @@ $link-color-visited: $fff-gruen;
 .fff-strophen li {
   margin-bottom: 0.3em;
 }
+
+/* ==========================================================================
+   Kopfzeile (Reiter oben): dunkelgrün, Schrift weiß, auf allen Seiten
+   ========================================================================== */
+
+.masthead {
+  background-color: $fff-gruen;
+  border-bottom: none;
+}
+
+.greedy-nav {
+  background-color: $fff-gruen;
+
+  a,
+  .site-title {
+    color: #fff;
+
+    &:hover,
+    &:focus {
+      color: #fff;
+    }
+  }
+
+  /* Weißer Strich unter dem Reiter, über dem die Maus ist */
+  .visible-links a::before {
+    background-color: #fff;
+  }
+
+  /* Menü-Knopf (drei Striche) weiß statt rot */
+  .greedy-nav__toggle {
+    .navicon,
+    .navicon::before,
+    .navicon::after {
+      background-color: #fff;
+    }
+
+    &:hover .navicon,
+    &:hover .navicon::before,
+    &:hover .navicon::after {
+      background-color: rgba(255, 255, 255, 0.8);
+    }
+
+    &.close .navicon,
+    &.close:hover .navicon {
+      background-color: transparent;
+    }
+  }
+
+  /* Rahmen beim Anklicken/Tabben weiß statt rot */
+  a:focus,
+  button:focus {
+    outline-color: #fff;
+  }
+
+  /* Ausgeklapptes Menü (wenn nicht alle Reiter in die Zeile passen) */
+  .hidden-links {
+    background-color: $fff-gruen;
+    border-color: $fff-gruen-dunkel;
+
+    &::before {
+      border-color: $fff-gruen-dunkel transparent;
+    }
+
+    &::after {
+      border-color: $fff-gruen transparent;
+    }
+
+    a {
+      color: #fff;
+
+      &:hover,
+      &:focus {
+        color: #fff;
+        background-color: $fff-gruen-dunkel;
+      }
+    }
+
+    li {
+      border-bottom-color: rgba(255, 255, 255, 0.25);
+    }
+  }
+}
+
+/* ==========================================================================
+   Fußzeile: dunkelgrün, Schrift weiß, unser Logo unten rechts
+   ========================================================================== */
+
+.page__footer {
+  background-color: $fff-gruen;
+  color: #fff;
+
+  a,
+  a:hover,
+  a:focus,
+  .page__footer-follow .social-icons i,
+  .page__footer-follow .social-icons .svg-inline--fa {
+    color: #fff;
+  }
+
+  footer {
+    position: relative;
+    min-height: 110px;
+    padding-right: 90px;
+
+    @include breakpoint($medium) {
+      padding-right: 130px;
+    }
+  }
+}
+
+.fff-footer-logo {
+  position: absolute;
+  right: 1em;
+  bottom: 1.5em;
+  width: 64px;
+  border: none;
+
+  @include breakpoint($medium) {
+    width: 96px;
+  }
+
+  img {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+}
