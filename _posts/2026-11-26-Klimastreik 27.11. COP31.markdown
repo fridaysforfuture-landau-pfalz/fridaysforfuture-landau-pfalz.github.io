@@ -39,4 +39,4 @@ Wir sind gerade eine kleine Gruppe, und jede Person, die dazukommt, macht einen 
 
 Komm vorbei und bring Freund*innen mit! 💚
 
-<a class="fff-btn" href="/mitmachen">Mitmachen</a>
+<a class="fff-btn fff-btn--klein" href="/mitmachen">Mitmachen</a>

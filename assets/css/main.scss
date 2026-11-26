@@ -67,6 +67,12 @@ $link-color-visited: $fff-gruen;
   }
 }
 
+/* Kleinerer Knopf, z. B. im Text eines Beitrags: class="fff-btn fff-btn--klein" */
+.fff-btn.fff-btn--klein {
+  padding: 0.4em 0.9em;
+  font-size: 1em;
+}
+
 /* Ein einzelner Knopf über die ganze Breite */
 .fff-btn--breit {
   display: block;
@@ -247,6 +253,11 @@ $link-color-visited: $fff-gruen;
     border-radius: 12px;
     font-size: 1em;
   }
+}
+
+/* Ausgefilterte Beiträge wirklich ausblenden (das Theme setzt sonst article { display: block }) */
+.fff-news[hidden] {
+  display: none !important;
 }
 
 /* ==========================================================================
