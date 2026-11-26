@@ -796,21 +796,31 @@ $link-color-visited: $fff-gruen;
    data-modus="dunkel" am <html> eingeschaltet.
    ========================================================================== */
 
-.fff-modus-knopf {
+/* Der Knopf trägt zusätzlich die Klasse search__toggle: Nur so rechnet das Theme
+   seine Breite ein, wenn es entscheidet, welche Reiter ins Burger-Menü wandern.
+   Daher hier mit .greedy-nav davor, damit unsere Werte gewinnen. */
+.greedy-nav .fff-modus-knopf {
   display: flex;
   align-items: center;
   justify-content: center;
   flex: 0 0 auto;
+  box-sizing: border-box;
   width: 2.2rem;
   height: 2.2rem;
-  margin: 0 0 0 0.5rem;
+  margin: 0 0.5rem 0 0.75rem;
   padding: 0;
-  border: 0;
+  outline: revert;
+  border: 2px solid #fff;
   border-radius: 50%;
   background: transparent;
   color: #fff;
   cursor: pointer;
   transition: background-color 0.2s ease;
+
+  svg {
+    width: 1.1rem;
+    height: 1.1rem;
+  }
 
   &:hover,
   &:focus {
@@ -820,10 +830,6 @@ $link-color-visited: $fff-gruen;
   .fff-modus-sonne { display: none; }
 }
 
-/* Das ausgeklappte Menü sitzt unter dem Burger-Knopf, nicht unter dem Mond */
-.greedy-nav .hidden-links {
-  right: 2.7rem;
-}
 
 html[data-modus="dunkel"] {
   color-scheme: dark;
