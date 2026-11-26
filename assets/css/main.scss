@@ -10,6 +10,15 @@
 $fff-gruen: #1b7340;
 $fff-gruen-dunkel: #145530;
 
+/* Farben für den Dunkelmodus */
+$dunkel-hintergrund: #121815;
+$dunkel-flaeche: #1c2520;
+$dunkel-text: #e3eae5;
+$dunkel-text-leise: #a9b5ad;
+$dunkel-linie: #36443c;
+$dunkel-link: #7fd6a1;
+$dunkel-link-hover: #a8e6bf;
+
 /* Links: dunkelgrün statt Blau (gilt für die ganze Seite) */
 $link-color: $fff-gruen;
 $link-color-hover: $fff-gruen-dunkel;
@@ -777,5 +786,250 @@ $link-color-visited: $fff-gruen;
     display: block;
     width: 100%;
     height: auto;
+  }
+}
+
+/* ==========================================================================
+   Dunkelmodus
+   Knopf oben rechts in der grünen Leiste (_includes/masthead.html),
+   Skript: assets/js/dunkelmodus.js. Standard ist hell; dunkel wird mit
+   data-modus="dunkel" am <html> eingeschaltet.
+   ========================================================================== */
+
+.fff-modus-knopf {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex: 0 0 auto;
+  width: 2.2rem;
+  height: 2.2rem;
+  margin: 0 0 0 0.5rem;
+  padding: 0;
+  border: 0;
+  border-radius: 50%;
+  background: transparent;
+  color: #fff;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+
+  &:hover,
+  &:focus {
+    background-color: rgba(255, 255, 255, 0.15);
+  }
+
+  .fff-modus-sonne { display: none; }
+}
+
+/* Das ausgeklappte Menü sitzt unter dem Burger-Knopf, nicht unter dem Mond */
+.greedy-nav .hidden-links {
+  right: 2.7rem;
+}
+
+html[data-modus="dunkel"] {
+  color-scheme: dark;
+  background-color: $dunkel-hintergrund;
+
+  .fff-modus-knopf {
+    .fff-modus-mond { display: none; }
+    .fff-modus-sonne { display: block; }
+  }
+
+  body {
+    background-color: $dunkel-hintergrund;
+    color: $dunkel-text;
+  }
+
+  h1, h2, h3, h4, h5, h6,
+  label,
+  legend,
+  figcaption,
+  .help-block,
+  .page__meta,
+  .page__title,
+  .archive__subtitle,
+  .archive__item-title,
+  .taxonomy__title,
+  .taxonomy__count,
+  .back-to-top,
+  .toc__menu a,
+  .nav__sub-title,
+  .author__name,
+  .author__bio {
+    color: $dunkel-text;
+  }
+
+  .page__meta,
+  .archive__item-excerpt {
+    color: $dunkel-text-leise;
+  }
+
+  a {
+    color: $dunkel-link;
+
+    &:hover { color: $dunkel-link-hover; }
+  }
+
+  /* Grüne Leiste und Fußzeile bleiben weiß beschriftet */
+  .greedy-nav a,
+  .greedy-nav a:hover,
+  .page__footer a,
+  .page__footer a:hover {
+    color: #fff;
+  }
+
+  /* Überschriften mit Link (z. B. News) in Textfarbe */
+  h1 a, h2 a, h3 a, .archive__item-title a {
+    color: $dunkel-text;
+  }
+
+  /* Fest eingetragene Farben in einzelnen Seiten */
+  [style*="color: black"],
+  [style*="color:black"] {
+    color: $dunkel-text !important;
+  }
+
+  [style*="darkgreen"] {
+    color: $dunkel-link !important;
+  }
+
+  hr,
+  .page__content h2,
+  .page__share,
+  .page__related,
+  .archive__subtitle,
+  .fff-abschnitt-kopf,
+  .greedy-nav .hidden-links li,
+  .toc__menu a,
+  .taxonomy__section:not(:last-child),
+  .pagination li a,
+  .page__content + .pagination {
+    border-color: $dunkel-linie;
+  }
+
+  blockquote {
+    border-left-color: $fff-gruen;
+  }
+
+  code,
+  p > code, a > code, li > code, td > code,
+  thead,
+  .toc,
+  .notice, .notice--info, .notice--primary, .notice--success, .notice--warning, .notice--danger {
+    background-color: $dunkel-flaeche;
+    color: $dunkel-text;
+  }
+
+  table, th, td {
+    border-color: $dunkel-linie;
+  }
+
+  /* Eingabefelder */
+  input,
+  textarea,
+  select {
+    background-color: $dunkel-flaeche;
+    color: $dunkel-text;
+    border-color: $dunkel-linie;
+  }
+
+  /* Hintergrund beim offenen Menü */
+  .greedy-nav__toggle::before {
+    background-color: $dunkel-hintergrund;
+  }
+
+  /* Seitenleiste */
+  .nav__list .nav__items a { color: $dunkel-text; }
+  .nav__list .nav__items a:hover { color: $dunkel-link; }
+
+  .btn--inverse,
+  .author__urls {
+    background-color: $dunkel-flaeche;
+    color: $dunkel-text;
+    border-color: $dunkel-linie;
+  }
+
+  .author__urls::after {
+    border-color: $dunkel-flaeche transparent;
+  }
+
+  .pagination li a {
+    color: $dunkel-text;
+  }
+
+  .pagination li a.current {
+    background-color: $fff-gruen;
+    color: #fff;
+  }
+
+  /* Unsere Bausteine */
+  .fff-btn,
+  .page__content .fff-btn {
+    color: #fff !important;
+  }
+
+  .fff-btn--hell,
+  .page__content .fff-btn--hell {
+    background-color: transparent;
+    color: $dunkel-link !important;
+    border-color: $dunkel-link;
+
+    &:hover,
+    &:focus {
+      background-color: $dunkel-flaeche;
+      color: $dunkel-link-hover !important;
+    }
+  }
+
+  .fff-einwilligung {
+    background: $dunkel-flaeche;
+    color: $dunkel-text;
+    box-shadow: 0 6px 24px rgba(0, 0, 0, 0.6);
+  }
+
+  .fff-formular {
+    input[type="text"],
+    input[type="email"],
+    textarea {
+      border-color: $dunkel-linie;
+    }
+  }
+
+  .fff-jahresfilter select {
+    border-color: $dunkel-link;
+  }
+
+  .fff-video .fff-video__laden {
+    color: #fff;
+
+    a { color: #fff; }
+  }
+
+  .fff-kalender {
+    .fff-kal-raster,
+    .fff-kal-wt,
+    .fff-kal-tag {
+      border-color: $dunkel-linie;
+    }
+
+    .fff-kal-tag.fff-kal-fremd {
+      background: $dunkel-flaeche;
+      color: #6f7b73;
+    }
+
+    .fff-kal-leer {
+      background: $dunkel-flaeche;
+    }
+  }
+
+  .fff-reim {
+    border-left-color: $dunkel-link;
+  }
+}
+
+/* Drucken immer hell */
+@media print {
+  html[data-modus="dunkel"] body {
+    background: #fff;
+    color: #000;
   }
 }

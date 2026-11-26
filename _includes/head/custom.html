@@ -1,0 +1,13 @@
+<!-- start custom head snippets -->
+
+<!-- Dunkelmodus: gespeicherte Wahl sofort setzen, damit die Seite nicht hell aufblitzt.
+     Standard ist hell. Der Knopf oben rechts schaltet um (assets/js/dunkelmodus.js). -->
+<script>
+  try {
+    if (localStorage.getItem('fff-modus') === 'dunkel') {
+      document.documentElement.setAttribute('data-modus', 'dunkel');
+    }
+  } catch (e) {}
+</script>
+
+<!-- end custom head snippets -->
